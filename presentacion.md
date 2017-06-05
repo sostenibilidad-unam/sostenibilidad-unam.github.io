@@ -2,7 +2,7 @@
 layout: page
 title: Presentación
 subtitle: Qué son las Ciencias de la Sostenibilidad
-bigimg: "img/F_edificio_lancis.jpg"
+bigimg: "img/path.jpg"
 permalink: /presentacion/
 ---
 
