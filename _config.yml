@@ -31,7 +31,7 @@ navbar-links:
     - Cluster: "cluster"
   Posgrado: "posgrado"
   Proyectos:
-    - Megadapt: ""
+    - Megadapt: "megadapt"
     - Cananea: ""
     - Otros: ""
   Contacto: "contacto"
