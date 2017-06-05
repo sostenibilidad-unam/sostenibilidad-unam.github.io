@@ -25,10 +25,10 @@ description: Página del LANCIS
 navbar-links:
   Presentación: "presentacion"
   Acerca del Lancis:
-    - Semblanza: "01_semblanza"
-    - Académicos: "02_academicos"
-    - Anfiteatro: "03_anfiteatro"
-    - Cluster: "04_cluster"
+    - Semblanza: "semblanza"
+    - Académicos: "academicos"
+    - Anfiteatro: "anfiteatro"
+    - Cluster: "cluster"
   Posgrado: "posgrado"
   Proyectos:
     - Megadapt: ""
