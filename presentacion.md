@@ -1,16 +1,43 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Presentación
+subtitle: Qué son las Ciencias de la Sostenibilidad
+bigimg: "img/F_edificio_lancis.jpg"
+permalink: /presentacion/
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<h2>¿Qué son las ciencias de la sostenibilidad?</h2>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Disciplina emergente de investigación que estudia las
+interacciones entre los sistemas naturales y sociales, así como
+la manera en que dichas interacciones afectan la satisfacción de
+las necesidades de las generaciones presentes y futuras en un
+contexto de equidad y justicia social, conservando los sistemas
+de generación y mantenimiento de la vida en la Tierra.
 
-What else do you need?
+Las Ciencias de la Sostenibilidad constituyen un enfoque
+transdisciplinario en el que lo cuantitativo y lo cualitativo,
+lo natural y lo social, la teoría y la práctica se combinan.
 
-### my history
+Estas ciencias retoman nociones y métodos de los sistemas
+complejos, con investigación motivada y guiada por la solución
+de problemas socioambientales, valorando e integrando el
+conocimiento generado y provisto por diferentes actores
+involucrados en un sistema socioambiental (Kates et al. 2001; De
+Vries, 2013; González-Casanova, 2005).
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
+<h2>¿Qué es LANCIS?</h2>
+
+El Laboratorio Nacional de Ciencias de la Sostenibilidad
+(LANCIS) se funda con el apoyo del Programa de creación de
+Laboratorios Nacionales de Infraestructura Científica o
+Desarrollo Tecnológico (LAB-2009-01) del Consejo Nacional de
+Ciencia y Tecnología (CONACyT).
+
+Desde su concepción en el marco de esta convocatoria, el LANCIS
+se establece como un consorcio en el que además del Instituto de
+Ecología (IE-UNAM), el Instituto de Ingeniería (II-UNAM), y el PUMA
+(UNAM), participan la SEMARNAT, el INECC y la CONANP.
+<a href="/01_semblanza/">Ver Mas</a>
