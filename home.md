@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Presentación
-subtitle: Qué son las Ciencias de la Sostenibilidad
-bigimg: "img/path.jpg"
-permalink: /presentacion/
+title:
+bigimg: "assets/F_edificio_lamcis.jpg"
+permalink: /home/
 ---
 
 ## ¿Qué son las ciencias de la sostenibilidad?
