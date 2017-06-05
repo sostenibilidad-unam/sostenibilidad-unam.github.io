@@ -19,7 +19,7 @@ Medio Ambiente y Recursos Naturales (SEMARNAT) y sus órganos
 desconcentrados, el Instituto Nacional de Ecología y Cambio Climático
 (INECC) y la Comisión Nacional de Áreas Naturales Protegidas (CONANP).
 
-<img src="/assets/lancis_frontera.png">
+<img src="/img/consorcio.png">
 <figcaption>Figura 1. Consorcio LANCIS</figcaption>
 
 
@@ -103,7 +103,7 @@ Sostenibilidad), como no formal.
 El LANCIS se constituye como un nodo de integración y síntesis para, a
 través del Consorcio, articular investigación científica útil para la
 toma de decisiones que impulse el tránsito hacia la sostenibilidad en
-el país.  
+el país.
 
 
 ### Con el CONACyT
@@ -114,7 +114,7 @@ Ciencias de la Sostenibilidad y ofrecer servicios de segundo nivel en
 conformidad con el reglamento del LANCIS. Los servicios de segundo
 nivel se conciben como la generación y certificación de estándares
 técnicos y científicos sobre los instrumentos de la política de
-desarrollo sostenible que enmarca la legislación mexicana.  
+desarrollo sostenible que enmarca la legislación mexicana.
 
 
 ## Creación y Fortalecimiento de Capacidades
