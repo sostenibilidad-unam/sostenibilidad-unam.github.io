@@ -20,7 +20,7 @@ desconcentrados, el Instituto Nacional de Ecología y Cambio Climático
 (INECC) y la Comisión Nacional de Áreas Naturales Protegidas (CONANP).
 
 <img src="/assets/consorcio.png">
-<figcaption>Figura 1. Consorcio LANCIS</figcaption>
+<figcaption>**Figura 1. Consorcio LANCIS**</figcaption>
 
 
 El LANCIS constituye una respuesta a la creciente y genuina
