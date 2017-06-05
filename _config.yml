@@ -30,6 +30,10 @@ navbar-links:
     - Anfiteatro: "03_anfiteatro"
     - Cluster: "04_cluster"
   Posgrado: "posgrado"
+  Proyectos:
+    - Megadapt: ""
+    - Cananea: ""
+    - Otros: ""
   Contacto: "contacto"
   # Author's home: "http://deanattali.com"
 
