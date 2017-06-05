@@ -6,7 +6,7 @@ bigimg: "img/F_edificio_lancis.jpg"
 permalink: /presentacion/
 ---
 
-<h2>¿Qué son las ciencias de la sostenibilidad?</h2>
+## ¿Qué son las ciencias de la sostenibilidad?
 
 Disciplina emergente de investigación que estudia las
 interacciones entre los sistemas naturales y sociales, así como
@@ -28,7 +28,7 @@ Vries, 2013; González-Casanova, 2005).
 
 
 
-<h2>¿Qué es LANCIS?</h2>
+## ¿Qué es LANCIS?
 
 El Laboratorio Nacional de Ciencias de la Sostenibilidad
 (LANCIS) se funda con el apoyo del Programa de creación de
