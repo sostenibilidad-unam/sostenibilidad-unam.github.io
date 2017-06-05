@@ -5,11 +5,7 @@ permalink: /contacto/
 ---
 
 
-Apartado Postal 70-275
-Ciudad Universitaria
-Circuito exterior s/n anexo al Jardín Botánico Exterior
-UNAM 04510
-Ciudad de México
+Apartado Postal 70-275. Ciudad Universitaria. Circuito exterior s/n anexo al Jardín Botánico Exterior. UNAM 04510. Ciudad de México.
 
 
 
