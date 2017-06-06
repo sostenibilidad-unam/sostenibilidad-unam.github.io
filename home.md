@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-bigimg: "assets/F_edificio_lamcis.jpg"
+bigimg: "assets/F_edificio_lancis.jpg"
 permalink: /home/
 ---
 

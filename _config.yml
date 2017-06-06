@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Web Lancis
+title: Lancis
 
 # Short description of your site
 description: Página del LANCIS
@@ -23,7 +23,7 @@ description: Página del LANCIS
 
 # List of links in the navigation bar
 navbar-links:
-  Presentación: "presentacion"
+  Home: "home"
   Acerca del Lancis:
     - Semblanza: "semblanza"
     - Académicos: "academicos"
@@ -43,7 +43,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /img/logo.png
+title-img: /img/_solo.png
 
 # --- Footer options --- #
 
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "lancis.ecologia.unam.mx"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
