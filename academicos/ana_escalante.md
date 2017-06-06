@@ -8,11 +8,8 @@ exclude: true
 <img src="https://raw.githubusercontent.com/sostenibilidad-unam/sostenibilidad-unam.github.io/master/assets/paisajes-bonitos-de-oton%CC%83o-lago.jpeg">
 
 - Investigadoraa Titular A
-
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
-
-- Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM) 
-
+- Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 - Email: aescalante@iecologia.unam.mx
 
 
