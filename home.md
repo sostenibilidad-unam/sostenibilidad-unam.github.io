@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Presentación"
 bigimg: "assets/F_edificio_lancis.jpg"
 permalink: /home/
 ---
