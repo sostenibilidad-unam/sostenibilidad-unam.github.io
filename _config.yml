@@ -34,7 +34,7 @@ navbar-links:
     - Megadapt: "megadapt"
     - Cananea: ""
     - Otros: ""
-  Noticias: /_posts
+  Noticias: posts
   Contacto: "contacto"
   # Author's home: "http://deanattali.com"
 
