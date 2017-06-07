@@ -19,17 +19,17 @@ p a {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 600; /* -- ANTES: 800 -- */
 }
 a {
-  color: #008AFF;
+  color: #008AFF; /* -- AZUL LINKS -- */
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #0085a1; /* -- AZUL TURQUESA HOVER -- */
 }
 blockquote {
-  color: #808080;
+  color: #808080; /* -- NO SE QUE ES -- */
   font-style: italic;
 }
 blockquote p:first-child {
