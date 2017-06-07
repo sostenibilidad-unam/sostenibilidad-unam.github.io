@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Semblanza
+title: "Semblanza"
 bigimg: /assets/F_edificio_lancis.jpg
 permalink: /semblanza/
 ---
