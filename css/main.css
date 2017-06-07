@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 18px;
+  font-size: 18px; /* -- TAMAÑO CUERPO -- */
   color: #404040;
   position: relative;
   background: #FFF;
@@ -19,7 +19,7 @@ p a {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 600; /* -- ANTES: 800 -- */
+  font-weight: 800; /* -- PESO 800: BOLD -- */
 }
 a {
   color: #008AFF; /* -- AZUL LINKS -- */
@@ -104,7 +104,7 @@ img {
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 12px; /* -- TAMAÑO_NAV_LINKS_TXT -- */
   letter-spacing: 1px;
 }
 
@@ -459,7 +459,7 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 50px; /* -- REVISAR -- */
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
@@ -512,10 +512,10 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 60px; /* -- HEADER SIZE (80) -- */
   }
   .intro-header .post-heading h1 {
-    font-size: 50px;
+    font-size: 30px; /* -- POST HEADING SIZE (50) -- */
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;
