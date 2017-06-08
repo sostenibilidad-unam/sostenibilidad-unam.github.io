@@ -23,7 +23,6 @@ description: Página del LANCIS
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "home"
   Acerca del Lancis:
     - Semblanza: "semblanza"
     - Académicos: "academicos"
@@ -34,7 +33,7 @@ navbar-links:
     - Megadapt: "megadapt"
     - Cananea: ""
     - Otros: ""
-  Noticias: posts
+  Noticias: "noticias"
   Contacto: "contacto"
   # Author's home: "http://deanattali.com"
 

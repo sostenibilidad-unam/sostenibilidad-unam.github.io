@@ -1,72 +1,14 @@
 ---
 layout: page
-title: LANCIS
-subtitle: Página inicial
+title: Presentación
 use-site-title: true
 ---
 
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+<h2 id="qué-son-las-ciencias-de-la-sostenibilidad">¿Qué son las ciencias de la sostenibilidad?</h2>
+<p>Disciplina emergente de investigación que estudia las interacciones entre los sistemas naturales y sociales, así como la manera en que dichas interacciones afectan la satisfacción de las necesidades de las generaciones presentes y futuras en un contexto de equidad y justicia social, conservando los sistemas de generación y mantenimiento de la vida en la Tierra.</p>
+<p>Las Ciencias de la Sostenibilidad constituyen un enfoque transdisciplinario en el que lo cuantitativo y lo cualitativo, lo natural y lo social, la teoría y la práctica se combinan.</p>
+<p>Estas ciencias retoman nociones y métodos de los sistemas complejos, con investigación motivada y guiada por la solución de problemas socioambientales, valorando e integrando el conocimiento generado y provisto por diferentes actores involucrados en un sistema socioambiental (Kates et al. 2001; De Vries, 2013; González-Casanova, 2005).</p>
 
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <img src="{{ post.image }}">
-        </a>
-      </div>
-      {% endif %}
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-      </div>
-    </div>
-
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
-    </div>
-    {% endif %}
-
-   </article>
-  {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+<h2 id="qué-es-lancis">¿Qué es LANCIS?</h2>
+<p>El Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS) se funda con el apoyo del Programa de creación de Laboratorios Nacionales de Infraestructura Científica o Desarrollo Tecnológico (LAB-2009-01) del Consejo Nacional de Ciencia y Tecnología (CONACyT).</p>
+<p>Desde su concepción en el marco de esta convocatoria, el LANCIS se establece como un consorcio en el que además del Instituto de Ecología (IE-UNAM), el Instituto de Ingeniería (II-UNAM), y el PUMA (UNAM), participan la SEMARNAT, el INECC y la CONANP. <a href="/semblanza/">Ver Mas</a></p>
