@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentación
-bigimg: /assets/F_edificio_lancis.jpg
+bigimg: /assets/F_edificio_lancis_BANNER.jpg
 permalink: /home/
 ---
 
