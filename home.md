@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentación
-bigimg: /assets/F_edificio_lancis_BANNER.jpg
+bigimg: /assets/I_Logo_pleca_BANNER.png
 permalink: /home/
 ---
 
