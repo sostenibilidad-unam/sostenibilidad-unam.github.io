@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Presentación
+title:
 bigimg: /assets/I_Logo_pleca_BANNER.png
 permalink: /home/
 ---
