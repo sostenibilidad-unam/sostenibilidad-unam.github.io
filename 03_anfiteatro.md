@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anfiteatro
-bigimg: /assets/anfiteatro/7.jpg
+bigimg: /assets/anfiteatro/7.jpeg
 permalink: /anfiteatro/
 ---
 
