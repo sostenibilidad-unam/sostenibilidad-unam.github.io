@@ -36,7 +36,6 @@ En planta alta, tiene una capacidad para 30 personas. El tipo de eventos que se 
 - Presentaciones de productos de proyectos en Ciencias de la Sostenibilidad
 
 <img src="/assets/anfiteatro/8.jpeg"/>
-<img src="/assets/anfiteatro/9.jpeg"/>
 <img src="/assets/anfiteatro/10.jpeg"/>
 <img src="/assets/anfiteatro/4.jpeg"/>
 <img src="/assets/anfiteatro/5.jpeg"/>
