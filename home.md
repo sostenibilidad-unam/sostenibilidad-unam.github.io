@@ -1,9 +1,10 @@
 ---
 layout: page
 title: " "
-bigimg: /assets/I_Logo_pleca_BANNER.png
 permalink: /home/
 ---
+
+![logo](/assets/I_Logo_pleca_BANNER.png)
 
 ## ¿Qué son las ciencias de la sostenibilidad?
 

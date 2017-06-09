@@ -40,7 +40,6 @@ En planta alta, tiene una capacidad para 30 personas. El tipo de eventos que se 
 <img src="/assets/anfiteatro/10.jpeg"/>
 <img src="/assets/anfiteatro/4.jpeg"/>
 <img src="/assets/anfiteatro/5.jpeg"/>
-<img src="/assets/anfiteatro/7.jpeg"/>
 <img src="/assets/anfiteatro/1.jpeg"/>
 <img src="/assets/anfiteatro/2.jpeg"/>
 <img src="/assets/anfiteatro/3.jpeg"/>
