@@ -11,13 +11,16 @@ use-site-title: true
     <h4>
 <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
     </h4>
+    {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+    {% assign excerpt_word_count = post.excerpt | number_of_words %}
+    {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
 </li>
 {% endfor %}
 </ul>
 
 
 <div class="posts-list">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
