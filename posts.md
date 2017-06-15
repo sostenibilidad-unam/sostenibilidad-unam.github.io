@@ -4,20 +4,6 @@ title: Noticias
 use-site-title: true
 ---
 
-<ul class="post-list">
-{% for post in site.posts %}
-<li>
-    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-    <h4>
-<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-    </h4>
-    {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-    {% assign excerpt_word_count = post.excerpt | number_of_words %}
-    {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-</li>
-{% endfor %}
-</ul>
-
 
 <div class="posts-list">
   {% for post in site.posts %}
