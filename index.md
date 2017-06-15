@@ -1,7 +1,5 @@
 ---
 layout: page
-title: LANCIS
-subtitle: Página inicial
 use-site-title: true
 ---
 
