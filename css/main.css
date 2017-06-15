@@ -111,7 +111,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #034ea2; <!-- color nombre logo (era 404040) -->
+  color: #034ea1; <!-- color nombre logo (era 404040) -->
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -266,7 +266,7 @@ footer {
 }
 
 footer a {
-  color: #404040;
+  color: #034ea1;
 }
 
 footer .list-inline {
