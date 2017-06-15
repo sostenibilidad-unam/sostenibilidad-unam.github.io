@@ -26,7 +26,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085a1; /* -- AZUL TURQUESA HOVER -- */
+  color: #44c7f4; /* -- AZUL TURQUESA HOVER -- */
 }
 blockquote {
   color: #808080; /* -- ¿color de citas? -- */
@@ -64,12 +64,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #44c7f4;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #44c7f4;
 }
 img::selection {
   color: white;
@@ -118,7 +118,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #44c7f4;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -320,7 +320,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #44c7f4;
 }
 
 .post-preview .post-title {
@@ -587,8 +587,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  background: #44c7f4;
+  border: 1px solid #44c7f4;
 }
 
 .pager {
