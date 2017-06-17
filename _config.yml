@@ -35,8 +35,7 @@ navbar-links:
     - Otros: ""
   Noticias: posts
   Contacto: "contacto"
-  # lo siguiente tomado del sitio del autor del tema
-nav-search: "search"
+# nav-search: "search" # tomado del sitio del autor del tema
   # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
