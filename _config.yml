@@ -24,16 +24,17 @@ description: Página del LANCIS
 # List of links in the navigation bar
 navbar-links:
   Acerca del Lancis:
+    - Presentación: "index"
     - Semblanza: "semblanza"
     - Académicos: "academicos"
     - Anfiteatro: "anfiteatro"
     - Cluster: "cluster"
+  Noticias: posts
   Posgrado: "posgrado"
   Proyectos:
     - Megadapt: "megadapt"
     - Cananea: ""
     - Otros: ""
-  Noticias: posts
   Contacto: "contacto"
 # nav-search: "search" # tomado del sitio del autor del tema
   # Author's home: "http://deanattali.com"

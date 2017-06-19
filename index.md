@@ -3,7 +3,6 @@ layout: page
 use-site-title: true
 ---
 
-
 ![logo](/assets/I_Logo_pleca_BANNER.png)
 
 ## ¿Qué son las ciencias de la sostenibilidad?
