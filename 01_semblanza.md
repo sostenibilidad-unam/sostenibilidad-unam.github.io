@@ -134,6 +134,6 @@ un programa de doctorado orientado a formar investigadores en Ciencias
 de la Sostenibilidad.
 
 En el ámbito de la educación no formal, el LANCIS trabaja en el
-desarrollo de cursos y talleres ad hoc que permitan transmitir
+desarrollo de cursos y talleres _ad hoc_ que permitan transmitir
 conceptos, técnicas y herramientas de las Ciencias de la
 Sostenibilidad a sectores específicos mediante programas breves.

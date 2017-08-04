@@ -34,8 +34,9 @@ navbar-links:
   Proyectos:
     - Megadapt: "megadapt"
     - Cananea: ""
-    - Planeación colaborativa:
-      - uno: "uno"
+    - Otros: "otros"
+  Unidades:
+    - Planeación colaborativa: "Planeación colaborativa"
   Contacto: "contacto"
 nav-search: "search" # tomado del sitio del autor del tema
   # Author's home: "http://deanattali.com"
