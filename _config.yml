@@ -31,10 +31,11 @@ navbar-links:
     - Cluster: "cluster"
   Noticias: posts
   Posgrado: "posgrado"
-  Planeación colaborativa:
+  Proyectos:
     - Megadapt: "megadapt"
     - Cananea: ""
-    - Otros: ""
+    - Planeación colaborativa:
+      - Transdicsiplina: "transdisciplina"
   Contacto: "contacto"
 nav-search: "search" # tomado del sitio del autor del tema
   # Author's home: "http://deanattali.com"
