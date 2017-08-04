@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Search LANCIS.com"
+title: "Search LANCIS"
 css: "/css/search.css"
 ---
 
