@@ -4,7 +4,7 @@ title: "Search LANCIS"
 css: "/css/search.css"
 ---
 
-# Buscar en el sitio
+# Buscar en el sitio de LANCIS
 
 <div id="google-custom-search">
 <script>
