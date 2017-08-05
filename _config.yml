@@ -36,7 +36,7 @@ navbar-links:
     - Cananea: ""
     - Otros: "otros"
   Unidades:
-    - Planeación colaborativa: "Planeación colaborativa"
+    - Planeación colaborativa: "Planeacion_colaborativa"
   Contacto: "contacto"
 nav-search: "search" # tomado del sitio del autor del tema
   # Author's home: "http://deanattali.com"
