@@ -9,6 +9,23 @@ css: "/css/search.css"
 <div id="google-custom-search">
 <script>
   (function() {
+    var cx = '001937865904587417500:lsxiogdgsyu';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox></gcse:searchbox>
+<gcse:searchresults></gcse:searchresults>
+</div>
+
+<!-- Codigo original
+<div id="google-custom-search">
+<script>
+  (function() {
     var cx = '008668879081464374344:7obftvjulha';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
@@ -22,3 +39,4 @@ css: "/css/search.css"
 <gcse:searchbox></gcse:searchbox>
 <gcse:searchresults></gcse:searchresults>
 </div>
+-->
