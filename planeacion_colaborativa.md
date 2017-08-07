@@ -1,6 +1,6 @@
 ---
 layout: page
-title: planeacion_colaborativa
+title: Unidad de Planeación Colaborativa
 permalink: /planeacion_colaborativa/
 ---
 
