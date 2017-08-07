@@ -37,6 +37,8 @@ navbar-links:
     - Otros: "otros"
   Unidades:
     - Planeación colaborativa: "planeacion_colaborativa"
+    - Monitoreo Ambiental: "monitoreo_ambiental"
+    - Ecología molecular y Sistemas: "ecologia_molecular"
   Contacto: "contacto"
 nav-search: "search" # tomado del sitio del autor del tema
   # Author's home: "http://deanattali.com"
