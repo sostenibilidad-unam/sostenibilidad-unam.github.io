@@ -12,7 +12,9 @@ La investigación transdisciplinaria estriba en un proceso a través del cual se
 
 ![Transdisciplina](/assets/transdisciplina/Fig_1_Transdicsiplina.png)
 
-**Transdisciplina en MEGADAPT**
+**Fig. 1. Transdisciplina en MEGADAPT**
+<br>
+<br>
 
 # Cómo se usó
 
