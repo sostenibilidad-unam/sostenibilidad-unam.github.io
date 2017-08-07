@@ -4,6 +4,7 @@ title: Síntesis MEGADAPT
 permalink: /megadapt/sintesis
 ---
 
+# Síntesis MEGADAPT
 
 MEGADAPT es un proyecto de investigación que aborda la vulnerabilidad de las
 grandes ciudades al cambio global. El término MEGADAPT surge de los conceptos
@@ -32,7 +33,6 @@ urbanos hacia trayectorias sostenibles.
 ![Inundación](/assets/figuras_fichas_IAI/inundacion_xochi.jpg)
 **Figura 1. Visita de campo a zonas de inundación en Xochimilco**
 <br>
-<br>
 
 MEGADAPT está concebido como un proyecto transdisciplinario que incorpora una
 variedad de conceptos y métodos de las ciencias de la sostenibilidad dentro del
@@ -58,7 +58,7 @@ Metropolitana de la Ciudad de México.
 <br>
 <br>
 
-# Literatura relevante
+### Literatura relevante
 
 * Bojórquez Tapia, L.A., E., Ezcurra, M., Mazari-Hiriart, S., Díaz, P., Gómez, G., Alcantar, & D., Melgarejo. (2000). Basin of Mexico: A History of Watershed Mismanagement. Conference on Land Stewardship in the 21st Century: The contribution of watershed management. Tucson, Arizona: 129-137.
 
