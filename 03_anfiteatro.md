@@ -37,7 +37,11 @@ En planta alta, tiene una capacidad para 30 personas. El tipo de eventos que se 
 <br>
 <br>
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="myCarousel" class="carousel slide">
+<!-- para que corra en automático
+añadir al final de la línea anterior:
+data-ride="carousel" -->
+
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
