@@ -35,6 +35,41 @@ En planta alta, tiene una capacidad para 30 personas. El tipo de eventos que se 
 - Interacciones a distancia del Posgrado en Ciencias de la Sostenibilidad
 - Presentaciones de productos de proyectos en Ciencias de la Sostenibilidad
 
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="/assets/anfiteatro/8.jpeg" alt="Los Angeles">
+    </div>
+
+    <div class="item">
+      <img src="/assets/anfiteatro/10.jpeg" alt="Chicago">
+    </div>
+
+    <div class="item">
+      <img src="/assets/anfiteatro/4.jpeg" alt="New York">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<!--
 <img src="/assets/anfiteatro/8.jpeg"/>
 <img src="/assets/anfiteatro/10.jpeg"/>
 <img src="/assets/anfiteatro/4.jpeg"/>
@@ -43,3 +78,4 @@ En planta alta, tiene una capacidad para 30 personas. El tipo de eventos que se 
 <img src="/assets/anfiteatro/2.jpeg"/>
 <img src="/assets/anfiteatro/3.jpeg"/>
 <img src="/assets/anfiteatro/6.jpeg"/>
+-->
