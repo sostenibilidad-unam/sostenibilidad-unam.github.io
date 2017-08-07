@@ -34,6 +34,8 @@ En planta alta, tiene una capacidad para 30 personas. El tipo de eventos que se 
 - Talleres de planeación colaborativa presencial y a distancia
 - Interacciones a distancia del Posgrado en Ciencias de la Sostenibilidad
 - Presentaciones de productos de proyectos en Ciencias de la Sostenibilidad
+<br>
+<br>
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -41,20 +43,30 @@ En planta alta, tiene una capacidad para 30 personas. El tipo de eventos que se 
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
     <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+    <li data-target="#myCarousel" data-slide-to="4"></li>
   </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="/assets/anfiteatro/8.jpeg" alt="Los Angeles">
+      <img src="/assets/anfiteatro/8.jpeg">
     </div>
 
     <div class="item">
-      <img src="/assets/anfiteatro/10.jpeg" alt="Chicago">
+      <img src="/assets/anfiteatro/10.jpeg">
     </div>
 
     <div class="item">
-      <img src="/assets/anfiteatro/4.jpeg" alt="New York">
+      <img src="/assets/anfiteatro/4.jpeg">
+    </div>
+
+    <div class="item">
+      <img src="/assets/anfiteatro/7.jpeg">
+    </div>
+
+    <div class="item">
+      <img src="/assets/anfiteatro/2.jpeg">
     </div>
   </div>
 
