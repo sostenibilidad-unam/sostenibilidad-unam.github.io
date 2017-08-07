@@ -11,7 +11,7 @@ Dentro de la UCPC se ubica el [Anfiteatro de Decisiones.](/anfiteatro) Este espa
 
 # Proyectos
 
-## Megadapt (F>ichas informativas)
+## Megadapt (Fichas informativas)
 
 * [Síntesis](/unidad_plan_colab/megadapt_iai/sintesis.md)
-* [Transdisciplina](/unidad_plan_colab/megadapt_iai/transdisciplina.md) 
+* [Transdisciplina](/megadapt/transdisciplina)
