@@ -31,6 +31,7 @@ sobre cómo transformar las tendencias de desarrollo negativas de los centros
 urbanos hacia trayectorias sostenibles.
 
 ![Inundación](/assets/figuras_fichas_IAI/inundacion_xochi.jpg)
+<br>
 **Figura 1. Visita de campo a zonas de inundación en Xochimilco**
 <br>
 
