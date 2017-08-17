@@ -4,7 +4,7 @@ title: Contacto
 permalink: /contacto/
 ---
 
-
+Tel: 5622 9250, ext. 81274
 Apartado Postal 70-275. Ciudad Universitaria. Circuito exterior s/n anexo al Jardín Botánico Exterior. UNAM 04510. Ciudad de México.
 
 <!-- frame de google maps -->
