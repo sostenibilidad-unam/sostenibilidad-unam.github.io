@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Área de Planeación Colaborativa"
-bigimg: /assets/F_edificio_lancis_BANNER.jpg
 permalink: /planeacion_colaborativa/
 ---
 

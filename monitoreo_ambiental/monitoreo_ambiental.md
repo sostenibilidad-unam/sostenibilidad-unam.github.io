@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Área de Monitoreo Ambiental"
-bigimg: /assets/F_edificio_lancis_BANNER.jpg
 permalink: /monitoreo_ambiental/
 ---
 **OJO: revisar redacción. tiempos verbales**

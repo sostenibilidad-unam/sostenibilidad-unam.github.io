@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Área de Ecogenómica de Sistemas"
-bigimg: /assets/F_edificio_lancis_BANNER.jpg
 permalink: /ecogenomica/
 ---
 
