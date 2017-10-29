@@ -26,15 +26,13 @@ navbar-links:
   Acerca del Lancis:
     - Presentación: "index"
     - Semblanza: "semblanza"
-    - Académicos: "academicos"
-    - Anfiteatro: "anfiteatro"
-    - Cluster: "cluster"
+    - Personal: "personal"
   Noticias: posts
+  Áreas:
+    - Planeación Colaborativa: "planeacion_colaborativa"
+    - Ecogenómica de Sistemas: "ecogenomica"
+    - Monitoreo Ambiental: "monitoreo"
   Posgrado: "posgrado"
-  Proyectos:
-    - Megadapt: "megadapt"
-    - Cananea: ""
-    - Otros: ""
   Contacto: "contacto"
 nav-search: "search" # tomado del sitio del autor del tema
   # Author's home: "http://deanattali.com"

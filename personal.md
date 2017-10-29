@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Académicos
-permalink: /academicos/
+title: Personal
+permalink: /personal/
 ---
 
 # Investigadores
@@ -13,7 +13,7 @@ permalink: /academicos/
 - [Dra. Marisa Mazari Hiriart](/academicos/marisa_mazari)
 - [Dra. Julieta A. Rosell García](http://sostenibilidad-unam.github.io/academicos/julieta_rosell.html)
 
-# Técnicos Académicos									
+# Técnicos Académicos
 - [M.C. Lakshmi E. Charli Joseph](/academicos/lakshmi_e)
 - [Dra. Ana Cecilia Espinosa](/academicos/ana_cecilia_espinosa)
 - [Ing. Rodrigo García Herrera](/academicos/rodrigo_garcia)
