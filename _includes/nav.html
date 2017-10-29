@@ -54,17 +54,18 @@ termina-->
           </li>
         {% endif %}
         {% endfor %}
+        <!-- pegado del sitio del autor -->
+        {% if site.nav-search %}
+        		<li>
+        		  <a href="{{ site.baseurl }}/{{ site.nav-search }}" class="nav-search-link" title="Search">
+        		    <span class="fa fa-search nav-search-icon"></span>
+            			<span class="nav-search-text">Search</span>
+          		  </a>
+          		</li>
+    		{% endif %}
       </ul>
     </div>
-<!-- pegado del sitio del autor -->
-    {% if site.nav-search %}
-    		<li>
-    		  <a href="{{ site.baseurl }}/{{ site.nav-search }}" class="nav-search-link" title="Search">
-    		    <span class="fa fa-search nav-search-icon"></span>
-    			<span class="nav-search-text">Buscar en el sitio</span>
-    		  </a>
-    		</li>
-    		{% endif %}
+
 
 
 	{% if page.image and (layout.show-avatar or page.show-avatar) %}
