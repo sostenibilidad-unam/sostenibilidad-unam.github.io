@@ -27,12 +27,12 @@ navbar-links:
     - Presentación: "index"
     - Semblanza: "semblanza"
     - Personal: "personal"
-  Noticias: posts
   Áreas:
     - Planeación Colaborativa: "planeacion_colaborativa"
     - Ecogenómica de Sistemas: "ecogenomica"
-    - Monitoreo Ambiental: "monitoreo"
+    - Monitoreo Ambiental: "monitoreo_ambiental"
   Posgrado: "posgrado"
+  Noticias: posts
   Contacto: "contacto"
 nav-search: "search" # tomado del sitio del autor del tema
   # Author's home: "http://deanattali.com"
