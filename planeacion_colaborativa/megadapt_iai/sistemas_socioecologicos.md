@@ -11,7 +11,6 @@ El ejemplo anterior también sirve para esclarecer dos puntos fundamentales del 
 
 
 ![Sistema socio-ecológico](/assets/figuras_fichas_IAI/sistema_socio-ecologico.png)
-
 **Figura 1. Sistema socio-ecológico de MEGADAPT**
 <br>
 

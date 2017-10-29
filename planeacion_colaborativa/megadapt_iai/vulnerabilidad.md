@@ -14,7 +14,6 @@ De este modo, la nociÃ³n de vulnerabilidad conlleva el deber de la administraciÃ
 
 
 ![Vulnerabilidad](/assets/figuras_fichas_IAI/vulnerabilidad.png)
-
 **Figura 1. Vulnerabilidad en MEGADAPT**
 <br>
 
