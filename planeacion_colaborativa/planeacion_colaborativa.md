@@ -33,6 +33,7 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
 *	Programa de creación y fortalecimiento de capacidades en materia de Ordenamiento Ecológico.
 *	Managing biodiversity under climate change: Enhancing capacities in Mexico for Conservation Planning. Decision-Making and Sustainability Assessment.
 
+* * *
 
 # Proyectos
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: ""
 permalink: /megadapt_iai/vulnerabilidad
 ---
