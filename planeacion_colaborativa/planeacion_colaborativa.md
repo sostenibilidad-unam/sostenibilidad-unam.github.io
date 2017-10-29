@@ -42,7 +42,7 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
 * [Síntesis](/megadapt_iai/sintesis)
 * [Transdisciplina](/megadapt_iai/transdisciplina)
 * [Sistemas socio-ecológicos](/megadapt_iai/sistemas_socioecologicos)
-* [Vulnerabilidad](megadapt_iai/vulnerabilidad)
+* [Vulnerabilidad](/megadapt_iai/vulnerabilidad)
 
 
 <div class="row">
