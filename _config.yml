@@ -33,7 +33,7 @@ navbar-links:
     - Monitoreo Ambiental: "monitoreo_ambiental"
   Posgrado: "posgrado"
   Noticias: posts
-  Contacto: "contacto"
+  Ubicación: "ubicacion"
 nav-search: "search" # tomado del sitio del autor del tema
   # Author's home: "http://deanattali.com"
 
