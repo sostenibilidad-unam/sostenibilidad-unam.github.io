@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Síntesis MEGADAPT
-permalink: /megadapt/sintesis
+title: ""
+permalink: /megadapt_iai/sintesis
 ---
 
 # Síntesis MEGADAPT

@@ -33,3 +33,13 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
 ### Educación, creación y fortalecimiento de capacidades
 *	Programa de creación y fortalecimiento de capacidades en materia de Ordenamiento Ecológico.
 *	Managing biodiversity under climate change: Enhancing capacities in Mexico for Conservation Planning. Decision-Making and Sustainability Assessment.
+
+
+# Proyectos
+
+## Megadapt IAI
+
+* [Síntesis](/megadapt_iai/sintesis)
+* [Transdisciplina](/megadapt_iai/transdisciplina)
+* [Sistemas socio-ecológicos](/megadapt_iai/sistemas_socioecologicos)
+* [Vulnerabilidad](megadapt_iai/vulnerabilidad)
