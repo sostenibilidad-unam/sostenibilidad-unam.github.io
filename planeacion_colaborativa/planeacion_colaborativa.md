@@ -43,3 +43,37 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
 * [Transdisciplina](/megadapt_iai/transdisciplina)
 * [Sistemas socio-ecológicos](/megadapt_iai/sistemas_socioecologicos)
 * [Vulnerabilidad](megadapt_iai/vulnerabilidad)
+
+
+<div class="row">
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="//megadapt_iai/sintesis">
+        <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
+        <div class="caption">
+          <p>Síntesis</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="/megadapt_iai/transdisciplina">
+        <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
+        <div class="caption">
+          <p>Transdisciplina</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="/megadapt_iai/vulnerabilidad">
+        <img src="/w3images/fjords.jpg" alt="Fjords" style="width:100%">
+        <div class="caption">
+          <p>Vulnerabilidad</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
