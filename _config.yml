@@ -24,7 +24,6 @@ description: Página del LANCIS
 # List of links in the navigation bar
 navbar-links:
   Acerca del Lancis:
-    - Presentación: "index"
     - Semblanza: "semblanza"
     - Personal: "personal"
   Áreas:
