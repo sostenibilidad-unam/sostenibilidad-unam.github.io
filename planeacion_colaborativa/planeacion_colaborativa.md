@@ -48,7 +48,7 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="//megadapt_iai/sintesis">
+      <a href="/megadapt_iai/sintesis">
         <img src="/assets/figuras_fichas_IAI/inundacion_xochi.jpg" alt="sintesis" style="width:100%">
         <div class="caption">
           <p>Síntesis</p>
@@ -62,6 +62,16 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
         <img src="/assets/figuras_fichas_IAI/transdisciplina.png" alt="transdisciplina" style="width:100%">
         <div class="caption">
           <p>Transdisciplina</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="/megadapt_iai/sistemas_socioecologicos">
+        <img src="/assets/figuras_fichas_IAI/sistema_socio-ecologico.png" alt="socio-ecologico" style="width:100%">
+        <div class="caption">
+          <p>Sistema socio-ecológico</p>
         </div>
       </a>
     </div>
