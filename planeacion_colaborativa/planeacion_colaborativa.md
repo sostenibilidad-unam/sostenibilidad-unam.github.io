@@ -49,7 +49,7 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="//megadapt_iai/sintesis">
-        <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
+        <img src="/assets/figuras_fichas_IAI/inundacion_xochi.png" alt="sintesis" style="width:100%">
         <div class="caption">
           <p>Síntesis</p>
         </div>
@@ -59,7 +59,7 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="/megadapt_iai/transdisciplina">
-        <img src="/w3images/nature.jpg" alt="Nature" style="width:100%">
+        <img src="/assets/figuras_fichas_IAI/transdisciplina.png" alt="transdisciplina" style="width:100%">
         <div class="caption">
           <p>Transdisciplina</p>
         </div>
@@ -69,7 +69,7 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="/megadapt_iai/vulnerabilidad">
-        <img src="/w3images/fjords.jpg" alt="Fjords" style="width:100%">
+        <img src="/assets/figuras_fichas_IAI/vulnerabilidad.png" alt="vulnerabilidad" style="width:100%">
         <div class="caption">
           <p>Vulnerabilidad</p>
         </div>
