@@ -25,8 +25,8 @@ Respecto a la investigación transdisciplinaria, hay que señalar por último qu
 
 ### Literatura relevante
 
-Barton, J.R. (2009). Revisión de marcos conceptuales y análisis de enfoques metodológicos (barreras y viabilidad) para el desarrollo de una infraestructura urbana sostenible y eco-eficiente. CEPAL: Eco-eficiencia y desarrollo de infraestructura urbana sostenible en América Latina y el Caribe (ECLAC-ESCAP. ROA101). http://www.cepal.org/ecoeficiencia/noticias/paginas/2/36162/Barton.pdf.
-Castillo-Villanueva, L., & D., Velázquez-Torres. (2015). Sistemas complejos adaptativos, sistemas socioecológicos y resiliencia. Quivera 17:11-32. http://www.redalyc.org/pdf/401/40143424002.pdf.
-Eakin, H., L. A., Bojórquez-Tapia, M. A., Janssen, M., Gerogescu, D., Manuel-Navarrete, E. R., Vivoni, A. E., Escalante, A., Baeza-Castro, M., Maz˚ari-Hiriart, & A. M., Lerner. (2017). Urban resilience efforts must consider social and political forces. PNAS 114(2): 186-189. doi: 10.1073/pnas.1620081114.
-Liu, J., T., Dietz, S. R., Carpenter, M., Alberti, C., Folke, E., Moran, A. N., Pell, P., Deadman, T., Kratz, J., Lubchenco, E., Ostrom, Z., Ouyang, W., Provencher, C. L., Redman, S. H., Schneider, & W. W., Taylor. (2007). Complexity of Coupled Human and Natural Systems. Science 317: 1513-1517.
-Ostrom, E. (2009). A General Framework for Analyzing Sustainability of Social-Ecological Systems. Science 325: 419‑422.
+* Barton, J.R. (2009). Revisión de marcos conceptuales y análisis de enfoques metodológicos (barreras y viabilidad) para el desarrollo de una infraestructura urbana sostenible y eco-eficiente. CEPAL: Eco-eficiencia y desarrollo de infraestructura urbana sostenible en América Latina y el Caribe (ECLAC-ESCAP. ROA101). http://www.cepal.org/ecoeficiencia/noticias/paginas/2/36162/Barton.pdf.
+* Castillo-Villanueva, L., & D., Velázquez-Torres. (2015). Sistemas complejos adaptativos, sistemas socioecológicos y resiliencia. Quivera 17:11-32. http://www.redalyc.org/pdf/401/40143424002.pdf.
+* Eakin, H., L. A., Bojórquez-Tapia, M. A., Janssen, M., Gerogescu, D., Manuel-Navarrete, E. R., Vivoni, A. E., Escalante, A., Baeza-Castro, M., Maz˚ari-Hiriart, & A. M., Lerner. (2017). Urban resilience efforts must consider social and political forces. PNAS 114(2): 186-189. doi: 10.1073/pnas.1620081114.
+* Liu, J., T., Dietz, S. R., Carpenter, M., Alberti, C., Folke, E., Moran, A. N., Pell, P., Deadman, T., Kratz, J., Lubchenco, E., Ostrom, Z., Ouyang, W., Provencher, C. L., Redman, S. H., Schneider, & W. W., Taylor. (2007). Complexity of Coupled Human and Natural Systems. Science 317: 1513-1517.
+* Ostrom, E. (2009). A General Framework for Analyzing Sustainability of Social-Ecological Systems. Science 325: 419‑422.

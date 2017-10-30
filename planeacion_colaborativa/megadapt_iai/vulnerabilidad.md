@@ -26,15 +26,14 @@ Para ello, en MEGADAPT se recurre a esquemas híbridos de análisis y a la simul
 
 
 ![Objeto de frontera](/assets/figuras_fichas_IAI/objeto_frontera.png)
-
 **Figura 2. Ejemplo de objeto de frontera en MEGADAPT**
 <br>
 
 
 ### Literatura relevante
 
-Constantino, T. R. M., & H. R., Dávila. (2011). Una aproximación a la vulnerabilidad y la resiliencia ante eventos hidrometeorológicos extremos en México. Política y Cultura 36. http://www.scielo.org.mx/scielo.php?script=
+* Constantino, T. R. M., & H. R., Dávila. (2011). Una aproximación a la vulnerabilidad y la resiliencia ante eventos hidrometeorológicos extremos en México. Política y Cultura 36. http://www.scielo.org.mx/scielo.php?script=
 sci_arttext&pid=S0188-77422011000200002.
-Comisión Intersecretarial de Cambio Climático. (2012). Adaptación al cambio climático en México: Visión, elementos y criterios para la toma de decisiones. INECC-SEMARNAT http://biblioteca.semarnat.gob.mx/janium/Documentos/
+* Comisión Intersecretarial de Cambio Climático. (2012). Adaptación al cambio climático en México: Visión, elementos y criterios para la toma de decisiones. INECC-SEMARNAT http://biblioteca.semarnat.gob.mx/janium/Documentos/
 Ciga/libros2009/CD001364.pdf.
-Gutiérrez, M.E., & T., Espinoza. (2010).  Vulnerabilidad y adaptación al cambio climático. Diagnóstico inicial, avances, vacíos y potenciales líneas de acción en Mesoamérica. Nota técnica IDB TN-144. Unidad de Energía Sostenible y Cambio Climático, Departamento de Infraestructura y Medio Ambiente. Banco Interamericano de Desarrollo. http://awsassets.panda.org/downloads/documento_bid.pdf.
+* Gutiérrez, M.E., & T., Espinoza. (2010).  Vulnerabilidad y adaptación al cambio climático. Diagnóstico inicial, avances, vacíos y potenciales líneas de acción en Mesoamérica. Nota técnica IDB TN-144. Unidad de Energía Sostenible y Cambio Climático, Departamento de Infraestructura y Medio Ambiente. Banco Interamericano de Desarrollo. http://awsassets.panda.org/downloads/documento_bid.pdf.
