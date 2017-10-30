@@ -29,5 +29,4 @@ La capacidad instalada en el LANCIS cumple una función fundamental en MEGADAPT,
 ### Literatura relevante
 
 * Brandt, P., A., Ernst, F., Gralla, C., Luedritz, D. J., Lang, J., Newig, F., Reinert, H., Abson, & H. V., Wehrden. (2013). A review of transdisciplinary research in sustainability science. Ecological Economics, 92, 1-15.
-
 * Eakin, H., L. A., Bojórquez-Tapia, M. A., Janssen, M., Georgescu, D., Manuel-Navarrete, E. R., Vivoni, A. E., Escalante, A., Baeza-Castro, M., Mazari-Hiriart, & A. M., Lerner. (2017). Urban resilience effortsmust consider social and political forces. Proceedings of the National Academy of Sciences. 114, 186-189.

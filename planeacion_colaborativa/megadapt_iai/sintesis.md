@@ -62,9 +62,6 @@ Metropolitana de la Ciudad de México.
 ### Literatura relevante
 
 * Bojórquez Tapia, L.A., E., Ezcurra, M., Mazari-Hiriart, S., Díaz, P., Gómez, G., Alcantar, & D., Melgarejo. (2000). Basin of Mexico: A History of Watershed Mismanagement. Conference on Land Stewardship in the 21st Century: The contribution of watershed management. Tucson, Arizona: 129-137.
-
 * Ezcurra, E., M., Mazari-Hiriart, I., Pisanty, & A.G., Aguilar. (2006). La Cuenca de México. Aspectos ambientales y sustentabilidad. Fondo de Cultura Económica - Universidad Nacional Autónoma de México. México, D.F.
-
 * Kates, R., & T., Parris. (2003). Long-term trends and a sustainability transition. Proceedings of the National Academy of Sciences 100(14): doi 101.1073/pnas.1231331100.
-
 * [lancis.ecologia.unam.mx/megadapt](http://lancis.ecologia.unam.mx/megadapt)

@@ -34,14 +34,17 @@ extracción de información secundaria proveniente de entrevistas o reportes
 técnicos.
 
 ![Modelos mentales 1](/assets/figuras_fichas_IAI/modelo_mental_1.png)
+
 **Figura 1. Esquema general de un modelo mental y su expresión con el mundo externo.**
 <br>
 
 ![Modelos mentales 2](/assets/figuras_fichas_IAI/modelo_mental_2.png)
+
 **Figura 2. Los modelos mentales son herramientas para entender las acciones y decisiones de los actores en el sistema socio-ecológico.**
 <br>
 
 ![Modelos mentales 3](/assets/figuras_fichas_IAI/modelo_mental_3.png)
+
 **Figura 3. Los modelos mentales permiten distinguir las visiones de un mismo problema socio-ecológico entre individuos o sectores.**
 <br>
 
@@ -67,6 +70,7 @@ con ello, mejorar el entendimiento de la vulnerabilidad de la Zona Metropolitana
 de la Ciudad de México.
 
 ![Modelos mentales 4](/assets/figuras_fichas_IAI/diagrama_vensim.png)
+
 **Figura 4. Ejemplo de un modelo mental resultado de un taller participativo.**
 <br>
 
