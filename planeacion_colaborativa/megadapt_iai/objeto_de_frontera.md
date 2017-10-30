@@ -8,7 +8,7 @@ permalink: /megadapt_iai/objeto_de_frontera
 
 Por objeto de frontera se entiende a todo instrumento de comunicación de información entre diferentes disciplinas especialidades y comunidades. Entre otros, estos instrumentos pueden ser textos, modelos, herramientas computacionales de visualización, reportes técnicos o mapas. Entre otros, estos instrumentos pueden ser textos, modelos, herramientas computacionales de visualización, reportes técnicos o mapas. En el contexto de la investigación transdisciplinaria, Se utilizan para traducir, comunicar y conciliar conocimiento entre diferentes disciplinas y saberes. Así, tienen como objetivo el facilitar la colaboración entre actores sociales tanto del ámbito académico, el político y el social. Su uso propicia la transparencia e imparcialidad en las tareas de generación y aplicación de conocimiento.
 
-![Mapa inundaciones](/assets/figuras_fichas_IAI/mapa_eventos_inundacion.png.png)
+![Mapa inundaciones](/assets/figuras_fichas_IAI/mapa_eventos_inundacion.png) 
 **Figura 1. Eventos de inundación en colonias de la Ciudad de México. Aumentar la resiliencia urbana puede ayudar a las ciudades a superar mejor este tipo de desastres naturales _(Fuente de datos: Unidad Tormenta, Sistema de Aguas de la Ciudad de México)_**
 <br>
 

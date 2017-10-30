@@ -43,6 +43,8 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
 * [Transdisciplina](/megadapt_iai/transdisciplina)
 * [Sistemas socio-ecológicos](/megadapt_iai/sistemas_socioecologicos)
 * [Vulnerabilidad](/megadapt_iai/vulnerabilidad)
+* [Objeto de frontera](/megadapt_iai/objeto_de_frontera)
+* [Modelos mentales](/megadapt_iai/modelos_mentales)
 
 
 <div class="row">
@@ -56,6 +58,7 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
       </a>
     </div>
   </div>
+  <!-- inicia -->
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="/megadapt_iai/transdisciplina">
@@ -66,6 +69,7 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
       </a>
     </div>
   </div>
+  <!-- termina -->
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="/megadapt_iai/sistemas_socioecologicos">
@@ -76,6 +80,7 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
       </a>
     </div>
   </div>
+
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="/megadapt_iai/vulnerabilidad">
@@ -86,4 +91,28 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
       </a>
     </div>
   </div>
+
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="/megadapt_iai/objeto_de frontera">
+        <img src="/assets/figuras_fichas_IAI/objeto_frontera.png" alt="objeto_frontera" style="width:100%">
+        <div class="caption">
+          <p>Objeto de frontera</p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="/megadapt_iai/modelos_mentales">
+        <img src="/assets/figuras_fichas_IAI/modelo_mental_1.png" alt="modelo_mental" style="width:100%">
+        <div class="caption">
+          <p>Modelos mentales</p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+<!-- cierra div class="col-md-4" -->
 </div>
