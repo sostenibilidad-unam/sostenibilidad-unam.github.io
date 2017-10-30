@@ -91,7 +91,7 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
       </a>
     </div>
   </div>
-
+<!--
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="/megadapt_iai/objeto_de frontera">
@@ -113,6 +113,6 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
       </a>
     </div>
   </div>
-
+-->
 <!-- cierra div class="col-md-4" -->
 </div>
