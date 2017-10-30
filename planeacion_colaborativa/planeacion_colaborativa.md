@@ -49,7 +49,7 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="//megadapt_iai/sintesis">
-        <img src="/assets/figuras_fichas_IAI/inundacion_xochi.png" alt="sintesis" style="width:100%">
+        <img src="/assets/figuras_fichas_IAI/inundacion_xochi.jpg" alt="sintesis" style="width:100%">
         <div class="caption">
           <p>Síntesis</p>
         </div>
