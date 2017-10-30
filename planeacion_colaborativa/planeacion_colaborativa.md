@@ -24,13 +24,13 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
 
 
 ### Desarrollos computacionales
-*	Sistema automatizado para la elaboración del Pronóstico y Modelo de Ordenamiento Ecológico.
+*	Sistema automatizado para la elaboración del Pronóstico y Modelo de Ordenamiento Ecológico.
 *	Desarrollo de una Plataforma de Geo-visualización
-*	Sistema de Soporte Geográfico de Decisiones para la elaboración del Análisis de aptitud en Programas de Ordenamiento Ecológico.
+*	Sistema de Soporte Geográfico de Decisiones para la elaboración del Análisis de aptitud en Programas de Ordenamiento Ecológico.
 
 
 ### Educación, creación y fortalecimiento de capacidades
-*	Programa de creación y fortalecimiento de capacidades en materia de Ordenamiento Ecológico.
+*	Programa de creación y fortalecimiento de capacidades en materia de Ordenamiento Ecológico.
 *	Managing biodiversity under climate change: Enhancing capacities in Mexico for Conservation Planning. Decision-Making and Sustainability Assessment.
 
 * * *

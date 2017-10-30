@@ -20,7 +20,7 @@ La pérdida de biodiversidad y servicios ecosistémicos, así como la necesidad 
 
 ## Proyectos prioritarios
 
--	Biodiversidad y ecología funcional de suelos representativos de diferentes ecosistemas y formas de manejo agropecuario en México (PAPIIT, CONACyT).
+-	Biodiversidad y ecología funcional de suelos representativos de diferentes ecosistemas y formas de manejo agropecuario en México (PAPIIT, CONACyT).
 -	Diversidad y composición de comunidades microbianas asociadas a suelo y rizósfera de un policultivo en México, la milpa (UC-Mexus).
 -	Estudio ecológico y evolutivo de la estructura y funcionalidad de comunidades hidrogenogénicas sometidas a perturbaciones ambientales (CONACyT).
 -	Diversidad taxonómica y metagenómica de bacterias de vida libre y asociadas a rizósferas en distintos suelos representativos de México (PAPIIT).
