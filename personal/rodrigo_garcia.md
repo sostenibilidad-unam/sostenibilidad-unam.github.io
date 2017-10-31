@@ -27,6 +27,8 @@ exclude: true
 
 - Control de versiones: SVN, Git
 
+- Geo: Leaflet
+
 ## Bioinformática
 
 - Análisis de datos de secuenciación masiva: DNAseq, RNAseq
