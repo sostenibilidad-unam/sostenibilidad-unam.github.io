@@ -14,7 +14,7 @@ De este modo, la noción de vulnerabilidad conlleva el deber de la administraci�
 
 
 ![Vulnerabilidad](/assets/figuras_fichas_IAI/vulnerabilidad.png)
-**Figura 1. Vulnerabilidad en MEGADAPT**
+_Figura 1. Vulnerabilidad en MEGADAPT_
 <br>
 
 
@@ -26,7 +26,7 @@ Para ello, en MEGADAPT se recurre a esquemas híbridos de análisis y a la simul
 
 
 ![Objeto de frontera](/assets/figuras_fichas_IAI/objeto_frontera.png)
-**Figura 2. Ejemplo de objeto de frontera en MEGADAPT**
+_Figura 2. Ejemplo de objeto de frontera en MEGADAPT_
 <br>
 
 

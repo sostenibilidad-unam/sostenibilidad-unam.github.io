@@ -35,17 +35,17 @@ técnicos.
 
 ![Modelos mentales 1](/assets/figuras_fichas_IAI/modelo_mental_1.png)
 <br>
-**Figura 1. Esquema general de un modelo mental y su expresión con el mundo externo.**
+_Figura 1. Esquema general de un modelo mental y su expresión con el mundo externo_
 <br>
 
 ![Modelos mentales 2](/assets/figuras_fichas_IAI/modelo_mental_2.png)
 <br>
-**Figura 2. Los modelos mentales son herramientas para entender las acciones y decisiones de los actores en el sistema socio-ecológico.**
+_Figura 2. Los modelos mentales son herramientas para entender las acciones y decisiones de los actores en el sistema socio-ecológico_
 <br>
 
 ![Modelos mentales 3](/assets/figuras_fichas_IAI/modelo_mental_3.png)
 <br>
-**Figura 3. Los modelos mentales permiten distinguir las visiones de un mismo problema socio-ecológico entre individuos o sectores.**
+_Figura 3. Los modelos mentales permiten distinguir las visiones de un mismo problema socio-ecológico entre individuos o sectores_
 <br>
 
 Cómo se usó
@@ -71,7 +71,7 @@ de la Ciudad de México.
 
 ![Modelos mentales 4](/assets/figuras_fichas_IAI/diagrama_vensim.png)
 <br>
-**Figura 4. Ejemplo de un modelo mental resultado de un taller participativo.**
+_Figura 4. Ejemplo de un modelo mental resultado de un taller participativo_
 <br>
 
 ### Literatura relevante

@@ -20,9 +20,9 @@ Medio Ambiente y Recursos Naturales (SEMARNAT) y sus órganos
 desconcentrados, el Instituto Nacional de Ecología y Cambio Climático
 (INECC) y la Comisión Nacional de Áreas Naturales Protegidas (CONANP).
 
-<img src="/assets/consorcio.png">
+![Consorcio](/assets/consorcio.png)
 
-**Figura 1. Consorcio LANCIS**
+_Figura 1. Consorcio LANCIS_
 
 El LANCIS constituye una respuesta a la creciente y genuina
 preocupación sobre el papel de la UNAM en el desarrollo del país, por

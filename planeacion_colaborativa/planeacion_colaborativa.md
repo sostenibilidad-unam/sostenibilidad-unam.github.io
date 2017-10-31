@@ -41,15 +41,17 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
 
 Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la Ciudad de México. [Visite la página del proyecto](http://megadapt.weebly.com/)
 
-## "Proyecto IAI CNR3108: Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area"
+## Proyecto IAI CNR3108: Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area"
 
+### Fichas informativas del proyecto
+<!--
 * [Síntesis](/megadapt_iai/sintesis)
 * [Transdisciplina](/megadapt_iai/transdisciplina)
 * [Sistemas socio-ecológicos](/megadapt_iai/sistemas_socioecologicos)
 * [Vulnerabilidad](/megadapt_iai/vulnerabilidad)
 * [Objeto de frontera](/megadapt_iai/objeto_de_frontera)
 * [Modelos mentales](/megadapt_iai/modelos_mentales)
-
+-->
 
 <div class="row">
   <div class="col-md-4">
