@@ -5,7 +5,7 @@ permalink: /academicos/ana_escalante
 exclude: true
 ---
 
-<img src="https://raw.githubusercontent.com/sostenibilidad-unam/sostenibilidad-unam.github.io/master/assets/paisajes-bonitos-de-oton%CC%83o-lago.jpeg">
+<img src="/assets/paisajes-bonitos-de-oton%CC%83o-lago.jpeg">
 
 - Investigadoraa Titular A
 
