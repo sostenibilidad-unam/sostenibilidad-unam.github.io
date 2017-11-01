@@ -37,6 +37,10 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
 
 # Proyectos
 
+## Megadapt
+
+Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la Ciudad de México. [Visite la página del proyecto](http://megadapt.weebly.com/)
+
 ## Megadapt IAI
 
 * [Síntesis](/megadapt_iai/sintesis)
@@ -80,7 +84,11 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
       </a>
     </div>
   </div>
+</div>
 
+<!-- segundo bloque -->
+
+<div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="/megadapt_iai/vulnerabilidad">
@@ -91,7 +99,7 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
       </a>
     </div>
   </div>
-<!--
+
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="/megadapt_iai/objeto_de frontera">
@@ -113,6 +121,6 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
       </a>
     </div>
   </div>
--->
-<!-- cierra div class="col-md-4" -->
 </div>
+
+<!-- tercer bloque -->
