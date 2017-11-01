@@ -7,33 +7,28 @@ permalink: /anfiteatro/
 
 # Anfiteatro de Decisiones
 
-El Anfiteatro de Decisiones del Laboratorio Nacional de Ciencias de la
-Sostenibilidad (AD-LANCIS) es un instrumento de investigación
-único. Este instrumento permite realizar investigación en tres
-vertientes: 1) la generación de experimentos y experiencias sobre cómo
-traducir y comunicar el conocimiento científico a los diferentes
-grupos y actores sociales; 2) los desarrollos computacionales para el
-análisis, la discusión y la visualización de problemas de
-sostenibilidad; y 3) el estudio de los mecanismos de aprendizaje
-social que inciden en el tránsito hacia la sostenibilidad. De esta
-manera, AD-LANCIS hace posible la “investigación de frontera” dirigida
-a ligar el conocimiento científico y la toma de decisiones.
+El Anfiteatro de Decisiones del Laboratorio Nacional de Ciencias de la Sostenibilidad (AD-LANCIS) es un instrumento de investigación
+único, que permite realizar investigación en tres vertientes simultáneas:
+1) generación de experimentos y experiencias relacionados con la manera de traducir y comunicar el conocimiento científico a diversos grupos y actores sociales
+2) desarrollo de herramientas computacionales para el análisis, la discusión y la visualización de problemas de sostenibilidad
+3) análisis de los mecanismos de aprendizaje social que inciden en el tránsito hacia la sostenibilidad
+Gracias a esto, es posible realizar “investigación de frontera” orientada hacia la vinculación del conocimiento científico y la toma de decisiones. El AD-LANCIS se divide en dos partes: la Sala de Inmersión y la Sala de Usos Múltiples.
 
 
-### Sala de inmersión
+### Sala de Inmersión
 
-Een planta baja, tiene una capacidad para 20 personas. El tipo de interacciones de este espacio se enmarcan en:
+Se encuentra en la planta baja y tiene capacidad para 20 personas. En este espacio se llevan a cabo:
 
-- Reuniones de facilitación para toma de decisiones con herramientas de geo-visualización y cómputo científico
-- Reuniones ejecutivas en proyectos de Ciencias de la Sostenibilidad
+- Reuniones de facilitación para la toma de decisiones con herramientas de geo-visualización y cómputo científico
+- Reuniones ejecutivas relacionadas con proyectos de Ciencias de la Sostenibilidad
 
-### La sala de usos múltiples
+### Sala de Usos Múltiples
 
-En planta alta, tiene una capacidad para 30 personas. El tipo de eventos que se realizan en esta sala son:
+Se encuentra en la planta alta y tiene capacidad para 30 personas. En esta sala se llevan a cabo:
 
-- Talleres de planeación colaborativa presencial y a distancia
-- Interacciones a distancia del Posgrado en Ciencias de la Sostenibilidad
-- Presentaciones de productos de proyectos en Ciencias de la Sostenibilidad
+- Talleres de planeación colaborativa, tanto presenciales como a distancia
+- Interacciones a distancia, como parte del programa del Posgrado en Ciencias de la Sostenibilidad
+- Presentaciones de los productos de distintos proyectos de Ciencias de la Sostenibilidad
 <br>
 <br>
 
