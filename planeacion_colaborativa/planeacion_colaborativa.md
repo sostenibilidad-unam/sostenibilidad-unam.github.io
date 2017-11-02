@@ -4,14 +4,14 @@ title: "Área de Planeación Colaborativa"
 permalink: /planeacion_colaborativa/
 ---
 
-El área de Planeación Colaborativa aborda problemas socioambientales complejos relacionados con la planeación sostenible.
-Las actividades de esta área se enfocan a responder preguntas importantes de gestión y toma de decisiones a través de combinar los últimos adelantos en el desarrollo de políticas públicas, planeación del uso del suelo, modelación geoespacial, biocomplejidad, teoría de decisión, geovisualización, gobernanza y aprendizaje social.
-De este modo, esta área busca la construcción de instrumentos apropiados y visualmente eficaces para la traducción y comunicación de conocimiento científico a ejecutivos y funcionarios de los sectores público, privado y social, que permitan ligar la ciencia a la toma de decisiones durante el proceso de planeación y así facilitar el tránsito hacia la sosteni­bilidad.
+El área de Planeación Colaborativa aborda problemas socioambientales complejos, relacionados con la planeación sostenible.
+Las actividades de esta área tienen la finalidad de responder preguntas que determinan la gestión y toma de decisiones. Para esto se recurre a las teorías y herramientas más avanzadas dentro de los campos del desarrollo de políticas públicas, la planeación del uso del suelo, la modelación geoespacial, la biocomplejidad, la teoría de decisión, la geovisualización, la gobernanza y el aprendizaje social.
+Así, esta área busca desarrollar instrumentos apropiados para traducir y comunicar el conocimiento científico a ejecutivos y funcionarios de los sectores público, privado y social, de modo que la ciencia se pueda ligar a la toma de decisiones durante el proceso de planeación y se facilite el tránsito hacia la sosteni­bilidad.
 
 
 ## Infraestructura y equipamiento
 
-200 m² distribuidos en un área para 16 técnicos, 8 estudiantes , 4 cubículos y una sala de geovisualización para 12 personas  equipada con un pizarrón inteligente y un equipo de videoconferencia. Esta área se encarga de la coordinación técnica del anfiteatro de decisiones.
+200 m² se reparten en un área de trabajo para 16 técnicos y 8 estudiantes, 4 cubículos y una sala de geovisualización para 12 personas, equipada con un pizarrón inteligente y un equipo de videoconferencia. En estos espacios se lleva a cabo la coordinación técnica de las actividades del Anfiteatro de Decisiones.
 
 
 ## Proyectos prioritarios
@@ -19,7 +19,7 @@ De este modo, esta área busca la construcción de instrumentos apropiados y vis
 ### Planeación colaborativa
 
 *	Programa de Ordenamiento Ecológico Marino y Regional del Pacífico Norte.
-*	Pronóstico y Propuesta del Programa de Ordenamiento Ecológico Regional del Territorio de la Cuenca del Valle de México.
+*	Pronóstico y propuesta del Programa de Ordenamiento Ecológico Regional del Territorio de la Cuenca del Valle de México.
 *	Sistema geoespacial de soporte de decisiones para la Zona Federal Marítima Terrestre: Análisis de vulnerabilidad costera ante el cambio climático.
 
 
