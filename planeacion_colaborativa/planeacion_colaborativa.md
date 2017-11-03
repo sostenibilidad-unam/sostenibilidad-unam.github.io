@@ -97,11 +97,11 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
   </div>
 
   <!-- /.row -->
-</div> -->
+</div>
 
   <!-- /.container -->
-  <!-- Bootstrap core JavaScript -->
+  <!-- Bootstrap core JavaScript
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
+-->
 <!-- FIN -->
