@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-permalink: /megadapt_iai/sintesis
+permalink: /iai/sintesis
 ---
 
 # Síntesis MEGADAPT
@@ -30,7 +30,7 @@ desarrollo urbano, MEGADAPT contribuye a este esfuerzo con conocimiento nuevo
 sobre cómo transformar las tendencias de desarrollo negativas de los centros
 urbanos hacia trayectorias sostenibles.
 
-![Inundación](/assets/figuras_fichas_IAI/inundacion_xochi.jpg)
+![Inundación](/assets/proyectos_apc/iai/inundacion_xochi.jpg)
 <br>
 _Figura 1. Visita de campo a zonas de inundación en Xochimilco_
 <br>
@@ -54,7 +54,7 @@ transición hacia la sostenibilidad de las grandes ciudades, haciendo énfasis e
 las posibles alternativas de solución para los problemas específicos de la Zona
 Metropolitana de la Ciudad de México.
 
-![Taller](/assets/figuras_fichas_IAI/taller_megadapt.jpg)
+![Taller](/assets/proyectos_apc/iai/taller_megadapt.jpg)
 _Figura 2. Taller externo con residentes de la colonia Miravalle, en Iztapalapa_
 <br>
 <br>

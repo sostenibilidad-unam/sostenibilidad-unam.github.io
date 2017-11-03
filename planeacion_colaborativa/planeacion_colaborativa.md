@@ -35,40 +35,45 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
 
 * * *
 
-# Proyectos
+<div class="text-center">
+  <h1>Proyectos</h1>
+
+  <br/>
 
 ## Megadapt
 
-Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la Ciudad de México. [Visite la página del proyecto](http://megadapt.weebly.com/)
 
 ## Proyecto IAI CNR3108: Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area"
 
 ### Fichas informativas del proyecto
 <!--
-* [Síntesis](/megadapt_iai/sintesis)
-* [Transdisciplina](/megadapt_iai/transdisciplina)
-* [Sistemas socio-ecológicos](/megadapt_iai/sistemas_socioecologicos)
-* [Vulnerabilidad](/megadapt_iai/vulnerabilidad)
-* [Objeto de frontera](/megadapt_iai/objeto_de_frontera)
-* [Modelos mentales](/megadapt_iai/modelos_mentales)
+* [Síntesis](/iai/sintesis)
+* [Transdisciplina](/iai/transdisciplina)
+* [Sistemas socio-ecológicos](/iai/sistemas_socioecologicos)
+* [Vulnerabilidad](/iai/vulnerabilidad)
+* [Objeto de frontera](/iai/objeto_de_frontera)
+* [Modelos mentales](/iai/modelos_mentales)
 -->
 
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="/megadapt_iai/sintesis">
-        <img src="/assets/figuras_fichas_IAI/inundacion_xochi.jpg" alt="sintesis" style="width:100%">
+      <a href="http://megadapt.weebly.com/">
+        <img src="/assets/proyectos_apc/proy_foto.png" alt="megadapt" style="width:100%">
         <div class="title">
           <p>Megadapt</p>
         </div>
+        <br>
+        <div class="caption">
+        <p>Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la Ciudad de México</p>
       </a>
     </div>
   </div>
   <!-- inicia -->
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="/megadapt_iai/transdisciplina">
-        <img src="/assets/figuras_fichas_IAI/transdisciplina.png" alt="transdisciplina" style="width:100%">
+      <a href="/iai/transdisciplina">
+        <img src="/assets/proyectos_apc/iai/transdisciplina.png" alt="transdisciplina" style="width:100%">
         <div class="caption">
           <p>Transdisciplina</p>
         </div>
@@ -78,8 +83,8 @@ Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio I
   <!-- termina -->
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="/megadapt_iai/sistemas_socioecologicos">
-        <img src="/assets/figuras_fichas_IAI/sistema_socio-ecologico.png" alt="socio-ecologico" style="width:100%">
+      <a href="/iai/sistemas_socioecologicos">
+        <img src="/assets/proyectos_apc/iai/sistema_socio-ecologico.png" alt="socio-ecologico" style="width:100%">
         <div class="caption">
           <p>Sistema socio-ecológico</p>
         </div>
@@ -93,8 +98,8 @@ Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio I
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="/megadapt_iai/vulnerabilidad">
-        <img src="/assets/figuras_fichas_IAI/vulnerabilidad.png" alt="vulnerabilidad" style="width:100%">
+      <a href="/iai/vulnerabilidad">
+        <img src="/assets/proyectos_apc/iai/vulnerabilidad.png" alt="vulnerabilidad" style="width:100%">
         <div class="caption">
           <p>Vulnerabilidad</p>
         </div>
@@ -104,8 +109,8 @@ Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio I
 
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="/megadapt_iai/objeto_de frontera">
-        <img src="/assets/figuras_fichas_IAI/objeto_frontera.png" alt="objeto_frontera" style="width:100%">
+      <a href="/iai/objeto_de frontera">
+        <img src="/assets/proyectos_apc/iai/objeto_frontera.png" alt="objeto_frontera" style="width:100%">
         <div class="caption">
           <p>Objeto de frontera</p>
         </div>
@@ -115,8 +120,8 @@ Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio I
 
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="/megadapt_iai/modelos_mentales">
-        <img src="/assets/figuras_fichas_IAI/modelo_mental_1.png" alt="modelo_mental" style="width:100%">
+      <a href="/iai/modelos_mentales">
+        <img src="/assets/proyectos_apc/iai/modelo_mental_1.png" alt="modelo_mental" style="width:100%">
         <div class="caption">
           <p>Modelos mentales</p>
         </div>

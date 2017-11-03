@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-permalink: /megadapt_iai/sistemas_socioecologicos
+permalink: /iai/sistemas_socioecologicos
 ---
 
 # Sistemas socio-ecológicos
@@ -10,7 +10,7 @@ El enfoque de sistema socio-ecológico descansa en la noción de que las fronter
 El ejemplo anterior también sirve para esclarecer dos puntos fundamentales del enfoque de sistemas socio-ecológicos: la retroalimentación entre los componentes sociales y ecológicos y los límites o umbrales de comportamiento. Veamos, con una mayor expansión urbana, la demanda de agua crece y el abatimiento del acuífero persiste hasta agotarse. En este momento, se produce el colapso del sistema socio-ecológico porque el comportamiento original ya no es compatible con su nueva condición: La expansión urbana no puede continuar como antes dada la carencia de agua. Con este ejemplo no sólo se muestra la utilidad de este enfoque en la planeación y la gestión pública, sino también se enfatiza su aspecto transdisciplinario. En otras palabras, lo que se pretende es lograr que, al conocerse un umbral de comportamiento, sea posible diseñar acciones para disminuir la vulnerabilidad de un sistema socio-ecológico a cambios súbitos e indeseables.
 
 
-![Sistema socio-ecológico](/assets/figuras_fichas_IAI/sistema_socio-ecologico.png)
+![Sistema socio-ecológico](/assets/proyectos_apc/iai/sistema_socio-ecologico.png)
 _Figura 1. Sistema socio-ecológico de MEGADAPT_
 <br>
 

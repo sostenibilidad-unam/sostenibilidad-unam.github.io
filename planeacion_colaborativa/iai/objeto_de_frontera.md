@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ""
-permalink: /megadapt_iai/objeto_de_frontera
+permalink: /iai/objeto_de_frontera
 ---
 
 # Objeto de frontera
 
 Por objeto de frontera se entiende a todo instrumento de comunicación de información entre diferentes disciplinas especialidades y comunidades. Entre otros, estos instrumentos pueden ser textos, modelos, herramientas computacionales de visualización, reportes técnicos o mapas. Entre otros, estos instrumentos pueden ser textos, modelos, herramientas computacionales de visualización, reportes técnicos o mapas. En el contexto de la investigación transdisciplinaria, Se utilizan para traducir, comunicar y conciliar conocimiento entre diferentes disciplinas y saberes. Así, tienen como objetivo el facilitar la colaboración entre actores sociales tanto del ámbito académico, el político y el social. Su uso propicia la transparencia e imparcialidad en las tareas de generación y aplicación de conocimiento.
 
-![Mapa inundaciones](/assets/figuras_fichas_IAI/mapa_eventos_inundacion.png)
+![Mapa inundaciones](/assets/proyectos_apc/iai/mapa_eventos_inundacion.png)
 _Figura 1. Eventos de inundación en colonias de la Ciudad de México. Aumentar la resiliencia urbana puede ayudar a las ciudades a superar mejor este tipo de desastres naturales_ (Fuente de datos: Unidad Tormenta, Sistema de Aguas de la Ciudad de México)
 <br>
 
@@ -19,7 +19,7 @@ La complejidad de MEGADAPT obliga a la utilización de objetos de frontera de di
 Los objetos de frontera de MEGADAPT integran los efectos previsibles del cambio climático y la expansión urbana, así como las condiciones sociales futuras, en el análisis de escenarios de políticas _públicas_ para afrontar tales riesgos. MEGADAPT provee así un medio para ex­plorar la congruencia entre las decisiones presentes y el objetivo de minimizar la vulnerabilidad los riesgos
 socio-hidrológicos en el largo plazo. De esta forma, MEGADAPT aporta información útil para el diseño de políticas públicas dinámicas y adaptativas para la sostenibilidad de la Zona Metropolitana de la Ciudad de México.
 
-![Objeto de frontera](/assets/figuras_fichas_IAI/objeto_frontera.png)
+![Objeto de frontera](/assets/proyectos_apc/iai/objeto_frontera.png)
 _Figura 2. Ejemplo de objeto de frontera en MEGADAPT_
 <br>
 
