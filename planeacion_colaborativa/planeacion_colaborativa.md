@@ -13,119 +13,95 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
 
 200 m² se reparten en un área de trabajo para 16 técnicos y 8 estudiantes, 4 cubículos y una sala de geovisualización para 12 personas, equipada con un pizarrón inteligente y un equipo de videoconferencia. En estos espacios se lleva a cabo la coordinación técnica de las actividades del Anfiteatro de Decisiones.
 
-
-## Proyectos prioritarios
-
-### Planeación colaborativa
-
-*	Programa de Ordenamiento Ecológico Marino y Regional del Pacífico Norte.
-*	Pronóstico y propuesta del Programa de Ordenamiento Ecológico Regional del Territorio de la Cuenca del Valle de México.
-*	Sistema geoespacial de soporte de decisiones para la Zona Federal Marítima Terrestre: Análisis de vulnerabilidad costera ante el cambio climático.
-
-
-### Desarrollos computacionales
-*	Sistema automatizado para la elaboración del Pronóstico y Modelo de Ordenamiento Ecológico.
-*	Desarrollo de una Plataforma de Geo-visualización
-*	Sistema de Soporte Geográfico de Decisiones para la elaboración del Análisis de aptitud en Programas de Ordenamiento Ecológico.
-
-
-### Educación, creación y fortalecimiento de capacidades
-*	Programa de creación y fortalecimiento de capacidades en materia de Ordenamiento Ecológico.
-*	Managing biodiversity under climate change: Enhancing capacities in Mexico for Conservation Planning. Decision-Making and Sustainability Assessment.
-
 * * *
 
-<div class="text-center">
-  <h1>Proyectos</h1>
+<!-- 3-col-portfolio BS - - Page Content -->
+<div class="container">
 
+  <!-- Page Heading -->
+  <h1 class="text-center">Proyectos</h1>
   <br/>
 
-<!--
-### Fichas informativas del proyecto
+  <div class="row">
 
-* [Síntesis](/iai/sintesis)
-* [Transdisciplina](/iai/transdisciplina)
-* [Sistemas socio-ecológicos](/iai/sistemas_socioecologicos)
-* [Vulnerabilidad](/iai/vulnerabilidad)
-* [Objeto de frontera](/iai/objeto_de_frontera)
-* [Modelos mentales](/iai/modelos_mentales)
--->
-
-<div class="row">
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="http://megadapt.weebly.com/">
-        <img src="/assets/proyectos_apc/proy_foto.png" alt="megadapt" style="width:100%">
-        <div class="title">
-          <p>Megadapt</p>
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="http://megadapt.weebly.com/"><img class="card-img-top" src="/assets/proyectos_apc/proy_foto.png" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="http://megadapt.weebly.com/">Megadapt</a>
+          </h4>
+          <p class="card-text">Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la Ciudad de México</p>
         </div>
-        <br>
-        <div class="caption">
-        <p>Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la Ciudad de México</p>
-      </a>
+      </div>
+    </div>
+
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="/iai/introduccion"><img class="card-img-top" src="/assets/proyectos_apc/proy_foto.png" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="/iai/introduccion">Proyecto IAI CNR3108</a>
+          </h4>
+          <p class="card-text">Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="http://www.unibio.unam.mx/invasoras/"><img class="card-img-top" src="/assets/proyectos_apc/invasoras_screens.jpg" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="http://www.unibio.unam.mx/invasoras/">Monitoreo del estado de las invasiones biológicas de plantas en México</a>
+          </h4>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="http://kinet.cuaed.unam.mx/educacion_continua/ordenamiento_ecologico/"><img class="card-img-top" src="/assets/proyectos_apc/cuaed_screen.png" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="http://kinet.cuaed.unam.mx/educacion_continua/ordenamiento_ecologico/">Curso en línea de Ordenamiento Ecológico</a>
+          </h4>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="http://magrat.mine.nu:8080/Versatile/"><img class="card-img-top" src="/assets/proyectos_apc/proy_foto.png" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="http://magrat.mine.nu:8080/Versatile/">Programa Ecológico Marino y Regional del Ordenamiento del Pacífico Norte</a>
+          </h4>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="#"><img class="card-img-top" src="/assets/proyectos_apc/proy_foto.png" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="#">Peritaje en materia de impacto ambiental y social de las afectaciones del Aeropuerto Regional Barrancas el Cobre</a>
+          </h4>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
+        </div>
+      </div>
     </div>
   </div>
-  <!-- inicia -->
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/iai/sintesis">
-        <img src="/assets/proyectos_apc/iai/sintesis.png" alt="sintesis" style="width:100%">
-        <div class="title">
-          <p>Proyecto IAI CNR3108</p>
-        </div>
-        <div class="caption">
-        <p>Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area</p>
-      </a>
-    </div>
-  </div>
-  <!-- termina -->
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/iai/sistemas_socioecologicos">
-        <img src="/assets/proyectos_apc/iai/sistema_socio-ecologico.png" alt="socio-ecologico" style="width:100%">
-        <div class="caption">
-          <p>Sistema socio-ecológico</p>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
 
-<!-- segundo bloque -->
+  <!-- /.row -->
+</div> -->
 
-<div class="row">
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/iai/vulnerabilidad">
-        <img src="/assets/proyectos_apc/iai/vulnerabilidad.png" alt="vulnerabilidad" style="width:100%">
-        <div class="caption">
-          <p>Vulnerabilidad</p>
-        </div>
-      </a>
-    </div>
-  </div>
+  <!-- /.container -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/iai/objeto_de frontera">
-        <img src="/assets/proyectos_apc/iai/objeto_frontera.png" alt="objeto_frontera" style="width:100%">
-        <div class="caption">
-          <p>Objeto de frontera</p>
-        </div>
-      </a>
-    </div>
-  </div>
-
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/iai/modelos_mentales">
-        <img src="/assets/proyectos_apc/iai/modelo_mental_1.png" alt="modelo_mental" style="width:100%">
-        <div class="caption">
-          <p>Modelos mentales</p>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-
-<!-- tercer bloque -->
+<!-- FIN -->
