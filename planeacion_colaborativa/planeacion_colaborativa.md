@@ -58,8 +58,8 @@ Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio I
     <div class="thumbnail">
       <a href="/megadapt_iai/sintesis">
         <img src="/assets/figuras_fichas_IAI/inundacion_xochi.jpg" alt="sintesis" style="width:100%">
-        <div class="caption">
-          <p>Síntesis</p>
+        <div class="title">
+          <p>Megadapt</p>
         </div>
       </a>
     </div>
