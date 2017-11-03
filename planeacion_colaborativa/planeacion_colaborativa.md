@@ -16,7 +16,7 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
 * * *
 
 <!-- 3-col-portfolio BS - - Page Content -->
-<div class="container">
+<div class="container-fluid">
 
   <!-- Page Heading -->
   <h1 class="text-center">Proyectos</h1>
