@@ -40,13 +40,9 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
 
   <br/>
 
-## Megadapt
-
-
-## Proyecto IAI CNR3108: Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area"
-
-### Fichas informativas del proyecto
 <!--
+### Fichas informativas del proyecto
+
 * [Síntesis](/iai/sintesis)
 * [Transdisciplina](/iai/transdisciplina)
 * [Sistemas socio-ecológicos](/iai/sistemas_socioecologicos)
@@ -72,11 +68,13 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
   <!-- inicia -->
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="/iai/transdisciplina">
-        <img src="/assets/proyectos_apc/iai/transdisciplina.png" alt="transdisciplina" style="width:100%">
-        <div class="caption">
-          <p>Transdisciplina</p>
+      <a href="/iai/sintesis">
+        <img src="/assets/proyectos_apc/iai/sintesis.png" alt="sintesis" style="width:100%">
+        <div class="title">
+          <p>Proyecto IAI CNR3108</p>
         </div>
+        <div class="caption">
+        <p>Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area</p>
       </a>
     </div>
   </div>
