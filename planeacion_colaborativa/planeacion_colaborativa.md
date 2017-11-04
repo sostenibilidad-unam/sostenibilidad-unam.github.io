@@ -21,7 +21,7 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
 <!-- 1_MEGADAPT -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="http://megadapt.weebly.com/" target="_blank"><img class="card-img-top" src="/assets/proyectos_apc/proy_megadapt.png" alt=""></a>
+        <a href="http://megadapt.weebly.com/" target="_blank"><img class="card-img-top" src="/assets/proyectos_apc/proy_megadapt.jpg" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="http://megadapt.weebly.com/" target="_blank">Megadapt</a>
@@ -45,7 +45,7 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
 <!-- 3_Pacifico_Norte -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="http://magrat.mine.nu:8080/Versatile/" target="_blank"><img class="card-img-top" src="/assets/proyectos_apc/proy_foto.png" alt=""></a>
+        <a href="http://magrat.mine.nu:8080/Versatile/" target="_blank"><img class="card-img-top" src="/assets/proyectos_apc/proy_pacifico_norte.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="http://magrat.mine.nu:8080/Versatile/" target="_blank">Programa Ecológico Marino y Regional del Ordenamiento del Pacífico Norte</a>
@@ -57,7 +57,7 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
 <!-- 4_invasoras -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="http://www.unibio.unam.mx/invasoras/" target="_blank"><img class="card-img-top" src="/assets/proyectos_apc/invasoras_screens.jpg" alt=""></a>
+        <a href="http://www.unibio.unam.mx/invasoras/" target="_blank"><img class="card-img-top" src="/assets/proyectos_apc/proy_invasoras.jpg" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="http://www.unibio.unam.mx/invasoras/" target="_blank">Invasoras</a>
@@ -84,7 +84,7 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
 <!-- 6_Repechique -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="/planeacion_colaborativa/repechique"><img class="card-img-top" src="/assets/proyectos_apc/proy_repechique_1.png" alt=""></a>
+        <a href="/planeacion_colaborativa/repechique"><img class="card-img-top" src="/assets/proyectos_apc/proy_repechique_1.jpg" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="/planeacion_colaborativa/repechique">Peritaje en materia de impacto ambiental y social de las afectaciones del Aeropuerto Regional Barrancas el Cobre</a>
