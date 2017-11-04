@@ -79,7 +79,6 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
         </div>
       </div>
     </div>
-  </div>
 
 <!-- 6_Repechique -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
@@ -93,7 +92,6 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
         </div>
       </div>
     </div>
-  </div>
 
   <!-- /.row -->
 </div>
