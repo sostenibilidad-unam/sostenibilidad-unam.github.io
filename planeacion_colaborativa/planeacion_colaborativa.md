@@ -53,9 +53,9 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
         <a href="http://www.unibio.unam.mx/invasoras/"><img class="card-img-top" src="/assets/proyectos_apc/invasoras_screens.jpg" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="http://www.unibio.unam.mx/invasoras/">Monitoreo del estado de las invasiones biológicas de plantas en México</a>
+            <a href="http://www.unibio.unam.mx/invasoras/">Invasoras</a>
           </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!</p>
+          <p class="card-text">Monitoreo del estado de las invasiones biológicas de plantas en México</p>
         </div>
       </div>
     </div>
