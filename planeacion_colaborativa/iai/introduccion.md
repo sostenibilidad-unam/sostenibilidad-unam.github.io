@@ -4,7 +4,7 @@ title: ""
 permalink: /iai/introduccion
 ---
 
-![iai](assets/logo_iai.png)  ![nsf](assets/logo_nsf.jpg)  ![nsf](assets/logo_asu.jpg)
+![iai](/assets/logo_iai.png)  ![nsf](/assets/logo_nsf.jpg)  ![nsf](/assets/logo_asu.jpg)
 
 # Proyecto IAI CNR3108
 
