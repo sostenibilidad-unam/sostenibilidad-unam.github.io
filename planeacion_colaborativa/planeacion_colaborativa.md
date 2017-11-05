@@ -45,12 +45,12 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
 <!-- 3_Pacifico_Norte -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="http://magrat.mine.nu:8080/Versatile/" target="_blank"><img class="card-img-top" src="/assets/proyectos_apc/proy_pacifico_norte.png" alt=""></a>
+        <a href="/planeacion_colaborativa/pacifico_norte"><img class="card-img-top" src="/assets/proyectos_apc/proy_pacifico_norte.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="http://magrat.mine.nu:8080/Versatile/" target="_blank">Programa Ecológico Marino y Regional del Ordenamiento del Pacífico Norte</a>
+            <a href="/planeacion_colaborativa/pacifico_norte">Programa Ecológico Marino y Regional del Ordenamiento del Pacífico Norte</a>
           </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae</p>
         </div>
       </div>
     </div>
@@ -88,7 +88,7 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
           <h4 class="card-title">
             <a href="/planeacion_colaborativa/repechique">Peritaje en materia de impacto ambiental y social de las afectaciones del Aeropuerto Regional Barrancas el Cobre</a>
           </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque</p>
         </div>
       </div>
     </div>
