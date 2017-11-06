@@ -14,7 +14,7 @@ Coping with hydrological risk in megacities: Collaborative planning framework fo
 
   <!-- Page Heading -->
   <h3 class="text-center">Fichas informativas del proyecto</h3>
-  <br/>
+  <br>
 
   <div class="row">
 <!-- 1_sintesis -->
@@ -53,6 +53,7 @@ Coping with hydrological risk in megacities: Collaborative planning framework fo
     <!-- row -->
   </div>
 
+<br>
 <div class="row">
 <!-- 5_vulnerabilidad -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
