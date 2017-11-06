@@ -4,7 +4,7 @@ title: ""
 permalink: /iai/introduccion
 ---
 
-![iai](/assets/logo_iai.png)  ![nsf](/assets/logo_nsf.jpg)  ![nsf](/assets/logo_asu.jpg)
+![iai](/assets/logo_iai.png)    ![nsf](/assets/logo_nsf.jpg)    ![nsf](/assets/logo_asu.jpg)
 
 # Proyecto IAI CNR3108
 
@@ -13,7 +13,7 @@ Coping with hydrological risk in megacities: Collaborative planning framework fo
 <div class="container-fluid">
 
   <!-- Page Heading -->
-  <h1 class="text-center">Fichas informativas del proyecto</h1>
+  <h3 class="text-center">Fichas informativas del proyecto</h3>
   <br/>
 
   <div class="row">
@@ -50,6 +50,10 @@ Coping with hydrological risk in megacities: Collaborative planning framework fo
         </div>
       </div>
     </div>
+    <!-- row -->
+  </div>
+
+<div class="row">
 <!-- 5_vulnerabilidad -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
