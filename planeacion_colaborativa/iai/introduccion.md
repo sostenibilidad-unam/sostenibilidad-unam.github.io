@@ -15,7 +15,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
 <div class="container-fluid">
 
   <!-- Page Heading -->
-  <h3 class="text-center">Fichas informativas del proyecto</h3>
+  <h3 class="text-center">Comunicación y transdisciplina: Fichas informativas del proyecto Megadapt</h3>
   <br>
 
   <div class="row">
