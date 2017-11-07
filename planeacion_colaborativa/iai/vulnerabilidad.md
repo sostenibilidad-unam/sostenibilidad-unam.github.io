@@ -13,8 +13,8 @@ El tercero es la resiliencia o facultad para resistir, absorber, recuperarse y a
 De este modo, la noción de vulnerabilidad conlleva el deber de la administración pública para disminuirla. Ello implica el desarrollo de investigaciones transdisciplinarias que incidan en los procesos de gestión pública. Dichas investigaciones deben integrar las aspiraciones, necesidades y valores de todos los agentes sociales para asegurarse que los resultados incidan positivamente en el bienestar social, y se disminuyan las asimetrías sociales y económicas de los grupos más vulnerables (Figura 1).
 
 
-![Vulnerabilidad](/assets/proyectos_apc/iai/vulnerabilidad.png)
-_Figura 1. Vulnerabilidad en MEGADAPT_
+![Vulnerabilidad](/assets/proyectos_apc/iai_fichas/vulnerabilidad.png)
+**Figura 1.** _Vulnerabilidad en MEGADAPT_
 <br>
 
 
@@ -25,8 +25,8 @@ Un aspecto innovador de MEGADAPT es la integración de las amenazas biofísicas 
 Para ello, en MEGADAPT se recurre a esquemas híbridos de análisis y a la simulación matemática. Con ello se logra sintetizar una cantidad enorme de datos cualitativos y cuantitativos. Los resultados se muestran en mapas digitales interactivos que permiten, por ejemplo, dilucidar patrones de vulnerabilidad que emergen a partir de ciertas políticas públicas (Figura 2). De esta manera, es posible explorar diferentes condiciones o escenarios que ayudan a entender mejor los procesos que generan la vulnerabilidad en la megalópolis. Así, en MEGADAPT se identifican las intervenciones que son justas y eficientes para, mediante una serie de productos u objetos en la frontera, contribuir al diseño de políticas públicas que reduzcan la vulnerabilidad de la Zona Metropolitana de la Ciudad de México.
 
 
-![Objeto de frontera](/assets/proyectos_apc/iai/objeto_frontera.png)
-_Figura 2. Ejemplo de objeto de frontera en MEGADAPT_
+![Objeto de frontera](/assets/proyectos_apc/iai_fichas/objeto_frontera.png)
+**Figura 2.** _Ejemplo de objeto de frontera en MEGADAPT_
 <br>
 
 

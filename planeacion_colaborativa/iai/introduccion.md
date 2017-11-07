@@ -8,12 +8,14 @@ permalink: /iai/introduccion
 
 # Proyecto IAI CNR3108
 
-Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area
+## Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area
+
+En este proyecto se explora el avance metodológico, las lecciones aprendidas, y las barreras para la investigación transdisciplinaria durante la evaluación del riesgo socio-hidrológico de la Zona Metropolitana de la Ciudad de México. Los ámbitos de estudio incluyen: el diseño del proyecto, la determinación de los actores sociales, el involucramiento de los actores sociales durante las distintas etapas de desarrollo del proyecto, la evaluación del aprendizaje social, las herramientas de traducción, comunicación y mediación, y el desarrollo de las capacidades internas para enfrentar los retos del proyecto.
 
 <div class="container-fluid">
 
   <!-- Page Heading -->
-  <h3 class="text-center">Fichas informativas del proyecto</h3>
+  <h3 class="text-center">Comunicación y transdisciplina: Fichas informativas del proyecto Megadapt</h3>
   <br>
 
   <div class="row">
@@ -34,7 +36,7 @@ Coping with hydrological risk in megacities: Collaborative planning framework fo
         <a href="/iai/transdisciplina"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/transdisciplina.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="/iai/sintesis">Transdisciplina</a>
+            <a href="/iai/transdisciplina">Transdisciplina</a>
           </h4>
         </div>
       </div>
@@ -45,7 +47,7 @@ Coping with hydrological risk in megacities: Collaborative planning framework fo
         <a href="/iai/sistemas_socioecologicos"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/sistema_socio-ecologico.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="/iai/sintesis">Sistemas socio-ecológicos</a>
+            <a href="/iai/sistemas_socioecologicos">Sistemas socio-ecológicos</a>
           </h4>
         </div>
       </div>
@@ -61,7 +63,7 @@ Coping with hydrological risk in megacities: Collaborative planning framework fo
         <a href="/iai/vulnerabilidad"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/vulnerabilidad.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="/iai/sintesis">Vulnerabilidad</a>
+            <a href="/iai/vulnerabilidad">Vulnerabilidad</a>
           </h4>
         </div>
       </div>
@@ -72,7 +74,7 @@ Coping with hydrological risk in megacities: Collaborative planning framework fo
         <a href="/iai/objeto_de_frontera"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/objeto_frontera.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="/iai/sintesis">Objeto de frontera</a>
+            <a href="/iai/objeto_de_frontera">Objeto de frontera</a>
           </h4>
         </div>
       </div>
@@ -83,7 +85,7 @@ Coping with hydrological risk in megacities: Collaborative planning framework fo
         <a href="/iai/modelos_mentales"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/modelo_mental_1.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="/iai/sintesis">Modelos mentales</a>
+            <a href="/iai/modelos_mentales">Modelos mentales</a>
           </h4>
         </div>
       </div>

@@ -22,7 +22,7 @@ desconcentrados, el Instituto Nacional de Ecología y Cambio Climático
 
 ![Consorcio](/assets/consorcio.png)
 
-_Figura 1. Consorcio LANCIS_
+**Figura 1.** _Consorcio LANCIS_
 
 El LANCIS constituye una respuesta a la creciente y genuina
 preocupación sobre el papel de la UNAM en el desarrollo del país, por
