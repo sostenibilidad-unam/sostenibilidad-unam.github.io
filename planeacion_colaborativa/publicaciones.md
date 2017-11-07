@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Publicaciones y presentaciones"
+title: ""
 permalink: /planeacion_colaborativa/publicaciones/
 ---
+
+# Publicaciones y presentaciones
 
 Publicaciones
 -------------
@@ -25,12 +27,21 @@ Publicaciones
     decision analysis and system analysis. *Sustainability science*,
     *9*(3), 303-319. [http://rdcu.be/x43n.](http://rdcu.be/x43n)
 
+- Bojórquez-Tapia, L. A., Cruz-Bello, G. M., & Luna-González, L. (2013). Connotative land degradation mapping: a knowledge-based approach to land degradation assessment. *Environmental modelling & software*, *40*, 51-64.
+[https://ac.els-cdn.com/S1364815212002071/1-s2.0-S1364815212002071-main.pdf?_tid=7d170208-c328-11e7-a7f0-00000aab0f27&acdnat=1509996612_1a41f49e101f5e412b89b308ff434247](https://ac.els-cdn.com/S1364815212002071/1-s2.0-S1364815212002071-main.pdf?_tid=7d170208-c328-11e7-a7f0-00000aab0f27&acdnat=1509996612_1a41f49e101f5e412b89b308ff434247)
+
+- Bojórquez-Tapia, L. A., & Eakin, H. (2012). Conflict and collaboration in defining the “Desired State”: the case of Cozumel, Mexico. Collaborative Resilience: Moving Through Crisis to Opportunity, MIT Press, London, 153-176.
+
+
 -   Bojórquez-Tapia, L. A., Luna-González, L., Cruz-Bello, G. M.,
     Gómez-Priego, P., Juárez-Marusich, L., y Rosas-Pérez, I. (2011).
     Regional environmental assessment for multiagency policy making:
     implementing an environmental ontology through GIS-MCDA.
     *Environment and Planning B: Planning and Design*, *38*(3), 539-563.
     [http://journals.sagepub.com/doi/pdf/10.1068/b36129.](http://journals.sagepub.com/doi/pdf/10.1068/b36129)
+
+-	Eakin, H., Bojórquez-Tapia, L. A., Diaz, R. M., Castellanos, E., & Haggar, J. (2011). Adaptive capacity and social-environmental change: theoretical and operational modeling of smallholder coffee systems response in Mesoamerican Pacific Rim. *Environmental management*, *47*(3), 352-367. [http://rdcu.be/x842](http://rdcu.be/x842)
+
 
 Presentaciones
 --------------
