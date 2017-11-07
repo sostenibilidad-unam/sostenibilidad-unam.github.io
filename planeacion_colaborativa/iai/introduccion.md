@@ -8,7 +8,9 @@ permalink: /iai/introduccion
 
 # Proyecto IAI CNR3108
 
-Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area
+## Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area
+
+En este proyecto se explora el avance metodológico, las lecciones aprendidas, y las barreras para la investigación transdisciplinaria durante la evaluación del riesgo socio-hidrológico de la Zona Metropolitana de la Ciudad de México. Los ámbitos de estudio incluyen: el diseño del proyecto, la determinación de los actores sociales, el involucramiento de los actores sociales durante las distintas etapas de desarrollo del proyecto, la evaluación del aprendizaje social, las herramientas de traducción, comunicación y mediación, y el desarrollo de las capacidades internas para enfrentar los retos del proyecto.
 
 <div class="container-fluid">
 

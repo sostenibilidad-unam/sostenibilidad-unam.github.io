@@ -33,19 +33,19 @@ construyen con los actores sociales en talleres grupales o bien, mediante la
 extracción de información secundaria proveniente de entrevistas o reportes
 técnicos.
 
-![Modelos mentales 1](/assets/proyectos_apc/iai/modelo_mental_1.png)
+![Modelos mentales 1](/assets/proyectos_apc/iai_fichas/modelo_mental_1.png)
 <br>
-_Figura 1. Esquema general de un modelo mental y su expresión con el mundo externo_
-<br>
-
-![Modelos mentales 2](/assets/proyectos_apc/iai/modelo_mental_2.png)
-<br>
-_Figura 2. Los modelos mentales son herramientas para entender las acciones y decisiones de los actores en el sistema socio-ecológico_
+**Figura 1.** _Esquema general de un modelo mental y su expresión con el mundo externo_
 <br>
 
-![Modelos mentales 3](/assets/proyectos_apc/iai/modelo_mental_3.png)
+![Modelos mentales 2](/assets/proyectos_apc/iai_fichas/modelo_mental_2.png)
 <br>
-_Figura 3. Los modelos mentales permiten distinguir las visiones de un mismo problema socio-ecológico entre individuos o sectores_
+**Figura 2.** _Los modelos mentales son herramientas para entender las acciones y decisiones de los actores en el sistema socio-ecológico_
+<br>
+
+![Modelos mentales 3](/assets/proyectos_apc/iai_fichas/modelo_mental_3.png)
+<br>
+**Figura 3.** _Los modelos mentales permiten distinguir las visiones de un mismo problema socio-ecológico entre individuos o sectores_
 <br>
 
 Cómo se usó
@@ -69,9 +69,9 @@ de decisiones y acciones de agentes del sistema socio-ecológico en MEGADAPT y
 con ello, mejorar el entendimiento de la vulnerabilidad de la Zona Metropolitana
 de la Ciudad de México.
 
-![Modelos mentales 4](/assets/proyectos_apc/iai/diagrama_vensim.png)
+![Modelos mentales 4](/assets/proyectos_apc/iai_fichas/diagrama_vensim.png)
 <br>
-_Figura 4. Ejemplo de un modelo mental resultado de un taller participativo_
+**Figura 4.** _Ejemplo de un modelo mental resultado de un taller participativo_
 <br>
 
 ### Literatura relevante

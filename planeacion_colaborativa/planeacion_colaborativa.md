@@ -18,7 +18,7 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
   <br/>
 
   <div class="row">
-<!-- 1_MEGADAPT -->
+  <!-- 1_MEGADAPT -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
         <a href="http://megadapt.weebly.com/" target="_blank"><img class="card-img-top" src="/assets/proyectos_apc/proy_megadapt.jpg" alt=""></a>
@@ -26,11 +26,11 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
           <h4 class="card-title">
             <a href="http://megadapt.weebly.com/" target="_blank">Megadapt</a>
           </h4>
-          <p class="card-text">Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la Ciudad de México</p>
+          <p class="card-text" style="font-size:80%">Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la Ciudad de México</p>
         </div>
       </div>
     </div>
-<!-- 2_IAI -->
+  <!-- 2_IAI -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
         <a href="/iai/introduccion"><img class="card-img-top" src="/assets/proyectos_apc/proy_iai.png" alt=""></a>
@@ -38,11 +38,11 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
           <h4 class="card-title">
             <a href="/iai/introduccion">Proyecto IAI CNR3108</a>
           </h4>
-          <p class="card-text">Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area</p>
+          <p class="card-text" style="font-size:80%">Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area</p>
         </div>
       </div>
     </div>
-<!-- 3_Pacifico_Norte -->
+  <!-- 3_Pacifico_Norte -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
         <a href="/planeacion_colaborativa/pacifico_norte"><img class="card-img-top" src="/assets/proyectos_apc/proy_pacifico_norte.png" alt=""></a>
@@ -50,37 +50,27 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
           <h4 class="card-title">
             <a href="/planeacion_colaborativa/pacifico_norte">Programa Ecológico Marino y Regional del Ordenamiento del Pacífico Norte</a>
           </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae</p>
+          <p class="card-text" style="font-size:80%">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae</p>
         </div>
       </div>
     </div>
+  <!-- /.row -->
+  </div>
+
+  <div class="row">
 <!-- 4_invasoras -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
         <a href="http://www.unibio.unam.mx/invasoras/" target="_blank"><img class="card-img-top" src="/assets/proyectos_apc/proy_invasoras.jpg" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="http://www.unibio.unam.mx/invasoras/" target="_blank">Invasoras</a>
+            <a href="http://www.unibio.unam.mx/invasoras/" target="_blank">Monitoreo del estado de las invasiones biológicas de plantas en México</a>
           </h4>
-          <p class="card-text">Monitoreo del estado de las invasiones biológicas de plantas en México</p>
+          <p class="card-text" style="font-size:80%">Monitoreo del estado de las invasiones biológicas de plantas en México</p>
         </div>
       </div>
     </div>
-
-<!-- 5_publicaciones -->
-    <div class="col-lg-4 col-sm-6 portfolio-item">
-      <div class="card h-100">
-        <a href="/planeacion_colaborativa/publicaciones"><img class="card-img-top" src="/assets/proyectos_apc/proy_publicaciones.png" alt=""></a>
-        <div class="card-body">
-          <h4 class="card-title">
-            <a href="/planeacion_colaborativa/publicaciones">Publicaciones</a>
-          </h4>
-          <p class="card-text">Publicaciones del Área de Planeación Colaborativa</p>
-        </div>
-      </div>
-    </div>
-
-<!-- 6_Repechique -->
+<!-- 5_Repechique -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
         <a href="/planeacion_colaborativa/repechique"><img class="card-img-top" src="/assets/proyectos_apc/proy_repechique_1.jpg" alt=""></a>
@@ -88,11 +78,22 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
           <h4 class="card-title">
             <a href="/planeacion_colaborativa/repechique">Peritaje en materia de impacto ambiental y social de las afectaciones del Aeropuerto Regional Barrancas el Cobre</a>
           </h4>
-          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque</p>
+          <p class="card-text" style="font-size:80%">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque</p>
         </div>
       </div>
     </div>
-
+<!-- 6_publicaciones -->
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="/planeacion_colaborativa/publicaciones"><img class="card-img-top" src="/assets/proyectos_apc/proy_publicaciones.png" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="/planeacion_colaborativa/publicaciones">Publicaciones</a>
+          </h4>
+          <p class="card-text" style="font-size:80%">Publicaciones del Área de Planeación Colaborativa</p>
+        </div>
+      </div>
+    </div>
   <!-- /.row -->
 </div>
 
