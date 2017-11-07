@@ -36,7 +36,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
         <a href="/iai/transdisciplina"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/transdisciplina.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="/iai/sintesis">Transdisciplina</a>
+            <a href="/iai/transdisciplina">Transdisciplina</a>
           </h4>
         </div>
       </div>
@@ -47,7 +47,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
         <a href="/iai/sistemas_socioecologicos"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/sistema_socio-ecologico.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="/iai/sintesis">Sistemas socio-ecológicos</a>
+            <a href="/iai/sistemas_socioecologicos">Sistemas socio-ecológicos</a>
           </h4>
         </div>
       </div>
@@ -63,7 +63,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
         <a href="/iai/vulnerabilidad"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/vulnerabilidad.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="/iai/sintesis">Vulnerabilidad</a>
+            <a href="/iai/vulnerabilidad">Vulnerabilidad</a>
           </h4>
         </div>
       </div>
@@ -74,7 +74,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
         <a href="/iai/objeto_de_frontera"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/objeto_frontera.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="/iai/sintesis">Objeto de frontera</a>
+            <a href="/iai/objeto_de_frontera">Objeto de frontera</a>
           </h4>
         </div>
       </div>
@@ -85,7 +85,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
         <a href="/iai/modelos_mentales"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/modelo_mental_1.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="/iai/sintesis">Modelos mentales</a>
+            <a href="/iai/modelos_mentales">Modelos mentales</a>
           </h4>
         </div>
       </div>
