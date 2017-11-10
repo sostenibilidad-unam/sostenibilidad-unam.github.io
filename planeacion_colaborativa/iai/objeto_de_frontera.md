@@ -4,6 +4,9 @@ title: ""
 permalink: /iai/objeto_de_frontera
 ---
 
+<center><img src="/assets/logo_iai.png" alt="logo iai"></center>
+
+
 # Objeto de frontera
 
 Por objeto de frontera se entiende a todo instrumento de comunicación de información entre diferentes disciplinas especialidades y comunidades. Entre otros, estos instrumentos pueden ser textos, modelos, herramientas computacionales de visualización, reportes técnicos o mapas. Entre otros, estos instrumentos pueden ser textos, modelos, herramientas computacionales de visualización, reportes técnicos o mapas. En el contexto de la investigación transdisciplinaria, Se utilizan para traducir, comunicar y conciliar conocimiento entre diferentes disciplinas y saberes. Así, tienen como objetivo el facilitar la colaboración entre actores sociales tanto del ámbito académico, el político y el social. Su uso propicia la transparencia e imparcialidad en las tareas de generación y aplicación de conocimiento.

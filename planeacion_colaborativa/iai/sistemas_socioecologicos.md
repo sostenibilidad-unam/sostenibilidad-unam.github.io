@@ -4,6 +4,9 @@ title: ""
 permalink: /iai/sistemas_socioecologicos
 ---
 
+<center><img src="/assets/logo_iai.png" alt="logo iai"></center>
+
+
 # Sistemas socio-ecológicos
 
 El enfoque de sistema socio-ecológico descansa en la noción de que las fronteras entre los componentes sociales y los componentes ecológicos de los ecosistemas es arbitraria. En realidad, dichos componentes están estrechamente relacionados por lo que un sistema se estructura para su análisis dilucidando sus conexiones entre variables sociales y ecológicas en un determinado espacio. Así, el término _sistemas socio-ecológicos acoplados_ enfatiza el entramado de relaciones ecológicas y sociales en torno a los recursos necesarios para el sostenimiento de la vida civilizada. Bajo esta perspectiva, un sistema socio-ecológico es una herramienta de análisis que parte de la combinación en un todo organizado del conjunto de factores sociales con un conjunto de factores ecológicos para, de esta manera, entender las reacciones de los factores ecológicos a cambios de los factores sociales y viceversa. Por ejemplo, se requiere de un sistema socio-ecológico acoplado para analizar cómo se agrava el abatimiento de los acuíferos en las ciudades con la expansión urbana a las zonas de recarga hídrica. El abatimiento de los acuíferos es resultado de una demanda de agua creciente y una reducción de la infiltración progresiva, mientras que la expansión urbana depende de procesos sociales y económicos autónomos, aunque se ciñe a la disponibilidad de agua de los acuíferos. El entrelazamiento de las relaciones causa-efecto entre los factores sociales, económicos e hidrológicos quedan así de manifiesto: El impulso a la urbanización a costa de los ecosistemas naturales afecta el ciclo hidrológico y, a su vez, ocasiona que disminuyan los aportes de agua al acuífero, del cual se extrae cada vez más agua para abastecer la creciente urbanización.
@@ -11,6 +14,7 @@ El ejemplo anterior también sirve para esclarecer dos puntos fundamentales del 
 
 
 ![Sistema socio-ecológico](/assets/proyectos_apc/iai_fichas/sistema_socio-ecologico.png)
+<br>
 **Figura 1.** _Sistema socio-ecológico de MEGADAPT_
 <br>
 

@@ -38,7 +38,7 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
           <h4 class="card-title">
             <a href="/iai/introduccion">Proyecto IAI CNR3108</a>
           </h4>
-          <p class="card-text" style="font-size:80%">Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area</p>
+          <p class="card-text" style="font-size:80%">Lecciones de transdisciplina en la evaluación del riesgo hidrológico en megaciudades: esquema de planeación colaborativa para la Zona Metropolitana de la Ciudad de México</p>
         </div>
       </div>
     </div>

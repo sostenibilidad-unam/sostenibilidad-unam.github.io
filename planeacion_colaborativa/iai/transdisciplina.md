@@ -4,6 +4,9 @@ title: ""
 permalink: /iai/transdisciplina
 ---
 
+<center><img src="/assets/logo_iai.png" alt="logo iai"></center>
+
+
 # Transdisciplina
 
 La transdisciplina es una escuela de pensamiento en la que se subraya la fusión de conocimiento situado dentro y fuera del ámbito académico. Es un _modo de investigación científica_ enfocado al estudio sistemático de una _totalidad organizada,_ con el involucramiento de los actores sociales. Su objetivo es establecer las bases de conocimiento para la conducción de los sistemas socio-ecológicos hacia estados de menor vulnerabilidad y mayor resiliencia. Así, amalgama las diversas formas de describir y entender correctamente una _realidad compleja_ que, por definición, no se ciñe a disciplina alguna.
@@ -13,6 +16,7 @@ La esfera de acción de toda investigación transdisciplinaria está dictada por
 La investigación transdisciplinaria estriba en un proceso a través del cual se concibe, ordena, dirige y vincula la investigación científica de manera plural, pragmática e incluyente. Incorpora, por lo tanto, las múltiples aristas o dimensiones sociales, culturales, políticas y normativas de los sistemas socio-ecológicos. Conlleva, consecuentemente, tres elementos indispensables para la gobernanza colaborativa y la _co-producción de conocimiento_ entre actores sociales. Primero, requiere del _trabajo en la frontera_ o esquema de gestión colectiva que enlaza los ámbitos de acción de las ciencias, las políticas públicas y la acción social. Segundo, demanda una _organización en la frontera_ que facilite un esquema de _involucramiento ininterrumpido_ de los actores sociales en las investigaciones. Y tercero, exige de _objetos en la frontera_ o artefactos para la planeación y toma de resoluciones que apoderen a los actores sociales con conocimiento relevante (i.e., pertinencia para la toma de resoluciones), legítimo (i.e., consideración sin prejuicios de valores, preocupaciones y perspectivas de los diferentes actores sociales) y creíble (i.e., evidencias públicamente verificables). De esta forma, se logra  que la agenda de investigación no sólo refleje las prioridades y las normas de los actores sociales, sino también  que el conocimiento se comparta entre todos los actores sociales de manera equitativa y justa.
 
 ![Transdisciplina](/assets/proyectos_apc/iai_fichas/transdisciplina.png)
+<br>
 **Figura 1.** _Transdisciplina en MEGADAPT_
 <br>
 

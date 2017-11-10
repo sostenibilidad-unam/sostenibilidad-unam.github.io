@@ -9,13 +9,13 @@ exclude: true
 - Investigador Titular "B"
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
-- Página personal: http://web.ecologia.unam.mx/laboratorios/bojorquez/index.php/8-pincipal 
+- Página personal: http://web.ecologia.unam.mx/laboratorios/bojorquez/index.php/8-pincipal
 - Email: bojorquez@ecologia.unam.mx
 
 
 ## Campo de investigación
 
-Ciencias de la sostenibilidad y planificación colaborativa
+Ciencias de la sostenibilidad y planeación colaborativa
 
 ## Especialidades
 

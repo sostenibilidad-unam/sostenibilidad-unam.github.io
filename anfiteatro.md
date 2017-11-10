@@ -49,7 +49,6 @@ data-ride="carousel" -->
     <li data-target="#myCarousel" data-slide-to="7"></li>
     <li data-target="#myCarousel" data-slide-to="8"></li>
     <li data-target="#myCarousel" data-slide-to="9"></li>
-    <li data-target="#myCarousel" data-slide-to="10"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -84,10 +83,6 @@ data-ride="carousel" -->
 
     <div class="item">
       <img src="/assets/anfiteatro/fo_anfiteatro_08.jpg">
-    </div>
-
-    <div class="item">
-      <img src="/assets/anfiteatro/fo_anfiteatro_09.jpg">
     </div>
 
     <div class="item">

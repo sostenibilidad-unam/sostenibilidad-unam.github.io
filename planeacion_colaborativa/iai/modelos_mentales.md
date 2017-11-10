@@ -4,6 +4,9 @@ title: ""
 permalink: /iai/modelos_mentales
 ---
 
+<center><img src="/assets/logo_iai.png" alt="logo iai"></center>
+
+
 Modelos mentales
 ================
 

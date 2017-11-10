@@ -4,6 +4,9 @@ title: ""
 permalink: /iai/vulnerabilidad
 ---
 
+<center><img src="/assets/logo_iai.png" alt="logo iai"></center>
+
+
 # Vulnerabilidad
 
 La vulnerabilidad se define como las consecuencias o daños que potencialmente ocasionaría un evento extremo en un territorio. En el contexto de los sistemas socio-ecológicos, se refiere a la fragilidad de los atributos y funciones a cambios adversos del entorno. Así, la vulnerabilidad está asociada a la disminución de las capacidades de la sociedad para enfrentar amenazas o peligros, ya sea de índole natural (de origen biológico, geológico, hidrológico o atmosférico) o socio-económica (silvicultura, expansión urbana, construcción de infraestructura, cambios económicos, etc.).
@@ -14,6 +17,7 @@ De este modo, la noción de vulnerabilidad conlleva el deber de la administraci�
 
 
 ![Vulnerabilidad](/assets/proyectos_apc/iai_fichas/vulnerabilidad.png)
+<br>
 **Figura 1.** _Vulnerabilidad en MEGADAPT_
 <br>
 

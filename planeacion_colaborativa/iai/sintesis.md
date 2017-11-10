@@ -4,6 +4,9 @@ title: ""
 permalink: /iai/sintesis
 ---
 
+<center><img src="/assets/logo_iai.png" alt="logo iai"></center>
+
+
 # Síntesis MEGADAPT
 
 MEGADAPT es un proyecto de investigación que aborda la vulnerabilidad de las
@@ -55,6 +58,7 @@ las posibles alternativas de solución para los problemas específicos de la Zon
 Metropolitana de la Ciudad de México.
 
 ![Taller](/assets/proyectos_apc/iai_fichas/taller_megadapt.jpg)
+<br>
 **Figura 2.** _Taller externo con residentes de la colonia Miravalle, en Iztapalapa_
 <br>
 <br>

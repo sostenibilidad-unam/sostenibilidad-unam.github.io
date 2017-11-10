@@ -4,18 +4,19 @@ title: ""
 permalink: /iai/introduccion
 ---
 
-![iai](/assets/logo_iai.png)    ![nsf](/assets/logo_nsf.jpg)    ![nsf](/assets/logo_asu.jpg)
+<center><img src="/assets/logo_iai.png" alt="logo iai"></center>
 
 # Proyecto IAI CNR3108
 
-## Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area
+## Lecciones de transdisciplina en la evaluación del riesgo hidrológico en megaciudades: esquema de planeación colaborativa para la Zona Metropolitana de la Ciudad de México
 
 En este proyecto se explora el avance metodológico, las lecciones aprendidas, y las barreras para la investigación transdisciplinaria durante la evaluación del riesgo socio-hidrológico de la Zona Metropolitana de la Ciudad de México. Los ámbitos de estudio incluyen: el diseño del proyecto, la determinación de los actores sociales, el involucramiento de los actores sociales durante las distintas etapas de desarrollo del proyecto, la evaluación del aprendizaje social, las herramientas de traducción, comunicación y mediación, y el desarrollo de las capacidades internas para enfrentar los retos del proyecto.
 
 <div class="container-fluid">
 
   <!-- Page Heading -->
-  <h3 class="text-center">Comunicación y transdisciplina: Fichas informativas del proyecto Megadapt</h3>
+  <h3 class="text-center">Comunicación y transdisciplina:
+  <br>Fichas informativas del proyecto Megadapt</h3>
   <br>
 
   <div class="row">
@@ -44,7 +45,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
 <!-- 4_sistemas_socioecologicos -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="/iai/sistemas_socioecologicos"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/sistema_socio-ecologico.png" alt=""></a>
+        <a href="/iai/sistemas_socioecologicos"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/mini_sistema_socio-ecologico.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="/iai/sistemas_socioecologicos">Sistemas socio-ecológicos</a>
@@ -60,7 +61,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
 <!-- 5_vulnerabilidad -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="/iai/vulnerabilidad"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/vulnerabilidad.png" alt=""></a>
+        <a href="/iai/vulnerabilidad"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/mini_vulnerabilidad.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="/iai/vulnerabilidad">Vulnerabilidad</a>
@@ -82,7 +83,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
 <!-- 7_Modelos_mentales -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="/iai/modelos_mentales"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/modelo_mental_1.png" alt=""></a>
+        <a href="/iai/modelos_mentales"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/mini_modelo_mental_2.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="/iai/modelos_mentales">Modelos mentales</a>
