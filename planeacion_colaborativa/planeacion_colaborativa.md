@@ -4,9 +4,60 @@ title: "Área de Planeación Colaborativa"
 permalink: /planeacion_colaborativa/
 ---
 
-El área de Planeación Colaborativa aborda problemas socioambientales complejos, relacionados con la planeación sostenible.
-Las actividades de esta área tienen la finalidad de responder preguntas que determinan la gestión y toma de decisiones. Para esto se recurre a las teorías y herramientas más avanzadas dentro de los campos del desarrollo de políticas públicas, la planeación del uso del suelo, la modelación geoespacial, la biocomplejidad, la teoría de decisión, la geovisualización, la gobernanza y el aprendizaje social.
-Así, esta área busca desarrollar instrumentos apropiados para traducir y comunicar el conocimiento científico a ejecutivos y funcionarios de los sectores público, privado y social, de modo que la ciencia se pueda ligar a la toma de decisiones durante el proceso de planeación y se facilite el tránsito hacia la sosteni­bilidad.
+El área de *Planeación Colaborativa* del Laboratorio Nacional de
+Ciencias de la Sostenibilidad se enfoca en el desarrollo de herramientas
+analíticas y tecnológicas para apoyar el diseño de políticas públicas
+más robustas y legítimas.
+
+En el área se desarrollan proyectos de investigación transdisciplinaria
+que integran un esquema de involucramiento continuo de los actores
+sociales relacionados con el problema a atender. Ello implica la
+participación de académicos de diversas disciplinas, funcionarios
+públicos y miembros de la sociedad civil. En este esquema, el área de
+*Planeación Colaborativa* funciona como nodo de integración y síntesis
+de conocimiento útil para el abordaje de problemas de sostenibilidad en
+sistemas socio-ecológicos complejos.
+
+Así, con una discusión y evaluación colectiva, se logra la co-producción
+de conocimiento sobre las posibles consecuencias de planes, programas y
+proyectos de desarrollo. Con este esquema, se obtiene conocimiento
+relevante (i.e., que sea pertinente para la resolución de problemas),
+legítimo (i.e., que se consideren sin prejuicios de valores,
+preocupaciones y perspectivas de los diversos actores sociales) y
+creíble (i.e., que las evidencias tengan rigor científico). De esta
+forma, se logra un mejor sustento en los procesos de toma de decisiones
+acerca de problemas de sostenibilidad.
+
+El trabajo que se desarrolla en el laboratorio se dirige a la innovación
+en el desarrollo de herramientas:
+
+-   De **análisis y modelación**, que permitan integrar información para
+    simular las retroalimentaciones entre los subsistemas biofísico y
+    socioeconómico
+
+-   Para generar **experimentos computacionales** para analizar y
+    visualizar la evolución del sistema socio-ecológico bajo diferentes
+    condiciones
+
+-   Computacionales que faciliten el flujo multidireccional de
+    información, la **traducción y la mediación** entre los actores
+    sociales en la formulación de políticas públicas
+
+-   De **capacitación** dirigida al aprendizaje transformacional que se
+    requiere para enfrentar este reto de sostenibilidad
+
+-   De **instrucción especializada**, para que las autoridades, los
+    equipos técnicos y los actores sociales cuenten con los
+    conocimientos y habilidades para una participación más efectiva en
+    los procesos de planeación colaborativa
+
+En el área de *Planeación Colaborativa* se cuenta con amplia experiencia
+en proyectos de ordenamiento ecológico, evaluación de impacto ambiental
+y evaluación de vulnerabilidad.
+
+Los resultados de las investigaciones desarrolladas se han implementado
+en el diseño de herramientas de política pública con impacto nacional.
+
 
 * * *
 
@@ -50,7 +101,6 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
           <h4 class="card-title">
             <a href="/planeacion_colaborativa/pacifico_norte">Programa Ecológico Marino y Regional del Ordenamiento del Pacífico Norte</a>
           </h4>
-          <p class="card-text" style="font-size:80%">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae</p>
         </div>
       </div>
     </div>
@@ -66,7 +116,6 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
           <h4 class="card-title">
             <a href="http://www.unibio.unam.mx/invasoras/" target="_blank">Monitoreo del estado de las invasiones biológicas de plantas en México</a>
           </h4>
-          <p class="card-text" style="font-size:80%">Monitoreo del estado de las invasiones biológicas de plantas en México</p>
         </div>
       </div>
     </div>
@@ -78,7 +127,6 @@ Así, esta área busca desarrollar instrumentos apropiados para traducir y comun
           <h4 class="card-title">
             <a href="/planeacion_colaborativa/repechique">Peritaje en materia de impacto ambiental y social de las afectaciones del Aeropuerto Regional Barrancas el Cobre</a>
           </h4>
-          <p class="card-text" style="font-size:80%">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque</p>
         </div>
       </div>
     </div>
