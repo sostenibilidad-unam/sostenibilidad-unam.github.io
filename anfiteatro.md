@@ -9,9 +9,9 @@ permalink: /anfiteatro/
 
 El Anfiteatro de Decisiones del Laboratorio Nacional de Ciencias de la Sostenibilidad (AD-LANCIS) es un instrumento de investigación
 único, que permite realizar investigación en tres vertientes simultáneas:
-1) generación de experimentos y experiencias relacionados con la manera de traducir y comunicar el conocimiento científico a diversos grupos y actores sociales
-2) desarrollo de herramientas computacionales para el análisis, la discusión y la visualización de problemas de sostenibilidad
-3) análisis de los mecanismos de aprendizaje social que inciden en el tránsito hacia la sostenibilidad
+1) Generación de experimentos y experiencias relacionados con la manera de traducir y comunicar el conocimiento científico a diversos grupos y actores sociales
+2) Desarrollo de herramientas computacionales para el análisis, la discusión y la visualización de problemas de sostenibilidad
+3) Análisis de los mecanismos de aprendizaje social que inciden en el tránsito hacia la sostenibilidad
 Gracias a esto, es posible realizar “investigación de frontera” orientada hacia la vinculación del conocimiento científico y la toma de decisiones. El AD-LANCIS se divide en dos partes: la Sala de Inmersión y la Sala de Usos Múltiples.
 
 
@@ -44,34 +44,55 @@ data-ride="carousel" -->
     <li data-target="#myCarousel" data-slide-to="2"></li>
     <li data-target="#myCarousel" data-slide-to="3"></li>
     <li data-target="#myCarousel" data-slide-to="4"></li>
+    <li data-target="#myCarousel" data-slide-to="5"></li>
+    <li data-target="#myCarousel" data-slide-to="6"></li>
+    <li data-target="#myCarousel" data-slide-to="7"></li>
+    <li data-target="#myCarousel" data-slide-to="8"></li>
+    <li data-target="#myCarousel" data-slide-to="9"></li>
   </ol>
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="/assets/anfiteatro/8.jpeg">
+      <img src="/assets/anfiteatro/fo_anfiteatro_01.jpg">
     </div>
 
     <div class="item">
-      <img src="/assets/anfiteatro/10.jpeg">
+      <img src="/assets/anfiteatro/fo_anfiteatro_02.jpg">
     </div>
 
     <div class="item">
-      <img src="/assets/anfiteatro/4.jpeg">
+      <img src="/assets/anfiteatro/fo_anfiteatro_03.jpg">
     </div>
 
     <div class="item">
-      <img src="/assets/anfiteatro/7.jpeg">
+      <img src="/assets/anfiteatro/fo_anfiteatro_04.jpg">
     </div>
 
     <div class="item">
-      <img src="/assets/anfiteatro/2.jpeg">
+      <img src="/assets/anfiteatro/fo_anfiteatro_05.jpg">
+    </div>
+
+    <div class="item">
+      <img src="/assets/anfiteatro/fo_anfiteatro_06.jpg">
+    </div>
+
+    <div class="item">
+      <img src="/assets/anfiteatro/fo_anfiteatro_07.jpg">
+    </div>
+
+    <div class="item">
+      <img src="/assets/anfiteatro/fo_anfiteatro_08.jpg">
+    </div>
+
+    <div class="item">
+      <img src="/assets/anfiteatro/fo_anfiteatro_10.jpg">
     </div>
   </div>
 
   <!-- Left and right controls -->
   <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true" ></span>
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
   <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
@@ -79,6 +100,8 @@ data-ride="carousel" -->
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+<!-- <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"> -->
 
 <!--
 <img src="/assets/anfiteatro/8.jpeg"/>

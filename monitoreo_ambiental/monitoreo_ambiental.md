@@ -3,7 +3,7 @@ layout: page
 title: "Área de Monitoreo Ambiental"
 permalink: /monitoreo_ambiental/
 ---
-**OJO: revisar redacción. tiempos verbales**
+
 En esta área se llevará a cabo la evaluación del estado de los sistemas socioambientales a través del análisis de sus componentes: agua, suelo, sedimento, material vegetal y material animal. Se aplicarán múltiples metodologías, de las áreas de limnología, hidrología, edafología, microbiología ambiental, biología molecular y química analítica, entre otras.
 Los datos sobre la caracterización y el monitoreo de su estado su estado actual permitirá identificar puntos y estrategias de intervención.
 El objetivo principal de esta área es la investigación y el desarrollo de estrategias para la descripción y monitoreo de los sistemas socioambientales, el desarrollo de esquemas analíticos eficientes que permitan tener una visión del estado de salud de los socioecosistemas, basado en parámetros clave que apoyen  la toma de decisiones informada en un corto tiempo. El trabajo se enfoca actualmente en las líneas de Servicios Ecosistémicos, Análisis de Riesgo, Biología de la Conservación, Aplicaciones Tecnológicas.

@@ -4,125 +4,164 @@ title: "Área de Planeación Colaborativa"
 permalink: /planeacion_colaborativa/
 ---
 
-El área de Planeación Colaborativa aborda problemas socioambientales complejos relacionados con la planeación sostenible.
-Las actividades de esta área se enfocan a responder preguntas importantes de gestión y toma de decisiones a través de combinar los últimos adelantos en el desarrollo de políticas públicas, planeación del uso del suelo, modelación geoespacial, biocomplejidad, teoría de decisión, geovisualización, gobernanza y aprendizaje social.
-De este modo, esta área busca la construcción de instrumentos apropiados y visualmente eficaces para la traducción y comunicación de conocimiento científico a ejecutivos y funcionarios de los sectores público, privado y social, que permitan ligar la ciencia a la toma de decisiones durante el proceso de planeación y así facilitar el tránsito hacia la sosteni­bilidad.
+El área de *Planeación Colaborativa* del Laboratorio Nacional de
+Ciencias de la Sostenibilidad se enfoca en el desarrollo de herramientas
+analíticas y tecnológicas para apoyar el diseño de políticas públicas
+más robustas y legítimas.
 
+En el área se desarrollan proyectos de investigación transdisciplinaria
+que integran un esquema de involucramiento continuo de los actores
+sociales relacionados con el problema a atender. Ello implica la
+participación de académicos de diversas disciplinas, funcionarios
+públicos y miembros de la sociedad civil. En este esquema, el área de
+*Planeación Colaborativa* funciona como nodo de integración y síntesis
+de conocimiento útil para el abordaje de problemas de sostenibilidad en
+sistemas socio-ecológicos complejos.
 
-## Infraestructura y equipamiento
+Así, con una discusión y evaluación colectiva, se logra la co-producción
+de conocimiento sobre las posibles consecuencias de planes, programas y
+proyectos de desarrollo. Con este esquema, se obtiene conocimiento
+relevante (i.e., que sea pertinente para la resolución de problemas),
+legítimo (i.e., que se consideren sin prejuicios de valores,
+preocupaciones y perspectivas de los diversos actores sociales) y
+creíble (i.e., que las evidencias tengan rigor científico). De esta
+forma, se logra un mejor sustento en los procesos de toma de decisiones
+acerca de problemas de sostenibilidad.
 
-200 m² distribuidos en un área para 16 técnicos, 8 estudiantes , 4 cubículos y una sala de geovisualización para 12 personas  equipada con un pizarrón inteligente y un equipo de videoconferencia. Esta área se encarga de la coordinación técnica del anfiteatro de decisiones.
+El trabajo que se desarrolla en el laboratorio se dirige a la innovación
+en el desarrollo de herramientas:
 
+-   De **análisis y modelación**, que permitan integrar información para
+    simular las retroalimentaciones entre los subsistemas biofísico y
+    socioeconómico
 
-## Proyectos prioritarios
+-   Para generar **experimentos computacionales** para analizar y
+    visualizar la evolución del sistema socio-ecológico bajo diferentes
+    condiciones
 
-### Planeación colaborativa
+-   Computacionales que faciliten el flujo multidireccional de
+    información, la **traducción y la mediación** entre los actores
+    sociales en la formulación de políticas públicas
 
-*	Programa de Ordenamiento Ecológico Marino y Regional del Pacífico Norte.
-*	Pronóstico y Propuesta del Programa de Ordenamiento Ecológico Regional del Territorio de la Cuenca del Valle de México.
-*	Sistema geoespacial de soporte de decisiones para la Zona Federal Marítima Terrestre: Análisis de vulnerabilidad costera ante el cambio climático.
+-   De **capacitación** dirigida al aprendizaje transformacional que se
+    requiere para enfrentar este reto de sostenibilidad
 
+-   De **instrucción especializada**, para que las autoridades, los
+    equipos técnicos y los actores sociales cuenten con los
+    conocimientos y habilidades para una participación más efectiva en
+    los procesos de planeación colaborativa
 
-### Desarrollos computacionales
-*	Sistema automatizado para la elaboración del Pronóstico y Modelo de Ordenamiento Ecológico.
-*	Desarrollo de una Plataforma de Geo-visualización
-*	Sistema de Soporte Geográfico de Decisiones para la elaboración del Análisis de aptitud en Programas de Ordenamiento Ecológico.
+En el área de *Planeación Colaborativa* se cuenta con amplia experiencia
+en proyectos de ordenamiento ecológico, evaluación de impacto ambiental
+y evaluación de vulnerabilidad.
 
+Los resultados de las investigaciones desarrolladas se han implementado
+en el diseño de herramientas de política pública con impacto nacional.
 
-### Educación, creación y fortalecimiento de capacidades
-*	Programa de creación y fortalecimiento de capacidades en materia de Ordenamiento Ecológico.
-*	Managing biodiversity under climate change: Enhancing capacities in Mexico for Conservation Planning. Decision-Making and Sustainability Assessment.
 
 * * *
 
-# Proyectos
+<!-- 3-col-portfolio BS - - Page Content -->
+<div class="container-fluid">
 
-## Megadapt
+  <!-- Page Heading -->
+  <h1 class="text-center">Proyectos</h1>
+  <br/>
 
-Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la Ciudad de México. [Visite la página del proyecto](http://megadapt.weebly.com/)
+  <div class="row">
+  <!-- 1_MEGADAPT -->
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="http://megadapt.weebly.com/" target="_blank"><img class="card-img-top" src="/assets/proyectos_apc/proy_megadapt.jpg" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="http://megadapt.weebly.com/" target="_blank">Megadapt</a>
+          </h4>
+          <p class="card-text" style="font-size:80%">Adaptación Dinámica Multi-Escalar en Megalópolis. Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la Ciudad de México</p>
+        </div>
+      </div>
+    </div>
+  <!-- 2_IAI -->
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="/iai/introduccion"><img class="card-img-top" src="/assets/proyectos_apc/proy_iai.png" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="/iai/introduccion">Proyecto IAI CNR3108</a>
+          </h4>
+          <p class="card-text" style="font-size:80%">Lecciones de transdisciplina en la evaluación del riesgo hidrológico en megaciudades: esquema de planeación colaborativa para la Zona Metropolitana de la Ciudad de México</p>
+        </div>
+      </div>
+    </div>
+  <!-- 3_Pacifico_Norte -->
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="/planeacion_colaborativa/pacifico_norte"><img class="card-img-top" src="/assets/proyectos_apc/proy_pacifico_norte.png" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="/planeacion_colaborativa/pacifico_norte">Programa Ecológico Marino y Regional del Ordenamiento del Pacífico Norte</a>
+          </h4>
+        </div>
+      </div>
+    </div>
+  <!-- /.row -->
+  </div>
 
-## Proyecto IAI CNR3108: Coping with hydrological risk in megacities: Collaborative planning framework for the Mexico City Metropolitan Area"
+  <div class="row">
+<!-- 4_invasoras -->
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="http://www.unibio.unam.mx/invasoras/" target="_blank"><img class="card-img-top" src="/assets/proyectos_apc/proy_invasoras.jpg" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="http://www.unibio.unam.mx/invasoras/" target="_blank">Monitoreo del estado de las invasiones biológicas de plantas en México</a>
+          </h4>
+        </div>
+      </div>
+    </div>
+<!-- 5_Repechique -->
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="/planeacion_colaborativa/repechique"><img class="card-img-top" src="/assets/proyectos_apc/proy_repechique_1.jpg" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="/planeacion_colaborativa/repechique">Peritaje en materia de impacto ambiental y social de las afectaciones del Aeropuerto Regional Barrancas el Cobre</a>
+          </h4>
+        </div>
+      </div>
+    </div>
+<!-- 6_publicaciones -->
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="/planeacion_colaborativa/publicaciones"><img class="card-img-top" src="/assets/proyectos_apc/proy_publicaciones.png" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="/planeacion_colaborativa/publicaciones">Publicaciones</a>
+          </h4>
+          <p class="card-text" style="font-size:80%">Publicaciones del Área de Planeación Colaborativa</p>
+        </div>
+      </div>
+    </div>
+  <!-- /.row -->
+</div>
 
-### Fichas informativas del proyecto
-<!--
-* [Síntesis](/megadapt_iai/sintesis)
-* [Transdisciplina](/megadapt_iai/transdisciplina)
-* [Sistemas socio-ecológicos](/megadapt_iai/sistemas_socioecologicos)
-* [Vulnerabilidad](/megadapt_iai/vulnerabilidad)
-* [Objeto de frontera](/megadapt_iai/objeto_de_frontera)
-* [Modelos mentales](/megadapt_iai/modelos_mentales)
+  <!-- /.container -->
+  <!-- Bootstrap core JavaScript
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 -->
 
-<div class="row">
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/megadapt_iai/sintesis">
-        <img src="/assets/figuras_fichas_IAI/inundacion_xochi.jpg" alt="sintesis" style="width:100%">
-        <div class="caption">
-          <p>Síntesis</p>
-        </div>
-      </a>
+<!-- CURSO EN LINEA CUAED
+<div class="col-lg-4 col-sm-6 portfolio-item">
+  <div class="card h-100">
+    <a href="http://kinet.cuaed.unam.mx/educacion_continua/ordenamiento_ecologico/" target="_blank"><img class="card-img-top" src="/assets/proyectos_apc/cuaed_screen.png" alt=""></a>
+    <div class="card-body">
+      <h4 class="card-title">
+        <a href="http://kinet.cuaed.unam.mx/educacion_continua/ordenamiento_ecologico/" target="_blank">Curso en línea de Ordenamiento Ecológico</a>
+      </h4>
+      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
     </div>
   </div>
-  <!-- inicia -->
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/megadapt_iai/transdisciplina">
-        <img src="/assets/figuras_fichas_IAI/transdisciplina.png" alt="transdisciplina" style="width:100%">
-        <div class="caption">
-          <p>Transdisciplina</p>
-        </div>
-      </a>
-    </div>
-  </div>
-  <!-- termina -->
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/megadapt_iai/sistemas_socioecologicos">
-        <img src="/assets/figuras_fichas_IAI/sistema_socio-ecologico.png" alt="socio-ecologico" style="width:100%">
-        <div class="caption">
-          <p>Sistema socio-ecológico</p>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
+</div> -->
 
-<!-- segundo bloque -->
-
-<div class="row">
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/megadapt_iai/vulnerabilidad">
-        <img src="/assets/figuras_fichas_IAI/vulnerabilidad.png" alt="vulnerabilidad" style="width:100%">
-        <div class="caption">
-          <p>Vulnerabilidad</p>
-        </div>
-      </a>
-    </div>
-  </div>
-
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/megadapt_iai/objeto_de frontera">
-        <img src="/assets/figuras_fichas_IAI/objeto_frontera.png" alt="objeto_frontera" style="width:100%">
-        <div class="caption">
-          <p>Objeto de frontera</p>
-        </div>
-      </a>
-    </div>
-  </div>
-
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/megadapt_iai/modelos_mentales">
-        <img src="/assets/figuras_fichas_IAI/modelo_mental_1.png" alt="modelo_mental" style="width:100%">
-        <div class="caption">
-          <p>Modelos mentales</p>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-
-<!-- tercer bloque -->
+<!-- FIN -->
