@@ -34,18 +34,14 @@ en el desarrollo de herramientas:
 -   De **análisis y modelación**, que permitan integrar información para
     simular las retroalimentaciones entre los subsistemas biofísico y
     socioeconómico
-
 -   Para generar **experimentos computacionales** para analizar y
     visualizar la evolución del sistema socio-ecológico bajo diferentes
     condiciones
-
 -   Computacionales que faciliten el flujo multidireccional de
     información, la **traducción y la mediación** entre los actores
     sociales en la formulación de políticas públicas
-
 -   De **capacitación** dirigida al aprendizaje transformacional que se
     requiere para enfrentar este reto de sostenibilidad
-
 -   De **instrucción especializada**, para que las autoridades, los
     equipos técnicos y los actores sociales cuenten con los
     conocimientos y habilidades para una participación más efectiva en
@@ -59,6 +55,7 @@ Los resultados de las investigaciones desarrolladas se han implementado
 en el diseño de herramientas de política pública con impacto nacional.
 
 
+* * *
 * * *
 
 <!-- 3-col-portfolio BS - - Page Content -->
