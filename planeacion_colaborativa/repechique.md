@@ -138,7 +138,7 @@ data-ride="carousel" -->
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_10_repechique_material.jpg">
       <div class="carousel-caption">
-        <p>Interrupción de flujo y sedimentación por material de construcción</p>
+        <p>Aguaje, banco de material</p>
       </div>
     </div>
     <div class="item">
