@@ -47,7 +47,7 @@ El 8 de septiembre de 2015 el Dr. Bojórquez entregó el dictamen pericial en el
 
 Como resultado de las reuniones entre la comunidad y las autoridades estatales para conciliar las medidas de mitigación y remediación, se acordaron medidas que incluyen: la realización de acciones de reforestación y conservación de suelo, el establecimiento de una vereda y la rehabilitación de los cuerpos de agua. Asimismo, el pago de una indemnización de 65 millones de pesos, que se asignarían a través de un fideicomiso público autorizado por el Congreso del Estado en un plazo de 7 años.
 
-<div id="repechique_Carousel" class="carousel slide">
+<div id="myCarousel" class="carousel slide">
 <!-- para que corra en automático añadir al final de la línea anterior:
 data-ride="carousel" -->
 
