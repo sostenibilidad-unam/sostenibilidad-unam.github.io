@@ -97,6 +97,8 @@ urbanos hacia trayectorias sostenibles.
 </div>
 
 <br>
+_Inundaciones recientes en la Ciudad de México_
+<br>
 
 MEGADAPT está concebido como un proyecto transdisciplinario que incorpora una
 variedad de conceptos y métodos de las ciencias de la sostenibilidad dentro del
