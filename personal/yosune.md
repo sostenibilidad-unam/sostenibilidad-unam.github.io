@@ -2,7 +2,6 @@
 layout: page
 title: ""
 permalink: /personal/yosune
-exclude: true
 ---
 
 # Dra. Yosune Miquelajauregui Graf

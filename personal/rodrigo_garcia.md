@@ -2,7 +2,6 @@
 layout: page
 title: ""
 permalink: /personal/rodrigo_garcia
-exclude: true
 ---
 
 # Ing. Rodrigo García Herrera

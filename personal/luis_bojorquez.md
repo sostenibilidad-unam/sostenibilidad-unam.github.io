@@ -2,7 +2,6 @@
 layout: page
 title:
 permalink: /personal/luis_bojorquez
-exclude: true
 ---
 
 # Dr. Luis Bojorquez Tapia

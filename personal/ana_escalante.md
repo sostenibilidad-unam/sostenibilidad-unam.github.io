@@ -2,7 +2,6 @@
 layout: page
 title: ""
 permalink: /personal/ana_escalante
-exclude: true
 ---
 
 # Dra. Ana Elena Escalante

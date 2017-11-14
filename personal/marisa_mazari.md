@@ -2,7 +2,6 @@
 layout: page
 title: ""
 permalink: /personal/marisa_mazari
-exclude: true
 ---
 
 # Dra. Marisa Mazari Hiriart

@@ -2,7 +2,6 @@
 layout: page
 title: ""
 permalink: /personal/fidel_serrano
-exclude: true
 ---
 
 # M. en G. Fidel Serrano Candela

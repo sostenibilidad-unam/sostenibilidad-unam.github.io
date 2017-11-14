@@ -1,8 +1,7 @@
 ---
 layout: page
 title: ""
-permalink: /personal/amy_lerner
-exclude: true
+permalink: /personal/amy_lerner/
 ---
 
 # Dra. Amy M. Lerner

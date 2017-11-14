@@ -1,8 +1,7 @@
 ---
 layout: page
 title: ""
-permalink: /personal/ana_cecilia_espinosa
-exclude: true
+permalink: /personal/ana_cecilia_espinosa/
 ---
 
 # Dra. Ana Cecilia Espinosa García

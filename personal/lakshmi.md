@@ -2,7 +2,6 @@
 layout: page
 title: ""
 permalink: /personal/lakshmi
-exclude: true
 ---
 
 # M.C. Lakshmi E. Charli-Joseph
