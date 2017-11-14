@@ -83,75 +83,147 @@ data-ride="carousel" -->
   <div class="carousel-inner">
     <div class="item active">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_01_repechique_rancherias.jpg">
+      <div class="carousel-caption">
+        <p>Ubicación de las rancherías</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_02_repechique_pista.jpg">
+      <div class="carousel-caption">
+        <p>Miembros de la comunidad cruzando la pista</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_03_repechique_pista.jpg">
+       <div class="carousel-caption">
+         <p>Mujeres de la comunidad cruzando la pista</p>
+       </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_04_repechique_talud.jpg">
+      <div class="carousel-caption">
+        <p>Personas de la comunidad cruzando talud</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_05_repechique_testimonios.jpg">
+      <div class="carousel-caption">
+        <p>Testimonios de la comunidad</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_06_repechique_testimonios.jpg">
+      <div class="carousel-caption">
+        <p>Testimonios de la comunidad</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_07_repechique_dron.jpg">
+      <div class="carousel-caption">
+        <p>Mostrando el uso del dron a miembros de la comunidad</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_08_repechique_dron.jpg">
+      <div class="carousel-caption">
+        <p>Registro fotográfico con el dron</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_09_repechique_interrupcion.jpg">
+      <div class="carousel-caption">
+        <p>Texto_caption</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_10_repechique_material.jpg">
+      <div class="carousel-caption">
+        <p>Interrupción de flujo y sedimentación por material de construcción</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_11_repechique_aguaje.jpg">
+      <div class="carousel-caption">
+        <p>Vista del aguaje afectado desde aeropuerto</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_12_repechique_aguaje.jpg">
+      <div class="carousel-caption">
+        <p>Aguaje afectado</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_13_repechique_desmonte.jpg">
+      <div class="carousel-caption">
+        <p>Desmonte</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_14_repechique_muestras.jpg">
+      <div class="carousel-caption">
+        <p>Toma de muestras de agua</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_15_repechique_veredas.jpg">
+      <div class="carousel-caption">
+        <p>Veredas interrumpidas por cerca perimetral</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_16_repechique_mapas.jpg">
+      <div class="carousel-caption">
+        <p>Revisión de mapas</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_17_repechique_mapas.jpg">
+      <div class="carousel-caption">
+        <p>Revisando mapas en la pista</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_18_repechique_aguaje.jpg">
+      <div class="carousel-caption">
+        <p>Aguaje y banco de material</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_19_repechique_vista.jpg">
+      <div class="carousel-caption">
+        <p>Vista aérea del aguaje ubicado al noroeste de la pista</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_20_repechique_vista.jpg">
+      <div class="carousel-caption">
+        <p>Vista aérea de interrupción de veredas</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_21_repechique_vista.jpg">
+      <div class="carousel-caption">
+        <p>Texto_caption</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_22_repechique_creel.jpg">
+      <div class="carousel-caption">
+        <p>Texto_caption</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_23_repechique_3d.jpg">
+      <div class="carousel-caption">
+        <p>Texto_caption</p>
+      </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_24_repechique_aeropuerto.jpg">
+      <div class="carousel-caption">
+        <p>Texto_caption</p>
+      </div>
     </div>
   </div>
 
