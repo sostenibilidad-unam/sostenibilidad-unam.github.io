@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: ""
 permalink: /personal/luis_bojorquez
 ---
 
