@@ -119,7 +119,7 @@ Metropolitana de la Ciudad de México.
 
 ![Taller](/assets/proyectos_apc/iai_fichas/taller_megadapt.jpg)
 <br>
-**Figura 2.** _Taller externo con residentes de la colonia Miravalle, en Iztapalapa_
+_Taller externo con residentes de la colonia Miravalle, en Iztapalapa_
 <br>
 <br>
 
