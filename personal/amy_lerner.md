@@ -1,21 +1,18 @@
 ---
 layout: page
-title: Dra. Amy M. Lerner
-permalink: /academicos/amy_lerner
+title: ""
+permalink: /personal/amy_lerner
 exclude: true
 ---
 
+# Dra. Amy M. Lerner
+
 ![image of xochi](/assets/xochi1.jpg)
 
-
 - Investigadora Asociada "C", SNI Nivel I, PRIDE Nivel "B"
-
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
-
-- Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM) 
-
+- Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 - Email: amy.lerner@iecologia.unam.mx
-
 - Perfil Researchgate: [Amy M. Lerner](https://www.researchgate.net/profile/Amy_Lerner3)
 
 
@@ -42,5 +39,3 @@ exclude: true
 - Shiara Gonzalez: Transformación hacia la sostenibilidad en el ámbito rural: Agua, condiciones de salud y modos de vida en comunidades indígenas de la Sierra Huichol (con Dra. Marisa Mazari)
 - Bertha Hernandez: Análisis del capital social en los sistemas socioambientales: influencia de  la acción colectiva ante la problemática de escasez de agua en dos comunidades de la Ciudad de México
 - Patricia Perez: Determinantes de cambio en la agricultura para la modelación de escenarios en el socioecosistema periurbano de Xochimilco, Ciudad de México (con Dra. Marisa Mazari)
-
-

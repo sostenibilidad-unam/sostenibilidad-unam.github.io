@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Dr. Luis Bojorquez Tapia
-permalink: /academicos/luis_bojorquez
+title:
+permalink: /personal/luis_bojorquez
 exclude: true
 ---
+
+# Dr. Luis Bojorquez Tapia
 
 - Investigador Principal MEGADAPT
 - Investigador Titular "B"
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
-- Página personal: http://web.ecologia.unam.mx/laboratorios/bojorquez/index.php/8-pincipal
 - Email: bojorquez@ecologia.unam.mx
 
 
@@ -25,7 +26,6 @@ Ciencias de la sostenibilidad y planeación colaborativa
 - Ordenamiento Ecológico del Territorio
 - Manejo de cuencas hidrográficas, modelación de distribución de especies, diseño de reservas naturales e identificación de áreas prioritarias para la conservación
 - Integración de instrumentos de análisis (ej., modelación multicriterio, lógica difusa y programación matemática) en Sistemas de Información Geográfica; planeación colaborativa
-
 
 ## En la red
 

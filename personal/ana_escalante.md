@@ -1,18 +1,17 @@
 ---
 layout: page
-title: Dra. Ana Elena Escalante
-permalink: /academicos/ana_escalante
+title: ""
+permalink: /personal/ana_escalante
 exclude: true
 ---
 
-<img src="/assets/paisajes-bonitos-de-oton%CC%83o-lago.jpeg">
+# Dra. Ana Elena Escalante
 
-- Investigadoraa Titular A
+![paisaje_lago](/assets/paisaje_lago.jpeg)
 
+- Investigadora Titular A
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
-
-- Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM) 
-
+- Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 - Email: aescalante@iecologia.unam.mx
 
 
