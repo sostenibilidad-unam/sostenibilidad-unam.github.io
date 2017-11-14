@@ -47,119 +47,121 @@ El 8 de septiembre de 2015 el Dr. Bojórquez entregó el dictamen pericial en el
 
 Como resultado de las reuniones entre la comunidad y las autoridades estatales para conciliar las medidas de mitigación y remediación, se acordaron medidas que incluyen: la realización de acciones de reforestación y conservación de suelo, el establecimiento de una vereda y la rehabilitación de los cuerpos de agua. Asimismo, el pago de una indemnización de 65 millones de pesos, que se asignarían a través de un fideicomiso público autorizado por el Congreso del Estado en un plazo de 7 años.
 
-<div class="container-fluid">
-<div class="row">
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/3D_Banco_material_B.jpg">
-        <img src="/assets/proyectos_apc/fotos_repechique/3D_Banco_material_B.jpg" style="width:100%">
-        <!--
-        <div class="caption">
-          <p>Lorem ipsum...</p>
-        </div>
-        -->
-      </a>
+<div id="repechique_Carousel" class="carousel slide">
+<!-- para que corra en automático añadir al final de la línea anterior:
+data-ride="carousel" -->
+
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+    <li data-target="#myCarousel" data-slide-to="4"></li>
+    <li data-target="#myCarousel" data-slide-to="5"></li>
+    <li data-target="#myCarousel" data-slide-to="6"></li>
+    <li data-target="#myCarousel" data-slide-to="7"></li>
+    <li data-target="#myCarousel" data-slide-to="8"></li>
+    <li data-target="#myCarousel" data-slide-to="9"></li>
+    <li data-target="#myCarousel" data-slide-to="10"></li>
+    <li data-target="#myCarousel" data-slide-to="11"></li>
+    <li data-target="#myCarousel" data-slide-to="12"></li>
+    <li data-target="#myCarousel" data-slide-to="13"></li>
+    <li data-target="#myCarousel" data-slide-to="14"></li>
+    <li data-target="#myCarousel" data-slide-to="15"></li>
+    <li data-target="#myCarousel" data-slide-to="16"></li>
+    <li data-target="#myCarousel" data-slide-to="17"></li>
+    <li data-target="#myCarousel" data-slide-to="18"></li>
+    <li data-target="#myCarousel" data-slide-to="19"></li>
+    <li data-target="#myCarousel" data-slide-to="20"></li>
+    <li data-target="#myCarousel" data-slide-to="21"></li>
+    <li data-target="#myCarousel" data-slide-to="22"></li>
+    <li data-target="#myCarousel" data-slide-to="23"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_01_repechique_rancherias.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_02_repechique_pista.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_03_repechique_pista.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_04_repechique_talud.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_05_repechique_testimonios.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_06_repechique_testimonios.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_07_repechique_dron.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_08_repechique_dron.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_09_repechique_interrupcion.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_10_repechique_material.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_11_repechique_aguaje.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_12_repechique_aguaje.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_13_repechique_desmonte.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_14_repechique_muestras.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_15_repechique_veredas.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_16_repechique_mapas.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_17_repechique_mapas.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_18_repechique_aguaje.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_19_repechique_vista.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_20_repechique_vista.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_21_repechique_vista.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_22_repechique_creel.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_23_repechique_3d.jpg">
+    </div>
+    <div class="item">
+      <img src="/assets/proyectos_apc/fotos_repechique/fo_24_repechique_aeropuerto.jpg">
     </div>
   </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/Aeropuerto_1.jpg">
-        <img src="/assets/proyectos_apc/fotos_repechique/Aeropuerto_1.jpg" style="width:100%">
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/Aguaje afectado2.JPG">
-        <img src="/assets/proyectos_apc/fotos_repechique/Aguaje afectado2.JPG" style="width:100%">
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/Aguaje banco de material3.JPG">
-        <img src="/assets/proyectos_apc/fotos_repechique/Aguaje banco de material3.JPG" style="width:100%">
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/Aguaje_Banco_Material.JPG">
-        <img src="/assets/proyectos_apc/fotos_repechique/Aguaje_Banco_Material.JPG" style="width:100%">
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/Desmonte.JPG">
-        <img src="/assets/proyectos_apc/fotos_repechique/Desmonte.JPG" style="width:100%">
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/interrupcion_flujo_y_sedimentacion_por_material_construccion.JPG">
-        <img src="/assets/proyectos_apc/fotos_repechique/interrupcion_flujo_y_sedimentacion_por_material_construccion.JPG" style="width:100%">
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/Miembros de la comunidad cruzando la pista.JPG">
-        <img src="/assets/proyectos_apc/fotos_repechique/Miembros de la comunidad cruzando la pista.JPG" style="width:100%">
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/Mostrando el uso del dron a miembros de la comunidad.JPG">
-        <img src="/assets/proyectos_apc/fotos_repechique/Mostrando el uso del dron a miembros de la comunidad.JPG" style="width:100%">
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/Mujeres de la comunidad cruzando la pista.JPG">
-        <img src="/assets/proyectos_apc/fotos_repechique/Mujeres de la comunidad cruzando la pista.JPG" style="width:100%">
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/Personas comunidad cruzando talud.JPG">
-        <img src="/assets/proyectos_apc/fotos_repechique/Personas comunidad cruzando talud.JPG" style="width:100%">
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/rancherias.jpg">
-        <img src="/assets/proyectos_apc/fotos_repechique/rancherias.jpg" style="width:100%">
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/Registro_fotografico_con_dron.JPG">
-        <img src="/assets/proyectos_apc/fotos_repechique/Registro_fotografico_con_dron.JPG" style="width:100%">
-      </a>
-    </div>
-  </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/revisando mapas en la pista.JPG">
-        <img src="/assets/proyectos_apc/fotos_repechique/revisando mapas en la pista.JPG" style="width:100%">
-      </a>
-    </div>
-  </div>
-  <!--
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/assets/proyectos_apc/fotos_repechique/revision_mapas.JPG">
-        <img src="/assets/proyectos_apc/fotos_repechique/revision_mapas.JPG" style="width:100%">
-      </a>
-    </div>
-  </div>
--->
-</div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
