@@ -132,7 +132,7 @@ data-ride="carousel" -->
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_09_repechique_interrupcion.jpg">
       <div class="carousel-caption">
-        <p>Texto_caption</p>
+        <p>Interrupción de flujo y sedimentación por material de construcción</p>
       </div>
     </div>
     <div class="item">
@@ -204,25 +204,25 @@ data-ride="carousel" -->
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_21_repechique_vista.jpg">
       <div class="carousel-caption">
-        <p>Texto_caption</p>
+        <p>Vista aérea de material de relleno sobre cobertura forestal</p>
       </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_22_repechique_creel.jpg">
       <div class="carousel-caption">
-        <p>Texto_caption</p>
+        <p>Vista del aeropuerto desde Creel</p>
       </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_23_repechique_3d.jpg">
       <div class="carousel-caption">
-        <p>Texto_caption</p>
+        <p>Vista 3D de banco de material</p>
       </div>
     </div>
     <div class="item">
       <img src="/assets/proyectos_apc/fotos_repechique/fo_24_repechique_aeropuerto.jpg">
       <div class="carousel-caption">
-        <p>Texto_caption</p>
+        <p>Vista 3D del eropuerto</p>
       </div>
     </div>
   </div>
