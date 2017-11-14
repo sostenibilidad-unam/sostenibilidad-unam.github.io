@@ -47,36 +47,36 @@ El 8 de septiembre de 2015 el Dr. Bojórquez entregó el dictamen pericial en el
 
 Como resultado de las reuniones entre la comunidad y las autoridades estatales para conciliar las medidas de mitigación y remediación, se acordaron medidas que incluyen: la realización de acciones de reforestación y conservación de suelo, el establecimiento de una vereda y la rehabilitación de los cuerpos de agua. Asimismo, el pago de una indemnización de 65 millones de pesos, que se asignarían a través de un fideicomiso público autorizado por el Congreso del Estado en un plazo de 7 años.
 
-<div id="myCarousel" class="carousel slide">
+<div id="rpch_Carousel" class="carousel slide">
 <!-- para que corra en automático añadir al final de la línea anterior:
 data-ride="carousel" -->
 
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-    <li data-target="#myCarousel" data-slide-to="2"></li>
-    <li data-target="#myCarousel" data-slide-to="3"></li>
-    <li data-target="#myCarousel" data-slide-to="4"></li>
-    <li data-target="#myCarousel" data-slide-to="5"></li>
-    <li data-target="#myCarousel" data-slide-to="6"></li>
-    <li data-target="#myCarousel" data-slide-to="7"></li>
-    <li data-target="#myCarousel" data-slide-to="8"></li>
-    <li data-target="#myCarousel" data-slide-to="9"></li>
-    <li data-target="#myCarousel" data-slide-to="10"></li>
-    <li data-target="#myCarousel" data-slide-to="11"></li>
-    <li data-target="#myCarousel" data-slide-to="12"></li>
-    <li data-target="#myCarousel" data-slide-to="13"></li>
-    <li data-target="#myCarousel" data-slide-to="14"></li>
-    <li data-target="#myCarousel" data-slide-to="15"></li>
-    <li data-target="#myCarousel" data-slide-to="16"></li>
-    <li data-target="#myCarousel" data-slide-to="17"></li>
-    <li data-target="#myCarousel" data-slide-to="18"></li>
-    <li data-target="#myCarousel" data-slide-to="19"></li>
-    <li data-target="#myCarousel" data-slide-to="20"></li>
-    <li data-target="#myCarousel" data-slide-to="21"></li>
-    <li data-target="#myCarousel" data-slide-to="22"></li>
-    <li data-target="#myCarousel" data-slide-to="23"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="1"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="2"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="3"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="4"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="5"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="6"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="7"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="8"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="9"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="10"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="11"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="12"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="13"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="14"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="15"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="16"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="17"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="18"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="19"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="20"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="21"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="22"></li>
+    <li data-target="#rpch_Carousel" data-slide-to="23"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -156,11 +156,11 @@ data-ride="carousel" -->
   </div>
 
   <!-- Left and right controls -->
-  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#rpch_Carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+  <a class="right carousel-control" href="#rpch_Carousel" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
