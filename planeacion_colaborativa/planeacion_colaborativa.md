@@ -56,7 +56,6 @@ en el diseño de herramientas de política pública con impacto nacional.
 
 
 * * *
-* * *
 
 <!-- 3-col-portfolio BS - - Page Content -->
 <div class="container-fluid">
