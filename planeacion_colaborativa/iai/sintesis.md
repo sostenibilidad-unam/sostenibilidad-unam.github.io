@@ -96,7 +96,6 @@ urbanos hacia trayectorias sostenibles.
   </a>
 </div>
 
-<br>
 _Inundaciones recientes en la Ciudad de México_
 <br>
 
