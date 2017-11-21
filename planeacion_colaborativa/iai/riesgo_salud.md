@@ -31,7 +31,7 @@ considerando las perspectivas de los diferentes sectores de la sociedad.
 
 ![mapa_salud](/assets/proyectos_apc/iai_fichas/mapa_riesgo_salud.png)
 <br>
-**Figura 1.** _Zonas vulnerables a enfermedades asociadas a inundaciones y escazes de agua._
+**Figura 1.** _Zonas vulnerables a enfermedades asociadas a inundaciones y escazes de agua_
 <br>
 
 Cómo se usó
