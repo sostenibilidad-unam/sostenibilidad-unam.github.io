@@ -92,6 +92,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
       </div>
     </div>
 <!-- /.row -->
+</div>
 <br>
 <!-- FILA TRES -->
 <div class="row">
@@ -143,5 +144,6 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
       </h4>
     </div>
   </div>
+</div>
 </div>
 </div>
