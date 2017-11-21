@@ -8,7 +8,9 @@ permalink: /iai/participantes
 
 ## Financiamiento
 
-![](/assets/proyectos_apc/iai_fichas/participantes/nsf.png)![](/assets/proyectos_apc/iai_fichas/participantes/iai.png)
+
+
+![](/assets/proyectos_apc/iai_fichas/participantes/nsf.png) ![](/assets/proyectos_apc/iai_fichas/participantes/iai.png)
 
 ## Instituciones
 
@@ -16,7 +18,7 @@ permalink: /iai/participantes
 
 ## Gobierno Federal
 
-![](/assets/proyectos_apc/iai_fichas/participantes/cenapred.png)![](/assets/proyectos_apc/iai_fichas/participantes/conagua.png)![](/assets/proyectos_apc/iai_fichas/participantes/ocavam.png)![](/assets/proyectos_apc/iai_fichas/participantes/salud.png)![](/assets/proyectos_apc/iai_fichas/participantes/smn.png)
+![](/assets/proyectos_apc/iai_fichas/participantes/cenapred.png) ![](/assets/proyectos_apc/iai_fichas/participantes/conagua.png) ![](/assets/proyectos_apc/iai_fichas/participantes/ocavam.png) ![](/assets/proyectos_apc/iai_fichas/participantes/salud.png) ![](/assets/proyectos_apc/iai_fichas/participantes/smn.png)
 
 ## Gobierno CDMX
 
