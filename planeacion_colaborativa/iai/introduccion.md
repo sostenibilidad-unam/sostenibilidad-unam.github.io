@@ -34,7 +34,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
 <!-- 3_transdisciplina -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="/iai/transdisciplina"><img class="card-img-top" src="/assets/proyectos_apc/proy_iai.png" alt=""></a>
+        <a href="/iai/transdisciplina"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/mini_transdisciplina.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="/iai/transdisciplina">Transdisciplina</a>
@@ -72,7 +72,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
 <!-- 6_objeto_frontera -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="/iai/objeto_de_frontera"><img class="card-img-top" src="/assets/proyectos_apc/proy_iai_2.png" alt=""></a>
+        <a href="/iai/objeto_de_frontera"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/mini_objeto_frontera.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="/iai/objeto_de_frontera">Objeto de frontera</a>

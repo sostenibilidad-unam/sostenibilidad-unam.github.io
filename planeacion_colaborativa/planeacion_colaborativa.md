@@ -56,7 +56,6 @@ en el diseño de herramientas de política pública con impacto nacional.
 
 
 * * *
-* * *
 
 <!-- 3-col-portfolio BS - - Page Content -->
 <div class="container-fluid">
@@ -119,7 +118,7 @@ en el diseño de herramientas de política pública con impacto nacional.
 <!-- 5_Repechique -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="/planeacion_colaborativa/repechique"><img class="card-img-top" src="/assets/proyectos_apc/proy_repechique_1.jpg" alt=""></a>
+        <a href="/planeacion_colaborativa/repechique"><img class="card-img-top" src="/assets/proyectos_apc/proy_repechique.jpg" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="/planeacion_colaborativa/repechique">Peritaje en materia de impacto ambiental y social de las afectaciones del Aeropuerto Regional Barrancas el Cobre</a>
