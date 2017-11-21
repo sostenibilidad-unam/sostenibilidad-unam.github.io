@@ -92,7 +92,7 @@ Literatura relevante
 --------------------
 
 -   Cardoso, C., F., Bert, & G., Podestá. (2014). Modelos basados en agentes
-    (MBA): definición, alcances y limitaciones <http://www.iai.int/wp-content/uploads/2014/03/Cardoso\_et\_al\_Manual\_ABM.pdf.>
+    (MBA): definición, alcances y limitaciones <http://www.iai.int/wp-content/uploads/2014/03/Cardoso_et_al_Manual_ABM.pdf.>
 -   García-Valdecasas, J. I. (2011). La simulación basada en agentes: una nueva
     forma de explorar fenómenos sociales. Reis 136:91-100
     doi:10.5477/cis/reis.136.91.
