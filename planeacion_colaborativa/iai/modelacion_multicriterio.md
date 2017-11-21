@@ -90,4 +90,3 @@ Literatura relevante
 
 * Bojórquez-Tapia, L. A., L., Luna-González, G. M., Cruz-Bello, P., Gómez-Priego, L., Juárez-Marusich, & I., Rosas-Pérez. (2011). Regional Environmental Assessment for Multiagency Policy Making: Implementing an Environmental Ontology through GIS-MCDA. Environment and Planning B: Planning and Design, 38(3): 539-63. <http://epb.sagepub.com/content/38/3/539.short.>
 * Lootsma, F. A. (1999). Multi-criteria decision analysis via ratio and difference judgement. Kluwer Academic Publishers, Dordrecht.
-* <http://lancis.ecologia.unam.mx/megadapt/#recursos.>
