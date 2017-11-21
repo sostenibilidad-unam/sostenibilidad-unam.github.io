@@ -8,7 +8,7 @@ permalink: /iai/participantes
 
 ## Financiamiento
 
-![](assets/proyectos_apc/iai_fichas/participantes/nsf.png) ![](assets/proyectos_apc/iai_fichas/participantes/iai.png)
+![](/assets/proyectos_apc/iai_fichas/participantes/nsf.png) ![](/assets/proyectos_apc/iai_fichas/participantes/iai.png)
 
 ## Instituciones
 
