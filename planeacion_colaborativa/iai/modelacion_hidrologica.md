@@ -25,6 +25,7 @@ utilizan en la planeación y manejo de las obras hidráulicas, así como en el
 diseño de protocolos de protección civil.
 
 ![Ciclo hidrologico](/assets/proyectos_apc/iai_fichas/ciclo_hidrologico.png)
+<br>
 **Figura 1.** *Ciclo hidrológico*
 <br>
 
@@ -72,6 +73,7 @@ la que se subdivide la Zona Metropolitana de la Ciudad de México para propósit
 de análisis (Fig. 2).
 
 ![Modelo inundaciones](/assets/proyectos_apc/iai_fichas/modelo_inundaciones.png)
+<br>
 **Figura 2.** _Resultado de Modelo de Inundaciones_
 <br>
 

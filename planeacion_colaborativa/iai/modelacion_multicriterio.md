@@ -38,6 +38,7 @@ La modelación multicriterio es una herramienta fundamental para involucrar a lo
 actores sociales en la toma de resoluciones a los problemas de sostenibilidad.
 
 ![modelacion multicriterio](/assets/proyectos_apc/iai_fichas/modelacion_multicriterio.png)
+<br>
 **Figura 1.** _Implementación de la modelación multicriterio dentro del proceso de MEGADAPT_
 <br>
 

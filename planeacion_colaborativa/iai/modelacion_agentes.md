@@ -47,6 +47,7 @@ cómo evolucionan patrones geográficos como la ocupación territorial, por
 ejemplo.
 
 ![Modelacion basada en agentes](/assets/proyectos_apc/iai_fichas/modelacion_agentes.png)
+<br>
 **Figura 1.** _Representación esquemática de la MBA integrada al SIG-MMC_
 <br>
 
