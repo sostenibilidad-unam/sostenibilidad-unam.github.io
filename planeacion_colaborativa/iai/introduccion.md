@@ -121,10 +121,10 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
 <!-- 10_modelacion_hidrologica -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="/iai/ciclo_hidrologico"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/mini_ciclo_hidrologico.png" alt=""></a>
+        <a href="/iai/modelacion_hidrologica"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/mini_ciclo_hidrologico.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
-            <a href="/iai/ciclo_hidrologico">Modelación hidrológica</a>
+            <a href="/iai/modelacion_hidrologica">Modelación hidrológica</a>
           </h4>
         </div>
       </div>
