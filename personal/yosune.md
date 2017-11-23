@@ -29,7 +29,7 @@ exclude: true
  - [MEGADAPT]( http://megadapt.weebly.com/)
  - Colaboración en proyecto de cátedra de la Dra. Nadia Santini "Reservas de carbono en suelos de bosques templados y   pastizales subalpinos" 
 
-# Catálogo de scripts
+# Repositorio de software en GitHub
 
  - [Scripts]
 
