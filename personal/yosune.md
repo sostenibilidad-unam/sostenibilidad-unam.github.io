@@ -27,8 +27,11 @@ exclude: true
 # Proyectos actuales
  
  - [MEGADAPT]( http://megadapt.weebly.com/)
+ - Colaboración en proyecto de cátedra de la Dra. Nadia Santini "Reservas de carbono en suelos de bosques templados y   pastizales subalpinos" 
 
+# Catálogo de scripts
 
+ - [Scripts](https://github.com/yosunita)
 
 ![me gusta el bosque](http://lasdoscastillas.net/wp-content/uploads/2014/02/Bosque.jpg)
 
