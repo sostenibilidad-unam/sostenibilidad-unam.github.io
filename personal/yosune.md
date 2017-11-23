@@ -31,7 +31,7 @@ exclude: true
 
 # Catálogo de scripts
 
- - [Scripts](https://github.com/yosunita)
+ - [Scripts]
 
 ![me gusta el bosque](http://lasdoscastillas.net/wp-content/uploads/2014/02/Bosque.jpg)
 
