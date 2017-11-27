@@ -24,8 +24,14 @@ En particular mi línea de investigación se centra en el desarrollo y aplicaci�
  3. Evaluación de riesgos al cambio climático y las respuestas socioecosistémicas
  4. Simulación de disturbios naturales y antropogénicos y sus efectos sobre los procesos socioecológicos
 
-## Proyectos actuales
 
- - [MEGADAPT](http://megadapt.weebly.com/)
+# Proyectos actuales
+ 
+ - [MEGADAPT]( http://megadapt.weebly.com/)
+ - Colaboración en proyecto de cátedra de la Dra. Nadia Santini "Reservas de carbono en suelos de bosques templados y   pastizales subalpinos" 
+
+# Repositorio de software en GitHub
+
+ - [Scripts](https://github.com/yosunemiquela)
 
 ![me gusta el bosque](http://lasdoscastillas.net/wp-content/uploads/2014/02/Bosque.jpg)
