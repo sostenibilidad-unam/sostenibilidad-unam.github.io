@@ -1,32 +1,24 @@
 ---
 layout: page
-title: Ing. Rodrigo García Herrera
-permalink: /academicos/rodrigo_garcia
-exclude: true
+title: ""
+permalink: /personal/rodrigo_garcia
 ---
 
+# Ing. Rodrigo García Herrera
+
 - Técnico Académico
-
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
-
-- Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM) 
-
+- Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 - Email: rgarcia@iecologia.unam.mx
 
 ## Cómputo científico
 
 - GNU/Linux y otras plataformas Un*x
-
 - Supercómputo: Condor, LSF, SGE
-
 - Desarrollo de Software: Python, Perl, Java, shell
-
 - Tecnologías web: Apache httpd, squid, Flask, Django, ECMAScript (Bootstrap, Semantic-UI)
-
 - Bases de datos: MySQL, sqlite, HTSQL, MongoDB
-
 - Control de versiones: SVN, Git
-
 - Geo: Leaflet
 
 ## Bioinformática

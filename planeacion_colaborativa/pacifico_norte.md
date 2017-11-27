@@ -29,4 +29,6 @@ autoridades de los tres órdenes de gobierno y miembros de la sociedad
 civil.
 
 La información completa sobre este proceso se puede consultar en la
-bitácora ambiental en la [página de internet de la SEMARNAT](http://www.semarnat.gob.mx/temas/ordenamiento-ecologico/bitacora-ambiental/bitacora-de-ordenamiento-ecologico-marino-y-regional)
+bitácora ambiental en la [página de internet de la SEMARNAT.](http://www.semarnat.gob.mx/temas/ordenamiento-ecologico/bitacora-ambiental/bitacora-de-ordenamiento-ecologico-marino-y-regional)
+
+[Ir a la Plataforma del Ordenamiento](http://magrat.mine.nu:8080/Versatile/)

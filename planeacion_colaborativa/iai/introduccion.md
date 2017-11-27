@@ -18,7 +18,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
   <h3 class="text-center">Comunicación y transdisciplina:
   <br>Fichas informativas del proyecto Megadapt</h3>
   <br>
-
+<!-- FILA UNO -->
   <div class="row">
 <!-- 1_sintesis -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
@@ -34,7 +34,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
 <!-- 3_transdisciplina -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="/iai/transdisciplina"><img class="card-img-top" src="/assets/proyectos_apc/proy_iai.png" alt=""></a>
+        <a href="/iai/transdisciplina"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/mini_transdisciplina.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="/iai/transdisciplina">Transdisciplina</a>
@@ -55,8 +55,8 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
     </div>
     <!-- row -->
   </div>
-
 <br>
+<!-- FILA DOS -->
 <div class="row">
 <!-- 5_vulnerabilidad -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
@@ -72,7 +72,7 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
 <!-- 6_objeto_frontera -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="/iai/objeto_de_frontera"><img class="card-img-top" src="/assets/proyectos_apc/proy_iai_2.png" alt=""></a>
+        <a href="/iai/objeto_de_frontera"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/mini_objeto_frontera.png" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="/iai/objeto_de_frontera">Objeto de frontera</a>
@@ -92,4 +92,59 @@ En este proyecto se explora el avance metodológico, las lecciones aprendidas, y
       </div>
     </div>
 <!-- /.row -->
+</div>
+<br>
+<!-- FILA TRES -->
+<div class="row">
+<!-- 8_mod_multicriterio -->
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="/iai/modelacion_multicriterio"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/mini_modelacion_multicriterio.png" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="/iai/modelacion_multicriterio">Modelación multicriterio</a>
+          </h4>
+        </div>
+      </div>
+    </div>
+<!-- Modelacion_agentes -->
+  <div class="col-lg-4 col-sm-6 portfolio-item">
+    <div class="card h-100">
+      <a href="/iai/modelacion_agentes"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/mini_modelacion_agentes.png" alt=""></a>
+      <div class="card-body">
+        <h4 class="card-title">
+          <a href="/iai/modelacion_agentes">Modelación basada en agentes</a>
+        </h4>
+      </div>
+    </div>
+  </div>
+<!-- 10_modelacion_hidrologica -->
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <div class="card h-100">
+        <a href="/iai/modelacion_hidrologica"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/mini_ciclo_hidrologico.png" alt=""></a>
+        <div class="card-body">
+          <h4 class="card-title">
+            <a href="/iai/modelacion_hidrologica">Modelación hidrológica</a>
+          </h4>
+        </div>
+      </div>
+    </div>
+<!-- /.row -->
+</div>
+<br>
+<!-- FILA TRES
+<div class="row">
+<!-- Riesgo_salud
+<div class="col-lg-4 col-sm-6 portfolio-item">
+  <div class="card h-100">
+    <a href="/iai/riesgo_salud"><img class="card-img-top" src="/assets/proyectos_apc/iai_fichas/mini_mapa_riesgo_salud.png" alt=""></a>
+    <div class="card-body">
+      <h4 class="card-title">
+        <a href="/iai/riesgo_salud">Riesgo a la salud</a>
+      </h4>
+    </div>
+  </div>
+</div>
+</div>
+-->
 </div>

@@ -34,18 +34,14 @@ en el desarrollo de herramientas:
 -   De **análisis y modelación**, que permitan integrar información para
     simular las retroalimentaciones entre los subsistemas biofísico y
     socioeconómico
-
 -   Para generar **experimentos computacionales** para analizar y
     visualizar la evolución del sistema socio-ecológico bajo diferentes
     condiciones
-
 -   Computacionales que faciliten el flujo multidireccional de
     información, la **traducción y la mediación** entre los actores
     sociales en la formulación de políticas públicas
-
 -   De **capacitación** dirigida al aprendizaje transformacional que se
     requiere para enfrentar este reto de sostenibilidad
-
 -   De **instrucción especializada**, para que las autoridades, los
     equipos técnicos y los actores sociales cuenten con los
     conocimientos y habilidades para una participación más efectiva en
@@ -122,7 +118,7 @@ en el diseño de herramientas de política pública con impacto nacional.
 <!-- 5_Repechique -->
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <div class="card h-100">
-        <a href="/planeacion_colaborativa/repechique"><img class="card-img-top" src="/assets/proyectos_apc/proy_repechique_1.jpg" alt=""></a>
+        <a href="/planeacion_colaborativa/repechique"><img class="card-img-top" src="/assets/proyectos_apc/proy_repechique.jpg" alt=""></a>
         <div class="card-body">
           <h4 class="card-title">
             <a href="/planeacion_colaborativa/repechique">Peritaje en materia de impacto ambiental y social de las afectaciones del Aeropuerto Regional Barrancas el Cobre</a>
