@@ -19,9 +19,9 @@ permalink: /personal/yosune
 
  Mi línea de investigación se centra en el desarrollo y aplicación de modelos matemáticos a:
 
- 1. Cuantificar del balance de carbono forestal
- 2. Gestionar de los recursos naturales
- 3. Modelar servicios ecosistémicos 
+ 1. Cuantificar el balance de carbono forestal
+ 2. Gestionar los recursos naturales
+ 3. Simular servicios ecosistémicos terrestres
  3. Evaluar riesgos al cambio climático y respuestas socioecosistémicas
  4. Simular los disturbios naturales y antropogénicos y sus efectos sobre los procesos socioecológicos
 
