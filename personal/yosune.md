@@ -33,6 +33,9 @@ permalink: /personal/yosune
 
 # Repositorio de software en GitHub
 
- - [Scripts](https://github.com/yosunemiquela)
+ - [Scripts](https://github.com/sostenibilidad-unam/R_Scripts_Catalogue)
+ 
+ # Cursos 
+ - [Estadítica y Modelación de sistemas socioecológicos en R](https://github.com/sostenibilidad-unam/curso-estadistica-modelacionR)
 
 ![me gusta el bosque](http://lasdoscastillas.net/wp-content/uploads/2014/02/Bosque.jpg)
