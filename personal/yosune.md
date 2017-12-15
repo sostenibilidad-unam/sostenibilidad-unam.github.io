@@ -36,6 +36,6 @@ permalink: /personal/yosune
  - [Scripts](https://github.com/sostenibilidad-unam/R_Scripts_Catalogue)
  
  # Cursos 
- - [Estadítica y Modelación de sistemas socioecológicos en R](https://github.com/sostenibilidad-unam/curso-estadistica-modelacionR)
+ - [Estadística y Modelación de sistemas socioecológicos en R](https://github.com/sostenibilidad-unam/curso-estadistica-modelacionR)
 
 ![me gusta el bosque](http://lasdoscastillas.net/wp-content/uploads/2014/02/Bosque.jpg)
