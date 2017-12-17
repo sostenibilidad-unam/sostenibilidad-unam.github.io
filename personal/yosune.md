@@ -17,12 +17,12 @@ permalink: /personal/yosune
 
 ### Modelación matemática de sistemas socioecológicos
 
- Mi línea de investigación se centra en el desarrollo y aplicación de modelos matemáticos a:
+ Mi línea de investigación se centra en el desarrollo y aplicación de modelos matemáticos para:
 
  1. Cuantificar el balance de carbono forestal
  2. Gestionar los recursos naturales
  3. Simular servicios ecosistémicos terrestres
- 3. Evaluar riesgos al cambio climático y respuestas socioecosistémicas
+ 3. Evaluar riesgos y vulnerabilidad al cambio climático
  4. Simular los disturbios naturales y antropogénicos y sus efectos sobre los procesos socioecológicos
 
 
@@ -35,7 +35,9 @@ permalink: /personal/yosune
 
  - [Scripts](https://github.com/sostenibilidad-unam/R_Scripts_Catalogue)
  
- # Cursos 
+ 
+# Cursos 
  - [Estadística y Modelación de sistemas socioecológicos en R](https://github.com/sostenibilidad-unam/curso-estadistica-modelacionR)
+ - "Diseño y Escritura de Propuestas de Investigación en Temas de Sostenibilidad"
 
 ![me gusta el bosque](http://lasdoscastillas.net/wp-content/uploads/2014/02/Bosque.jpg)
