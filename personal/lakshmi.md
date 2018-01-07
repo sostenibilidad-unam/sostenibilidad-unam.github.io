@@ -11,10 +11,18 @@ permalink: /personal/lakshmi
 - Candidata a Doctorado (Posgrado en Ciencias de la Sostenibilidad, UNAM)
 - Email: lakshmi.charli@iecologia.unam.mx
 
+## En la red
+
+* [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph)
+* [LinkedIn](http://lnkd.in/bEcccN)
+* [Transformations to Sustainability Programme](https://transformationstosustainability.org/people/lakshmi-charli-joseph/)
+* [A.R.T Lab](http://heakinartlab.weebly.com/lab-members.html)
+* [STEPS Centre - North America Sustainability Hub](http://steps-centre.org/global/north-america/)
+
 ## Proyectos en curso
 - [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/) (Responsables: Adrian Ely, SPRU/ESRC STEPS Centre; Anabel Marin, CONICET); [Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/) (Responsable: Hallie Eakin, SOS-ASU; Co-responsable: Lakshmi Charli-Joseph)
-- PAPIIT: Valoración sociocultural y escenarios futuros de la zona lacustre de Xochimilco, Ciudad de México (Responsables: Amy M. Lerner y Marisa Mazari, LANCIS-IE-UNAM)
-- [Global Consortium for Sustainability Outcomes (GCSO) - CapaCities: Building Sustainability Implementation Capacity in City Staff and Leadership](https://sustainabilityoutcomes.org/) (Responsables: Amy M. Lerner y Marisa Mazari, LANCIS-IE-UNAM).
+- PAPIIT IA301117, DGAPA-UNAM: Valoración sociocultural y escenarios futuros de la zona lacustre de Xochimilco, Ciudad de México (Responsables: Amy M. Lerner y Marisa Mazari, LANCIS-IE-UNAM; Co-responsable: Lakshmi Charli-Joseph)
+- [Global Consortium for Sustainability Outcomes (GCSO) - CapaCities: Building Sustainability Implementation Capacity in City Staff and Leadership](https://sustainabilityoutcomes.org/) (Responsables: Amy M. Lerner y Marisa Mazari, LANCIS-IE-UNAM; Co-responsable: Lakshmi Charli-Joseph).
 
 ## Intereses académicos
 - Gobernanza del agua y ciencias de la sostenibilidad
@@ -34,15 +42,6 @@ Título de la investigación: "Promoviendo Vías de Transformación hacia la Sos
 ## Bio
 
 Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning and management (UAX; IHE-Delft). For the past nine years she has been involved in educational and capacity building projects related to wetland management, water governance, and sustainability science. She co-coordinated the design of the Graduate Program in Sustainability Sciences at UNAM, and is currently working at the National Laboratory for Sustainability Sciences (LANCIS-UNAM) in research projects related to governance and transformation towards sustainability in Mexico. She is part of the Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network), where she co-coordinates the North America Hub (one of the six hubs that conform the Pathways to Sustainability Global Consortium). She is a PhD candidate at the Graduate Program in Sustainability Sciences, UNAM and her research title is: “Promoting transformative pathways to sustainability through collective agency: The Transformation-Lab in the Xochimilco social-ecological system”.
-
-## En la red
-
-* [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph)
-* [LinkedIn](http://lnkd.in/bEcccN)
-* [Transformations to Sustainability Programme](https://transformationstosustainability.org/people/lakshmi-charli-joseph/)
-* [A.R.T Lab](http://heakinartlab.weebly.com/lab-members.html)
-* [STEPS Centre - North America Sustainability Hub](http://steps-centre.org/global/north-america/)
-
 
 ![xochimilco](/assets/xochi2.jpg)
 
