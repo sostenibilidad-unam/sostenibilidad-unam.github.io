@@ -30,6 +30,7 @@ permalink: /personal/lakshmi
 
 ## Línea de investigación
 Gobernanza, planeación colaborativa, y aprendizaje social
+
 Título de la investigación: "Promoviendo Vías de Transformación hacia la Sostenibilidad a través de la agencia colectiva: el Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco"
 
 ## Semblanza
