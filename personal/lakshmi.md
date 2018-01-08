@@ -43,7 +43,7 @@ Título de la investigación: "Promoviendo Vías de Transformación hacia la Sos
 
 Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning and management (UAX; IHE-Delft). For the past nine years she has been involved in educational and capacity building projects related to wetland management, water governance, and sustainability science. She co-coordinated the design of the Graduate Program in Sustainability Sciences at UNAM, and is currently working at the National Laboratory for Sustainability Sciences (LANCIS-UNAM) in research projects related to governance and transformation towards sustainability in Mexico. She is part of the Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network), where she co-coordinates the North America Hub (one of the six hubs that conform the Pathways to Sustainability Global Consortium). She is a PhD candidate at the Graduate Program in Sustainability Sciences, UNAM and her research title is: “Promoting transformative pathways to sustainability through collective agency: The Transformation-Lab in the Xochimilco social-ecological system”.
 
-![xochimilco](/assets/xochi2.jpg)
+![xochimilco](/assets/Xochi2.jpg)
 
 ## Publicaciones
 
