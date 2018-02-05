@@ -21,6 +21,7 @@ permalink: /personal/lakshmi
 
 ## Proyectos en curso
 - [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/) (Responsables: Adrian Ely, SPRU/ESRC STEPS Centre; Anabel Marin, CONICET); [Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/) (Responsable: Hallie Eakin, SOS-ASU; Co-responsable: Lakshmi Charli-Joseph)
+[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)
 - PAPIIT IA301117, DGAPA-UNAM: Valoración sociocultural y escenarios futuros de la zona lacustre de Xochimilco, Ciudad de México (Responsables: Amy M. Lerner y Marisa Mazari, LANCIS-IE-UNAM; Co-responsable: Lakshmi Charli-Joseph)
 - [Global Consortium for Sustainability Outcomes (GCSO) - CapaCities: Building Sustainability Implementation Capacity in City Staff and Leadership](https://sustainabilityoutcomes.org/) (Responsables: Amy M. Lerner y Marisa Mazari, LANCIS-IE-UNAM; Co-responsable: Lakshmi Charli-Joseph).
 
@@ -45,7 +46,7 @@ Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning an
 
 ## Publicaciones
 * Pfeiffer E, Wehn U, Charli-Joseph L, Lerner AM, Irvine K. 2017. Training sustainability change agents: Lessons from international water education, in Handbook of Theory and Practice of Sustainable Development in Higher Education, Volume 4, pp 31-48 (Leal Filho, W., Azeiteiro, U.M., Alves, F., Molthan-Hill, P., ed). Springer International Publishing. (doi: 10.1007/978-3-319-47877-7_3; ISSN: 978-3-319-47876-0)
-* Eakin H, Lerner AM, Manuel-Navarrete D, Hernández Aguilar B, Martínez-Canedo A, Tellman B, Charli-Joseph L, Fernández Álvarez R, Bojórquez-Tapia L. 2016. Adapting to risk and perpetuating poverty: Household’s strategies for managing flood risk and water scarcity in Mexico City. Environmental Science & Policy, 66: 324- 333. <http://www.sciencedirect.com/science/article/pii/S1462901116302921>
+* Eakin H, Lerner AM, Manuel-Navarrete D, Hernández Aguilar B, Martínez-Canedo A, Tellman B, Charli-Joseph L, Fernández Álvarez R, Bojórquez-Tapia L. 2016. Adapting to risk and perpetuating poverty: Household’s strategies for managing flood risk and water scarcity in Mexico City. Environmental Science & Policy, 66: 324- 333 (http://www.sciencedirect.com/science/article/pii/S1462901116302921)
 * Charli-Joseph L, Escalante AE, Eakin H, Solares MJ, Mazari-Hiriart M, Nation M, Gómez-Priego P, Domínguez CA, Bojórquez-Tapia L.  2016. Collaborative framework for designing a sustainability science program: lessons learned at the National Autonomous University of Mexico. International Journal of Sustainability in Higher Education 17(2)
 *	Escalante AE, Charli-Joseph L, Solares MJ. 2013. Las Ciencias de la Sostenibilidad en las Aulas de la UNAM.  Oikos No.9 Ecología y sostenibilidad: del campo a la academia. Instituto de Ecología, UNAM.
 *	Escalante AE, Charli-Joseph L, Solares MJ. 2013. El cambio climático, un gran reto de sostenibilidad. Oikos No.7 Biodiversidad y Cambio Climático. Instituto de Ecología, UNAM.
