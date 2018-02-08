@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Oferta y Servicios"
-permalink: /oferta/
+title: "Creación y Fortalecimiento de Capacidades"
+permalink: /capacidades/
 ---
 
 # Creación y Fortalecimiento de Capacidades
