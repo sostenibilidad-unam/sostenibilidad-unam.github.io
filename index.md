@@ -11,10 +11,4 @@ Son una disciplina de investigación que estudia las interacciones entre los sis
 Las Ciencias de la Sostenibilidad parten de un enfoque transdisciplinario en el que lo cuantitativo y lo cualitativo, la naturaleza y la sociedad, la teoría y la práctica se combinan.
 Asimismo, retoman nociones y métodos de los sistemas complejos y generan un enfoque de investigación que valora e integra el conocimiento de los diferentes actores involucrados en un sistema socioambiental y se centra siempre en la solución de los problemas socioambientales que la motivan (Kates et al. 2001; De Vries, 2013; González-Casanova, 2005).
 
-
-
-## ¿Qué es el LANCIS?
-
-El Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS) se fundó con el apoyo del *Programa de Creación de Laboratorios Nacionales de Infraestructura Científica o Desarrollo Tecnológico* (LAB-2009-01) del Consejo Nacional de Ciencia y Tecnología (CONACyT).
-Desde que fue concebido en el marco de esta convocatoria, el LANCIS se estableció como un consorcio en el que, además del Instituto de Ecología (IE-UNAM), el Instituto de Ingeniería (II-UNAM) y el PUMA (UNAM), también participan la SEMARNAT, el INECC y la CONANP.
-<a href="/semblanza/">Leer más</a>
+<a href="/semblanza/">Semblanza del LANCIS.</a>
