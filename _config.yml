@@ -31,9 +31,12 @@ navbar-links:
     - Planeación Colaborativa: "planeacion_colaborativa"
     - Ecogenómica de Sistemas: "ecogenomica"
     - Monitoreo Ambiental: "monitoreo_ambiental"
+  Actividades:
+    - Postrado: "posgrado"
+    - Creación de Capacidades: "capacidades"
+  Infraestructura:
     - Anfiteatro: "anfiteatro"
     - Cluster: "cluster"
-  Posgrado: "posgrado"
   Contacto: "ubicacion"
 nav-search: "search" # tomado del sitio del autor del tema
   # Author's home: "http://deanattali.com"
