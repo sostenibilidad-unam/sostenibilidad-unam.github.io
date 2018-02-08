@@ -4,8 +4,6 @@ title: "Creación y Fortalecimiento de Capacidades"
 permalink: /capacidades/
 ---
 
-# Creación y Fortalecimiento de Capacidades
-
 Una de las principales vías de vinculación del LANCIS con distintos
 sectores de la sociedad será la del desarrollo y coordinación de
 programas de educación formal y no formal en Ciencias de la
