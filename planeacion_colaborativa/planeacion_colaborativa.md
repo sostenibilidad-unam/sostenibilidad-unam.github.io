@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Área de Planeación Colaborativa"
+title: "Planeación Colaborativa"
 permalink: /planeacion_colaborativa/
 ---
 
