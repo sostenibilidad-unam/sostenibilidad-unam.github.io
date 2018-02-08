@@ -35,7 +35,6 @@ navbar-links:
         - Anfiteatro: "anfiteatro"
         - Cluster: "cluster"
   Posgrado: "posgrado"
-  Noticias: posts
   Contacto: "ubicacion"
 nav-search: "search" # tomado del sitio del autor del tema
   # Author's home: "http://deanattali.com"
