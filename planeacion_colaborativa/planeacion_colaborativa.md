@@ -140,24 +140,6 @@ en el diseño de herramientas de política pública con impacto nacional.
   <!-- /.row -->
 </div>
 
-  <!-- /.container -->
-  <!-- Bootstrap core JavaScript
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
--->
-
-<!-- CURSO EN LINEA CUAED
-<div class="col-lg-4 col-sm-6 portfolio-item">
-  <div class="card h-100">
-    <a href="http://kinet.cuaed.unam.mx/educacion_continua/ordenamiento_ecologico/" target="_blank"><img class="card-img-top" src="/assets/proyectos_apc/cuaed_screen.png" alt=""></a>
-    <div class="card-body">
-      <h4 class="card-title">
-        <a href="http://kinet.cuaed.unam.mx/educacion_continua/ordenamiento_ecologico/" target="_blank">Curso en línea de Ordenamiento Ecológico</a>
-      </h4>
-      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
-    </div>
-  </div>
-</div> -->
 
 
 ## Participantes y Colaboradores
