@@ -25,8 +25,8 @@ description: Página del LANCIS
 # List of links in the navigation bar
 navbar-links:
   Acerca del Lancis:
-    - Semblanza: "semblanza"
     - Personal: "personal"
+    - Semblanza: "semblanza"
   Líneas de Investigación:
     - Planeación Colaborativa: "planeacion_colaborativa"
     - Ecogenómica de Sistemas: "ecogenomica"
