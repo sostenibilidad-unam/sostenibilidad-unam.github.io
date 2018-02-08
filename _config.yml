@@ -31,9 +31,8 @@ navbar-links:
     - Planeación Colaborativa: "planeacion_colaborativa"
     - Ecogenómica de Sistemas: "ecogenomica"
     - Monitoreo Ambiental: "monitoreo_ambiental"
-    - Infraestructura
-        - Anfiteatro: "anfiteatro"
-        - Cluster: "cluster"
+    - Anfiteatro: "anfiteatro"
+    - Cluster: "cluster"
   Posgrado: "posgrado"
   Contacto: "ubicacion"
 nav-search: "search" # tomado del sitio del autor del tema
