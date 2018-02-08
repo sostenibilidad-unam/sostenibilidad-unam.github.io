@@ -5,6 +5,11 @@ bigimg: /assets/F_edificio_lancis_BANNER.jpg
 permalink: /semblanza/
 ---
 
+# ¿Qué es el LANCIS?
+
+El Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS) se fundó con el apoyo del *Programa de Creación de Laboratorios Nacionales de Infraestructura Científica o Desarrollo Tecnológico* (LAB-2009-01) del Consejo Nacional de Ciencia y Tecnología (CONACyT).
+Desde que fue concebido en el marco de esta convocatoria, el LANCIS se estableció como un consorcio en el que, además del Instituto de Ecología (IE-UNAM), el Instituto de Ingeniería (II-UNAM) y el PUMA (UNAM), también participan la SEMARNAT, el INECC y la CONANP.
+
 # El LANCIS como entidad de frontera
 
 El Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS) se
