@@ -159,4 +159,15 @@ en el diseño de herramientas de política pública con impacto nacional.
   </div>
 </div> -->
 
-<!-- FIN -->
+
+## Participantes y Colaboradores
+
+- [Dr. Luis Bojórquez Tapia](/personal/luis_bojorquez)
+- [Dra. Ana Elena Escalante](/personal/ana_escalante)
+- [Dra. Amy M. Lerner](/personal/amy_lerner)
+- [Dra. Marisa Mazari Hiriart](/personal/marisa_mazari)
+- [Dra. Yosune Miquelajauregui Graf](/personal/yosune)
+- [Dra. Ana Cecilia Espinosa](/personal/ana_cecilia_espinosa)
+- [Ing. Rodrigo García Herrera](/personal/rodrigo_garcia)
+- [M.G. Fidel Serrano Candela](/personal/fidel_serrano)
+
