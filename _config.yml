@@ -28,10 +28,6 @@ navbar-links:
     - Personal: "personal"
     - Semblanza: "semblanza"
     - Nuestras redes: "nuestras-redes"
-  Líneas de Investigación:
-    - Planeación Colaborativa: "planeacion_colaborativa"
-    - Ecogenómica de Sistemas: "ecogenomica"
-    - Monitoreo Ambiental: "monitoreo_ambiental"
   Actividades:
     - Investigación: "investigacion"
     - Innovación: "innovacion"
