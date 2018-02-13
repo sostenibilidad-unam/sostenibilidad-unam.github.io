@@ -33,6 +33,8 @@ navbar-links:
     - Ecogenómica de Sistemas: "ecogenomica"
     - Monitoreo Ambiental: "monitoreo_ambiental"
   Actividades:
+    - Investigación: "investigacion"
+    - Innovación: "innovacion"
     - Posgrado: "posgrado"
     - Creación de Capacidades: "capacidades"
   Infraestructura:
