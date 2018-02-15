@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Planeación Colaborativa"
+title: "Planeación Colaborativa, aprendizaje social y gobernanza."
 permalink: /planeacion_colaborativa/
 ---
 
