@@ -4,5 +4,4 @@ title: Nuestras Redes
 permalink: /nuestras-redes/
 ---
 
-![Las Redes de LANCIS](/assets/Redes LANCIS.png)
-
+![Redes LANCIS](/assets/Redes LANCIS.png)
