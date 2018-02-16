@@ -8,26 +8,9 @@ permalink: /semblanza/
 # ¿Qué es el LANCIS?
 
 El Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS) se fundó con el apoyo del *Programa de Creación de Laboratorios Nacionales de Infraestructura Científica o Desarrollo Tecnológico* (LAB-2009-01) del Consejo Nacional de Ciencia y Tecnología (CONACyT).
-Desde que fue concebido en el marco de esta convocatoria, el LANCIS se estableció como un consorcio en el que, además del Instituto de Ecología (IE-UNAM), el Instituto de Ingeniería (II-UNAM) y el PUMA (UNAM), también participan la SEMARNAT, el INECC y la CONANP.
+Desde que fue concebido en el marco de esta convocatoria, el LANCIS se estableció como un consorcio en el que, además del Instituto de Ecología (IE-UNAM), el Instituto de Ingeniería (II-UNAM) y el PUMA (UNAM), también participaron la SEMARNAT, el INECC y la CONANP.
 
 # El LANCIS como entidad de frontera
-
-El Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS) se
-funda a partir de la convocatoria del Consejo Nacional de Ciencia y
-Tecnología (CONACyT) para la creación de Laboratorios Nacionales de
-Infraestructura Científica y Desarrollo Tecnológico (LAB-2009-01). En
-el marco de esta convocatoria, el LANCIS se establece como un
-consorcio (Figura 1) conformado por el Instituto de Ecología
-(IE-UNAM), el Instituto de Ingeniería (II-UNAM) y el Programa
-Universitario de Medio Ambiente (PUMA-UNAM). En este mismo marco se
-establece como contraparte del sector público a la Secretaría del
-Medio Ambiente y Recursos Naturales (SEMARNAT) y sus órganos
-desconcentrados, el Instituto Nacional de Ecología y Cambio Climático
-(INECC) y la Comisión Nacional de Áreas Naturales Protegidas (CONANP).
-
-![Consorcio](/assets/consorcio.png)
-
-**Figura 1.** _Consorcio LANCIS_
 
 El LANCIS constituye una respuesta a la creciente y genuina
 preocupación sobre el papel de la UNAM en el desarrollo del país, por
@@ -89,11 +72,9 @@ políticas públicas.
 
 Por su naturaleza como entidad de investigación, como laboratorio
 nacional y como entidad de frontera que involucra diferentes
-disciplinas y sectores, el LANCIS tiene compromisos con la UNAM, con
-el CONACyT y con el Consorcio.
+disciplinas y sectores, el LANCIS tiene los siguientes compromisos.
 
 ### Con la UNAM
-
 El LANCIS está constituido por grupos de investigación enfocados al
 desarrollo de los fundamentos teóricos y a la generación de
 conocimiento en el marco de las Ciencias de la Sostenibilidad. Dada su
@@ -104,16 +85,7 @@ humanos en Ciencias de la Sostenibilidad, tanto en enfoques de
 aprendizaje formal (por ejemplo, el Posgrado en Ciencias de la
 Sostenibilidad), como no formal.
 
-### Con el Consorcio
-
-El LANCIS se constituye como un nodo de integración y síntesis para, a
-través del Consorcio, articular investigación científica útil para la
-toma de decisiones que impulse el tránsito hacia la sostenibilidad en
-el país.
-
-
 ### Con el CONACyT
-
 El LANCIS está obligado a promover el uso compartido de su
 infraestructura para desarrollar proyectos de investigación en
 Ciencias de la Sostenibilidad y ofrecer servicios de segundo nivel en
