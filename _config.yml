@@ -23,8 +23,8 @@ navbar-links:
     - Semblanza: "semblanza"
     - Nuestras redes: "nuestras-redes"
   Actividades:
-    - Investigación: "investigacion"
-    - Innovación: "innovacion"
+    - Investigación e Innovación: "investigacion"
+    - Desarrollo de Proyectos: "proyectos"
     - Posgrado: "posgrado"
     - Creación de Capacidades: "capacidades"
   Infraestructura:
