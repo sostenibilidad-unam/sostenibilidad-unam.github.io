@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cluster
+bigimg: /assets/cluster_banner.jpg
 permalink: /cluster/
 ---
 
