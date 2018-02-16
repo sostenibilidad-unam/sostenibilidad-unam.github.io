@@ -28,6 +28,7 @@ navbar-links:
     - Posgrado: "posgrado"
     - Creación de Capacidades: "capacidades"
   Infraestructura:
+    - Laboratorios: "laboratorios"
     - Anfiteatro: "anfiteatro"
     - Cluster: "cluster"
   Contacto: "ubicacion"
