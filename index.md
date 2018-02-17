@@ -5,10 +5,39 @@ use-site-title: true
 
 ![logo](/assets/I_Logo_pleca_BANNER.png)
 
+-----------
+
+<!-- tres columnas de showcase -->
+<div class="row">
+{% for item in site.showcase limit: 3 %}
+<div class="col-lg-4">
+<h2>{{ item.title }}</h2>
+<img src="/showcase/{{ item.smallimg }}" width="100%" />
+<p>{{ item.description }}</p>
+<p><a class="btn btn-default" role="button" href="{{ item.url }}">leer más &raquo;</a></p>
+</div>
+{% endfor %}
+</div>
+
+[aún más...](/showcase)
+
+-----------
+
 ## ¿Qué son las Ciencias de la Sostenibilidad?
 
-Son una disciplina de investigación que estudia las interacciones entre los sistemas naturales y sociales, así como la manera en que dichas interacciones afectan la satisfacción de las necesidades de las generaciones presentes y futuras. La investigación se lleva a cabo dentro de un contexto de equidad y justicia social, buscando conservar los sistemas de generación y mantenimiento de la vida en la Tierra.
-Las Ciencias de la Sostenibilidad parten de un enfoque transdisciplinario en el que lo cuantitativo y lo cualitativo, la naturaleza y la sociedad, la teoría y la práctica se combinan.
-Asimismo, retoman nociones y métodos de los sistemas complejos y generan un enfoque de investigación que valora e integra el conocimiento de los diferentes actores involucrados en un sistema socioambiental y se centra siempre en la solución de los problemas socioambientales que la motivan (Kates et al. 2001; De Vries, 2013; González-Casanova, 2005).
+Son una disciplina de investigación que estudia las interacciones
+entre los sistemas naturales y sociales, así como la manera en que
+dichas interacciones afectan la satisfacción de las necesidades de las
+generaciones presentes y futuras. La investigación se lleva a cabo
+dentro de un contexto de equidad y justicia social, buscando conservar
+los sistemas de generación y mantenimiento de la vida en la Tierra.
+Las Ciencias de la Sostenibilidad parten de un enfoque
+transdisciplinario en el que lo cuantitativo y lo cualitativo, la
+naturaleza y la sociedad, la teoría y la práctica se combinan.
+Asimismo, retoman nociones y métodos de los sistemas complejos y
+generan un enfoque de investigación que valora e integra el
+conocimiento de los diferentes actores involucrados en un sistema
+socioambiental y se centra siempre en la solución de los problemas
+socioambientales que la motivan (Kates et al. 2001; De Vries, 2013;
+González-Casanova, 2005).
 
-<a href="/semblanza/">Semblanza del LANCIS.</a>
