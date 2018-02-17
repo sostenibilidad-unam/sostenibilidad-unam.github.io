@@ -1,10 +1,8 @@
 ---
 layout: page
-title: ""
-permalink: /planeacion_colaborativa/pacifico_norte/
+title: "Ordenamiento Ecológico Marino y Regional del Pacífico Norte"
 ---
 
-# Ordenamiento Ecológico Marino y Regional del Pacífico Norte
 
 En 2009 la Secretaría de Medio Ambiente y Recursos Naturales inició el
 proceso de Ordenamiento Ecológico Marino y Regional del Pacífico. Para
