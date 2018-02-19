@@ -8,8 +8,10 @@ permalink: /proyectos/
 <div class="col-lg-4">
   <div class="panel panel-default">
     <img src="{{ item.coverimg }}" width="100%" />
-    <p>{{ item.description }}</p>
-    <p><a class="btn btn-default" role="button" href="{{ item.url }}">leer más &raquo;</a></p>
+    <div class="panel-body">
+      <p>{{ item.description }}</p>
+      <p><a class="btn btn-default" role="button" href="{{ item.url }}">leer más &raquo;</a></p>
+    </div>
   </div>
 </div>
 {% endfor %}
