@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Ordenamiento Ecológico Marino y Regional del Pacífico Norte"
-description: "Ordenamiento Ecológico Marino y Regional del Pacífico Norte"
+description: "Programa Ecológico Marino y Regional del Ordenamiento del Pacífico Norte"
+coverimg: /assets/proyectos_apc/proy_pacifico_norte.png
 ---
 
 

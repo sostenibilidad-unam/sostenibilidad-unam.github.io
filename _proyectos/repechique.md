@@ -2,6 +2,7 @@
 layout: page
 title: "Peritaje en materia de impacto ambiental y social de las afectaciones del Aeropuerto Regional Barrancas el Cobre"
 description: "Peritaje en materia de impacto ambiental y social de las afectaciones del Aeropuerto Regional Barrancas el Cobre"
+coverimg: /assets/proyectos_apc/proy_repechique.jpg
 ---
 
 En abril del 2014 la Comunidad Rarámuri de Bosques de San Elías
