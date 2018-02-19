@@ -14,7 +14,7 @@ use-site-title: true
 <div class="col-lg-4">
 	<div class="panel panel-default">
 		<div class="panel-heading">{{ item.title }}</div>
-		<img src="/showcase/{{ item.smallimg }}" width="100%" />
+		<img src="{{ item.smallimg }}" width="100%" />
 		<div class="panel-body">
 			<p>{{ item.description }}</p>
 			<p><a class="btn btn-default" role="button" href="{{ item.url }}">leer más &raquo;</a></p>

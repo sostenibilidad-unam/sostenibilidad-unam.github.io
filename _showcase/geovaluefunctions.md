@@ -1,7 +1,7 @@
 ---
 title: Geo-Value Function
 layout: page
-smallimg: geovalue.png
+smallimg: /showcase/geovalue.png
 description: Web-app para calibrar datos geo-referenciados a través de funciones de valor.
 ---
 

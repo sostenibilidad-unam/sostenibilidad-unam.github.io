@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "T-Labs hiveplot"
-smallimg: "tlabs.png"
+smallimg: /showcase/tlabs.png
 description: "Visualización de redes de agencia en el contexto del proyecto T-Labs."
 ---
 
