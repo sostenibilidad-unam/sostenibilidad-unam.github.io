@@ -19,9 +19,9 @@ description: Página del LANCIS
 # List of links in the navigation bar
 navbar-links:
   Acerca del Lancis:
-    - Personal: "/personal"
-    - Semblanza: "/semblanza"
-    - Nuestras redes: "/nuestras-redes"
+    - Personal: "personal"
+    - Semblanza: "semblanza"
+    - Nuestras redes: "nuestras-redes"
   Actividades:
     - Investigación e Innovación: "investigacion"
     - Desarrollo de Proyectos: "proyectos"
