@@ -1,7 +1,5 @@
 ---
 layout: page
-title: "Proyectos"
-bigimg: /assets/F_edificio_lancis_BANNER.jpg
 permalink: /proyectos/
 ---
 
@@ -10,7 +8,7 @@ permalink: /proyectos/
 <div class="col-lg-4">
 <h2>{{ item.title }}</h2>
 <p>{{ item.description }}</p>
-<p><a href="{{ item.url }}">{{ item.title }}</a></p>
+  <p><a class="btn btn-default" role="button" href="{{ item.url }}">leer más &raquo;</a></p>
 </div>
 {% endfor %}
 </div>
