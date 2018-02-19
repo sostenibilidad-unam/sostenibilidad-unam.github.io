@@ -9,18 +9,23 @@ use-site-title: true
 
 <!-- tres columnas de showcase -->
 <div class="row">
-{% for item in site.showcase limit: 3 %}
+{% assign items = site.showcase | sample: 3 %}
+{% for item in  items %}
 <div class="col-lg-4">
-<h2>{{ item.title }}</h2>
-<img src="/showcase/{{ item.smallimg }}" width="100%" />
-<p>{{ item.description }}</p>
-<p><a class="btn btn-default" role="button" href="{{ item.url }}">leer más &raquo;</a></p>
+	<div class="panel panel-default">
+		<div class="panel-heading">{{ item.title }}</div>
+		<img src="/showcase/{{ item.smallimg }}" width="100%" />
+		<div class="panel-body">
+			<p>{{ item.description }}</p>
+			<p><a class="btn btn-default" role="button" href="{{ item.url }}">leer más &raquo;</a></p>
+		</div>
+	</div>
 </div>
 {% endfor %}
 </div>
-
-[aún más...](/showcase)
-
+<!--
+<a class="btn btn-default" role="button" href="/showcase">aún más...</a>
+-->
 -----------
 
 ## ¿Qué son las Ciencias de la Sostenibilidad?
