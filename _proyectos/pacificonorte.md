@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Ordenamiento Ecológico Marino y Regional del Pacífico Norte"
+description: "Ordenamiento Ecológico Marino y Regional del Pacífico Norte"
 ---
 
 
