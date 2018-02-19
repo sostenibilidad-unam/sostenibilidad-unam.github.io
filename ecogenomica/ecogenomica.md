@@ -13,12 +13,6 @@ La pérdida de biodiversidad y servicios ecosistémicos, así como la necesidad 
 -	Marcadores moleculares y bioindicadores
 
 
-## Infraestructura y equipamiento
-
-162 m² en un área para 38 usuarios. Cuenta con cinco cubículos para investigadores y una zona de becarios con equipo de cómputo. Cinco laboratorios de investigación equipados para la preservación de muestras y su análisis a nivel genético y fisicoquímico. Cuenta con instalaciones de gas LP, vacio, agua destilada así como equipo especial de laboratorio y computo.
-
-
-
 
 <!-- 3-col-portfolio BS - - Page Content -->
 <div class="container-fluid">
