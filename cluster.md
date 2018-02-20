@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cluster
+title: Supercómputo
 bigimg: /assets/cluster_banner.jpg
 permalink: /cluster/
 ---
