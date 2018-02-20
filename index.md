@@ -9,7 +9,7 @@ use-site-title: true
 
 <!-- tres columnas de showcase -->
 <div class="row">
-{% assign items = site.showcase | sample: 3 %}
+{% assign items = site.showcase | sample: 6 %}
 {% for item in  items %}
 <div class="col-lg-4">
 	<div class="panel panel-default">
