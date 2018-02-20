@@ -5,6 +5,7 @@ smallimg: /showcase/transgenicos.png
 description: "Diferencias inesperadas entre plantas domesticadas, sus parientes silvestres y sus versiones modificadas por ingeniería genética: un estudio en arroz, maíz, girasol, calabaza y canola."
 ---
 
+
 El manejo agronómico de plantas cultivadas es un potente motor
 evolutivo que actúa sobre las poblaciones vegetales. Dentro de las
 prácticas de manejo agronómico existen aquellas de mejoramiento
@@ -60,7 +61,6 @@ cualitativamente distintos. Además, indican que las plantas
 modificadas por ingeniería genética no son, como se ha argumentado,
 equivalentes a las modificadas por estrategias de manejo agronómico
 tradicional.
-
 
 Este trabajo [se puede obtener gratuitamente](https://www.frontiersin.org/articles/10.3389/fpls.2017.02030/full) en la página de la revista
 científica Frontiers in Plant Sciencies.
