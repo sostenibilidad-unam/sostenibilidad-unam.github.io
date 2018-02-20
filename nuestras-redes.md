@@ -27,4 +27,6 @@ A través de normas-legislación: líneas color verde
 
 A través de publicaciones: líneas color morado
 
-A través de estudiantes: líneas color café
+A través de estudiantes: líneas color naranja
+
+A través de cursos: líneas color roda
