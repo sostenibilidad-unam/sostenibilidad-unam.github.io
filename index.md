@@ -10,8 +10,8 @@ use-site-title: true
 <!-- tres columnas de showcase -->
 <div class="row">
 {% assign items = site.showcase | sample: 6 %}
-{% for item in  items %}
-<div class="col-lg-4">
+{% for item in items %}
+<div class="col-md-4">
 	<div class="panel panel-default">
 		<div class="panel-heading">{{ item.title }}</div>
 		<img src="{{ item.smallimg }}" width="100%" />
@@ -45,4 +45,3 @@ conocimiento de los diferentes actores involucrados en un sistema
 socioambiental y se centra siempre en la solución de los problemas
 socioambientales que la motivan (Kates et al. 2001; De Vries, 2013;
 González-Casanova, 2005).
-
