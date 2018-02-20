@@ -30,7 +30,7 @@ navbar-links:
   Infraestructura:
     - Laboratorios: "laboratorios"
     - Anfiteatro: "anfiteatro"
-    - Cluster: "cluster"
+    - Supercómputo: "cluster"
   Contacto: "ubicacion"
 nav-search: "search" # tomado del sitio del autor del tema
   # Author's home: "http://deanattali.com"
