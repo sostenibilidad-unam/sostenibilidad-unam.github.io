@@ -29,4 +29,4 @@ A través de publicaciones: líneas color morado
 
 A través de estudiantes: líneas color naranja
 
-A través de cursos: líneas color roda
+A través de cursos: líneas color rosa
