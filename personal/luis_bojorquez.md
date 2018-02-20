@@ -31,6 +31,58 @@ Ciencias de la sostenibilidad y planeación colaborativa
 - [ResearchGate](https://www.researchgate.net/profile/Luis_Bojorquez-Tapia)
 - [Google Scholar](https://scholar.google.com/citations?user=vhyzPNkAAAAJ&hl=es)
 
+## Planeación Colaborativa, aprendizaje social y gobernanza
+
+Este grupo de trabajo se enfoca en el desarrollo de herramientas
+analíticas y tecnológicas para apoyar el diseño de políticas públicas
+más robustas y legítimas.
+
+Desarrollamos proyectos de investigación transdisciplinaria que
+integran un esquema de involucramiento continuo de los actores
+sociales relacionados con el problema a atender. Ello implica la
+participación de académicos de diversas disciplinas, funcionarios
+públicos y miembros de la sociedad civil. En este esquema, funcionamos
+como nodo de integración y síntesis de conocimiento útil para el
+abordaje de problemas de sostenibilidad en sistemas socio-ecológicos
+complejos. Así, con una discusión y evaluación colectiva, se logra la
+co-producción de conocimiento sobre las posibles consecuencias de
+planes, programas y proyectos de desarrollo. Con este esquema, se
+obtiene conocimiento relevante (i.e., que sea pertinente para la
+resolución de problemas), legítimo (i.e., que se consideren sin
+prejuicios de valores, preocupaciones y perspectivas de los diversos
+actores sociales) y creíble (i.e., que las evidencias tengan rigor
+científico).
+
+De esta forma, se logra un mejor sustento en los procesos de toma de
+decisiones acerca de problemas de sostenibilidad.
+
+El trabajo que se desarrolla en el laboratorio se dirige a la innovación
+en el desarrollo de herramientas:
+
+-   De **análisis y modelación**, que permitan integrar información para
+	simular las retroalimentaciones entre los subsistemas biofísico y
+	socioeconómico
+-   Para generar **experimentos computacionales** para analizar y
+	visualizar la evolución del sistema socio-ecológico bajo diferentes
+	condiciones
+-   Computacionales que faciliten el flujo multidireccional de
+	información, la **traducción y la mediación** entre los actores
+	sociales en la formulación de políticas públicas
+-   De **capacitación** dirigida al aprendizaje transformacional que se
+	requiere para enfrentar este reto de sostenibilidad
+-   De **instrucción especializada**, para que las autoridades, los
+	equipos técnicos y los actores sociales cuenten con los
+	conocimientos y habilidades para una participación más efectiva en
+	los procesos de planeación colaborativa
+
+En este grupo se cuenta con amplia experiencia en proyectos de
+ordenamiento ecológico, evaluación de impacto ambiental y evaluación
+de vulnerabilidad.
+
+Los resultados de las investigaciones desarrolladas se han implementado
+en el diseño de herramientas de política pública con impacto nacional.
+
+
 <!--
 De la página de Megadapt:
 
