@@ -3,30 +3,32 @@ layout: page
 title: Nuestras Redes
 permalink: /nuestras-redes/
 ---
+# Las Redes de LANCIS
+Esta visualización ilustra las colaboraciones que LANCIS sostiene con entidades de diversos sectores, tanto nacionales como internacionales.
 
 ![Redes LANCIS](/assets/Redes LANCIS.png)
 
 
-*Colaboradores:*
+## *Colaboradores:*
 
-Academia: Nodos color azul
+*Academia: Nodos color azul*
 
-Gobierno: Nodos color verde
+*Gobierno: Nodos color verde*
 
-Sociedad civil y organizaciones no gubernamentales: Nodos color café
+*Sociedad civil y organizaciones no gubernamentales: Nodos color café*
 
 
 
-*Tipos de colaboración:*
+## *Tipos de colaboración:*
 
-A través de proyectos: líneas color azul
+*A través de proyectos: líneas color azul*
 
-A través de convenios: líneas color cyan
+*A través de convenios: líneas color cyan*
 
-A través de normas-legislación: líneas color verde
+*A través de normas-legislación: líneas color verde*
 
-A través de publicaciones: líneas color morado
+*A través de publicaciones: líneas color morado*
 
-A través de estudiantes: líneas color naranja
+*A través de estudiantes: líneas color naranja*
 
-A través de cursos: líneas color rosa
+*A través de cursos: líneas color rosa*
