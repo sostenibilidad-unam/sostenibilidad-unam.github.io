@@ -31,7 +31,9 @@ Ciencias de la sostenibilidad y planeación colaborativa
 - [ResearchGate](https://www.researchgate.net/profile/Luis_Bojorquez-Tapia)
 - [Google Scholar](https://scholar.google.com/citations?user=vhyzPNkAAAAJ&hl=es)
 
-## Planeación Colaborativa, aprendizaje social y gobernanza
+--------
+
+# Planeación Colaborativa, aprendizaje social y gobernanza
 
 Este grupo de trabajo se enfoca en el desarrollo de herramientas
 analíticas y tecnológicas para apoyar el diseño de políticas públicas
