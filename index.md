@@ -7,11 +7,23 @@ use-site-title: true
 
 -----------
 
+<style>
+.aligned-row {
+  display: flex;
+  flex-flow: row wrap;
+
+  &::before {
+	display: block;
+  }
+}
+</style>
+
 <!-- tres columnas de showcase -->
-<div class="row">
+<div class="container-fluid">
+<div class="row aligned-row">
 {% assign items = site.showcase | sample: 6 %}
 {% for item in items %}
-<div class="col-md-4">
+<div class="col-sm-4 col-lg-4">
 	<div class="panel panel-default">
 		<div class="panel-heading">{{ item.title }}</div>
 		<img src="{{ item.smallimg }}" width="100%" />
@@ -22,6 +34,7 @@ use-site-title: true
 	</div>
 </div>
 {% endfor %}
+</div>
 </div>
 <!--
 <a class="btn btn-default" role="button" href="/showcase">aún más...</a>
