@@ -3,7 +3,6 @@ layout: page
 title: Nuestras Redes
 permalink: /nuestras-redes/
 ---
-# Las Redes de LANCIS
 Esta visualización ilustra las colaboraciones que LANCIS sostiene con entidades de diversos sectores.
 
 ![Redes LANCIS](/assets/Redes LANCIS.png)
