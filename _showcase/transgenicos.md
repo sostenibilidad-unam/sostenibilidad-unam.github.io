@@ -61,7 +61,6 @@ modificadas por ingeniería genética no son, como se ha argumentado,
 equivalentes a las modificadas por estrategias de manejo agronómico
 tradicional.
 
-
 Este trabajo [se puede obtener gratuitamente](https://www.frontiersin.org/articles/10.3389/fpls.2017.02030/full) en la página de la revista
 científica Frontiers in Plant Sciencies.
 
