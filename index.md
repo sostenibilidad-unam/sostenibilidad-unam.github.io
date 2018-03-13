@@ -5,6 +5,8 @@ use-site-title: true
 
 ![logo](/assets/I_Logo_pleca_BANNER.png)
 
+El Laboratorio Nacional de Ciencias de la Sostenibilidad (del [Instituto de Ecología, UNAM](http://web.ecologia.unam.mx/)) es una entidad académica de frontera al estar constituido como un nodo de generación, integración y síntesis que sirve de vínculo entre el ámbito académico, los tomadores de decisiones del sector público y los diversos sectores organizados de la sociedad. Así, el LANCIS está dirigido a ligar la ciencia y la toma de decisiones para facilitar el tránsito hacia la sostenibilidad en el país.
+
 -----------
 
 <style>
