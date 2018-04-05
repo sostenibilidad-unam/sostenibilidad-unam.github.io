@@ -7,13 +7,11 @@ permalink: /anfiteatro/
 
 # Anfiteatro de Decisiones
 
-El Anfiteatro de Decisiones del Laboratorio Nacional de Ciencias de la Sostenibilidad (AD-LANCIS) es un instrumento de investigación
-único, que permite realizar investigación en tres vertientes simultáneas:
+El Anfiteatro de Decisiones del Laboratorio Nacional de Ciencias de la Sostenibilidad (AD-LANCIS) es un instrumento de investigación único, que permite realizar investigación en tres vertientes simultáneas:
 1) Generación de experimentos y experiencias relacionados con la manera de traducir y comunicar el conocimiento científico a diversos grupos y actores sociales
 2) Desarrollo de herramientas computacionales para el análisis, la discusión y la visualización de problemas de sostenibilidad
 3) Análisis de los mecanismos de aprendizaje social que inciden en el tránsito hacia la sostenibilidad
 Gracias a esto, es posible realizar “investigación de frontera” orientada hacia la vinculación del conocimiento científico y la toma de decisiones. El AD-LANCIS se divide en dos partes: la Sala de Inmersión y la Sala de Usos Múltiples.
-
 
 ### Sala de Inmersión
 
@@ -29,6 +27,9 @@ Se encuentra en la planta alta y tiene capacidad para 30 personas. En esta sala 
 - Talleres de planeación colaborativa, tanto presenciales como a distancia
 - Interacciones a distancia, como parte del programa del Posgrado en Ciencias de la Sostenibilidad
 - Presentaciones de los productos de distintos proyectos de Ciencias de la Sostenibilidad
+
+[Reservar Sala de Usos Múltiples](/reservacion-anfiteatro/)
+
 <br>
 <br>
 
