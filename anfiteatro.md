@@ -28,7 +28,7 @@ Se encuentra en la planta alta y tiene capacidad para 30 personas. En esta sala 
 - Interacciones a distancia, como parte del programa del Posgrado en Ciencias de la Sostenibilidad
 - Presentaciones de los productos de distintos proyectos de Ciencias de la Sostenibilidad
 
-[Reservar Sala de Usos Múltiples](/reservacion-anfiteatro/)
+[Reservar Sala de Usos Múltiples](https://docs.google.com/forms/d/e/1FAIpQLSeZtj5N1662yDSxfefVOmy_4An8htCdbPBk4FrZuCzq-JQZHw/viewform?usp=sf_link)
 
 <br>
 <br>
