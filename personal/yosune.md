@@ -33,11 +33,11 @@ permalink: /personal/yosune
 
 # Repositorio de software en GitHub
 
- - [Scripts](https://github.com/sostenibilidad-unam/R_Scripts_Catalogue)
+ - [Scripts](http://lancis.ecologia.unam.mx/R_Scripts_Catalogue/)
  
 # Cursos
 
- - [Estadística y Modelación de sistemas socioecológicos en R](https://github.com/sostenibilidad-unam/curso-estadistica-modelacionR)
+ - [Estadística y Modelación de sistemas socioecológicos en R](http://lancis.ecologia.unam.mx/R_Scripts_Catalogue/)
  - "Diseño y Escritura de Propuestas de Investigación en Temas de Sostenibilidad"
 
 ![me gusta el bosque](http://lasdoscastillas.net/wp-content/uploads/2014/02/Bosque.jpg)
