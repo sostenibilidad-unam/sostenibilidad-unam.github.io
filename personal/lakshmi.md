@@ -4,19 +4,18 @@ title: ""
 permalink: /personal/lakshmi
 ---
 
-# M.C. Lakshmi E. Charli-Joseph
+# Lakshmi E. Charli-Joseph
 
 - Técnica Académica en Análisis de Sistemas Socioambientales
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 - Instituto de Ecología (IE), Universidad Nacional Autónoma de México (UNAM)
-- Candidata a Doctorado (Posgrado en Ciencias de la Sostenibilidad, UNAM)
+- Candidata a Doctora, Posgrado en Ciencias de la Sostenibilidad, UNAM
 - Email: lakshmi.charli@iecologia.unam.mx
 
 ## En la red
 * [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph)
 * [LinkedIn](http://lnkd.in/bEcccN)
 * [Transformations to Sustainability Programme](https://transformationstosustainability.org/people/lakshmi-charli-joseph/)
-* [A.R.T Lab](http://heakinartlab.weebly.com/lab-members.html)
 * [STEPS Centre - North America Sustainability Hub](http://steps-centre.org/global/north-america/)
 
 ## Proyectos en curso
@@ -35,7 +34,7 @@ Gobernanza, planeación colaborativa, y aprendizaje social
 Título de la investigación: "Promoviendo Vías de Transformación hacia la Sostenibilidad a través de la agencia colectiva: el Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco"
 
 ## Semblanza
-- Licenciatura en Biología (UNAM); Maestría en Derecho, Gestión y Política Ambientales (UAX); Maestría en Planeación y Gestión Ambiental (UNESCO-IHE, Holanda); Candidata a doctorado, Posgrado en Ciencias de la Sostenibilidad (UNAM).
+- Licenciatura en Biología (UNAM); Maestría en Derecho, Gestión y Política Ambientales (UAX); Maestría en Planeación y Gestión Ambiental (UNESCO-IHE, Holanda); Candidata a doctora, Posgrado en Ciencias de la Sostenibilidad (UNAM).
 - Involucrada en proyectos de educación y creación de capacidades relacionados a manejo de humedales, gobernanza del agua y ciencias de la sostenibilidad.
 - Coordinación del diseño y desarrollo del programa de Posgrado en Ciencias de la Sostenibilidad de la UNAM.
 
