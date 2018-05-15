@@ -7,8 +7,8 @@ permalink: /personal/lakshmi
 # Lakshmi E. Charli-Joseph
 
 - Técnica Académica en Análisis de Sistemas Socioambientales
-- Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
-- Instituto de Ecología (IE), Universidad Nacional Autónoma de México (UNAM)
+- **Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)**
+- **Instituto de Ecología (IE), Universidad Nacional Autónoma de México (UNAM)**
 - Candidata a Doctora, Posgrado en Ciencias de la Sostenibilidad, UNAM
 - Email: lakshmi.charli@iecologia.unam.mx
 
