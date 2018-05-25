@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Xochimilco y sus chinampas: lecciones del sismo del 19 de septiembre, 2017"
-smallimg: /showcase/xichi_postsismo.jpg
+smallimg: /showcase/xochi_postsismo.jpg
 description: "Estamos realizando investigaciones que utilizan el enfoque de transformaciones hacia la sostenibilidad para impulsar el desarrollo sostenible del sistema socio-ecológico de Xochimilco."
 ---
 El sistema socio-ecológico de Xochimilco presenta una alta vulnerabilidad social y biofísica que está relacionada con procesos de urbanización, erosión del tejido social, activismo político y sobreexplotación de los recursos, entre otros. Debido a esto, la capacidad para responder ante fenómenos naturales como el sismo ocurrido en septiembre de 2017 se ha visto afectada. Por esta razón, es importante replantear el enfoque de los proyectos de recuperación, de la implementación de políticas públicas y de la investigación científica. Estos enfoques deben orientarse a concretar transformaciones en el sitio que incluyan una visión a largo plazo, de modo que se le permita al sistema responder mejor ante condiciones futuras de estrés, manteniendo su funcionamiento en un contexto de sostenibilidad.
