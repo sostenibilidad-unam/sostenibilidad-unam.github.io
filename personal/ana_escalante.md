@@ -21,7 +21,9 @@ permalink: /personal/ana_escalante
 ![Natsuko Rivera](/assets/Natsuko_Rivera_2018.JPG)
 ![Karen Carrasco](/assets/Karen_Carrasco_2018.JPG)
 ![Nancy_Ontiveros](/assets/Nancy_Ontiveros_2018.JPG)
-![Karla Pena](/assets/Karla_Peñaa_2018.JPG)
+
+<img src="/assets/karla_pena.jpg" width=300px>
+
 ![Alberto Barron](/assets/Alberto_Barron_2018.JPG)
 ![G. Alejandra Sarmina](/assets/Gloria_2018.JPG)
 ![Valeria Aparicio Trejo](/assets/Valeria_Aparicio.JPG)
