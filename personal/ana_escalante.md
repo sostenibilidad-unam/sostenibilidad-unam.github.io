@@ -15,7 +15,7 @@ permalink: /personal/ana_escalante
 
 # 2018 - Integrantes
 
-![Alejandra_Estrada](/assets/Alejandra_Estrada_2018.JPG)
+![Alejandra_Estrada](/assets/Files_Escalante/Alejandra_Estrada_2018.JPG)
 ![Alejandra_Hernandez_Teran](sostenibilidad-unam.github.io/assets/Ale_Hdez_Teran_2018.JPG)
 ![Juan Arias](/assets/Juan_Arias_2018.JPG)
 ![Natsuko Rivera](/assets/Natsuko_Rivera_2018.JPG)
