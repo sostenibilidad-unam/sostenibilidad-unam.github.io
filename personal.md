@@ -18,3 +18,4 @@ permalink: /personal/
 - [Dra. Ana Cecilia Espinosa](/personal/ana_cecilia_espinosa)
 - [Ing. Rodrigo García Herrera](/personal/rodrigo_garcia)
 - [M.G. Fidel Serrano Candela](/personal/fidel_serrano)
+- [Dra. Morena Avitia Cao Romero](/personal/morena_avitia)
