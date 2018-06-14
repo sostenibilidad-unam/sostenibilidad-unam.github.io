@@ -15,8 +15,8 @@ permalink: /personal/ana_escalante
 
 # 2018 - Integrantes
 
-![Alejandra Estrada](/assets/Alejandra_Estrada_2018.JPG)
-![Alejandra Hernandez-Teran](/assets/Ale_Hdez_Teran_2018.JPG)
+![Todos](/assets/Alejandra_Estrada_2018.JPG)
+(/assets/Ale_Hdez_Teran_2018.JPG)
 ![Juan Arias](/assets/Juan_Arias_2018.JPG)
 ![Natsuko Rivera](/assets/Natsuko_Rivera_2018.JPG)
 ![Karen Carrasco](/assets/Karen_Carrasco_2018.JPG)
