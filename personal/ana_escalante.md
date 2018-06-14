@@ -27,6 +27,7 @@ permalink: /personal/ana_escalante
 ![Valeria Aparicio Trejo](/assets/Valeria_Aparicio.JPG)
 
 
+
 ## Campo de investigación
 
 Ecología Microbiana
