@@ -16,7 +16,7 @@ permalink: /personal/ana_escalante
 # 2018 - Integrantes
 
 <img src="/assets/escalante_files/karla_2018.jpg" width="350px">
-<img src="/assets/ale_2018.jpg" width=350px">
+<img src="/assets/escalante_files/ale_2018.jpg" width="350px">
 <img src="/assets/ale2_2018.jpg" width=350px">
 <img src="/assets/ale3_2018.jpg" width=350px">
 
