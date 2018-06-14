@@ -15,7 +15,10 @@ permalink: /personal/ana_escalante
 
 # 2018 - Integrantes
 
-<img src="/assets/Alejandra_Estrada.jpg" width=350px">
+<img src="/assets/karla_2018.jpg" width="350px">
+<img src="/assets/ale_2018.jpg" width=350px">
+<img src="/assets/ale2_2018.jpg" width=350px">
+<img src="/assets/ale3_2018.jpg" width=350px">
 
 ![Alejandra_Hernandez_Teran](sostenibilidad-unam.github.io/assets/Ale_Hdez_Teran_2018.JPG)
 ![Juan Arias](/assets/Juan_Arias_2018.JPG)
@@ -27,7 +30,7 @@ permalink: /personal/ana_escalante
 ![Valeria Aparicio Trejo](/assets/Valeria_Aparicio.JPG)
 
 
-<img src="/assets/karla_pena.jpg" width="300px">
+
 
 
 ## Campo de investigación
