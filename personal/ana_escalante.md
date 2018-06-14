@@ -16,14 +16,15 @@ permalink: /personal/ana_escalante
 # 2018 - Integrantes
 
 ![Alejandra Estrada](/assets/Alejandra_Estrada_2018.JPG)
-![Alejandra Hernández-Terán](/assets/Alejandra_Hdez_Teran_2018.JPG)
+![Alejandra Hernández-Terán](/assets/Ale_Hdez_Terán_2018.JPG)
 ![Juan Arias](/assets/Juan_Arias_2018.JPG)
 ![Natsuko Rivera](/assets/Natsuko_Rivera_2018.JPG)
 ![Karen Carrasco](/assets/Karen_Carrasco_2018.JPG)
 ![Nancy_Ontiveros](/assets/Nancy_Ontiveros_2018.JPG)
-![Karla_Peña](/assets/Karla_Peña_2018.JPG)
+![Karla Peña](/assets/Karla_Peña_2018.JPG)
 ![Alberto Barrón](/assets/Alberto_Barrón_2018.JPG)
 ![G. Alejandra Sarmina](/assets/Gloria_2018.JPG)
+![Valeria Aparicio Trejo](/assets/Valeria_Aparicio.JPG)
 
 
 ## Campo de investigación
