@@ -13,6 +13,18 @@ permalink: /personal/ana_escalante
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 - Email: aescalante@iecologia.unam.mx
 
+# 2018 - Integrantes
+
+![Alejandra Estrada](/assets/Alejandra_Estrada_2018.JPG)
+![Alejandra Hernández-Terán](/assets/Alejandra_Hdez_Teran_2018.JPG)
+![Juan Arias](/assets/Juan_Arias_2018.JPG)
+![Natsuko Rivera](/assets/Natsuko_Rivera_2018.JPG)
+![Karen Carrasco](/assets/Karen_Carrasco_2018.JPG)
+![Nancy_Ontiveros](/assets/Nancy_Ontiveros_2018.JPG)
+![Karla_Peña](/assets/Karla_Peña_2018.JPG)
+![Alberto Barrón](/assets/Alberto_Barrón_2018.JPG)
+![G. Alejandra Sarmina](/assets/Gloria_2018.JPG)
+
 
 ## Campo de investigación
 
