@@ -10,12 +10,9 @@ permalink: /personal/ana_escalante
  - [Proyectos](#proyectos)
  - [Publicaciones](#publicaciones-destacadas)
  - [Noticias de interés](#noticias-de-interes)
- - [Estudiantes de doctorado](#estudiantes-de-doctorado)
- - [Estudiantes de maestría](#estudiantes-de-maestria)
- - [Estudiantes de licenciatura](#estudiantes-de-licenciatura)
- - [Aspirantes](#aspirantes)
- - [Estudiantes graduados](#XXX)
- - [Colaboradores](#XXX)
+ - [Estudiantes](#estudiantes-de-doctorado)
+ - [Estudiantes graduados](#estudiantes-graduados)
+ - [Colaboradores](#colaboradores)
  
 <img src="/assets/escalante_files/grupo_2018.JPG">
 
@@ -91,7 +88,9 @@ Gloria Alejandra Sarmina Leonel
 
 <img src="/assets/escalante_files/ale3_2018.JPG" width="350px">
 
+# Estudiantes graduados
 
+# Colaboradores
 
 ## Campo de investigación
 
