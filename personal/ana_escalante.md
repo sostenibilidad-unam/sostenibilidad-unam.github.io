@@ -9,7 +9,7 @@ permalink: /personal/ana_escalante
  - [Semblanza](#semblanza)
  - [Proyectos](#proyectos)
  - [Publicaciones](#publicaciones-destacadas)
- - [Noticias de interés](#noticias)
+ - [Noticias de interés](#noticias-de-interes)
  - [Estudiantes de doctorado](#estudiantes-de-doctorado)
  - [Estudiantes de maestría](#estudiantes-de-maestria)
  - [Estudiantes de licenciatura](#estudiantes-de-licenciatura)
