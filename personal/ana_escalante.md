@@ -5,11 +5,18 @@ permalink: /personal/ana_escalante
 ---
 
 # Dra. Ana E. Escalante
-
- - [Campo de Investigación](#campo-de-investigación)
- - [Especialidades](#especialidades)
- - [En la red](#en-la-red)
-
+ - [Líneas de investigación](#Líneas de investigación)
+ - [Semblanza](#Semblanza)
+ - [Proyectos](#Proyectos)
+ - [Publicaciones](#Publicaciones destacadas)
+ - [Noticias de interés](#Noticias)
+ - [Estudiantes de doctorado](#Estudiantes de doctorado)
+ - [Estudiantes de maestría](#Estudiantes de Maestría)
+ - [Estudiantes de licenciatura](#Estudiantes de Licenciatura)
+ - [Aspirantes](#Aspirantes)
+ - [Estudiantes graduados](#XXX)
+ - [Colaboradores](#XXX)
+ 
 <img src="/assets/escalante_files/grupo_2018.JPG">
 
 - Investigadora Titular A
@@ -17,14 +24,24 @@ permalink: /personal/ana_escalante
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 - Email: aescalante@iecologia.unam.mx
 
-## 2018 - Integrantes
+## Líneas de investigación
 
 # Investigadora responsable 
 
 **Dra. Ana E. Escalante**
 
 <img src="/assets/escalante_files/ana_2018.JPG" width="400px">
-lskjfslkjfslkfj
+
+Semblanza
+
+Proyectos
+
+Publicaciones destacadas
+
+- [Google scholar](https://scholar.google.com.mx/citations?user=UQmdPmoAAAAJ&hl=en)
+- [Research Gate](https://www.researchgate.net/profile/Ana_Escalante2)
+
+Noticias
 
 # Estudiantes de Doctorado
 
