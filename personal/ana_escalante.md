@@ -29,16 +29,16 @@ permalink: /personal/ana_escalante
 
 <img src="/assets/escalante_files/ana_2018.JPG" width="400px">
 
-Semblanza
+# Semblanza
 
-Proyectos
+# Proyectos
 
-Publicaciones destacadas
+# Publicaciones destacadas
 
 - [Google scholar](https://scholar.google.com.mx/citations?user=UQmdPmoAAAAJ&hl=en)
 - [Research Gate](https://www.researchgate.net/profile/Ana_Escalante2)
 
-Noticias
+# Noticias
 
 # Estudiantes de Doctorado
 
