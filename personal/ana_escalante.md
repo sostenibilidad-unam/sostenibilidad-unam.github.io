@@ -6,6 +6,10 @@ permalink: /personal/ana_escalante
 
 # Dra. Ana E. Escalante
 
+ - [Campo de Investigación](#campo-de-investigación)
+ - [Especialidades](#especialidades)
+ - [En la red](#en-la-red)
+
 <img src="/assets/escalante_files/grupo_2018.JPG">
 
 - Investigadora Titular A
