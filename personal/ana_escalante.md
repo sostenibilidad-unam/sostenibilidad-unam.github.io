@@ -8,7 +8,7 @@ permalink: /personal/ana_escalante
  - [Líneas de investigación](#lineas-de-investigacion)
  - [Semblanza](#semblanza)
  - [Proyectos](#proyectos)
- - [Publicaciones destacadas](#publicaciones-destacadas)
+ - [Publicaciones](#publicaciones)
  - [Noticias de interés](#noticias-de-interes)
  - [Estudiantes](#estudiantes-de-doctorado)
  - [Estudiantes graduados](#estudiantes-graduados)
