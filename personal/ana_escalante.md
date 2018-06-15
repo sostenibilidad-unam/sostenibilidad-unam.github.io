@@ -4,7 +4,7 @@ title: ""
 permalink: /personal/ana_escalante
 ---
 
-# Dra. Ana Elena Escalante
+# Dra. Ana E. Escalante
 
 <img src="/assets/escalante_files/grupo_2018.JPG">
 
@@ -13,47 +13,49 @@ permalink: /personal/ana_escalante
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 - Email: aescalante@iecologia.unam.mx
 
-# 2018 - Integrantes
+## 2018 - Integrantes
 
-# Dra. Ana E. Escalante
+# Investigadora responsable 
+
+Dra. Ana E. Escalante
 <img src="/assets/escalante_files/ana_2018.JPG" width="400px">
 
 # Estudiantes de Doctorado
 
-# Alejandra Hernández Terán
+Alejandra Hernández Terán
 <img src="/assets/escalante_files/ale_2018.JPG" width="350px">
 
-# Karen Carrasco Espinosa
+Karen Carrasco Espinosa
 <img src="/assets/escalante_files/karen_2018.JPG" width="350px">
 
-# Juan Arias Del Angel
+Juan Arias Del Angel
 <img src="/assets/escalante_files/juan_2018.JPG" width="350px">
 
-# Natsuko Rivera Yoshida
+Natsuko Rivera Yoshida
 <img src="/assets/escalante_files/natsuko_2018.JPG" width="350px">
 
-# Nancy Ontiveros
+Nancy Ontiveros
 <img src="/assets/escalante_files/nancy_2018.JPG" width="350px">
 
-# Alejandra Estrada Barón
+Alejandra Estrada Barón
 <img src="/assets/escalante_files/ale2_2018.JPG" width="350px">
 
 # Estudiantes de Maestría
 
-# Karla Peña Sanabria
+Karla Peña Sanabria
 <img src="/assets/escalante_files/karla_2018.jpg" width="350px">
 
-# Alberto Barrón Sandoval
+Alberto Barrón Sandoval
 <img src="/assets/escalante_files/alberto_2018.JPG" width="350px">
 
 # Estudiantes de Licenciatura
 
-# Valeria Aparicio Trejo
+Valeria Aparicio Trejo
 <img src="/assets/escalante_files/valeria_2018.JPG" width="350px">
 
 # Aspirantes
 
-# Gloria Alejandra Sarmina Leonel
+Gloria Alejandra Sarmina Leonel
 <img src="/assets/escalante_files/ale3_2018.JPG" width="350px">
 
 
