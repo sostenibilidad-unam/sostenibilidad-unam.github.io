@@ -3,7 +3,6 @@ layout: page
 title: ""
 permalink: /personal/rodrigo_garcia
 ---
-[en la red](#en-la-red)
 
 # Ing. Rodrigo García Herrera
 
