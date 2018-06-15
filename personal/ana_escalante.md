@@ -5,7 +5,7 @@ permalink: /personal/ana_escalante
 ---
 
 # Dra. Ana E. Escalante
- - [Líneas de investigación](#lineas-de-investigación)
+ - [Líneas de investigación](#lineas-de-investigacion)
  - [Semblanza](#semblanza)
  - [Proyectos](#proyectos)
  - [Publicaciones](#publicaciones-destacadas)
