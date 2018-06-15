@@ -6,14 +6,14 @@ permalink: /personal/ana_escalante
 
 # Dra. Ana E. Escalante
  - [Líneas de investigación](#lineas-de-investigación)
- - [Semblanza](#Semblanza)
- - [Proyectos](#Proyectos)
- - [Publicaciones](#Publicaciones destacadas)
- - [Noticias de interés](#Noticias)
- - [Estudiantes de doctorado](#Estudiantes de doctorado)
- - [Estudiantes de maestría](#Estudiantes de Maestría)
- - [Estudiantes de licenciatura](#Estudiantes de Licenciatura)
- - [Aspirantes](#Aspirantes)
+ - [Semblanza](#semblanza)
+ - [Proyectos](#proyectos)
+ - [Publicaciones](#publicaciones-destacadas)
+ - [Noticias de interés](#noticias)
+ - [Estudiantes de doctorado](#estudiantes-de-doctorado)
+ - [Estudiantes de maestría](#estudiantes-de-maestria)
+ - [Estudiantes de licenciatura](#estudiantes-de-licenciatura)
+ - [Aspirantes](#aspirantes)
  - [Estudiantes graduados](#XXX)
  - [Colaboradores](#XXX)
  
