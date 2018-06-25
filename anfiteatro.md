@@ -20,6 +20,10 @@ Se encuentra en la planta baja y tiene capacidad para 20 personas. En este espac
 - Reuniones de facilitación para la toma de decisiones con herramientas de geo-visualización y cómputo científico
 - Reuniones ejecutivas relacionadas con proyectos de Ciencias de la Sostenibilidad
 
+Aquí el [formulario para reservar Sala de Inmersión](https://goo.gl/forms/typXImm7IfpSa7F92)
+
+Para garantizar que haya disponibilidad le sugerimos revisar el [calendario de ocupación](https://calendar.google.com/calendar/embed?src=iecologia.unam.mx_re9uo2ga86a637ooih6ad1t0is%40group.calendar.google.com&ctz=America%2FMexico_City).
+
 ### Sala de Usos Múltiples
 
 Se encuentra en la planta alta y tiene capacidad para 30 personas. En esta sala se llevan a cabo:
