@@ -20,7 +20,7 @@ Se encuentra en la planta baja y tiene capacidad para 20 personas. En este espac
 - Reuniones de facilitación para la toma de decisiones con herramientas de geo-visualización y cómputo científico
 - Reuniones ejecutivas relacionadas con proyectos de Ciencias de la Sostenibilidad
 
-Aquí el [formulario para reservar Sala de Inmersión](https://goo.gl/forms/typXImm7IfpSa7F92)
+[Reservar Sala de Inmersión](https://goo.gl/forms/typXImm7IfpSa7F92)
 
 Para garantizar que haya disponibilidad le sugerimos revisar el [calendario de ocupación](https://calendar.google.com/calendar/embed?src=iecologia.unam.mx_re9uo2ga86a637ooih6ad1t0is%40group.calendar.google.com&ctz=America%2FMexico_City).
 
@@ -32,7 +32,7 @@ Se encuentra en la planta alta y tiene capacidad para 30 personas. En esta sala 
 - Interacciones a distancia, como parte del programa del Posgrado en Ciencias de la Sostenibilidad
 - Presentaciones de los productos de distintos proyectos de Ciencias de la Sostenibilidad
 
-Aquí el [formulario para reservar Sala de Usos Múltiples](https://docs.google.com/forms/d/e/1FAIpQLSeZtj5N1662yDSxfefVOmy_4An8htCdbPBk4FrZuCzq-JQZHw/viewform?usp=sf_link)
+[Reservar Sala de Usos Múltiples](https://docs.google.com/forms/d/e/1FAIpQLSeZtj5N1662yDSxfefVOmy_4An8htCdbPBk4FrZuCzq-JQZHw/viewform?usp=sf_link)
 
 Para garantizar que haya disponibilidad le sugerimos revisar el [calendario de ocupación](https://calendar.google.com/calendar/embed?src=iecologia.unam.mx_o78m8d3004lscu45l42phjcphg%40group.calendar.google.com&ctz=America%2FMexico_City).
 
