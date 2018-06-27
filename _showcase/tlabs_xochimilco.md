@@ -38,3 +38,5 @@ endogenous transformations.
 Read more at [Ecology and Society](https://www.ecologyandsociety.org/vol23/iss2/art46/).
 
 ![how individual agency is identified](https://www.ecologyandsociety.org/vol23/iss2/art46/figure4.png)
+
+
