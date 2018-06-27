@@ -34,3 +34,5 @@ action. We argue that the process of collaboration initiated by our
 application of these tools and communication of their results are key
 for advancing initiatives that seek to create conditions for
 endogenous transformations.
+
+Read more at [Ecology and Society](https://www.ecologyandsociety.org/vol23/iss2/art46/).
