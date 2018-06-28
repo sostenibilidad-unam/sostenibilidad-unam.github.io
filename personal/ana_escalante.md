@@ -53,7 +53,7 @@ Soy Bióloga egresada de la UAM-Xochimilco, actualmente realizo mi tesis doctora
 
 ## Marcelo Navarro Díaz
 
-<img src="/assets/escalante_files/marcelo_2018.JPG" width="150px">
+<img src="/assets/escalante_files/marcelo_2018.JPG" width="250px">
 
 Soy biólogo egresado de la Facultad de Ciencias de la UNAM. Actualmente, soy estudiante del programa de doctorado en Ciencias Biomédicas en el área de ecología y evolución. Desde mis estudios de licenciatura, mi principal interés ha sido el estudio de las interacciones bióticas entre microorganismos. En mi proyecto de doctorado utilizo estrategias bioinformáticas y experimentales para el análisis de la evolución y el impacto funcional que tienen las relaciones entre bacterias usando como modelo bioreactores productores de hidrógeno. El objetivo es entender las dinámicas ecológicas y evolutivas y su relación con la estabilidad y productividad de los consorcios para mejorar el desempeño de los biorreactores.
 
@@ -129,7 +129,7 @@ Estudiante de la licenciatura de Biología en la Universidad Simón Bolívar. Ac
 
 ## Luisa López Osuna
 
-<img src="/assets/escalante_files/luisa_2018.JPG" width="300px">
+<img src="/assets/escalante_files/luisa_2018.JPG" width="250px">
 
 cdlopezosuna@gmail.com
 
