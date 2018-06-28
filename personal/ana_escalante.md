@@ -67,7 +67,9 @@ El trabajo de investigación que desarrollo se enfoca en estudiar el papel que t
 
 Durante mi formación como bióloga he desarrollado proyectos en las áreas de ingeniería de vías metabólicas y el diseño de estrategias para el escalamiento de biofertilizantes bacterianos.
 
-[Correo] karen@iibiomedicas.unam.mx
+- [karen@iibiomedicas.unam.mx] karen@iibiomedicas.unam.mx)
+
+
 
 
 ## Juan Arias Del Angel
