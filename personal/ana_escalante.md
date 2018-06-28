@@ -45,30 +45,59 @@ Publicaciones
 
 # Estudiantes de Doctorado
 
-Alejandra Hernández Terán
+## Alejandra Hernández Terán
 
 <img src="/assets/escalante_files/ale_2018.JPG" width="350px">
 
-Karen Carrasco Espinosa
+Soy Bióloga egresada de la UAM-Xochimilco, actualmente realizo mi tesis doctoral estudiando interacciones planta-microorganismo. Específicamente, queremos saber cómo las modificaciones genéticas en plantas pueden afectar su interacción con el microbioma de la raíz. Para esto, usamos la planta de algodón como modelo y herramientas libres de cultivo para estudiar los cambios en diversidad y composición del microbioma en plantas con distinto nivel de modificación genética: silvestres, domesticadas y transgénicas. 
+
+## Marcelo Navarro Díaz
+
+<img src="/assets/escalante_files/marcelo_2018.JPG" width="350px">
+
+Soy biólogo egresado de la Facultad de Ciencias de la UNAM. Actualmente, soy estudiante del programa de doctorado en Ciencias Biomédicas en el área de ecología y evolución. Desde mis estudios de licenciatura, mi principal interés ha sido el estudio de las interacciones bióticas entre microorganismos. En mi proyecto de doctorado utilizo estrategias bioinformáticas y experimentales para el análisis de la evolución y el impacto funcional que tienen las relaciones entre bacterias usando como modelo bioreactores productores de hidrógeno. El objetivo es entender las dinámicas ecológicas y evolutivas y su relación con la estabilidad y productividad de los consorcios para mejorar el desempeño de los biorreactores.
+
+
+## Karen Carrasco Espinosa
 
 <img src="/assets/escalante_files/karen_2018.JPG" width="350px">
 
-Juan Arias Del Angel
+## Juan Arias Del Angel
 
 <img src="/assets/escalante_files/juan_2018.JPG" width="350px">
 
-Natsuko Rivera Yoshida
+Mi nombre es Juan Antonio Arias Del Angel. Estudié la licenciatura en Ciencias Genómicas (2010-2014) en el Campus Cuernavaca de la Universidad Nacional Autónoma de México (UNAM) y actualmente realizo mis estudios de doctorado adscrito al Programa de Ciencias Biomédicas  (2014-actualidad) de la UNAM bajo la supervisión de las Dras. Mariana Benítez y Ana E. Escalante en el Laboratorio Nacional de Ciencias de la Sostenibilidad.
+
+Mi proyecto se centra en el estudio de la evolución de la multicelularidad. Específicamente, estamos utilizando un enfoque de sistemas complejos y modelado matemático para estudiar el desarrollo multicelular de Myxococcus xanthus, una delta-proteobacteria que en ausencia de nutrientes inicia un proceso de desarrollo en el cual la células individuales se agregan en estructuras llamadas cuerpos fructíferos y en las cuales estas pueden adquirir diferentes destinos celulares. Los objetivos que hemos perseguido en este proyecto han sido (1) integrar la información experimental disponible respecto a las interacciones regulatorias para generar un modelo dinámico que nos permita explorar como una misma red puede especificar los diferentes tipos celulares observados en este organismo y (2) explorar cómo emergen patrones espaciales respecto a la distribución de los tipos celulares en este organismo dentro de una población de células inicialmente homógeneas las cuales se acoplan mediante rutas de comunicación intercelular. Utilizamos a M. xanthus para explorar cuales son las implicaciones del desarrollo por agregación en la evolución de la multicelularidad para en un futuro compararlos con su contraparte de desarrollo clonal observado en plantas y animales.
+
+A lo largo de este proyecto he aprendido a utilizar diferentes formalismos matemáticos para el planteamiento de modelos aplicados a la biología así como adquirido practica en lenguajes de programación principalmente R y Python. Aunque no muy recurrente en la temática de mi proyecto, también me gusta explorar herramientas de estadística y bioinformática.
+
+En términos generales, mis intereses académicos incluyen la evolución del desarrollo, la biomatemática y la ecología microbiana (aunque esta última sólo la he explorado tangencialmente a través de discusiones con otros miembros del laboratorio de la Dra. Ana E. Escalante). Además de la investigación, me he involucrado en apoyar como ayudante en cursos impartidos a nivel licenciatura ("Bioquímica" y "Genómica Evolutiva" en la Licenciatura en Ciencias Genómicas y "Genómica Computacional" en la Licenciatura en Ciencias Computacionales imparttida en la Facultad de Ciencias de la UNAM).
+
+Desde un punto de vista más personal, me agrada cocinar y viajar.
+
+Contacto:
+* Planta Alta del Laboratorio Nacional de Ciencias de la Sostenibilidad (Ciudad Universitaria. Circuito exterior s/n anexo al Jardín Botánico Exterior. UNAM 04510. Ciudad de México. Apartado Postal 70-275.)
+* Correo electrónico: jariasdelangel@gmail.com
+* Google Scholar: https://scholar.google.com.mx/citations?user=74KVmpYAAAAJ&hl=es
+
+## Natsuko Rivera Yoshida
 
 <img src="/assets/escalante_files/natsuko_2018.JPG" width="350px">
 
+Estudiante de Doctorado en el Programa de Doctorado en Ciencias Biomédicas.
+Mi proyecto forma parte de una línea de investigación teórico-práctica dentro del marco de la Biología Evolutiva del Desarrollo. Específicamente, queremos estudiar los efectos y los mecanismos a través de los cuales, los factores ambientales y mecánicos, influyen sobre el desarrollo de patrones multicelulares de myxobacterias.
+Contacto: riveranat89@gmail.com
+
 ## Nancy Ontiveros
+
+<img src="/assets/escalante_files/nancy_2018.JPG" width="350px">
+
 Nancy es aspirante al doctorado en ciencias bioquímicas por la UNAM y su proyecto consiste en describir los genes involucrados en obtener tiamina y su regulación por el riboswitch de tiamina en procariontes. Nancy es egresada de la carrera de biología en la Facultad de Ciencias de la UNAM y realizo la maestría en ciencias bioquímicas en el Instituto de Biotecnología de la UNAM. Nancy es autora en dos artículos: Molecular basis of gene regulation by the THI-box riboswitch DOI 10.1111/j.1365-2958.2007.06088.x. y Conserved regulatory motifs in bacteria: riboswitches and beyond DOI 10.1016/j.tig.2004.08.003.
 
 Nancy tienen principal interés en el RNA, sus funciones, sus capacidades como regulador genético y el papel que éste juega en el metabolismo de los organismos.
 
 Research Gate https://www.researchgate.net/profile/Nancy_Ontiveros
-
-<img src="/assets/escalante_files/nancy_2018.JPG" width="350px">
 
 Alejandra Estrada Barón
 
@@ -87,15 +116,22 @@ Alberto Barrón Sandoval
 # Estudiantes de Licenciatura
 
 ## Valeria Aparicio Trejo
-Estudiante de la licenciatura de Biología en la Universidad Simón Bolívar. Actualmente trabajo en mi tesis analizando las relaciones bióticas positivas y negativas entre bacterias aisladas de gránulos metanogénicos y cómo éstas afectan la función de las bacterias productoras de hidrógeno y su crecimiento.
 
 <img src="/assets/escalante_files/valeria_2018.JPG" width="350px">
 
+Estudiante de la licenciatura de Biología en la Universidad Simón Bolívar. Actualmente trabajo en mi tesis analizando las relaciones bióticas positivas y negativas entre bacterias aisladas de gránulos metanogénicos y cómo éstas afectan la función de las bacterias productoras de hidrógeno y su crecimiento.
+
 # Aspirantes
 
-Gloria Alejandra Sarmina Leonel
+## Gloria Alejandra Sarmina Leonel
 
 <img src="/assets/escalante_files/ale3_2018.JPG" width="350px">
+
+## Luisa López Osuna
+
+<img src="/assets/escalante_files/luisa_2018.JPG" width="350px">
+
+cdlopezosuna@gmail.com
 
 # Estudiantes graduados
 
