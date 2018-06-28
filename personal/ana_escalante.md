@@ -62,6 +62,14 @@ Soy biólogo egresado de la Facultad de Ciencias de la UNAM. Actualmente, soy es
 
 <img src="/assets/escalante_files/karen_2018.JPG" width="350px">
 
+Estudiante de doctorado 
+El trabajo de investigación que desarrollo se enfoca en estudiar el papel que tienen la diversidad y el funcionamiento de las comunidades microbianas del suelo sobre los procesos ecosistémicos de ambientes naturales así como de los agroecosistemas, haciendo enfásis en el ciclaje de nutrientes, almacenamiento de carbono relacionados con la fertilidad y productividad de éstos. 
+
+Durante mi formación como bióloga he desarrollado proyectos en las áreas de ingeniería de vías metabólicas y el diseño de estrategias para el escalamiento de biofertilizantes bacterianos.
+
+correo: karen@iibiomedicas.unam.mx
+
+
 ## Juan Arias Del Angel
 
 <img src="/assets/escalante_files/juan_2018.JPG" width="350px">
@@ -99,17 +107,23 @@ Nancy tienen principal interés en el RNA, sus funciones, sus capacidades como r
 
 Research Gate https://www.researchgate.net/profile/Nancy_Ontiveros
 
-Alejandra Estrada Barón
+## Alejandra Estrada Barón
 
 <img src="/assets/escalante_files/ale2_2018.JPG" width="350px">
 
 # Estudiantes de Maestría
 
-Karla Peña Sanabria
+## Karla Peña Sanabria
 
 <img src="/assets/escalante_files/karla_2018.jpg" width="350px">
 
-Alberto Barrón Sandoval
+Karla es bióloga de la Facultad de Ciencias de la UNAM y actualmente es alumna de la maestría en el Posgrado en Ciencias de la Sostenibilidad de la UNAM. 
+Su trabajo de maestría lo desarrolla en el Laboratorio Nacional de las Ciencias de la Sostenibilidad del Instituto de Ecología de la UNAM bajo la tutoría principal de la Dra. Ana Elena Escalante.
+El proyecto de investigación consiste en generar un índice de intensidad de manejo de suelo en el cultivo de café en México a través del análisis de bases de datos del Censo Agrícola, Forestal y Ganadero 2007 de INEGI, con el propósito de construir un instrumento que aporte conocimiento de interés para los tomadores de decisiones y que fomente la transición de la actividad agrícola cafetalera hacia estrategias sostenibles.
+Además de su interés por expandir sus conocimientos en el campo de las Ciencias de la Sostenibilidad, Karla en sus tiempos libres práctica danza hawaiana y en ocasiones autoconciencia corporal y yoga.
+Correo de contacto: pska.92@gmail.com
+
+## Alberto Barrón Sandoval
 
 <img src="/assets/escalante_files/alberto_2018.JPG" width="350px">
 
