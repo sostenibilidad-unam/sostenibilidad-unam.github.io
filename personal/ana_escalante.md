@@ -81,7 +81,7 @@ Alberto Barrón Sandoval
 
 # Estudiantes de Licenciatura
 
-Valeria Aparicio Trejo
+<Valeria Aparicio Trejo>
 Estudiante de la licenciatura de Biología en la Universidad Simón Bolívar. Actualmente trabajo en mi tesis analizando las relaciones bióticas positivas y negativas entre bacterias aisladas de gránulos metanogénicos y cómo éstas afectan la función de las bacterias productoras de hidrógeno y su crecimiento.
 
 <img src="/assets/escalante_files/valeria_2018.JPG" width="350px">
