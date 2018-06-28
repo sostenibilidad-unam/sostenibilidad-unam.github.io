@@ -67,10 +67,7 @@ El trabajo de investigación que desarrollo se enfoca en estudiar el papel que t
 
 Durante mi formación como bióloga he desarrollado proyectos en las áreas de ingeniería de vías metabólicas y el diseño de estrategias para el escalamiento de biofertilizantes bacterianos.
 
-- [karen@iibiomedicas.unam.mx] karen@iibiomedicas.unam.mx)
-
-
-
+- Correo:[karen@iibiomedicas.unam.mx]
 
 ## Juan Arias Del Angel
 
@@ -88,8 +85,8 @@ Desde un punto de vista más personal, me agrada cocinar y viajar.
 
 Contacto:
 * Planta Alta del Laboratorio Nacional de Ciencias de la Sostenibilidad (Ciudad Universitaria. Circuito exterior s/n anexo al Jardín Botánico Exterior. UNAM 04510. Ciudad de México. Apartado Postal 70-275.)
-* Correo electrónico: jariasdelangel@gmail.com
-* Google Scholar: https://scholar.google.com.mx/citations?user=74KVmpYAAAAJ&hl=es
+* Correo electrónico: [jariasdelangel@gmail.com]
+* [Google Scholar](https://scholar.google.com.mx/citations?user=74KVmpYAAAAJ&hl=es)
 
 ## Natsuko Rivera Yoshida
 
@@ -97,7 +94,7 @@ Contacto:
 
 Estudiante de Doctorado en el Programa de Doctorado en Ciencias Biomédicas.
 Mi proyecto forma parte de una línea de investigación teórico-práctica dentro del marco de la Biología Evolutiva del Desarrollo. Específicamente, queremos estudiar los efectos y los mecanismos a través de los cuales, los factores ambientales y mecánicos, influyen sobre el desarrollo de patrones multicelulares de myxobacterias.
-Contacto: riveranat89@gmail.com
+Contacto: [riveranat89@gmail.com]
 
 ## Nancy Ontiveros
 
@@ -107,7 +104,7 @@ Nancy es aspirante al doctorado en ciencias bioquímicas por la UNAM y su proyec
 
 Nancy tienen principal interés en el RNA, sus funciones, sus capacidades como regulador genético y el papel que éste juega en el metabolismo de los organismos.
 
-Research Gate https://www.researchgate.net/profile/Nancy_Ontiveros
+[Research Gate](https://www.researchgate.net/profile/Nancy_Ontiveros)
 
 ## Alejandra Estrada Barón
 
@@ -123,7 +120,7 @@ Karla es bióloga de la Facultad de Ciencias de la UNAM y actualmente es alumna 
 Su trabajo de maestría lo desarrolla en el Laboratorio Nacional de las Ciencias de la Sostenibilidad del Instituto de Ecología de la UNAM bajo la tutoría principal de la Dra. Ana Elena Escalante.
 El proyecto de investigación consiste en generar un índice de intensidad de manejo de suelo en el cultivo de café en México a través del análisis de bases de datos del Censo Agrícola, Forestal y Ganadero 2007 de INEGI, con el propósito de construir un instrumento que aporte conocimiento de interés para los tomadores de decisiones y que fomente la transición de la actividad agrícola cafetalera hacia estrategias sostenibles.
 Además de su interés por expandir sus conocimientos en el campo de las Ciencias de la Sostenibilidad, Karla en sus tiempos libres práctica danza hawaiana y en ocasiones autoconciencia corporal y yoga.
-Correo de contacto: pska.92@gmail.com
+Correo de contacto: [pska.92@gmail.com]
 
 ## Alberto Barrón Sandoval
 
