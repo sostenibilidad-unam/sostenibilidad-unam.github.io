@@ -158,6 +158,7 @@ cdlopezosuna@gmail.com
 
 <img src="/assets/escalante_files/alerodriguez_2018.JPG" width="300px">
 
+
 My research aims to understand how interactions between individuals and their environment influence how microbial communities respond and adapt to changes in the environment.
 
 Specifically, I am studying the evolutionary responses of: 1) single cells in stressful environments using microfluidics coupled with time-lapse microscopy and 2) species interactions in fluctuating environments using mathematical modeling, experimental evolution on synthetic communities and high-throughput genomics.
