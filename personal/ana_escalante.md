@@ -177,6 +177,19 @@ Short CV
 
 - [Google scholar](https://scholar.google.ch/citations?user=sW23IKAAAAAJ&hl=en)
 
+## Héctor Hernández González 
+
+<img src="/assets/escalante_files/hector_2018.JPG" width="150px">
+
+Realicé mis estudios de licenciatura en biología la Universidad Nacional Autónoma de México (2011-2015). Mi tesis de licenciatura consistió en analizar interacciones epistáticas en una red de desarrollo de Myxococcus xanthus, una bacteria que presenta comportamiento social. 
+Actualmente curso una maestría en Biología con especialización en biodiversidad, biología evolutiva y modelación matemática en la Universidad de Wageningen, Países Bajos. Durante mi tesis de maestría analicé los efectos de interacciones intraespecíficas en la adaptación de E. coli a antibióticos, utilizando herramientas empíricas y teóricas. El proyecto en el que me encuentro trabajando, ahora en ETH Zurich, consiste en evaluar el efecto que tiene la presencia de una cepa “tramposa” en la interacción entre una cepa de laboratorio y cuatro cepas naturales de M. xanthus.
+Estoy sumamente interesado en continuar aprendiendo acerca de los fundamentos teóricos de paisajes adaptativos y análisis de invasión evolutiva. Además, me interesa aplicar enfoques de biología computacional y de sistemas a problemas médicos para ayudar a mejorar la calidad de vida de las personas.
+Esporádicamente escribo un blog que trata temas de interés personal, los cuales espero también sean de interés para el público general. 
+
+- [Blog] (https://bogatyrblog.wordpress.com)
+- Contacto: hector.hernandez@wur.nl 
+
+
 
 # Colaboradores
 
