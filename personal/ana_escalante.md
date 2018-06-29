@@ -172,7 +172,7 @@ Contact information
 
 E-mail: alejandra.rodriguez@usys.ethz.ch
 [Personal webpage](https://alejandrarodriguezverdugo.weebly.com/)
-[Google scholar] (https://scholar.google.ch/citations?user=sW23IKAAAAAJ&hl=en)
+[Google scholar](https://scholar.google.ch/citations?user=sW23IKAAAAAJ&hl=en)
 
 
 # Colaboradores
