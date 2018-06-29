@@ -156,7 +156,7 @@ cdlopezosuna@gmail.com
 
 ## Alejandra Rodríguez Verdugo
 
-<img src="/assets/escalante_files/alerodriguez_2018.JPG" width="300px">
+<img src="/assets/escalante_files/alerodriguez_2018.JPG" width="150px">
 
 
 My research aims to understand how interactions between individuals and their environment influence how microbial communities respond and adapt to changes in the environment.
