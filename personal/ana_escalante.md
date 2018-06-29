@@ -156,7 +156,7 @@ cdlopezosuna@gmail.com
 
 ## Alejandra Rodríguez Verdugo
 
-<img src="/assets/escalante_files/alerodriguez_2018.JPG" width="300px">
+<img src="/assets/escalante_files/alerodriguez_2018.JPG" width="150px">
 
 My research aims to understand how interactions between individuals and their environment influence how microbial communities respond and adapt to changes in the environment.
 
@@ -168,7 +168,7 @@ Short CV
 2012: Visiting researcher with Olivier Tenaillon, INSERM - UMR-S U722, France
 2006-2008:  Bachelor of Science thesis with Ana E. Escalante, National Autonomous University of Mexico (UNAM), Mexico
 2003-2007:  B.Sc. Biology, National Autonomous University of Mexico (UNAM), Mexico
-Contact information
+
 
 - E-mail: alejandra.rodriguez@usys.ethz.ch
 
