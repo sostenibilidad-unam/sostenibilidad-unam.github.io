@@ -186,7 +186,7 @@ Actualmente curso una maestría en Biología con especialización en biodiversid
 Estoy sumamente interesado en continuar aprendiendo acerca de los fundamentos teóricos de paisajes adaptativos y análisis de invasión evolutiva. Además, me interesa aplicar enfoques de biología computacional y de sistemas a problemas médicos para ayudar a mejorar la calidad de vida de las personas.
 Esporádicamente escribo un blog que trata temas de interés personal, los cuales espero también sean de interés para el público general. 
 
-- [Blog] (https://bogatyrblog.wordpress.com)
+- [Blog](https://bogatyrblog.wordpress.com)
 - Contacto: hector.hernandez@wur.nl 
 
 
