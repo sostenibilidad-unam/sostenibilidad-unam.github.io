@@ -170,9 +170,11 @@ Short CV
 2003-2007:  B.Sc. Biology, National Autonomous University of Mexico (UNAM), Mexico
 Contact information
 
-E-mail: alejandra.rodriguez@usys.ethz.ch
-[Personal webpage](https://alejandrarodriguezverdugo.weebly.com/)
-[Google scholar](https://scholar.google.ch/citations?user=sW23IKAAAAAJ&hl=en)
+- E-mail: alejandra.rodriguez@usys.ethz.ch
+
+- [Personal webpage](https://alejandrarodriguezverdugo.weebly.com/)
+
+- [Google scholar](https://scholar.google.ch/citations?user=sW23IKAAAAAJ&hl=en)
 
 
 # Colaboradores
