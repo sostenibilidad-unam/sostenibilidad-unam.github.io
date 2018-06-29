@@ -154,6 +154,27 @@ cdlopezosuna@gmail.com
 
 # Estudiantes graduados
 
+## Alejandra Rodríguez Verdugo
+
+<img src="/assets/escalante_files/alerodriguez_2018.JPG" width="300px">
+
+My research aims to understand how interactions between individuals and their environment influence how microbial communities respond and adapt to changes in the environment.
+
+Specifically, I am studying the evolutionary responses of: 1) single cells in stressful environments using microfluidics coupled with time-lapse microscopy and 2) species interactions in fluctuating environments using mathematical modeling, experimental evolution on synthetic communities and high-throughput genomics.
+Short CV
+2019 – : Assistant Professor, Ecology and Evolutionary Biology, University of California Irvine, United States
+2015-present:  Postdoctoral Research Fellow, ETH Zürich, Switzerland
+2009-2014:  Ph.D. in Biological Sciences with Brandon S. Gaut, University of California Irvine (UCI), United States
+2012: Visiting researcher with Olivier Tenaillon, INSERM - UMR-S U722, France
+2006-2008:  Bachelor of Science thesis with Ana E. Escalante, National Autonomous University of Mexico (UNAM), Mexico
+2003-2007:  B.Sc. Biology, National Autonomous University of Mexico (UNAM), Mexico
+Contact information
+
+E-mail: alejandra.rodriguez@usys.ethz.ch
+[Personal webpage](https://alejandrarodriguezverdugo.weebly.com/)
+[Google scholar] (https://scholar.google.ch/citations?user=sW23IKAAAAAJ&hl=en)
+
+
 # Colaboradores
 
 ## Campo de investigación
