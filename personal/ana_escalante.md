@@ -140,6 +140,11 @@ Estudiante de la licenciatura de Biología en la Universidad Simón Bolívar. Ac
 
 <img src="/assets/escalante_files/ale3_2018.JPG" width="350px">
 
+Gloria es alumna del Posgrado en Ciencias Bioquímicas de la UNAM, se formó como bióloga en la Facultad de Ciencias de la UNAM. Ha trabajado con proteínas del metabolismo de pirofosfato en bacterias fotosintéticas púrpuras no sulfurosas, ha participado en proyectos de divulgación de la ciencia en Radio UNAM, como profesora de Biología de Procariontes en la UNAM y Bioquímica en la ENAH.
+Actualmente participa en la línea de investigación ecológica-funcional de comunidades diazotróficas en costras biológicas de suelos de desiertos en el laboratorio de la Dra. Ana Elena Escalante.
+Email: gsarmina@ciencias.unam.mx
+
+
 ## Luisa López Osuna
 
 <img src="/assets/escalante_files/luisa_2018.JPG" width="300px">
