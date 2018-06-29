@@ -144,6 +144,7 @@ Estudiante de la licenciatura de Biología en la Universidad Simón Bolívar. Ac
 
 <img src="/assets/escalante_files/luisa_2018.JPG" width="300px">
 
+Cirujano Dentista egresada de la FESI UNAM, especialista en Endoperiodontología por la misma institución. Profesora de licenciatura y especialidad.  Durante mi formación como especialista tuve especial interés en conocer como son las interacciones de las bacterias en boca  y como es que estas influyen en la aparición de la enfermedad periodontal (alteración en los tejidos que rodean a los dientes –encía, hueso, ligamento periodontal, cemento-). El trabajo de tesis que realicé para obtener el grado de especialista se tituló: Cambios en la  microflora al concluir la fase I de la Terapia Periodontal. Con el desarrollo de este ultimo, sugió la idea de continuar mi formación en el area de microbiología bucal y ecología microbiana bucal. El anteproyecto en el que estoy trabajando se titula: “Efecto de la evolución del microbioma bucal en el desarrollo y tratamiento de las enfermedades periodontales”.
 cdlopezosuna@gmail.com
 
 # Estudiantes graduados
