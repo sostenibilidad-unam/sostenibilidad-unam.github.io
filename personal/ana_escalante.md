@@ -110,6 +110,8 @@ Nancy tienen principal interés en el RNA, sus funciones, sus capacidades como r
 
 <img src="/assets/escalante_files/ale2_2018.JPG" width="350px">
 
+Alejandra es egresada de la maestría en Economía de la Facultad de Economía de la UNAM y de la especialidad en Estadística Aplicada del IIMAS. Actualmente colabora en el proyecto “MEGADAPT” en el desarrollo de un modelo de riesgo a la salud junto con la Dra. Ana Elena Escalante y el Dr. Andrés Baeza. Dentro de sus intereses se encuentran el análisis de Sistemas Socio Ecológicos Acopados, vulnerabilidad, dinámica económica, estadística espacial, y modelación bayesiana.
+
 # Estudiantes de Maestría
 
 ## Karla Peña Sanabria
