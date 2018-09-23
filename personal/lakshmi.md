@@ -41,6 +41,7 @@ Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning an
 ![xochimilco](/assets/Xochi2.jpeg)
 
 ## Publicaciones
+* Scoones I, Stirling A, Abrol D, Atela J, Charli-Joseph L, Eakin H, Ely A, Olsson P, Pereira L, Priya R, van Zwanenberg P, and Yang L. 2018. **Transformations to Sustainability**, STEPS Working Paper 104, Brighton: STEPS Centre. [link](https://steps-centre.org/publication/transformations-to-sustainability-wp104/)
 * Charli-Joseph L, Siqueiros-Garcia J, Eakin H, Manuel-Navarrete D, and Shelton R. 2018. **Promoting agency for social-ecological transformation: a transformation-lab in the Xochimilco social-ecological system**. Ecology and Society 23(2):46. [link](https://www.ecologyandsociety.org/vol23/iss2/art46/)
 * Lerner AM, Charli-Joseph L. 2018. **Marcos teóricos para el estudio de los sistemas socio-ecológicos y las ciencias de la sostenibilidad**. Capítulo en el libro “Socio-ecosistemas: marcos analíticos y estudios de caso en Oaxaca, México”. Instituto de Investigaciones Económicas, Universidad Nacional Autónoma de México, en prensa.
 * Charli-Joseph L, Escalante AE, Solares MJ. 2018. **Los grandes retos del planeta y la sostenibilidad**. Gaceta FESAragón, UNAM. Num. 383. 16-17pp. [link](https://publicaciones-aragon.unam.mx/repositorio/gaceta/383/383.pdf)
