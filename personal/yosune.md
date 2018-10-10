@@ -6,7 +6,7 @@ permalink: /personal/yosune
 
 # Dra. Yosune Miquelajauregui Graf
 
-- Investigadora Asociada "C", PRIDE Nivel "B"
+- Investigadora Asociada "C", Candidata a Investigadora Nacional (CONACYT), PRIDE Nivel "B"
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 - Email: yosune@iecologia.unam.mx
@@ -17,27 +17,33 @@ permalink: /personal/yosune
 
 ### Modelación matemática de sistemas socioecológicos
 
- Mi línea de investigación se centra en el desarrollo y aplicación de modelos matemáticos para:
+ Mi línea de investigación se centra en el desarrollo y aplicación de modelos dinámicos para investigar:
 
- 1. Cuantificar el balance de carbono forestal
- 2. Gestionar los recursos naturales
- 3. Simular servicios ecosistémicos terrestres
- 3. Evaluar riesgos y vulnerabilidad al cambio climático
- 4. Simular los disturbios naturales y antropogénicos y sus efectos sobre los procesos socioecológicos
+ 1. Sistemas sociecológicos acoplados
+ 2. Cambio climático, vulnerabilidad y adaptación
+ 3. Cuantificación del balance de carbono forestal/Impactos de los impuestos de carbono
+ 4. Servicios ecosistémicos 
 
+# Publicaciones
+(https://www.researchgate.net/profile/Yosune_Miquelajauregui/publications)
 
 # Proyectos actuales
  
  - [MEGADAPT]( http://megadapt.weebly.com/)
+ - Líder del proyecto "Impactos del crecimiento urbanpo futuro sobre el clima local de la Zona metropolitana del Valle de México".  Colaboración con CCA, UNAM.
  - Colaboración en proyecto de cátedra de la Dra. Nadia Santini "Reservas de carbono en suelos de bosques templados y   pastizales subalpinos" 
+ - Colaboración en proyecto PAPIIT del Dr. Luis Bojórquez Tapia "Análisis integrado de sistemas socioambientales acoplados: desarrollo de capacidades para evaluar la vulnerabilidad costera" 
+ -Participación en el Laboratorio Binacional de Sostenibilidad, Vulnerabilidad y Adaptación al Cambio Climático LANCIS-GIOS-SOS.
 
 # Repositorio de software en GitHub
 
  - [Scripts](http://lancis.ecologia.unam.mx/R_Scripts_Catalogue/)
+ - [Modelos](https://github.com/yosunemiquela)
  
 # Cursos
 
  - [Estadística y Modelación de sistemas socioecológicos en R](http://lancis.ecologia.unam.mx/R_Scripts_Catalogue/)
  - "Diseño y Escritura de Propuestas de Investigación en Temas de Sostenibilidad"
+ - "Herramientas Analíticas en las Ciencias de la Sostenibilidad"
 
 ![me gusta el bosque](http://lasdoscastillas.net/wp-content/uploads/2014/02/Bosque.jpg)
