@@ -25,7 +25,7 @@ permalink: /personal/yosune
  4. Servicios ecosistémicos 
 
 # Publicaciones
-(https://www.researchgate.net/profile/Yosune_Miquelajauregui/publications)
+ [Para tener acceso a mis publicaciones](https://www.researchgate.net/profile/Yosune_Miquelajauregui/publications)
 
 # Proyectos actuales
  
