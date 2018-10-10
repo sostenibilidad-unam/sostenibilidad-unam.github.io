@@ -33,8 +33,7 @@ permalink: /personal/yosune
  - Líder del proyecto "Impactos del crecimiento urbanpo futuro sobre el clima local de la Zona metropolitana del Valle de México".  Colaboración con CCA, UNAM.
  - Colaboración en proyecto de cátedra de la Dra. Nadia Santini "Reservas de carbono en suelos de bosques templados y   pastizales subalpinos". 
  - Colaboración en proyecto PAPIIT del Dr. Luis Bojórquez Tapia "Análisis integrado de sistemas socioambientales acoplados: desarrollo de capacidades para evaluar la vulnerabilidad costera".
- 
- -Participación en el Laboratorio Binacional de Sostenibilidad, Vulnerabilidad y Adaptación al Cambio Climático LANCIS-GIOS-SOS.
+ - Participación en el Laboratorio Binacional de Sostenibilidad, Vulnerabilidad y Adaptación al Cambio Climático LANCIS-GIOS-SOS.
 
 # Repositorio de software en GitHub
 
