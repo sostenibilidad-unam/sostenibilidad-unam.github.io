@@ -5,7 +5,6 @@ smallimg: /showcase/memorias_dialogos.jpg
 description: "El camino hacia una Ley agrícola bioculturalmente pertinente. Reflexiones y aprendizajes"
 ---
 
-
 México es un Estado pluricultural. Para desentrañar los contenidos de
 este tipo de Estado, particularmente en el ámbito agrícola, durante
 2018, el Centro Mexicano de Derecho Ambiental, A.C.  (CEMDA), en
