@@ -21,4 +21,4 @@ Papantla, respectivamente.
 El documento [“Diálogos sobre instituciones, derechos y patrimonios bioculturales”](http://www.cemda.org.mx/wp-content/uploads/2018/12/MemoriasDialogos.pdf?fbclid=IwAR0JHxeO_pEYz_V_9s8vXOI5wt0TONbmIVHGk66VDLe8CmJo12coYHWEcXk) relata las memorias de dichos diálogos, dando cuenta del contexto, metodología, análisis y reflexiones finales de ellos.
 
 
-![fig](/showcase/memorias_dialogos.jpg)
+![portada](/showcase/memorias_dialogos.jpg)
