@@ -16,7 +16,6 @@ diálogos interculturales con comunidades campesinas en Tlaxcala, y con
 los pueblos maseual y totonaco, en la Sierra Norte de Puebla y
 Papantla, respectivamente.
 
-
 El documento [“Diálogos sobre instituciones, derechos y patrimonios bioculturales”](http://www.cemda.org.mx/wp-content/uploads/2018/12/MemoriasDialogos.pdf?fbclid=IwAR0JHxeO_pEYz_V_9s8vXOI5wt0TONbmIVHGk66VDLe8CmJo12coYHWEcXk) relata las memorias de dichos diálogos, dando cuenta del contexto, metodología, análisis y reflexiones finales de ellos.
 
 
