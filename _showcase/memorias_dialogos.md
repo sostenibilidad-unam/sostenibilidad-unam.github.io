@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Memorias de los 'Dialogos sobre instituciones, derechos y patrimonios bioculturales'”
+title: "Memorias de los Diálogos sobre instituciones, derechos y patrimonios bioculturales”
 smallimg: /showcase/memorias_dialogos.jpg
 description: "El camino hacia una Ley agrícola bioculturalmente pertinente. Reflexiones y aprendizajes"
 ---
