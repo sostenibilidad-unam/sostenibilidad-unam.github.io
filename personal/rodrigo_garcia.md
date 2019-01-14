@@ -30,6 +30,8 @@ publicaciones de revistas internacionales como Science, Nature
 Communications, PLoS, Systems Biomedicine, Social Informatics y
 Computational Biology and Chemistry.
 
+![FSF member](https://static.fsf.org/nosvn/associate/crm/6274.png)
+
 ## Perfiles en Internet
 - [ORCiD](http://orcid.org/0000-0002-7972-5746)
 - [ResearchGate](https://www.researchgate.net/profile/Rodrigo_Garcia-Herrera)
