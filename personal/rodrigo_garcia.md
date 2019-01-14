@@ -14,10 +14,10 @@ permalink: /personal/rodrigo_garcia
 
 # Semblanza
 
-Soy Ingeniero en Cibernética y Sistemas Computacionales por la Universidad La Salle y 
+Estudié Ingeniería en Cibernética y Sistemas Computacionales en la Universidad La Salle y 
 curso la Maestría en Ciencias de la Complejidad en la Universidad Autónoma de la Ciudad de México.
  
-Cuento con más de 18 años de experiencia en el diseño, implementación
+Tengo más de 18 años de experiencia en el diseño, implementación
 y operación de tecnologías de la información, con aplicaciones
 industriales en las áreas de inteligencia de negocios e
 infraestructura de internet, así como aplicaciones de cómputo
