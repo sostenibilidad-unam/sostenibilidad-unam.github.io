@@ -12,7 +12,7 @@ baseurl: "/"
 title: LANCIS
 
 # Short description of your site
-description: Página del LANCIS
+description: Laboratorio Nacional de Ciencias de la Sostenibilidad
 
 # --- Navigation bar options --- #
 
@@ -50,20 +50,20 @@ avatar: "/img/logo_solo.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: LANCIS
-  email: "webmaster@iecologia.unam.mx"
+  email: "rgarcia@iecologia.unam.mx"
   facebook: LANCISUNAM  # eg. daattali
   github: sostenibilidad-unam    # eg. daattali
-  twitter:    # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+# twitter:    # eg. daattali
+# reddit: yourname    # eg. daattali
+# google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+# linkedin: yourname  # eg. daattali
+# xing: yourname      # eg. daattali
+# stackoverflow: yourlink  # eg. "3943160/daattali"
+# snapchat: yourname  # eg. daattali
+# instagram: yourname # eg. daattali
+# youtube: yourlink   # eg. user/daattali or channel/daattali
+# spotify: yourname   # eg. daattali
+# telephone: yourphone   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
@@ -157,10 +157,10 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
-
+  - _old-showcase
 
 collections:
   proyectos:
     output: true
   showcase:
-    output: tru
+    output: true
