@@ -55,10 +55,9 @@ Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning an
 *	Charli-Joseph L, Bojórquez-Tapia L, Gómez-Priego P, Pedroza-Páez D. 2012. **A capacity building programme for sustainability: key competencies through formal and non-formal approaches**. Published in the Proceedings of INTED2012 Conference. ISBN: 978-84-615-5563-5. 5th-7th March 2012, Valencia, Spain. [link](https://library.iated.org/view/CHARLIJOSEPH2012ACA)
 
 
-## STEPS North America - T-Labs Project Blog posts
+### STEPS North America Hub - T-Labs Project blog posts
 *	[How rethinking local people's agency could help navigate Xochimilco's troubled waters](https://steps-centre.org/blog/new-forms-agency-help-navigate-xochimilcos-troubled-waters/)
 *	[A day in the chinampas](https://steps-centre.org/blog/a-day-in-the-chinampas/)
 *	[What 'Agency' do researchers have in transformative research projects?](https://steps-centre.org/blog/agency-researchers-transformative-research-projects/)
 *	[Creating bridges in Xochimilco through the "Pathways to Sustainability Game"](https://steps-centre.org/blog/creating-bridges-through-the-pathways-to-sustainability-game/)
 *	[What does transformative research for sustainability look like?](https://steps-centre.org/blog/transformative-research-sustainability-look-like/)
-
