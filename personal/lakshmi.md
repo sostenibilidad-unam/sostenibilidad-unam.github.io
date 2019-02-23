@@ -61,3 +61,5 @@ Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning an
 *	[What 'Agency' do researchers have in transformative research projects?](https://steps-centre.org/blog/agency-researchers-transformative-research-projects/)
 *	[Creating bridges in Xochimilco through the "Pathways to Sustainability Game"](https://steps-centre.org/blog/creating-bridges-through-the-pathways-to-sustainability-game/)
 *	[What does transformative research for sustainability look like?](https://steps-centre.org/blog/transformative-research-sustainability-look-like/)
+
+### [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
