@@ -10,4 +10,4 @@ El sistema socio-ecológico de Xochimilco presenta una alta vulnerabilidad socia
 
 La situación actual del Xochimilco periurbano ilustra las características de lo que en sostenibilidad se denomina un problema perverso; es decir, es un problema complejo y urgente que no posee una solución única ni directa. No obstante, también es un espacio donde se pueden identificar oportunidades para trabajar de diferentes maneras y contribuir a procesos de cambio más profundos.
 
-[Leer el artículo completo en la revista Oikos](http://web.ecologia.unam.mx/oikos3.0/index.php/articulos/xochimilco).
+[Leer el artículo completo en la revista Oikos](http://web.ecologia.unam.mx/oikos3.0/index.php/todos-los-numeros/articulos-anteriores/363-xochimilco-sostenible).
