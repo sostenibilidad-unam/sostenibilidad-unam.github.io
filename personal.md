@@ -12,6 +12,7 @@ permalink: /personal/
 - [Dra. Marisa Mazari Hiriart](/personal/marisa_mazari)
 - [Dra. Julieta A. Rosell García](#)
 - [Dra. Yosune Miquelajauregui Graf](/personal/yosune)
+- [Dra. Paola Massyel García Meneses](/personal/paola_garcia)
 
 # Técnicos Académicos
 - [M.C. Lakshmi E. Charli Joseph](/personal/lakshmi)
