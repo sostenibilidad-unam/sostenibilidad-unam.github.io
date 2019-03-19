@@ -29,12 +29,12 @@ permalink: /personal/amy_lerner
 
 ### Maestria
 
-- Alejandra Martinez Canedo: Vulnerabilidad socio-hidrológica en la composición del paisaje urbano-chinampero en la delegación Xochimilco. Percepción socio-cultural de riesgo y respuestas adaptativas en la colonia Xicalhuacán (Con Dr. Mario Siqueiros)
-- Evelyn Quiroz:Conflictos socioambientales en la conservación del manglar en Marismas Nacionales de Nayarit y Sinaloa (Con Dr. Eduardo Frapolli)
 - Beatriz Ruizpalacios: El manejo de residuos sólidos en un humedal en la frontera ubana: El caso de San Gregorio Altapulco, Xochimilco (titulada, 09 de mayo 2017)
+- Paulina Salzillo: Desarrollo de un plan estratégico para fomentar la agroecología en las chinampas de Xochimilco
 
 ### Doctorado
 
 - Shiara Gonzalez: Transformación hacia la sostenibilidad en el ámbito rural: Agua, condiciones de salud y modos de vida en comunidades indígenas de la Sierra Huichol (con Dra. Marisa Mazari)
 - Bertha Hernandez: Análisis del capital social en los sistemas socioambientales: influencia de  la acción colectiva ante la problemática de escasez de agua en dos comunidades de la Ciudad de México
 - Patricia Perez: Determinantes de cambio en la agricultura para la modelación de escenarios en el socioecosistema periurbano de Xochimilco, Ciudad de México (con Dra. Marisa Mazari)
+- Beatriz Ruizpalacios: La problemática de los residuos sólidos en el sur global desde el enfoque de análisis de trayectorias hacia a la sostenibilidad
