@@ -5,9 +5,7 @@ bigimg: /assets/cluster_banner.jpg
 permalink: /cluster/
 ---
 
-El Laboratorio Nacional de Ciencias de la Sostenibilidad cuenta con
-una supercomputadora de cerca de 900 cores, dos cajas con 1 TB de RAM, 
-doce con 256 GB de RAM y algunas más con 128 GB.
+El Laboratorio Nacional de Ciencias de la Sostenibilidad cuenta con una supercomputadora de cerca de 900 cores, dos cajas con 1 TB de RAM, doce con 256 GB de RAM y algunas más con 128 GB.
 
 Hay cerca de 40TB de almacenamiento temporal.
 
