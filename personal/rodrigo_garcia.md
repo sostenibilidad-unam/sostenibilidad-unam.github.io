@@ -9,8 +9,8 @@ permalink: /personal/rodrigo_garcia
 - Técnico Académico Asociado "C"
 - Laboratorio Nacional de Ciencias de la Sostenibilidad
 - Instituto de Ecología, Universidad Nacional Autónoma de México
-- Email: rgarcia@iecologia.unam.mx
-- Teléfono: +52-55-5623-0222 ext. 37704
+- Email: <rgarcia@iecologia.unam.mx>
+- Teléfono: +52-55-5623-7704
 
 # Semblanza
 
