@@ -24,15 +24,16 @@ Este es el procedimiento para solicitar el uso de esta infraestructura.
    - Nombres completos de los usuarios
    - Periodo (máximo 12 meses a renovar múltiples veces) de uso del equipo
    - Requerimientos computacionales: (necesidades de disco duro, RAM, software)
-   - Incluir que se está en el entendido de que el uso de la
-     infraestructura será posible siempre y cuando no exista conflicto
-     con el desarrollo de las actividades en LANCIS.
    - Incluir: 
+     - que se está en el entendido de que el uso de la
+       infraestructura será posible siempre y cuando no exista conflicto
+       con el desarrollo de las actividades en LANCIS.
      - que los usuarios aportarán y actualizarán un resumen semestral
        de sus actividades en el cluster, que incluya publicaciones,
        ponencias, etc. (estos resúmenes se publicarán en la subpágina
        del clúster)
-   - que se agradecerá a la oficina de cómputo de LANCIS y al clúster en cualquier publicación que contenga datos o resultados de análisis que deriven del uso del equipo.
+     - que se agradecerá a la oficina de cómputo de LANCIS y al clúster en cualquier publicación
+       que contenga datos o resultados de análisis que deriven del uso del equipo.
 
 2. Resumen de los protocolos. ¿Qué análisis se realizarán en el cluster? Máximo una página.
 
