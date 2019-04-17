@@ -15,13 +15,13 @@ permalink: /personal/yosune
 
 ## Línea de Investigación
 
-### Modelación matemática de sistemas socioecológicos
+### Modelación matemática de sistemas socioecológicos / SES modelling
 
- Mi línea de investigación se centra en el desarrollo y aplicación de modelos dinámicos para investigar:
+ Mi línea de investigación se centra en el desarrollo y aplicación de modelos de simulación para investigar:
 
  1. Sistemas sociecológicos acoplados
- 2. Cambio climático, vulnerabilidad y adaptación
- 3. Cuantificación del balance de carbono forestal/Impactos de los impuestos de carbono
+ 2. Vulnerabilidad y adaptación al cambio climático, 
+ 3. Cuantificación del balance de carbono forestal/Impuestos de carbono
  4. Servicios ecosistémicos 
 
 # Publicaciones
@@ -32,7 +32,7 @@ permalink: /personal/yosune
  - [MEGADAPT]( http://megadapt.weebly.com/)
  - Líder del proyecto "Impactos del crecimiento urbanpo futuro sobre el clima local de la Zona metropolitana del Valle de México".  Colaboración con CCA, UNAM.
  - Colaboración en proyecto de cátedra de la Dra. Nadia Santini "Reservas de carbono en suelos de bosques templados y   pastizales subalpinos". 
- - Colaboración en proyecto PAPIIT del Dr. Luis Bojórquez Tapia "Análisis integrado de sistemas socioambientales acoplados: desarrollo de capacidades para evaluar la vulnerabilidad costera".
+ - Coordinadora del proyecto PAPIIT "Análisis integrado de sistemas socioambientales acoplados: desarrollo de capacidades para evaluar la vulnerabilidad costera".
  - Participación en el Laboratorio Binacional de Sostenibilidad, Vulnerabilidad y Adaptación al Cambio Climático LANCIS-GIOS-SOS.
 
 # Repositorio de software en GitHub
