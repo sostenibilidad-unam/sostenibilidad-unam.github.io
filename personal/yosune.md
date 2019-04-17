@@ -5,6 +5,7 @@ permalink: /personal/yosune
 ---
 
 # Dra. Yosune Miquelajauregui Graf
+## Laboratorio de modelación de sistemas socioecológicos/ SES modelling Lab
 
 - Investigadora Asociada "C", Candidata a Investigadora Nacional (CONACYT), PRIDE Nivel "B"
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
@@ -15,14 +16,12 @@ permalink: /personal/yosune
 
 ## Línea de Investigación
 
-### Modelación matemática de sistemas socioecológicos / SES modelling
-
  Mi línea de investigación se centra en el desarrollo y aplicación de modelos de simulación para investigar:
 
  1. Sistemas sociecológicos acoplados
- 2. Vulnerabilidad y adaptación al cambio climático, 
+ 2. Vulnerabilidad y adaptación al cambio climático 
  3. Cuantificación del balance de carbono forestal/Impuestos de carbono
- 4. Servicios ecosistémicos 
+ 4. Servicios ecosistémicos
 
 # Publicaciones
  - [Para tener acceso a mis publicaciones](https://www.researchgate.net/profile/Yosune_Miquelajauregui/publications)
@@ -30,9 +29,9 @@ permalink: /personal/yosune
 # Proyectos actuales
  
  - [MEGADAPT]( http://megadapt.weebly.com/)
+ - Coordinadora del proyecto PAPIIT "Análisis integrado de sistemas socioambientales acoplados: desarrollo de capacidades para evaluar la vulnerabilidad costera".
  - Líder del proyecto "Impactos del crecimiento urbanpo futuro sobre el clima local de la Zona metropolitana del Valle de México".  Colaboración con CCA, UNAM.
  - Colaboración en proyecto de cátedra de la Dra. Nadia Santini "Reservas de carbono en suelos de bosques templados y   pastizales subalpinos". 
- - Coordinadora del proyecto PAPIIT "Análisis integrado de sistemas socioambientales acoplados: desarrollo de capacidades para evaluar la vulnerabilidad costera".
  - Participación en el Laboratorio Binacional de Sostenibilidad, Vulnerabilidad y Adaptación al Cambio Climático LANCIS-GIOS-SOS.
 
 # Repositorio de software en GitHub
