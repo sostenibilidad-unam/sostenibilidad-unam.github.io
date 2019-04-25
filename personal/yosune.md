@@ -16,7 +16,7 @@ permalink: /personal/yosune
 
 ## Línea de Investigación
 
-En el laboratorio de modelación de sistemas socioecológicos del LANCIS trabajamos en la modelación de sistemas socio-ecológicos, la modelación exploratoria, y en la aplicación de diversas técnicas de minería de datos para la identificación de patrones y umbrales. 
+En el Laboratorio de modelación de sistemas socioecológicos del LANCIS trabajamos en la modelación de sistemas socio-ecológicos, la modelación exploratoria y en la aplicación de diversas técnicas de minería de datos para la identificación de patrones y umbrales. 
 
  En particular, mi línea de investigación se centra en el desarrollo y aplicación de modelos de simulación para investigar:
 
