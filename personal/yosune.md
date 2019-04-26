@@ -32,14 +32,17 @@ En particular, mi línea de investigación se centra en el desarrollo y aplicaci
  
  - [MEGADAPT]( http://megadapt.weebly.com/)
  - Coordinadora del proyecto PAPIIT "Análisis integrado de sistemas socioambientales acoplados: desarrollo de capacidades para evaluar la vulnerabilidad costera".
- - Líder del proyecto "Impactos del crecimiento urbanpo futuro sobre el clima local de la Zona metropolitana del Valle de México".  Colaboración con CCA, UNAM.
- - Colaboración en proyecto de cátedra de la Dra. Nadia Santini "Reservas de carbono en suelos de bosques templados y   pastizales subalpinos". 
+  - Coordinadora del proyecto institucional "Interoperabilidad de base de datos geoespaciales".
+ - Líder del proyecto "Efecto del crecimiento urbano sobre el clima local de la ZMVM".  Colaboración LANCIS-CCA, UNAM.
+ - Colaboración en proyecto de cátedra de la Dra. Nadia Santini "Reservas de carbono en suelos de bosques templados y   pastizales subalpinos".
+ - Colaboración en proyecto con la Dra. Marisa Mazari "Quantitative Microbial Risk Assessment for Giardia lamblia from floods in Mexico   City". 
  - Participación en el Laboratorio Binacional de Sostenibilidad, Vulnerabilidad y Adaptación al Cambio Climático LANCIS-GIOS-SOS.
 
-# Repositorio de software en GitHub
+# Repositorio de software digital
 
  - [Scripts](http://lancis.ecologia.unam.mx/R_Scripts_Catalogue/)
- - [Modelos](https://github.com/yosunemiquela)
+ - [Modelos GitHub](https://github.com/yosunemiquela)
+ - [Modelos Comses](https://www.comses.net/codebases/c9c25814-775d-435f-a8c8-017404a2130f/releases/1.0.0/)  
  
 # Cursos
 
