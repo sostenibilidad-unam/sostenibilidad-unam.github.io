@@ -4,8 +4,6 @@ title: "Dra. Paola Massyel García Meneses"
 permalink: /personal/paola_garcia
 ---
 
-## Dra Paola Massyel García Meneses
-
 Acreditada en el Posgrado de Ciencias de la Sostenibilidad (PCS): Nivel Maestría. Disponible como tutor principal (dirección de alumnos).
 
 # Adscripción
