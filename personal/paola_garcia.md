@@ -8,12 +8,16 @@ permalink: /personal/paola_garcia
 
 Acreditada en el Posgrado de Ciencias de la Sostenibilidad (PCS): Nivel Maestría. Disponible como tutor principal (dirección de alumnos).
 
+# Adscripción
+
+- Investigadora Asociada "C"
+- Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
+- Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
+
 # Información de contacto
 
-- <paola.garcia@ecologia.unam.mx>
-- <https://sostenibilidad.posgrado.unam.mx/tutores/PMassyel/>
-
-# Adscripción
+- Email: <paola.garcia@ecologia.unam.mx>
+- Perfil Posgrado: <https://sostenibilidad.posgrado.unam.mx/tutores/PMassyel/>
 
 # Grados
 
