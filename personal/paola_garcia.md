@@ -4,16 +4,20 @@ title: "Dra. Paola Massyel García Meneses"
 permalink: /personal/paola_garcia
 ---
 
-# Dra Paola Massyel García Meneses
-## Acreditada en el posgrado de Ciencias de la Sostenibilidad: Nivel Maestría. Disponible como tutor principal (dirección de alumnos).
+## Dra Paola Massyel García Meneses
+
+Acreditada en el Posgrado de Ciencias de la Sostenibilidad (PCS): Nivel Maestría. Disponible como tutor principal (dirección de alumnos).
 
 # Información de contacto
 
-- paola.garcia@ecologia.unam.mx
+- <paola.garcia@ecologia.unam.mx>
+- <https://sostenibilidad.posgrado.unam.mx/tutores/PMassyel/>
 
 # Adscripción
 
-## Doctor en Ciencias, University of Plymouth, School of Biological and Marine Sciences (Faculty of Science and Engineering) , nivel doctorado obtenido el 2012-05-01
+# Grados
+
+- Doctor en Ciencias, University of Plymouth, School of Biological and Marine Sciences (Faculty of Science and Engineering), nivel doctorado obtenido el 2012-05-01. Bióloga, Facultada de Ciencias, UNAM.
 
 # Temas de Interés
 
@@ -29,13 +33,15 @@ permalink: /personal/paola_garcia
 
 - Sistemas alimentarios sostenibles. He colaborado en proyectos donde se evalúa la biología reproductiva de las plantas para que el manejo y explotación de estos recursos sea mejor.
 
-## Publicaciones más destacadas en temas relacionados con las Ciencias de la Sostenibilidad
+# Publicaciones más destacadas en temas relacionados con las Ciencias de la Sostenibilidad
 
 # Publicaciones
-- [Para tener acceso a mis publicaciones]( http://apps.webofknowledge.com/Search.do?product=WOS&SID=7B8EnFHcmdg5W23mILn&search_mode=GeneralSearch&prID=ce622820-9bd6-40aa-bddf-283437a9095e)
+- [Para tener acceso a mis publicaciones]
+
+<https://www.researchgate.net/profile/Paola_Garcia_Meneses>
 
 
-## Principales proyectos relacionados con Ciencias de la Sostenibilidad durante los últimos cinco años
+# Principales proyectos relacionados con Ciencias de la Sostenibilidad durante los últimos cinco años
 
 - Manejo de sistemas acuáticos.
 
@@ -59,13 +65,13 @@ tradicional con miras a crear resiliencia y propiciar la adaptación frente al c
 
 1. Actividades productivas sustentables en el contexto de cambio climático. Consensos en la zona lacustre de Xochimilco (ZLX). Dentro de este proyecto se realizó un diagnóstico de las percepciones de actores clave acerca del estado actual y futuro de la ZLX en el contexto del cambio climático y tratar de consensuar entre los actores opciones de actividades productivas y estrategias de acción que contribuyan a disminuir la vulnerabilidad actual y futura de la ZLX.
 
-## Proyectos vigentes en los que pueden participar alumnos del PCS.
+# Proyectos vigentes en los que pueden participar alumnos del PCS.
 
 - Proyecto: "Vulnerabilidad Socio-Ambiental de Río Grande-Lagos de Montebello, Chiapas".
 - Proyecto: "Estratégia de vinculación académia-gobierno-sociedad civil encaminados a la transdisciplina"
 - Proyecto: "Transición a la ganadería sostenible en Los Tuxtlas"
 
-## Líneas de Investigación
+# Líneas de Investigación
 
 - Cambio global, vulnerabilidad y resiliencia
 
