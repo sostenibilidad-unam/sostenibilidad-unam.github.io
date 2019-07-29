@@ -19,10 +19,11 @@ permalink: /personal/lakshmi
 * [STEPS Centre - North America Sustainability Hub](http://steps-centre.org/global/north-america/)
 
 ## Proyectos en curso
-- [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/) (Responsables: Adrian Ely, SPRU/ESRC STEPS Centre; Anabel Marin, CONICET); [Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/) (Responsable: Hallie Eakin, SOS-ASU; Co-responsable: Lakshmi Charli-Joseph)
-[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)
-- PAPIIT IA301117, DGAPA-UNAM: Valoración sociocultural y escenarios futuros de la zona lacustre de Xochimilco, Ciudad de México (Responsables: Amy M. Lerner y Marisa Mazari, LANCIS-IE-UNAM; Co-responsable: Lakshmi Charli-Joseph)
-- [Global Consortium for Sustainability Outcomes (GCSO) - CapaCities: Building Sustainability Implementation Capacity in City Staff and Leadership](https://sustainabilityoutcomes.org/) (Responsables: Amy M. Lerner y Marisa Mazari, LANCIS-IE-UNAM; Co-responsable: Lakshmi Charli-Joseph).
+- [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/); [Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/); [T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)
+- Global Consortium for Sustainability Outcomes (GCSO) - Audacity for Partnerships: Foregrounding Partnership Development in the
+Generation of Sustainability Solutions
+- Global Consortium for Sustainability Outcomes (GCSO) - Sharing learning to implement an open and collaborative seed innovation system
+https://sustainabilityoutcomes.org/
 
 ### Intereses académicos
 - Gobernanza del agua y ciencias de la sostenibilidad
@@ -32,8 +33,13 @@ Título de la investigación: "Promoviendo Vías de Transformación hacia la Sos
 
 ### Semblanza
 - Licenciatura en Biología (UNAM); Maestría en Derecho, Gestión y Política Ambientales (UAX); Maestría en Planeación y Gestión Ambiental (IHE Delft, Holanda); Candidata a doctora, Posgrado en Ciencias de la Sostenibilidad (UNAM).
+
 - Involucrada en proyectos de educación y creación de capacidades relacionados a manejo de humedales, gobernanza del agua y ciencias de la sostenibilidad.
-- Co-coordinación del diseño y desarrollo del programa de Posgrado en Ciencias de la Sostenibilidad de la UNAM.
+- Diseño y coordinación de proyectos de fortalecimiento y creación de capacidades bajo enfoques de aprendizaje formal y no formal. 
+- Diseño de esquemas de gobernanza colaborativa dentro del contexto de los procesos de decisión y gestión de sistemas socio-ecológicos.
+- Facilitación de procesos participativos con grupos transdisciplinarios, multiculturales o transfronterizos.
+- Teoría y métodos de análisis institucional y de actores para la conformación de redes de gobernanza que involucren entidades de gobierno con atribuciones sobre desarrollo sostenible y organizaciones de la sociedad civil.
+- Teoría y métodos de trayectorias y transformaciones hacia la sostenibilidad.
 
 ### Bio
 Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning and management (UAX; IHE-Delft). For the past ten years she has been involved in educational and capacity building projects related to wetland management, water governance, and sustainability science. She co-coordinated the design of the Graduate Program in Sustainability Sciences at UNAM, and is currently working at the National Laboratory for Sustainability Sciences (LANCIS-IE-UNAM) in research projects related to stakeholders' engagement, governance and transformation to sustainability in Mexico. She is part of the Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network), where she co-coordinates the North America Hub (one of the six hubs that conform the Pathways to Sustainability Global Consortium). She is a PhD candidate at the Graduate Program in Sustainability Sciences (UNAM) and her research title is: “Promoting transformative pathways to sustainability through collective agency: The Transformation-Lab in the Xochimilco social-ecological system”.
