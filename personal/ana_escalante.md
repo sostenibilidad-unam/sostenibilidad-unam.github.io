@@ -61,7 +61,7 @@ Ale participó en la sección "mujeres en el campo" del programa de radio "Habit
 <img src="/assets/escalante_files/4C_2019.JPG" width="150px">
 
 ### Trabajo de campo en Valle de Guadalupe, Baja California
-<img src="/assets/escalante_files/BC_2019.JPG" width="300px">
+<img src="/assets/escalante_files/BC_2019.JPG" width="150px">
 
 # Proyectos
 ## UC-Mexus
