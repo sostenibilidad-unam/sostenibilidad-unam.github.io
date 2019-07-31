@@ -33,8 +33,11 @@ permalink: /personal/ana_escalante
 
 # Noticias
 
+## Proyecto financiado “Sharing learning to implement an open and collaborative seed innovation system”
+Hemos recibido financiamiento por el Global Consortium for Sustainability Outcomes [GCSO](https://sustainabilityoutcomes.org/) para crear una red de colaboradores alrededor de la protección de semillas y del conocimiento de su mejoramiento en México, junto con colegas de Argentina en donde existe una iniciativa hermana:[Bioleft](http://bioleft.org/). Vigencia: septiembre 2019-agosto 2020.
+
 ## Ana E. Escalante - Simbiosis, suelos.
-Participamos en el programa Simbiosis de TV UNAM hablando de la importancia de los microorganismos en los suelos. Abajo se encuentrala liga al programa completo.
+Participamos en el programa Simbiosis de TV UNAM hablando de la importancia de los microorganismos en los suelos. Abajo se encuentra la liga al programa completo.
 - [Simbiosis - TV UNAM - Suelos](https://www.youtube.com/watch?v=u3spcfdV3Ko)
 
 ## Alejandra Hernández Terán - podcast
