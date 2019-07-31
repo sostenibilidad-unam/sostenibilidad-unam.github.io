@@ -55,7 +55,7 @@ Ale participó en la sección "mujeres en el campo" del programa de radio "Habit
 ## Marzo-Abril 2019
 
 ### Trabajo de campo en Cuatro Ciénegas, Coahuila
-<img src="/assets/escalante_files/4C_2019.JPG" width="300px">
+<img src="/assets/escalante_files/4C_2019.JPG" width="150px">
 
 ### Trabajo de campo en Valle de Guadalupe, Baja California
 <img src="/assets/escalante_files/BC_2019.JPG" width="300px">
