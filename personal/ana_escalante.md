@@ -61,6 +61,20 @@ Ale participó en la sección "mujeres en el campo" del programa de radio "Habit
 <img src="/assets/escalante_files/BC_2019.JPG" width="300px">
 
 # Proyectos
+## UC-Mexus
+- Colaboración con la Dra. Jennifer Martiny, UC-Irvine
+
+## PAPIIT - UNAM
+- Relación diversidad-función en suelos de bosque y desierto
+
+## GCSO
+- Mejoramiento y conservación colaborativa de semillas
+
+## Plasticidad y adaptación
+- Myxococcus xanthus
+
+## CEMIE-bio
+- Producción de energías limpias y renovables
 
 # Publicaciones
 
@@ -236,6 +250,7 @@ Esporádicamente escribo un blog que trata temas de interés personal, los cuale
 
 
 # Colaboradores 
+
 
 ## Campo de investigación
 
