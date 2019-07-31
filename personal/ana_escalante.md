@@ -5,9 +5,7 @@ permalink: /personal/ana_escalante
 ---
 
 # Dra. Ana E. Escalante
-<img src="/assets/escalante_files/ana_2018.JPG" width="300px">
-
-<img src="/assets/escalante_files/grupo_2018.JPG" width="300px">
+<img src="/assets/escalante_files/ana_2018.JPG" width="300px">      <img src="/assets/escalante_files/grupo_2018.JPG" width="300px">
 
 - Investigadora Titular A
 - Laboratorio Nacional de Ciencias de la Sostenibiliad (LANCIS)
