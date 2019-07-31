@@ -5,11 +5,11 @@ permalink: /personal/ana_escalante
 ---
 
 # Dra. Ana E. Escalante
+ - [Noticias](#noticias)
  - [Líneas de investigación](#lineas-de-investigacion)
  - [Semblanza](#semblanza)
  - [Proyectos](#proyectos)
  - [Publicaciones](#publicaciones)
- - [Noticias de interés](#noticias-de-interes)
  - [Estudiantes](#estudiantes-de-doctorado)
  - [Estudiantes graduados](#estudiantes-graduados)
  - [Colaboradores](#colaboradores)
@@ -42,6 +42,15 @@ Publicaciones
 - [Research Gate](https://www.researchgate.net/profile/Ana_Escalante2)
 
 # Noticias
+
+## Ana E. Escalante - Symbiosis, suelos.
+Participamos en el programa Simbiosis de TV UNAM hablando de la importancia de los microorganismos en los suelos. Abajo se encuentrala liga al programa completo.
+- [Simbiosis - TV UNAM - Suelos](https://www.youtube.com/watch?v=u3spcfdV3Ko)
+
+## Alejandra Hernández Terán - podcast
+Ale participó en la sección "mujeres en el campo" del programa de radio "Habitare" del Instituto de Ecología en radio UNAM, aquí la cápsula en donde se puede escuchar su participación a partir del minuto 12.20 en el podcast abajo.
+- [Podcast Habitare](http://www.radiopodcast.unam.mx/podcast/audio/19666)
+
 
 # Estudiantes de Doctorado
 
