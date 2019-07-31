@@ -7,9 +7,7 @@ permalink: /personal/ana_escalante
 # Dra. Ana E. Escalante
 <img src="/assets/escalante_files/ana_2018.JPG" width="350px">      <img src="/assets/escalante_files/grupo_2018.JPG" width="350px">
 
-- Investigadora Titular A
-- Laboratorio Nacional de Ciencias de la Sostenibiliad (LANCIS)
-- Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
+- Investigadora Titular A; Laboratorio Nacional de Ciencias de la Sostenibiliad (LANCIS); Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 - Email: aescalante@iecologia.unam.mx
 
 
