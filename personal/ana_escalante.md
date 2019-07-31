@@ -66,10 +66,10 @@ Ale participó en la sección "mujeres en el campo" del programa de radio "Habit
 ### [Plasticity in developmental phenotypes of Myxococcus xanthus](https://royalsocietypublishing.org/doi/full/10.1098/rsos.181730?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)
 
 
-Publicaciones
+## Todas las publicaciones
+
 - [Google scholar](https://scholar.google.com.mx/citations?user=UQmdPmoAAAAJ&hl=en)
 - [Research Gate](https://www.researchgate.net/profile/Ana_Escalante2)
-
 
 
 # Estudiantes de Doctorado
