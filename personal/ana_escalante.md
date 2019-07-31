@@ -55,6 +55,13 @@ Ale participó en la sección "mujeres en el campo" del programa de radio "Habit
 
 Publicaciones destacadas
 
+[In vitro performance in cotton plants with different genetic backgrounds: implications for germplasm conservation](https://peerj.com/articles/7017/)
+[Effects of genetic background on plant phenotypes, from wild to domesticated and engineered](https://www.frontiersin.org/articles/10.3389/fpls.2017.02030/full)
+[Seasonal changes in milpa soil bacteria](https://www.frontiersin.org/articles/10.3389/fmicb.2017.02478/full)
+[History of adaptation of microbial communities in H2 producing bioreactors](https://onlinelibrary.wiley.com/doi/full/10.1111/1751-7915.12678)
+[Plasticity in developmental phenotypes of Myxococcus xanthus](https://royalsocietypublishing.org/doi/full/10.1098/rsos.181730?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)
+
+
 Publicaciones
 - [Google scholar](https://scholar.google.com.mx/citations?user=UQmdPmoAAAAJ&hl=en)
 - [Research Gate](https://www.researchgate.net/profile/Ana_Escalante2)
