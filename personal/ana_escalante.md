@@ -55,7 +55,7 @@ Ale participó en la sección "mujeres en el campo" del programa de radio "Habit
 ## Marzo-Abril 2019
 
 ### Defensa de tesis doctoral de Natsuko Rivera-Yoshida
-<img src="/assets/escalante_files/Natsuko1_2019.JPG" width="150px"> <img src="/assets/escalante_files/Natsuko2_2019.JPG" width="150px"> <img src="/assets/escalante_files/Natsuko3_2019.JPG" width="150px">
+<img src="/assets/escalante_files/Natsuko2_2019.JPG" width="150px">
 
 ### Trabajo de campo en Cuatro Ciénegas, Coahuila
 <img src="/assets/escalante_files/4C_2019.JPG" width="150px">
