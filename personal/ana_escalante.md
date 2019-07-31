@@ -33,14 +33,20 @@ permalink: /personal/ana_escalante
 
 # Noticias
 
-## Proyecto financiado “Sharing learning to implement an open and collaborative seed innovation system”
+## Junio-Julio 2019
+
+### Presencia en Gordon Research Conferences: 
+- [Microbial Population Biology](https://www.grc.org/microbial-population-biology-conference/2019/) - Ana y Natsuko
+- [Applied and Environmental Microbiology](https://www.grc.org/applied-and-environmental-microbiology-conference/2019/) - Alejandra
+
+### Proyecto financiado “Sharing learning to implement an open and collaborative seed innovation system”
 Hemos recibido financiamiento por el Global Consortium for Sustainability Outcomes [GCSO](https://sustainabilityoutcomes.org/) para crear una red de colaboradores alrededor de la protección de semillas y del conocimiento de su mejoramiento en México, junto con colegas de Argentina en donde existe una iniciativa hermana:[Bioleft](http://bioleft.org/). Vigencia: septiembre 2019-agosto 2020.
 
-## Ana E. Escalante - Simbiosis, suelos.
+### Ana E. Escalante - Simbiosis, suelos.
 Participamos en el programa Simbiosis de TV UNAM hablando de la importancia de los microorganismos en los suelos. Abajo se encuentra la liga al programa completo.
 - [Simbiosis - TV UNAM - Suelos](https://www.youtube.com/watch?v=u3spcfdV3Ko)
 
-## Alejandra Hernández Terán - podcast
+### Alejandra Hernández Terán - podcast
 Ale participó en la sección "mujeres en el campo" del programa de radio "Habitare" del Instituto de Ecología en radio UNAM, aquí la cápsula en donde se puede escuchar su participación a partir del minuto 12.20 en el podcast abajo.
 - [Podcast Habitare](http://www.radiopodcast.unam.mx/podcast/audio/19666)
 
