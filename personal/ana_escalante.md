@@ -235,7 +235,7 @@ Esporádicamente escribo un blog que trata temas de interés personal, los cuale
 
 
 
-# Colaboradores
+# Colaboradores 
 
 ## Campo de investigación
 
