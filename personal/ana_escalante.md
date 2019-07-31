@@ -28,7 +28,7 @@ permalink: /personal/ana_escalante
 
 # Investigadora responsable 
 
-## Dra. Ana E. Escalante**
+## Dra. Ana E. Escalante
 
 <img src="/assets/escalante_files/ana_2018.JPG" width="400px">
 
