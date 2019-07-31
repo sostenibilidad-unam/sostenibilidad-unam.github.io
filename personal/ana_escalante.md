@@ -72,8 +72,8 @@ Ale participó en la sección "mujeres en el campo" del programa de radio "Habit
 ## Plasticidad y adaptación
 - Myxococcus xanthus
 
-## CEMIE-bio
-- Producción de energías limpias y renovables
+## [CEMIE-bio](https://cemiebioalcoholes.org/) 
+- Producción de energías limpias y renovables (https://cemiebioalcoholes.org/)
 
 # Publicaciones
 
