@@ -43,12 +43,10 @@ permalink: /personal/ana_escalante
 Hemos recibido financiamiento por el Global Consortium for Sustainability Outcomes [GCSO](https://sustainabilityoutcomes.org/) para crear una red de colaboradores alrededor de la protección de semillas y del conocimiento de su mejoramiento en México, junto con colegas de Argentina en donde existe una iniciativa hermana:[Bioleft](http://bioleft.org/). Vigencia: septiembre 2019-agosto 2020.
 
 ### Ana E. Escalante - Simbiosis, suelos.
-Participamos en el programa Simbiosis de TV UNAM hablando de la importancia de los microorganismos en los suelos. Abajo se encuentra la liga al programa completo.
-- [Simbiosis - TV UNAM - Suelos](https://www.youtube.com/watch?v=u3spcfdV3Ko)
+Participamos en el programa Simbiosis de TV UNAM hablando de la importancia de los microorganismos en los suelos. Aquí se encuentra la liga al programa completo. - [Simbiosis - TV UNAM - Suelos](https://www.youtube.com/watch?v=u3spcfdV3Ko)
 
 ### Alejandra Hernández Terán - podcast
-Ale participó en la sección "mujeres en el campo" del programa de radio "Habitare" del Instituto de Ecología en radio UNAM, aquí la cápsula en donde se puede escuchar su participación a partir del minuto 12.20 en el podcast abajo.
-- [Podcast Habitare](http://www.radiopodcast.unam.mx/podcast/audio/19666)
+Ale participó en la sección "mujeres en el campo" del programa de radio "Habitare" del Instituto de Ecología en radio UNAM, aquí la cápsula en donde se puede escuchar su participación a partir del minuto 12.20 en la siguiente liga.- [Podcast Habitare](http://www.radiopodcast.unam.mx/podcast/audio/19666)
 
 
 # Proyectos
