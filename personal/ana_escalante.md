@@ -147,22 +147,6 @@ Contacto:
 * Correo electrónico: [jariasdelangel@gmail.com]
 * [Google Scholar](https://scholar.google.com.mx/citations?user=74KVmpYAAAAJ&hl=es)
 
-## Nancy Ontiveros
-
-<img src="/assets/escalante_files/nancy_2018.JPG" width="350px">
-
-Nancy es aspirante al doctorado en ciencias bioquímicas por la UNAM y su proyecto consiste en describir los genes involucrados en obtener tiamina y su regulación por el riboswitch de tiamina en procariontes. Nancy es egresada de la carrera de biología en la Facultad de Ciencias de la UNAM y realizo la maestría en ciencias bioquímicas en el Instituto de Biotecnología de la UNAM. Nancy es autora en dos artículos: Molecular basis of gene regulation by the THI-box riboswitch DOI 10.1111/j.1365-2958.2007.06088.x. y Conserved regulatory motifs in bacteria: riboswitches and beyond DOI 10.1016/j.tig.2004.08.003.
-
-Nancy tienen principal interés en el RNA, sus funciones, sus capacidades como regulador genético y el papel que éste juega en el metabolismo de los organismos.
-
-[Research Gate](https://www.researchgate.net/profile/Nancy_Ontiveros)
-
-## Alejandra Estrada Barón
-
-<img src="/assets/escalante_files/ale2_2018.JPG" width="350px">
-
-Alejandra es egresada de la maestría en Economía de la Facultad de Economía de la UNAM y de la especialidad en Estadística Aplicada del IIMAS. Actualmente colabora en el proyecto “MEGADAPT” en el desarrollo de un modelo de riesgo a la salud junto con la Dra. Ana Elena Escalante y el Dr. Andrés Baeza. Dentro de sus intereses se encuentran el análisis de Sistemas Socio Ecológicos Acopados, vulnerabilidad, dinámica económica, estadística espacial, y modelación bayesiana.
-
 # Estudiantes de Maestría
 
 ## Karla Peña Sanabria
@@ -241,6 +225,23 @@ Esporádicamente escribo un blog que trata temas de interés personal, los cuale
 
 - [Blog](https://bogatyrblog.wordpress.com)
 - Contacto: hector.hernandez@wur.nl 
+
+## Nancy Ontiveros
+
+<img src="/assets/escalante_files/nancy_2018.JPG" width="350px">
+
+Nancy es aspirante al doctorado en ciencias bioquímicas por la UNAM y su proyecto consiste en describir los genes involucrados en obtener tiamina y su regulación por el riboswitch de tiamina en procariontes. Nancy es egresada de la carrera de biología en la Facultad de Ciencias de la UNAM y realizo la maestría en ciencias bioquímicas en el Instituto de Biotecnología de la UNAM. Nancy es autora en dos artículos: Molecular basis of gene regulation by the THI-box riboswitch DOI 10.1111/j.1365-2958.2007.06088.x. y Conserved regulatory motifs in bacteria: riboswitches and beyond DOI 10.1016/j.tig.2004.08.003.
+
+Nancy tienen principal interés en el RNA, sus funciones, sus capacidades como regulador genético y el papel que éste juega en el metabolismo de los organismos.
+
+[Research Gate](https://www.researchgate.net/profile/Nancy_Ontiveros)
+
+## Alejandra Estrada Barón
+
+<img src="/assets/escalante_files/ale2_2018.JPG" width="350px">
+
+Alejandra es egresada de la maestría en Economía de la Facultad de Economía de la UNAM y de la especialidad en Estadística Aplicada del IIMAS. Colaboró en el proyecto “MEGADAPT” en el desarrollo de un modelo de riesgo a la salud junto con la Dra. Ana Elena Escalante y el Dr. Andrés Baeza. Dentro de sus intereses se encuentran el análisis de Sistemas Socio Ecológicos Acopados, vulnerabilidad, dinámica económica, estadística espacial, y modelación bayesiana.
+
 
 
 ## Natsuko Rivera Yoshida
