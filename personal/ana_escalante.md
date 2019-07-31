@@ -30,7 +30,7 @@ permalink: /personal/ana_escalante
 
 ## Dra. Ana E. Escalante
 
-<img src="/assets/escalante_files/ana_2018.JPG" width="400px">
+<img src="/assets/escalante_files/ana_2018.JPG" width="300px">
 
 # Semblanza
 Doctorado en ecología microbiana y evolución, ha trabajado en el estudio de diversidad y evolución de microorganismos en comunidades naturales y en consorcios microbianos en biorreactores. Desde el 2011 trabaja en el Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS), en donde ha ampliado su visión y proyectos de investigación hacia problemáticas de sostenibilidad, con énfasis en aspectos de impacto en política pública para el manejo sostenible de ecosistemas. Ha publicado 34 artículos científicos, 8 capítulos de libro y 7 artículos de divulgación, la mayoría en ecología y evolución de plantas y microorganismos. Ha dirigido 5 tesis de licenciatura, 3 tesis de maestría, y actualmente supervisa a 2 estudiantes de maestría y 3 de doctorado. Es tutor acreditado e imparte cursos en tres posgrados de la UNAM (Posgrado en Ciencias Biológicas, Doctorado en Ciencias Biomédicas, Posgrado en Ciencias de la Sostenibilidad), y ha participado como tutor externo en programas de posgrado en CINVESTAV y CICESE. Es revisora y editora asociada de revistas científicas en ecología y evolución de microorganismos. Su investigación ha sido financiada por diferentes agencias (UC-Mexus, NSF, PAPIIT, CONACyT). Su trabajo y trayectoria se han reconocido con su pertenencia al SNI (Sistema Nacional de Investigadores, Nivel 1) y el premio L´Oréal-UNESCo-AMC para mujeres en la ciencia (2012). 
@@ -106,7 +106,7 @@ Ale participó en la sección "mujeres en el campo" del programa de radio "Habit
 
 ## Alejandra Hernández Terán
 
-<img src="/assets/escalante_files/ale_2018.JPG" width="350px">
+<img src="/assets/escalante_files/ale_2018.JPG" width="250px">
 
 Soy Bióloga egresada de la UAM-Xochimilco, actualmente realizo mi tesis doctoral estudiando interacciones planta-microorganismo. Específicamente, queremos saber cómo las modificaciones genéticas en plantas pueden afectar su interacción con el microbioma de la raíz. Para esto, usamos la planta de algodón como modelo y herramientas libres de cultivo para estudiar los cambios en diversidad y composición del microbioma en plantas con distinto nivel de modificación genética: silvestres, domesticadas y transgénicas. 
 
@@ -119,7 +119,7 @@ Soy biólogo egresado de la Facultad de Ciencias de la UNAM. Actualmente, soy es
 
 ## Karen Carrasco Espinosa
 
-<img src="/assets/escalante_files/karen_2018.JPG" width="350px">
+<img src="/assets/escalante_files/karen_2018.JPG" width="250px">
 
 Estudiante de doctorado 
 El trabajo de investigación que desarrollo se enfoca en estudiar el papel que tienen la diversidad y el funcionamiento de las comunidades microbianas del suelo sobre los procesos ecosistémicos de ambientes naturales así como de los agroecosistemas, haciendo enfásis en el ciclaje de nutrientes, almacenamiento de carbono relacionados con la fertilidad y productividad de éstos. 
@@ -130,9 +130,7 @@ Durante mi formación como bióloga he desarrollado proyectos en las áreas de i
 
 ## Juan Arias Del Angel
 
-<img src="/assets/escalante_files/juan_2018.JPG" width="350px">
-
-Mi nombre es Juan Antonio Arias Del Angel. Estudié la licenciatura en Ciencias Genómicas (2010-2014) en el Campus Cuernavaca de la Universidad Nacional Autónoma de México (UNAM) y actualmente realizo mis estudios de doctorado adscrito al Programa de Ciencias Biomédicas  (2014-actualidad) de la UNAM bajo la supervisión de las Dras. Mariana Benítez y Ana E. Escalante en el Laboratorio Nacional de Ciencias de la Sostenibilidad.
+<img src="/assets/escalante_files/juan_2018.JPG" width="250px"> Mi nombre es Juan Antonio Arias Del Angel. Estudié la licenciatura en Ciencias Genómicas (2010-2014) en el Campus Cuernavaca de la Universidad Nacional Autónoma de México (UNAM) y actualmente realizo mis estudios de doctorado adscrito al Programa de Ciencias Biomédicas  (2014-actualidad) de la UNAM bajo la supervisión de las Dras. Mariana Benítez y Ana E. Escalante en el Laboratorio Nacional de Ciencias de la Sostenibilidad.
 
 Mi proyecto se centra en el estudio de la evolución de la multicelularidad. Específicamente, estamos utilizando un enfoque de sistemas complejos y modelado matemático para estudiar el desarrollo multicelular de Myxococcus xanthus, una delta-proteobacteria que en ausencia de nutrientes inicia un proceso de desarrollo en el cual la células individuales se agregan en estructuras llamadas cuerpos fructíferos y en las cuales estas pueden adquirir diferentes destinos celulares. Los objetivos que hemos perseguido en este proyecto han sido (1) integrar la información experimental disponible respecto a las interacciones regulatorias para generar un modelo dinámico que nos permita explorar como una misma red puede especificar los diferentes tipos celulares observados en este organismo y (2) explorar cómo emergen patrones espaciales respecto a la distribución de los tipos celulares en este organismo dentro de una población de células inicialmente homógeneas las cuales se acoplan mediante rutas de comunicación intercelular. Utilizamos a M. xanthus para explorar cuales son las implicaciones del desarrollo por agregación en la evolución de la multicelularidad para en un futuro compararlos con su contraparte de desarrollo clonal observado en plantas y animales.
 
