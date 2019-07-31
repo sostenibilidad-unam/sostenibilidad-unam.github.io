@@ -5,6 +5,15 @@ permalink: /personal/ana_escalante
 ---
 
 # Dra. Ana E. Escalante
+<img src="/assets/escalante_files/ana_2018.JPG" width="300px">
+
+<img src="/assets/escalante_files/grupo_2018.JPG" width="300px">
+
+- Investigadora Titular A
+- Laboratorio Nacional de Ciencias de la Sostenibiliad (LANCIS)
+- Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
+- Email: aescalante@iecologia.unam.mx
+
  - [Líneas de investigación](#lineas-de-investigacion)
  - [Semblanza](#semblanza)
  - [Noticias](#noticias)
@@ -13,13 +22,6 @@ permalink: /personal/ana_escalante
  - [Estudiantes](#estudiantes-de-doctorado)
  - [Estudiantes graduados](#estudiantes-graduados)
  - [Colaboradores](#colaboradores)
- 
-<img src="/assets/escalante_files/grupo_2018.JPG">
-
-- Investigadora Titular A
-- Laboratorio Nacional de Ciencias de la Sostenibiliad (LANCIS)
-- Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
-- Email: aescalante@iecologia.unam.mx
 
 ## Líneas de investigación
 - Consecuencias funcionales de la diversidad microbiana. Específicamente queremos saber si la composición de los microorganismos en comunidades microbianas tiene efectos en funciones de relevancia ecosistémica. Los modelos (o comunidades microbianas) de estudio con los que trabajamos son suelos, rizósfera (suelo asociado a raíces de plantas) y bioreactores productores de hidrógeno.
@@ -29,9 +31,6 @@ permalink: /personal/ana_escalante
 # Investigadora responsable 
 
 ## Dra. Ana E. Escalante
-
-<img src="/assets/escalante_files/ana_2018.JPG" width="300px">
-
 # Semblanza
 Doctorado en ecología microbiana y evolución, ha trabajado en el estudio de diversidad y evolución de microorganismos en comunidades naturales y en consorcios microbianos en biorreactores. Desde el 2011 trabaja en el Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS), en donde ha ampliado su visión y proyectos de investigación hacia problemáticas de sostenibilidad, con énfasis en aspectos de impacto en política pública para el manejo sostenible de ecosistemas. Ha publicado 34 artículos científicos, 8 capítulos de libro y 7 artículos de divulgación, la mayoría en ecología y evolución de plantas y microorganismos. Ha dirigido 5 tesis de licenciatura, 3 tesis de maestría, y actualmente supervisa a 2 estudiantes de maestría y 3 de doctorado. Es tutor acreditado e imparte cursos en tres posgrados de la UNAM (Posgrado en Ciencias Biológicas, Doctorado en Ciencias Biomédicas, Posgrado en Ciencias de la Sostenibilidad), y ha participado como tutor externo en programas de posgrado en CINVESTAV y CICESE. Es revisora y editora asociada de revistas científicas en ecología y evolución de microorganismos. Su investigación ha sido financiada por diferentes agencias (UC-Mexus, NSF, PAPIIT, CONACyT). Su trabajo y trayectoria se han reconocido con su pertenencia al SNI (Sistema Nacional de Investigadores, Nivel 1) y el premio L´Oréal-UNESCo-AMC para mujeres en la ciencia (2012). 
 
