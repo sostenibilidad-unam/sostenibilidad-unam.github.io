@@ -53,11 +53,12 @@ Participamos en el programa Simbiosis de TV UNAM hablando de la importancia de l
 Ale participó en la sección "mujeres en el campo" del programa de radio "Habitare" del Instituto de Ecología en radio UNAM, aquí la cápsula en donde se puede escuchar su participación a partir del minuto 12.20 en la siguiente liga.- [Podcast Habitare](http://www.radiopodcast.unam.mx/podcast/audio/19666)
 
 ## Marzo-Abril 2019
+
 ### Trabajo de campo en Cuatro Ciénegas, Coahuila
-<img src="/assets/escalante_files/4C_2019.JPG" width="400px">
+<img src="/assets/escalante_files/4C_2019.JPG" width="300px">
 
 ### Trabajo de campo en Valle de Guadalupe, Baja California
-<img src="/assets/escalante_files/BC_2019.JPG" width="400px">
+<img src="/assets/escalante_files/BC_2019.JPG" width="300px">
 
 # Proyectos
 
