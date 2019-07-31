@@ -260,7 +260,7 @@ Contacto: [riveranat89@gmail.com]
 
 Ecología Microbiana
 
-## Especialidades
+## Especialidades 
 
 - Ecología y evolución de microorganismos
 - Análisis de laboratorio y bioinformática
