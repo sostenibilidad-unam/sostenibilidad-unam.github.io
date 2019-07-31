@@ -54,6 +54,9 @@ Ale participó en la sección "mujeres en el campo" del programa de radio "Habit
 
 ## Marzo-Abril 2019
 
+### Defensa de tesis doctoral de Natsuko Rivera-Yoshida
+<img src="/assets/escalante_files/Natsuko1_2019.JPG" width="150px"> <img src="/assets/escalante_files/Natsuko2_2019.JPG" width="150px"> <img src="/assets/escalante_files/Natsuko3_2019.JPG" width="150px">
+
 ### Trabajo de campo en Cuatro Ciénegas, Coahuila
 <img src="/assets/escalante_files/4C_2019.JPG" width="150px">
 
@@ -144,14 +147,6 @@ Contacto:
 * Correo electrónico: [jariasdelangel@gmail.com]
 * [Google Scholar](https://scholar.google.com.mx/citations?user=74KVmpYAAAAJ&hl=es)
 
-## Natsuko Rivera Yoshida
-
-<img src="/assets/escalante_files/natsuko_2018.JPG" width="350px">
-
-Estudiante de Doctorado en el Programa de Doctorado en Ciencias Biomédicas.
-Mi proyecto forma parte de una línea de investigación teórico-práctica dentro del marco de la Biología Evolutiva del Desarrollo. Específicamente, queremos estudiar los efectos y los mecanismos a través de los cuales, los factores ambientales y mecánicos, influyen sobre el desarrollo de patrones multicelulares de myxobacterias.
-Contacto: [riveranat89@gmail.com]
-
 ## Nancy Ontiveros
 
 <img src="/assets/escalante_files/nancy_2018.JPG" width="350px">
@@ -237,7 +232,7 @@ Short CV
 
 ## Héctor Hernández González 
 
-<img src="/assets/escalante_files/hector_2018.JPG" width="130px">
+<img src="/assets/escalante_files/hector_2018.JPG" width="150px">
 
 Realicé mis estudios de licenciatura en biología la Universidad Nacional Autónoma de México (2011-2015). Mi tesis de licenciatura consistió en analizar interacciones epistáticas en una red de desarrollo de Myxococcus xanthus, una bacteria que presenta comportamiento social. 
 Actualmente curso una maestría en Biología con especialización en biodiversidad, biología evolutiva y modelación matemática en la Universidad de Wageningen, Países Bajos. Durante mi tesis de maestría analicé los efectos de interacciones intraespecíficas en la adaptación de E. coli a antibióticos, utilizando herramientas empíricas y teóricas. El proyecto en el que me encuentro trabajando, ahora en ETH Zurich, consiste en evaluar el efecto que tiene la presencia de una cepa “tramposa” en la interacción entre una cepa de laboratorio y cuatro cepas naturales de M. xanthus.
@@ -246,6 +241,15 @@ Esporádicamente escribo un blog que trata temas de interés personal, los cuale
 
 - [Blog](https://bogatyrblog.wordpress.com)
 - Contacto: hector.hernandez@wur.nl 
+
+
+## Natsuko Rivera Yoshida
+
+<img src="/assets/escalante_files/natsuko_2018.JPG" width="150px">
+
+Estudiante de Doctorado en el Programa de Doctorado en Ciencias Biomédicas.
+Interés en el estudio de los efectos y los mecanismos a través de los cuales, los factores ambientales y mecánicos, influyen sobre el desarrollo de patrones multicelulares de myxobacterias.
+Contacto: [riveranat89@gmail.com]
 
 
 
