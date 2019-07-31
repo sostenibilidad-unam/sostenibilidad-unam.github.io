@@ -22,10 +22,13 @@ permalink: /personal/ana_escalante
 - Email: aescalante@iecologia.unam.mx
 
 ## Líneas de investigación
+- Consecuencias funcionales de la diversidad microbiana. Específicamente queremos saber si la composición de los microorganismos en comunidades microbianas tiene efectos en funciones de relevancia ecosistémica. Los modelos (o comunidades microbianas) de estudio con los que trabajamos son suelos, rizósfera (suelo asociado a raíces de plantas) y bioreactores productores de hidrógeno.
+- Desarrollo de herramientas para el trabajo transdisciplinario en problemáticas de sostenibilidad. Nos interesa diseñar y contribuir en proyectos para la atención de problemáticas socio-ambientales, entre otras: el manejo sustentable de recursos genéticos en agricultura, la producción de energías limpias, el desarrollo de indicadores de salud ecosistémica. Algunos sistemas de estudio en los que hemos trabajado: bioreactores productores de hidrógeno, suelos agrícolas, suelos contaminados.
+- Efectos ambientales y genéticos en la adaptación y el fenotipo. Nos interesa conocer el efecto individual y combinado de las condiciones ambientales y genéticas en los fenotipos y su capacidad de adaptación, usamos como modelo de estudio a la bacteria social Myxococcus xanthus.
 
 # Investigadora responsable 
 
-**Dra. Ana E. Escalante**
+## Dra. Ana E. Escalante**
 
 <img src="/assets/escalante_files/ana_2018.JPG" width="400px">
 
