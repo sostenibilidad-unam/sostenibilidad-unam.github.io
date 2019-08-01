@@ -219,7 +219,8 @@ Alejandra es egresada de la maestría en Economía de la Facultad de Economía d
 ## Natsuko Rivera Yoshida
 
 <img src="/assets/escalante_files/natsuko_2018.JPG" width="150px"> Doctora en Ciencias por el Programa de Doctorado en Ciencias Biomédicas de la UNAM. Actualmente investigadora posdoctoral en el Instituto de Física de la UNAM. Interés en el estudio de los efectos y los mecanismos a través de los cuales, los factores ambientales y mecánicos, influyen sobre el desarrollo de patrones multicelulares de myxobacterias.
-Contacto: [riveranat89@gmail.com]
+Contacto: [n.riverayoshida@gmail.com]
+
 
 
 
