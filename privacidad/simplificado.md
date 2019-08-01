@@ -21,3 +21,5 @@ en la Unidad de Transparencia de la UNAM, o a través de la [Plataforma Nacional
 Consulte el [aviso de privacidad integral](1.AP_Integral.pdf) ([versión simplificada](2.AP_Simplificado.pdf)).
 
 Consulte el [aviso de privacidad integral del *circuito cerrado de televisión*](3.AP_CCTV.pdf) ([versión simplificada](4.AP_CCTV_simplificado.pdf)).
+
+O, si lo prefiere, consulte las versiones originales en formato Word [aquí](https://github.com/sostenibilidad-unam/sostenibilidad-unam.github.io/tree/master/privacidad).
