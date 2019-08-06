@@ -34,7 +34,7 @@ Ana E. Escalante tiene un doctorado en ecología microbiana y evolución, ha tra
 ## Agosto-Septiembre 2019
 
 ### Presentación de propuesta a la Fundación MacArthur (UNAM-UofA-CdMx)
-Participamos en la presentación de una propuesta a la fundación MacArthur en el programa [100&Change](https://www.100andchange.org/) para transformar la CdMx integrando problemáticas de conservación de suelos, actividades productivas agrícolas y reducción y manejo de residuos sólidos. Es una colaboración de la UNAM, la Universidad de Arizona (U of A) y la Secretaría de Educación, Ciencia, Texnología e Innovación de la Ciudad de México (SECTEI). Aquí el videoclip que la resume: [Da click](https://youtu.be/_Owz85MPlvk)
+Participamos en la presentación de una propuesta a la fundación MacArthur en el programa [100&Change](https://www.100andchange.org/) para transformar la CdMx integrando problemáticas de conservación de suelos, actividades productivas agrícolas y reducción y manejo de residuos sólidos. Es una colaboración de la UNAM, la Universidad de Arizona (U of A) y la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México (SECTEI). Aquí el videoclip que la resume: [Da click](https://youtu.be/_Owz85MPlvk)
 
 
 ## Junio-Julio 2019
