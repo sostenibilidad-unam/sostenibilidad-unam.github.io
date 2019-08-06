@@ -232,7 +232,7 @@ Contacto: [n.riverayoshida@gmail.com]
 
 # Cursos
 ## Ecología microbiana 
-Click [aquí](/assets/temario_2019.docx) para ver el programa para el semestre agosto-diciembre 2019 
+Click [aquí](https://github.com/sostenibilidad-unam/sostenibilidad-unam.github.io/blob/master/assets/escalante_files/temario_2019.docx) para ver el programa para el semestre agosto-diciembre 2019 
 
 
 
