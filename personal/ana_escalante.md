@@ -232,7 +232,7 @@ Contacto: [n.riverayoshida@gmail.com]
 
 # Cursos
 ## Ecología microbiana 
-Click [aquí](/assets/Temario_Calendario_2019.docx) para ver el programa para el semestre agosto-diciembre 2019 
+Click [aquí](/assets/temario_2019.docx) para ver el programa para el semestre agosto-diciembre 2019 
 
 
 
