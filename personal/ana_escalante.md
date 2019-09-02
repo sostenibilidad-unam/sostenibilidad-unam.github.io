@@ -33,6 +33,12 @@ Ana E. Escalante tiene un doctorado en ecología microbiana y evolución, ha tra
 
 ## Agosto-Septiembre 2019
 
+### Simposio de Estudiantes del Instituto de Ecología, UNAM
+Participaron los estudiantes del grupo en el simposio de estudiantes con excelentes presentaciones. 
+Karla Peña fue ganadora del primer lugar de cartel (maestría) y Valeria Aparicio fue ganadora del segundo lugar de cartel (licenciatura)
+<img src="/assets/escalante_files/cartel_karla.pdf" width="150px"> <img src="/assets/escalante_files/cartel_valeria.pdf" width="150px">
+
+
 ### Presentación de propuesta a la Fundación MacArthur (UNAM-UofA-CdMx)
 Participamos en la presentación de una propuesta a la fundación MacArthur en el programa [100&Change](https://www.100andchange.org/) para transformar la CdMx integrando problemáticas de conservación de suelos, actividades productivas agrícolas y reducción y manejo de residuos sólidos. Es una colaboración de la UNAM, la Universidad de Arizona (U of A) y la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México (SECTEI). Aquí el videoclip que la resume: [Da click](https://youtu.be/_Owz85MPlvk)
 
