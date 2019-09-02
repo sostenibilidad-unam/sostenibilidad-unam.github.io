@@ -36,10 +36,12 @@ Ana E. Escalante tiene un doctorado en ecología microbiana y evolución, ha tra
 ### Simposio de Estudiantes del Instituto de Ecología, UNAM - 29 y 30 de agosto
 Participaron los estudiantes del grupo en el simposio de estudiantes con excelentes presentaciones. 
 ## Karla Peña Sanabria 
-Ganadora del primer lugar de cartel-maestría <img src="/assets/escalante_files/cartel_karla.JPG" width="400px">
+- Ganadora del primer lugar de cartel-maestría 
+<img src="/assets/escalante_files/cartel_karla.JPG" width="400px">
 
 ## Valeria Aparicio Trejo
-Ganadora del segundo lugar de cartel-licenciatura <img src="/assets/escalante_files/cartel_valeria.JPG" width="400px">
+- Ganadora del segundo lugar de cartel-licenciatura 
+<img src="/assets/escalante_files/cartel_valeria.JPG" width="400px">
 
 
 ### Presentación de propuesta a la Fundación MacArthur (UNAM-UofA-CdMx)
