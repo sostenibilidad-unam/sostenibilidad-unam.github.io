@@ -37,11 +37,11 @@ Ana E. Escalante tiene un doctorado en ecología microbiana y evolución, ha tra
 Participaron los estudiantes del grupo en el simposio de estudiantes con excelentes presentaciones. 
 ## Karla Peña Sanabria 
 - Ganadora del primer lugar de cartel-maestría 
-<img src="/assets/escalante_files/cartel_karla.JPG" width="400px">
+<img src="/assets/escalante_files/cartel_karla.JPG" width="250px">
 
 ## Valeria Aparicio Trejo
 - Ganadora del segundo lugar de cartel-licenciatura 
-<img src="/assets/escalante_files/cartel_valeria.JPG" width="400px">
+<img src="/assets/escalante_files/cartel_valeria.JPG" width="250px">
 
 
 ### Presentación de propuesta a la Fundación MacArthur (UNAM-UofA-CdMx)
