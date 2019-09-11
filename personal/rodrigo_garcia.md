@@ -14,16 +14,15 @@ permalink: /personal/rodrigo_garcia
 
 # Semblanza
 
-Estudié Ingeniería en Cibernética y Sistemas Computacionales en la Universidad La Salle y 
-curso la Maestría en Ciencias de la Complejidad en la Universidad Autónoma de la Ciudad de México.
- 
-Tengo más de 18 años de experiencia en el diseño, implementación
-y operación de tecnologías de la información, con aplicaciones
-industriales en las áreas de inteligencia de negocios e
-infraestructura de internet, así como aplicaciones de cómputo
-científico en las áreas de genómica computacional, bioinformática y
-ciencias de la sostenibilidad.
- 
+Estudié Ingeniería en Cibernética y Sistemas Computacionales en la Universidad La Salle y
+la Maestría en Ciencias de la Complejidad en la Universidad Autónoma de la Ciudad de México.
+
+Tengo amplia experiencia en el diseño, implementación y operación de
+tecnologías de la información, con aplicaciones industriales en las
+áreas de inteligencia de negocios e infraestructura de internet, así
+como aplicaciones de cómputo científico en las áreas de genómica
+computacional, bioinformática y ciencias de la sostenibilidad.
+
 He publicado bibliotecas de software en el Python Package Index, soy
 miembro de la Free Software Foundation y autor en diversas
 publicaciones de revistas internacionales como Science, Nature
@@ -44,7 +43,7 @@ Computational Biology and Chemistry.
 ## Bibliotecas en el Python Package Index
 
  - [PyvePlot](https://pypi.org/project/pyveplot/). Biblioteca para la creación de [hiveplots](http://hiveplot.com/) como [Scalable Vector Graphics](https://www.w3.org/Graphics/SVG/). Útil para revelar características estructurales de redes complejas, ejemplos: [red de agencia en el proyecto T-Labs](https://github.com/sostenibilidad-unam/tlabs/tree/master/hiveplot).
- 
+
  - [Sleuth Automation](https://pypi.org/project/sleuth-automation/). Interfaz orientada a objetos para expresar experimentos de crecimiento urbano. En uso por el proyecto [MEGADAPT](http://megadapt.weebly.com/).
 
  - [Rug Plot](https://pypi.org/project/rugplot/). Mejor que la proyección a dos dimensiones de una gráfica tridimensional es un rugplot. Inspirado en [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi).
