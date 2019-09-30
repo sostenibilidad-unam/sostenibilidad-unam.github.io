@@ -5,6 +5,10 @@ layout: page
 smallimg: /assets/investigacion_participativa.png
 ---
 
+
+![](/assets/investigacion_participativa.png)
+
+
 Un grupo de académicos del Hub Norteamérica del STEPS Centre (formado
 por académicos del LANCIS-IE-UNAM y de SOS-ASU), ha producido nuevos
 recursos para la investigación participativa en sistemas
