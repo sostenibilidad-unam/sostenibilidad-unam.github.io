@@ -1,6 +1,6 @@
 ---
-title: "Investigación participativa en sistemas socio-ecológicos"
-description: "Nuevos recursos que apoyan la investigación participativa en sistemas socio-ecológicos"
+title: "Nuevos recursos que apoyan la investigación participativa en sistemas socio-ecológicos"
+description: "Conozca los nuevos recursos para la investigación participativa en sistemas socio-ecológicos que ha producido un grupo de académicos del Hub Norteamérica del STEPS Centre"
 layout: page
 smallimg: /assets/investigacion_participativa.png
 ---
