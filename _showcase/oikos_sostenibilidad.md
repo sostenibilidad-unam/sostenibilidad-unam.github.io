@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "Revista Oikos No. 22"
+title: "Número especial de la revista Oikos dedicado a las Ciencias de la Sostenibilidad"
 smallimg: /showcase/oikos_22_portada.png
-description: "Número especial dedicado a las Ciencias de la Sostenibilidad"
+description: "Oikos es una revista de divulgación científica publicada por el Instituto de Ecología de la UNAM."
 ---
 
-**Oikos** es una revista de divulgación científica publicada por el Instituto de Ecología de la UNAM. 
+
+**Oikos** es una revista de divulgación científica publicada por el Instituto de Ecología de la UNAM.
 
 ![portada](/showcase/oikos_22_portada.png)
 
@@ -19,4 +20,3 @@ incluye artículos de divulgación que tocan temas dentro de categorías como:
 
 
 [Visitar número especial en **Oikos**](http://web.ecologia.unam.mx/oikos3.0/index.php).
-
