@@ -4,7 +4,6 @@ title: "Sistema de Gestión de Calidad"
 permalink: /SGC/
 ---
 
-![Mapa de Proceso](/sgc/mapa_de_proceso.svg)
-
+Haga click en las áreas del siguiente mapa para acceder a más documentación.
 
 <object type="image/svg+xml" data="/sgc/mapa_de_proceso.svg" width="100%" height="100%"></object>

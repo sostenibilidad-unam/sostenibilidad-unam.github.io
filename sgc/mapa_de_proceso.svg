@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.2244069"
-     inkscape:cx="487.01555"
-     inkscape:cy="268.42131"
+     inkscape:zoom="1.14"
+     inkscape:cx="273.72498"
+     inkscape:cy="227.45829"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1018,38 +1018,41 @@
       </g>
     </g>
     <a
-       id="a5861"
+       id="a205"
        xlink:href="http://www.ecologia.unam.mx/Documentos/plan_desarrollo/PlanDeDesarrollo-2016-2020.pdf">
-      <rect
-         y="192.64304"
-         x="5.0113945"
-         height="16.380489"
-         width="24.519043"
-         id="rect10"
-         style="opacity:1;fill:#6699ff;fill-opacity:1;stroke:#6699ff;stroke-width:0.94934207;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g203">
+        <rect
+           style="opacity:1;fill:#6699ff;fill-opacity:1;stroke:#6699ff;stroke-width:0.94934207;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect10"
+           width="24.519043"
+           height="16.380489"
+           x="5.0113945"
+           y="192.64304" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.45768523px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08644214"
+           x="6.5423832"
+           y="195.43565"
+           id="text14"
+           transform="scale(0.99007853,1.0100209)"><tspan
+             sodipodi:role="line"
+             id="tspan12"
+             x="6.5423832"
+             y="195.43565"
+             style="stroke-width:0.08644214">Plan de </tspan><tspan
+             sodipodi:role="line"
+             x="6.5423832"
+             y="199.75777"
+             style="stroke-width:0.08644214"
+             id="tspan16">desarrollo </tspan><tspan
+             sodipodi:role="line"
+             x="6.5423832"
+             y="204.07986"
+             style="stroke-width:0.08644214"
+             id="tspan18">del IE</tspan></text>
+      </g>
     </a>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.45768523px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08644214"
-       x="6.5423832"
-       y="195.43565"
-       id="text14"
-       transform="scale(0.99007853,1.0100209)"><tspan
-         sodipodi:role="line"
-         id="tspan12"
-         x="6.5423832"
-         y="195.43565"
-         style="stroke-width:0.08644214">Plan de </tspan><tspan
-         sodipodi:role="line"
-         x="6.5423832"
-         y="199.75777"
-         style="stroke-width:0.08644214"
-         id="tspan16">desarrollo </tspan><tspan
-         sodipodi:role="line"
-         x="6.5423832"
-         y="204.07986"
-         style="stroke-width:0.08644214"
-         id="tspan18">del IE</tspan></text>
     <rect
        y="214.16377"
        x="4.9255533"
