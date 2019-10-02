@@ -13,4 +13,6 @@ compartir conocimientos; que satisfagan las necesidades y expectativas
 de los solicitantes en materia de Ciencias de la Sostenibilidad, en el
 marco del Sistema de Gestión de Calidad y su continua mejora.
 
+Haga click en las áreas del siguiente mapa para acceder a más documentación.
+
 <object type="image/svg+xml" data="/sgc/mapa_de_proceso.svg" width="100%" height="100%"></object>
