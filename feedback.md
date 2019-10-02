@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Quejas, sugerencias, comentarios o felicitaciones"
+bigimg: /assets/feedback_banner.jpg
 permalink: /feedback/
 ---
 
