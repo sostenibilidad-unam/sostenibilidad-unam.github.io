@@ -21,13 +21,13 @@ navbar-links:
   Acerca del Lancis:
     - Personal: "personal"
     - Semblanza: "semblanza"
+    - Sistema de Gestión de CAlidad: "SGC"
     - Nuestras redes: "nuestras-redes"
   Actividades:
     - Investigación e Innovación: "investigacion"
     - Desarrollo de Proyectos: "proyectos"
     - Posgrado: "posgrado"
     - Creación de Capacidades: "capacidades"
-    - Sistema de Gestión de CAlidad: "SGC"
   Infraestructura:
     - Laboratorios: "laboratorios"
     - Anfiteatro: "anfiteatro"
