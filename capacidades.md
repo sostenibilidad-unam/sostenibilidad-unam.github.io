@@ -24,10 +24,5 @@ desarrollar y compartir conocimientos. Se dirigen a sectores
 específicos que así lo requieran dadas sus competencias y atribuciones
 relacionadas con algún problema en materia de sostenibilidad.
 
-
-En el siguiente formulario usted puede solicitar nuestros servicios de
-Creación de Capacidades.
-
-
 Para solicitar nuestros servicios, por favor llene el siguiente
 [formulario](https://docs.google.com/forms/d/e/1FAIpQLSfAEpB0jLcYWpkanyhz-izOceUynPQKFc0FKhQTpsTW2jBIKw/viewform?usp=sf_link).
