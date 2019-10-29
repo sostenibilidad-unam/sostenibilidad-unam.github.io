@@ -62,15 +62,15 @@ Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning an
 *	Charli-Joseph L, Bojórquez-Tapia L, Gómez-Priego P, Pedroza-Páez D. 2012. **A capacity building programme for sustainability: key competencies through formal and non-formal approaches**. Published in the Proceedings of INTED2012 Conference. ISBN: 978-84-615-5563-5. 5th-7th March 2012, Valencia, Spain. [link](https://library.iated.org/view/CHARLIJOSEPH2012ACA)
 
 
+## [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
+
+## [NEW RESOURCES SUPPORT PARTICIPATORY RESEARCH IN SOCIO-ECOLOGICAL SYSTEMS](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/)
+- [The Transformation Laboratory of the social-ecological system of Xochimilco, Mexico City: Description of the process and methodological guide](https://steps-centre.org/wp-content/uploads/2019/09/Guide-T-Lab-Xochi-screen-version-English-NA-Hub.pdf)
+- [El Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco, CdMx: Narrativa del proceso y guía metodológica](https://steps-centre.org/wp-content/uploads/2019/09/Gui%CC%81a-T-Lab-Xochi-Descargable-versio%CC%81n-pantalla-Espan%CC%83ol-Hub-NA.pdf)
+
 ## STEPS North America Hub - T-Labs Project blog posts
 *	[How rethinking local people's agency could help navigate Xochimilco's troubled waters](https://steps-centre.org/blog/new-forms-agency-help-navigate-xochimilcos-troubled-waters/)
 *	[A day in the chinampas](https://steps-centre.org/blog/a-day-in-the-chinampas/)
 *	[What 'Agency' do researchers have in transformative research projects?](https://steps-centre.org/blog/agency-researchers-transformative-research-projects/)
 *	[Creating bridges in Xochimilco through the "Pathways to Sustainability Game"](https://steps-centre.org/blog/creating-bridges-through-the-pathways-to-sustainability-game/)
 *	[What does transformative research for sustainability look like?](https://steps-centre.org/blog/transformative-research-sustainability-look-like/)
-
-## [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
-
-## [NEW RESOURCES SUPPORT PARTICIPATORY RESEARCH IN SOCIO-ECOLOGICAL SYSTEMS](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/)
-- [The Transformation Laboratory of the social-ecological system of Xochimilco, Mexico City: Description of the process and methodological guide](https://steps-centre.org/wp-content/uploads/2019/09/Guide-T-Lab-Xochi-screen-version-English-NA-Hub.pdf)
-- [El Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco, CdMx: Narrativa del proceso y guía metodológica](https://steps-centre.org/wp-content/uploads/2019/09/Gui%CC%81a-T-Lab-Xochi-Descargable-versio%CC%81n-pantalla-Espan%CC%83ol-Hub-NA.pdf)
