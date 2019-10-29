@@ -70,3 +70,8 @@ Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning an
 *	[What does transformative research for sustainability look like?](https://steps-centre.org/blog/transformative-research-sustainability-look-like/)
 
 ### [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
+
+### [NEW RESOURCES SUPPORT PARTICIPATORY RESEARCH IN SOCIO-ECOLOGICAL SYSTEMS](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/)
+
+## [The Transformation Laboratory of the social-ecological system of Xochimilco, Mexico City: Description of the process and methodological guide](https://steps-centre.org/wp-content/uploads/2019/09/Guide-T-Lab-Xochi-screen-version-English-NA-Hub.pdf)
+## [El Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco, CdMx: Narrativa del proceso y guía metodológica](https://steps-centre.org/wp-content/uploads/2019/09/Gui%CC%81a-T-Lab-Xochi-Descargable-versio%CC%81n-pantalla-Espan%CC%83ol-Hub-NA.pdf)
