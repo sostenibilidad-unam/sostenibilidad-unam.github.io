@@ -5,7 +5,7 @@ permalink: /posgrado/
 ---
 
 # Programa de Posgrado en Ciencias de la Sostenibilidad
-[Ve aquí a la coordinación del posgrado](http://www.posgrado.unam.mx/sostenibilidad/)
+[Ve aquí a la coordinación del posgrado](https://sostenibilidad.posgrado.unam.mx/)
 
 El nuevo Programa de Posgrado en Ciencias de la Sostenibilidad es una
 propuesta novedosa que integra formalmente a las ciencias naturales,
