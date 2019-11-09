@@ -47,6 +47,7 @@ Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning an
 ![xochimilco](/assets/Xochi2.jpeg)
 
 ## Publicaciones
+* Pereira L, Frantzeskaki N, Hebinck A, Charli-Joseph L, Drimie S, Dyer M, Eakin H, Galafassi D, Karpouzoglou T, Marshall F,  Moore ML, Olsson P, Siqueiros-García JM, van Zwanenberg P, Vervoort JM. 2019. **Transformative spaces in the making: key lessons from nine cases in the Global South**. Sustain Sci [link](https://link.springer.com/article/10.1007/s11625-019-00749-x#citeas)
 * Eakin H, Shelton R, Siqueiros-Garcia J, Charli-Joseph L, & Manuel-Navarrete D. 2019. **Loss and social-ecological transformation: pathways of change in Xochimilco, Mexico**. Ecology and Society 24(3):15. [link](https://www.ecologyandsociety.org/vol24/iss3/art15/)
 * Scoones I, Stirling A, Abrol D, Atela J, Charli-Joseph L, Eakin H, Ely A, Olsson P, Pereira L, Priya R, van Zwanenberg P, and Yang L. 2018. **Transformations to Sustainability**, STEPS Working Paper 104, Brighton: STEPS Centre. [link](https://steps-centre.org/publication/transformations-to-sustainability-wp104/)
 * Charli-Joseph L, Siqueiros-Garcia J, Eakin H, Manuel-Navarrete D, and Shelton R. 2018. **Promoting agency for social-ecological transformation: a transformation-lab in the Xochimilco social-ecological system**. Ecology and Society 23(2):46. [link](https://www.ecologyandsociety.org/vol23/iss2/art46/)
