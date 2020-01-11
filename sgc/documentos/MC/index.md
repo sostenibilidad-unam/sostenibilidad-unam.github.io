@@ -14,5 +14,8 @@ permalink: /SGC/MC/
  - [Plan de Calidad, apoyo](PC.02-v0.pdf)
 
 
+ - [Procedimiento de Administración de Riesgos](http://lancis.ecologia.unam.mx/SGC/PAR/)
+ - [Procedimiento de Control de la Información Documentada](http://lancis.ecologia.unam.mx/SGC/PCID/)
+
 
 [volver al mapa de procesos](http://lancis.ecologia.unam.mx/SGC/)

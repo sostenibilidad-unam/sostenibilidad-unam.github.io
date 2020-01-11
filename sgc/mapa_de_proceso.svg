@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6122035"
-     inkscape:cx="472.59428"
-     inkscape:cy="180.50665"
+     inkscape:zoom="1.14"
+     inkscape:cx="290.13607"
+     inkscape:cy="210.7894"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -89,14 +89,18 @@
        x="1.2392467"
        y="186.4868"
        ry="5.5610881" />
-    <rect
-       style="opacity:1;fill:#3366cc;fill-opacity:0.2857143;stroke:none;stroke-width:0.66458333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1124"
-       width="128.57822"
-       height="29.939693"
-       x="35.676971"
-       y="146.25244"
-       ry="6.8466763" />
+    <a
+       id="a3986"
+       xlink:href="http://lancis.ecologia.unam.mx/SGC/MC/">
+      <rect
+         ry="6.8466763"
+         y="146.25244"
+         x="35.676971"
+         height="29.939693"
+         width="128.57822"
+         id="rect1124"
+         style="opacity:1;fill:#3366cc;fill-opacity:0.2857143;stroke:none;stroke-width:0.66458333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </a>
     <rect
        style="opacity:1;fill:#00cc00;fill-opacity:0.35978836;stroke:none;stroke-width:0.59493893;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect208"
@@ -116,29 +120,36 @@
          x="12.701715"
          y="190.58257"
          style="stroke-width:0.05841069">Entradas</tspan></text>
-    <rect
-       style="opacity:1;fill:#99cc33;fill-opacity:1;stroke:#00cc00;stroke-width:0.66458333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect146"
-       width="115.11695"
-       height="22.512793"
-       x="43.679459"
-       y="211.98987" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87410259px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14685173"
-       x="98.56414"
-       y="221.39041"
-       id="text150"><tspan
-         sodipodi:role="line"
-         id="tspan148"
-         x="98.56414"
-         y="221.39041"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87410259px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.14685173">proceso de servicio</tspan><tspan
-         sodipodi:role="line"
-         x="98.56414"
-         y="228.73303"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87410259px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.14685173"
-         id="tspan152">de creación de capacidades</tspan></text>
+    <a
+       id="a3973"
+       xlink:href="http://lancis.ecologia.unam.mx/SGC/PSCC/">
+      <g
+         id="g3971">
+        <rect
+           style="opacity:1;fill:#99cc33;fill-opacity:1;stroke:#00cc00;stroke-width:0.66458333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect146"
+           width="115.11695"
+           height="22.512793"
+           x="43.679459"
+           y="211.98987" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87410259px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14685173"
+           x="98.56414"
+           y="221.39041"
+           id="text150"><tspan
+             sodipodi:role="line"
+             id="tspan148"
+             x="98.56414"
+             y="221.39041"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87410259px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.14685173">proceso de servicio</tspan><tspan
+             sodipodi:role="line"
+             x="98.56414"
+             y="228.73303"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.87410259px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.14685173"
+             id="tspan152">de creación de capacidades</tspan></text>
+      </g>
+    </a>
     <a
        id="a2134"
        xlink:href="http://lancis.ecologia.unam.mx/cluster/">
@@ -221,28 +232,32 @@
              style="fill:#ffffff;stroke-width:0.09186471">Anfiteatro</tspan></text>
       </g>
     </a>
-    <g
-       id="g1394"
-       transform="translate(-19.066801,3.7241942)">
-      <rect
-         style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:#00cc00;stroke-width:0.22657818;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect190"
-         width="44.229836"
-         height="6.8106833"
-         x="63.063545"
-         y="240.9455" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.66888881px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.10655095"
-         x="85.336288"
-         y="245.50113"
-         id="text196"><tspan
-           sodipodi:role="line"
-           x="85.336288"
+    <a
+       id="a3980"
+       xlink:href="http://lancis.ecologia.unam.mx/SGC/PPSA/">
+      <g
+         transform="translate(-19.066801,3.7241942)"
+         id="g1394">
+        <rect
+           y="240.9455"
+           x="63.063545"
+           height="6.8106833"
+           width="44.229836"
+           id="rect190"
+           style="opacity:1;fill:#00cc00;fill-opacity:1;stroke:#00cc00;stroke-width:0.22657818;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text196"
            y="245.50113"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.66888881px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.10655095"
-           id="tspan194">superación académica</tspan></text>
-    </g>
+           x="85.336288"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.66888881px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.10655095"
+           xml:space="preserve"><tspan
+             id="tspan194"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.66888881px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.10655095"
+             y="245.50113"
+             x="85.336288"
+             sodipodi:role="line">superación académica</tspan></text>
+      </g>
+    </a>
     <a
        id="a5872"
        xlink:href="http://www.ecologia.unam.mx/index.php/formatos-secretaria-administrativa">
@@ -274,32 +289,39 @@
              id="tspan206">secretaría administrativa</tspan></text>
       </g>
     </a>
-    <rect
-       style="opacity:1;fill:#ff9900;fill-opacity:0.35978836;stroke:#ffcc00;stroke-width:0.66458333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1015"
-       width="31.50967"
-       height="19.365318"
-       x="175.02443"
-       y="177.49226" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11748353"
-       x="189.85672"
-       y="185.3725"
-       id="text1019"><tspan
-         sodipodi:role="line"
-         id="tspan1017"
-         x="189.85672"
-         y="185.3725"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353">revisión por</tspan><tspan
-         sodipodi:role="line"
-         x="189.85672"
-         y="189.78223"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
-         id="tspan1021">la dirección</tspan></text>
+    <a
+       id="a3928"
+       xlink:href="http://lancis.ecologia.unam.mx/SGC/PRD/">
+      <g
+         id="g3926">
+        <rect
+           style="opacity:1;fill:#ff9900;fill-opacity:0.35978836;stroke:#ffcc00;stroke-width:0.66458333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1015"
+           width="31.50967"
+           height="19.365318"
+           x="175.02443"
+           y="177.49226" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11748353"
+           x="189.85672"
+           y="185.3725"
+           id="text1019"><tspan
+             sodipodi:role="line"
+             id="tspan1017"
+             x="189.85672"
+             y="185.3725"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353">revisión por</tspan><tspan
+             sodipodi:role="line"
+             x="189.85672"
+             y="189.78223"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
+             id="tspan1021">la dirección</tspan></text>
+      </g>
+    </a>
     <a
        id="a3888"
-       xlink:href="http://lancis.ecologia.unam.mx/sgc/documentos/PAI/PAI-v0.pdf">
+       xlink:href="http://lancis.ecologia.unam.mx/sgc/documentos/FCSS-v0.pdf">
       <g
          id="g3886">
         <rect
@@ -332,67 +354,81 @@
              id="tspan1051">solicitantes</tspan></text>
       </g>
     </a>
-    <rect
-       style="opacity:1;fill:#ff9900;fill-opacity:0.35978836;stroke:#ffcc00;stroke-width:0.66458333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1031"
-       width="31.50967"
-       height="19.365318"
-       x="175.18854"
-       y="228.73166" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11748353"
-       x="190.02083"
-       y="235.02441"
-       id="text1037"><tspan
-         sodipodi:role="line"
-         x="190.02083"
-         y="235.02441"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
-         id="tspan1035">auditoría</tspan><tspan
-         sodipodi:role="line"
-         x="190.02083"
-         y="239.43414"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
-         id="tspan1055">interna</tspan><tspan
-         sodipodi:role="line"
-         x="190.02083"
-         y="243.84386"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
-         id="tspan1057">(CGCI)</tspan></text>
-    <rect
-       y="255.19005"
-       x="175.18854"
-       height="19.365318"
-       width="31.50967"
-       id="rect1039"
-       style="opacity:1;fill:#ff9900;fill-opacity:0.35978836;stroke:#ffcc00;stroke-width:0.66458333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       id="text1045"
-       y="259.36612"
-       x="190.02075"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11748353"
-       xml:space="preserve"><tspan
-         id="tspan1043"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
-         y="259.36612"
-         x="190.02075"
-         sodipodi:role="line">satisfacción</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
-         y="263.77585"
-         x="190.02075"
-         sodipodi:role="line"
-         id="tspan1061">de las</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
-         y="268.18558"
-         x="190.02075"
-         sodipodi:role="line"
-         id="tspan1063">partes</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
-         y="272.59528"
-         x="190.02075"
-         sodipodi:role="line"
-         id="tspan1065">interesadas</tspan></text>
+    <a
+       id="a3942"
+       xlink:href="http://lancis.ecologia.unam.mx/SGC/PAI/">
+      <g
+         id="g3940">
+        <rect
+           style="opacity:1;fill:#ff9900;fill-opacity:0.35978836;stroke:#ffcc00;stroke-width:0.66458333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1031"
+           width="31.50967"
+           height="19.365318"
+           x="175.18854"
+           y="228.73166" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11748353"
+           x="190.02083"
+           y="235.02441"
+           id="text1037"><tspan
+             sodipodi:role="line"
+             x="190.02083"
+             y="235.02441"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
+             id="tspan1035">auditoría</tspan><tspan
+             sodipodi:role="line"
+             x="190.02083"
+             y="239.43414"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
+             id="tspan1055">interna</tspan><tspan
+             sodipodi:role="line"
+             x="190.02083"
+             y="243.84386"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
+             id="tspan1057">(CGCI)</tspan></text>
+      </g>
+    </a>
+    <a
+       id="a3958"
+       xlink:href="http://lancis.ecologia.unam.mx/SGC/PSPI/">
+      <g
+         id="g3956">
+        <rect
+           y="255.19005"
+           x="175.18854"
+           height="19.365318"
+           width="31.50967"
+           id="rect1039"
+           style="opacity:1;fill:#ff9900;fill-opacity:0.35978836;stroke:#ffcc00;stroke-width:0.66458333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1045"
+           y="259.36612"
+           x="190.02075"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11748353"
+           xml:space="preserve"><tspan
+             id="tspan1043"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
+             y="259.36612"
+             x="190.02075"
+             sodipodi:role="line">satisfacción</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
+             y="263.77585"
+             x="190.02075"
+             sodipodi:role="line"
+             id="tspan1061">de las</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
+             y="268.18558"
+             x="190.02075"
+             sodipodi:role="line"
+             id="tspan1063">partes</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
+             y="272.59528"
+             x="190.02075"
+             sodipodi:role="line"
+             id="tspan1065">interesadas</tspan></text>
+      </g>
+    </a>
     <text
        id="text1069"
        y="175.57657"
