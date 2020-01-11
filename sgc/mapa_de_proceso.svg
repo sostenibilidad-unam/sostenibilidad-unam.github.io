@@ -41,18 +41,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.14"
-     inkscape:cx="273.72498"
-     inkscape:cy="227.45829"
+     inkscape:zoom="4.56"
+     inkscape:cx="603.77415"
+     inkscape:cy="304.70586"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      width="800px"
-     inkscape:window-width="1076"
-     inkscape:window-height="1898"
-     inkscape:window-x="1920"
-     inkscape:window-y="20"
+     inkscape:window-width="1916"
+     inkscape:window-height="1058"
+     inkscape:window-x="0"
+     inkscape:window-y="636"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -73,6 +73,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-138.25)">
+    <rect
+       style="opacity:1;fill:#f0dd4f;fill-opacity:0.2425743;stroke:none;stroke-width:2.30520916;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.22277228"
+       id="rect2075"
+       width="39.761551"
+       height="107.3833"
+       x="170.49866"
+       y="171.34186"
+       ry="5.6465545" />
     <rect
        style="opacity:1;fill:#990064;fill-opacity:0.2425743;stroke:none;stroke-width:2.28769708;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.22277228"
        id="rect2054"
@@ -289,34 +297,41 @@
          y="189.78223"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
          id="tspan1021">la dirección</tspan></text>
-    <rect
-       y="203.95062"
-       x="175.02443"
-       height="19.365318"
-       width="31.50967"
-       id="rect1023"
-       style="opacity:1;fill:#ff9900;fill-opacity:0.35978836;stroke:#ffcc00;stroke-width:0.66458333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       id="text1029"
-       y="210.77254"
-       x="189.85672"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11748353"
-       xml:space="preserve"><tspan
-         id="tspan1027"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
-         y="210.77254"
-         x="189.85672"
-         sodipodi:role="line">satisfacción</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
-         y="215.18227"
-         x="189.85672"
-         sodipodi:role="line"
-         id="tspan1049">de los</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
-         y="219.59198"
-         x="189.85672"
-         sodipodi:role="line"
-         id="tspan1051">solicitantes</tspan></text>
+    <a
+       id="a3888"
+       xlink:href="http://lancis.ecologia.unam.mx/sgc/documentos/PAI/PAI-v0.pdf">
+      <g
+         id="g3886">
+        <rect
+           y="203.95062"
+           x="175.02443"
+           height="19.365318"
+           width="31.50967"
+           id="rect1023"
+           style="opacity:1;fill:#ff9900;fill-opacity:0.35978836;stroke:#ffcc00;stroke-width:0.66458333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1029"
+           y="210.77254"
+           x="189.85672"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11748353"
+           xml:space="preserve"><tspan
+             id="tspan1027"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
+             y="210.77254"
+             x="189.85672"
+             sodipodi:role="line">satisfacción</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
+             y="215.18227"
+             x="189.85672"
+             sodipodi:role="line"
+             id="tspan1049">de los</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.11748353"
+             y="219.59198"
+             x="189.85672"
+             sodipodi:role="line"
+             id="tspan1051">solicitantes</tspan></text>
+      </g>
+    </a>
     <rect
        style="opacity:1;fill:#ff9900;fill-opacity:0.35978836;stroke:#ffcc00;stroke-width:0.66458333;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1031"
@@ -1053,30 +1068,37 @@
              id="tspan18">del IE</tspan></text>
       </g>
     </a>
-    <rect
-       y="214.16377"
-       x="4.9255533"
-       height="11.316185"
-       width="24.690725"
-       id="rect27"
-       style="opacity:1;fill:#6699ff;fill-opacity:1;stroke:#6699ff;stroke-width:0.79181647;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       id="text35"
-       y="216.81444"
-       x="6.5423832"
-       style="font-style:normal;font-weight:normal;font-size:3.45768523px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08644214"
-       xml:space="preserve"
-       transform="scale(0.99007853,1.0100209)"><tspan
-         id="tspan49"
-         style="stroke-width:0.08644214"
-         y="216.81444"
-         x="6.5423832"
-         sodipodi:role="line">Análisis</tspan><tspan
-         id="tspan55"
-         style="stroke-width:0.08644214"
-         y="221.13655"
-         x="6.5423832"
-         sodipodi:role="line">FODA</tspan></text>
+    <a
+       id="a3874"
+       xlink:href="http://lancis.ecologia.unam.mx/sgc/documentos/FODA-v0.pdf">
+      <g
+         id="g3872">
+        <rect
+           y="214.16377"
+           x="4.9255533"
+           height="11.316185"
+           width="24.690725"
+           id="rect27"
+           style="opacity:1;fill:#6699ff;fill-opacity:1;stroke:#6699ff;stroke-width:0.79181647;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text35"
+           y="216.81444"
+           x="6.5423832"
+           style="font-style:normal;font-weight:normal;font-size:3.45768523px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08644214"
+           xml:space="preserve"
+           transform="scale(0.99007853,1.0100209)"><tspan
+             id="tspan49"
+             style="stroke-width:0.08644214"
+             y="216.81444"
+             x="6.5423832"
+             sodipodi:role="line">Análisis</tspan><tspan
+             id="tspan55"
+             style="stroke-width:0.08644214"
+             y="221.13655"
+             x="6.5423832"
+             sodipodi:role="line">FODA</tspan></text>
+      </g>
+    </a>
     <g
        id="g5870">
       <rect
@@ -1114,14 +1136,6 @@
            sodipodi:role="line"
            id="tspan83">interesadas</tspan></text>
     </g>
-    <rect
-       style="opacity:1;fill:#f0dd4f;fill-opacity:0.2425743;stroke:none;stroke-width:2.30520916;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.22277228"
-       id="rect2075"
-       width="39.761551"
-       height="107.3833"
-       x="170.49866"
-       y="171.34186"
-       ry="5.6465545" />
     <g
        id="g2102"
        transform="translate(-1.0583333,-4.2333333)">
