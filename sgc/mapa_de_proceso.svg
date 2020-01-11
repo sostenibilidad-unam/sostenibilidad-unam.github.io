@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.14"
-     inkscape:cx="290.13607"
-     inkscape:cy="210.7894"
+     inkscape:zoom="2.28"
+     inkscape:cx="175.40736"
+     inkscape:cy="201.86286"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1164,43 +1164,48 @@
              sodipodi:role="line">FODA</tspan></text>
       </g>
     </a>
-    <g
-       id="g5870">
-      <rect
-         y="230.47368"
-         x="5.062314"
-         height="19.846231"
-         width="24.417204"
-         id="rect67"
-         style="opacity:1;fill:#6699ff;fill-opacity:1;stroke:#6699ff;stroke-width:1.04278457;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         transform="scale(0.99007853,1.0100209)"
-         id="text73"
-         y="232.84853"
-         x="6.5423832"
-         style="font-style:normal;font-weight:normal;font-size:3.45768523px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08644214"
-         xml:space="preserve"><tspan
-           id="tspan71"
-           style="stroke-width:0.08644214"
+    <a
+       id="a3989"
+       xlink:href="http://lancis.ecologia.unam.mx/sgc/documentos/MC/MC-v0.pdf"
+       target="_top">
+      <g
+         id="g5870">
+        <rect
+           style="opacity:1;fill:#6699ff;fill-opacity:1;stroke:#6699ff;stroke-width:1.04278457;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect67"
+           width="24.417204"
+           height="19.846231"
+           x="5.062314"
+           y="230.47368" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.45768523px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08644214"
+           x="6.5423832"
            y="232.84853"
-           x="6.5423832"
-           sodipodi:role="line">Necesidades</tspan><tspan
-           style="stroke-width:0.08644214"
-           y="237.17064"
-           x="6.5423832"
-           sodipodi:role="line"
-           id="tspan79">de las</tspan><tspan
-           style="stroke-width:0.08644214"
-           y="241.49274"
-           x="6.5423832"
-           sodipodi:role="line"
-           id="tspan81">partes</tspan><tspan
-           style="stroke-width:0.08644214"
-           y="245.81485"
-           x="6.5423832"
-           sodipodi:role="line"
-           id="tspan83">interesadas</tspan></text>
-    </g>
+           id="text73"
+           transform="scale(0.99007853,1.0100209)"><tspan
+             sodipodi:role="line"
+             x="6.5423832"
+             y="232.84853"
+             style="stroke-width:0.08644214"
+             id="tspan71">Necesidades</tspan><tspan
+             id="tspan79"
+             sodipodi:role="line"
+             x="6.5423832"
+             y="237.17064"
+             style="stroke-width:0.08644214">de las</tspan><tspan
+             id="tspan81"
+             sodipodi:role="line"
+             x="6.5423832"
+             y="241.49274"
+             style="stroke-width:0.08644214">partes</tspan><tspan
+             id="tspan83"
+             sodipodi:role="line"
+             x="6.5423832"
+             y="245.81485"
+             style="stroke-width:0.08644214">interesadas</tspan></text>
+      </g>
+    </a>
     <g
        id="g2102"
        transform="translate(-1.0583333,-4.2333333)">
