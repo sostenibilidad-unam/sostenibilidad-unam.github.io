@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.56"
-     inkscape:cx="603.77415"
-     inkscape:cy="304.70586"
+     inkscape:zoom="1.6122035"
+     inkscape:cx="472.59428"
+     inkscape:cy="180.50665"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -404,52 +404,66 @@
          x="184.60661"
          id="tspan1067"
          sodipodi:role="line">Salidas</tspan></text>
-    <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:0.35978836;stroke:#ff6600;stroke-width:0.41030747;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1071"
-       width="26.795338"
-       height="12.322989"
-       x="75.589798"
-       y="277.49683" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34042406px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0835126"
-       x="88.696541"
-       y="282.81781"
-       id="text1075"><tspan
-         sodipodi:role="line"
-         id="tspan1073"
-         x="88.696541"
-         y="282.81781"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34042406px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0835126">acción</tspan><tspan
-         sodipodi:role="line"
-         x="88.696541"
-         y="286.99335"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34042406px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0835126"
-         id="tspan1077">correctiva</tspan></text>
-    <rect
-       y="277.49683"
-       x="108.26006"
-       height="12.322989"
-       width="26.795338"
-       id="rect1079"
-       style="opacity:1;fill:#ff6600;fill-opacity:0.35978836;stroke:#ff6600;stroke-width:0.41030747;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       id="text1085"
-       y="282.81781"
-       x="121.36681"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34042406px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0835126"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34042406px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0835126"
-         y="282.81781"
-         x="121.36681"
-         id="tspan1081"
-         sodipodi:role="line">acción de</tspan><tspan
-         id="tspan1083"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34042406px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0835126"
-         y="286.99335"
-         x="121.36681"
-         sodipodi:role="line">mejora</tspan></text>
+    <a
+       id="a3908"
+       xlink:href="http://lancis.ecologia.unam.mx/SGC/PACM/">
+      <g
+         id="g3906">
+        <rect
+           style="opacity:1;fill:#ff6600;fill-opacity:0.35978836;stroke:#ff6600;stroke-width:0.41030747;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1071"
+           width="26.795338"
+           height="12.322989"
+           x="75.589798"
+           y="277.49683" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34042406px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0835126"
+           x="88.696541"
+           y="282.81781"
+           id="text1075"><tspan
+             sodipodi:role="line"
+             id="tspan1073"
+             x="88.696541"
+             y="282.81781"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34042406px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0835126">acción</tspan><tspan
+             sodipodi:role="line"
+             x="88.696541"
+             y="286.99335"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34042406px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0835126"
+             id="tspan1077">correctiva</tspan></text>
+      </g>
+    </a>
+    <a
+       id="a3915"
+       xlink:href="http://lancis.ecologia.unam.mx/SGC/PACM/">
+      <g
+         id="g3900">
+        <rect
+           y="277.49683"
+           x="108.26006"
+           height="12.322989"
+           width="26.795338"
+           id="rect1079"
+           style="opacity:1;fill:#ff6600;fill-opacity:0.35978836;stroke:#ff6600;stroke-width:0.41030747;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1085"
+           y="282.81781"
+           x="121.36681"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34042406px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0835126"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34042406px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0835126"
+             y="282.81781"
+             x="121.36681"
+             id="tspan1081"
+             sodipodi:role="line">acción de</tspan><tspan
+             id="tspan1083"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.34042406px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0835126"
+             y="286.99335"
+             x="121.36681"
+             sodipodi:role="line">mejora</tspan></text>
+      </g>
+    </a>
     <rect
        style="opacity:1;fill:#99004f;fill-opacity:1;stroke:none;stroke-width:0.50599998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1087"
