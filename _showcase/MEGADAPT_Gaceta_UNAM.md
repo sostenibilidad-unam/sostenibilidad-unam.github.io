@@ -15,3 +15,7 @@ a los riesgos sociohidrológicos en la Ciudad de México, que surgen de la inter
 económico y político.
 
 [Leer la nota en la Gaceta UNAM](https://www.gaceta.unam.mx/por-crecimiento-urbano-para-2060-podria-aumentar-hasta-tres-grados-la-temperatura-en-la-zmvm/)
+
+[Entrevista en Radio Mil](https://www.enfoquenoticias.com.mx/emisiones/uno-de-los-resultados-m-s-importantes-derivados-de-la-cobertura-forestal-la-urbana-se-podr)
+
+[Nota en MVS radio](https://mvsnoticias.com/noticias/nacionales/por-crecimiento-urbano-alerta-unam-sobre-aumento-de-temperatura-en-2060/)
