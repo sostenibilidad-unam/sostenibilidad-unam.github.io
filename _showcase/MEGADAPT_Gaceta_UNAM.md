@@ -2,10 +2,10 @@
 title: "Gaceta UNAM publica resultados del proyecto MEGADAPT"
 description: "Por crecimiento urbano, para 2060 podría aumentar hasta tres grados la temperatura en la ZMVM"
 layout: page
-smallimg: /assets/viñeta_MEGADAPT_gaceta.png
+smallimg: /assets/vineta_MEGADAPT_gaceta.png
 ---
 
-![Crecimiento Urbano](/assets/viñeta_lancis.jpg)
+![Crecimiento Urbano](/assets/vineta_MEGADAPT_paisaje.jpg)
 
 El estudio que aquí se presenta se enmarca dentro del contexto del proyecto transdisciplinario MEGADAPT (Adaptación dinámica multiescalar en megalópolis:
 acción autónoma, cambio institucional y riesgo socio-hidrológico en la Ciudad de México; <http://megadapt.weebly.com/>),
