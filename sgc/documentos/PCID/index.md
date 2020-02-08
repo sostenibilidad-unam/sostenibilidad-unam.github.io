@@ -12,6 +12,6 @@ permalink: /SGC/PCID/
  - [Formato de Registro de Asistencia Interna](FRAI-v0.docx)
  - [Formato de Registro de Asistencia](FRA-v0.docx)
  - [Formato de Registro de Reunión](FRR-v0.docx)
-
+ - [Formato de lista maestra de documentos y formatos](FLM-v0.xlsx)
 
 [volver al mapa de procesos](http://lancis.ecologia.unam.mx/SGC/)
