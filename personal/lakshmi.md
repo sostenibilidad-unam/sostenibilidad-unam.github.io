@@ -20,10 +20,8 @@ permalink: /personal/lakshmi
 
 ## Proyectos en curso
 - [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/); [Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/); [T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)
-- Global Consortium for Sustainability Outcomes (GCSO) - Audacity for Partnerships: Foregrounding Partnership Development in the
-Generation of Sustainability Solutions
-- Global Consortium for Sustainability Outcomes (GCSO) - Sharing learning to implement an open and collaborative seed innovation system
-https://sustainabilityoutcomes.org/
+- Global Consortium for Sustainability Outcomes (GCSO) - [Audacity for Partnerships: Foregrounding Partnership Development in the Generation of Sustainability Solutions](https://sustainabilityoutcomes.org/audacious-partnerships-program/)
+- Global Consortium for Sustainability Outcomes (GCSO) - [Sharing learning to implement an open and collaborative seed innovation system](https://sustainabilityoutcomes.org/sharing-learning-to-implement-an-open-and-collaborative-seed-innovation-system/)
 
 ### Intereses académicos
 - Gobernanza del agua y ciencias de la sostenibilidad
