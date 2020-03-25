@@ -58,18 +58,18 @@ Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning an
 * Pfeiffer E, Wehn U, Charli-Joseph L, Lerner AM, Irvine K. 2017. **Training sustainability change agents: Lessons from international water education**, in _Handbook of Theory and Practice of Sustainable Development in Higher Education_, Vol. 4, pp 31-48 (Leal Filho, W., Azeiteiro, U.M., Alves, F., Molthan-Hill, P., ed). Springer International Publishing. (doi: 10.1007/978-3-319-47877-7_3; ISSN: 978-3-319-47876-0). [link](https://link.springer.com/chapter/10.1007/978-3-319-47877-7_3)
 * Eakin H, Lerner AM, Manuel-Navarrete D, Hernández Aguilar B, Martínez-Canedo A, Tellman B, Charli-Joseph L, Fernández Álvarez R, Bojórquez-Tapia L. 2016. **Adapting to risk and perpetuating poverty: Household’s strategies for managing flood risk and water scarcity in Mexico City**. _Environmental Science & Policy_ 66:324-333. [link](http://www.sciencedirect.com/science/article/pii/S1462901116302921)
 * Charli-Joseph L, Escalante AE, Eakin H, Solares MJ, Mazari-Hiriart M, Nation M, Gómez-Priego P, Domínguez CA, Bojórquez-Tapia L.  2016. **Collaborative framework for designing a sustainability science program: lessons learned at the National Autonomous University of Mexico**. _International Journal of Sustainability in Higher Education_ 17(2). [link](https://www.emeraldinsight.com/doi/abs/10.1108/IJSHE-09-2014-0125#)
-*	Escalante AE, Charli-Joseph L, Solares MJ. 2013. **Las Ciencias de la Sostenibilidad en las Aulas de la UNAM**. Oikos= No.9 Ecología y sostenibilidad: del campo a la academia. Instituto de Ecología, UNAM. [link](http://web.ecologia.unam.mx/oikos3.0/index.php/oikos-historico/numeros-anteriores/35-posgrado)
+*	Escalante AE, Charli-Joseph L, Solares MJ. 2013. **Las Ciencias de la Sostenibilidad en las Aulas de la UNAM**. _Oikos=_ No.9 Ecología y sostenibilidad: del campo a la academia. Instituto de Ecología, UNAM. [link](http://web.ecologia.unam.mx/oikos3.0/index.php/oikos-historico/numeros-anteriores/35-posgrado)
 *	Escalante AE, Charli-Joseph L, Solares MJ. 2013. **El cambio climático, un gran reto de sostenibilidad**. _Oikos=_ No.7 Biodiversidad y cambio climático. Instituto de Ecología, UNAM. [link](http://web.ecologia.unam.mx/oikos3.0/index.php/oikos-historico/numeros-anteriores/50-cambio-climatico-y-sostenibilidad)
 *	Charli-Joseph L, Bojórquez-Tapia L, Gómez-Priego P, Pedroza-Páez D. 2012. **A capacity building programme for sustainability: key competencies through formal and non-formal approaches**. Published in the _Proceedings of INTED2012 Conference_ ISBN: 978-84-615-5563-5. 5th-7th March 2012, Valencia, Spain. [link](https://library.iated.org/view/CHARLIJOSEPH2012ACA)
 
 
-## [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
+### [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
 
-## [NEW RESOURCES SUPPORT PARTICIPATORY RESEARCH IN SOCIO-ECOLOGICAL SYSTEMS](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/)
+### [NEW RESOURCES SUPPORT PARTICIPATORY RESEARCH IN SOCIO-ECOLOGICAL SYSTEMS](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/)
 - [The Transformation Laboratory of the social-ecological system of Xochimilco, Mexico City: Description of the process and methodological guide](https://steps-centre.org/wp-content/uploads/2019/09/Guide-T-Lab-Xochi-screen-version-English-NA-Hub.pdf)
 - [El Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco, CdMx: Narrativa del proceso y guía metodológica](https://steps-centre.org/wp-content/uploads/2019/09/Gui%CC%81a-T-Lab-Xochi-Descargable-versio%CC%81n-pantalla-Espan%CC%83ol-Hub-NA.pdf)
 
-## STEPS North America Hub - T-Labs Project blog posts
+### STEPS North America Hub - T-Labs Project blog posts
 *	[How rethinking local people's agency could help navigate Xochimilco's troubled waters](https://steps-centre.org/blog/new-forms-agency-help-navigate-xochimilcos-troubled-waters/)
 *	[A day in the chinampas](https://steps-centre.org/blog/a-day-in-the-chinampas/)
 *	[What 'Agency' do researchers have in transformative research projects?](https://steps-centre.org/blog/agency-researchers-transformative-research-projects/)
