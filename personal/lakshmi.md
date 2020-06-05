@@ -17,6 +17,7 @@ permalink: /personal/lakshmi
 * [LinkedIn](http://lnkd.in/bEcccN)
 * [Transformations to Sustainability Programme](https://transformationstosustainability.org/people/lakshmi-charli-joseph/)
 * [STEPS Centre - North America Sustainability Hub](http://steps-centre.org/global/north-america/)
+* [Consejo Asesor Científico - REDES A.C.](https://www.redesmx.org/nosotros.html)
 
 ## Proyectos en curso
 - [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/); [Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/); [T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)
