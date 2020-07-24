@@ -24,14 +24,13 @@ Social Cycling es una aplicación que automatiza la coordinación de
 ciclistas para dar lugar a grupos o caravanas en todos lados, todo el
 tiempo.
 
-
-Corrimos simulaciones que muestran que la app funcionará si tiene suficiente adopción.
-
 Corrimos simulaciones que muestran que la app funcionará si tiene suficiente adopción.
 
 Esta animación es en Ciudad Neza, 50 ciclistas por kilómetro cuadrado por hora. Circulitos azules representan ciclistas pedaleando solos, verdes van buscando una caravana, y rojos van pedaleando en grupo.
 
 <img src="https://archive.org/download/ride_050bikes_cdneza/ride_050bikes_cdneza.gif" />
+
+Otras simulaciones en diferentes lugares y diferentes densidades:
 
 <https://archive.org/details/ride_050bikes_cdneza>
 
