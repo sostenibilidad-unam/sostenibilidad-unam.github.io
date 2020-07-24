@@ -8,7 +8,7 @@ description: "Una app para usar nuestra fuerza en números para pedalear seguros
 Social Cycling es una aplicación móvil inspirada en [algoritmos de "flocking"](https://en.wikipedia.org/wiki/Boids) que
 fomenta la [masa crítica](https://es.wikipedia.org/wiki/Masa_Cr%C3%ADtica_(evento_ciclista)) como fenómeno emergente.
 
-[Leer el artículo](https://www.frontiersin.org/articles/10.3389/frsc.2020.00036/full)
+[Leer el artículo](https://www.frontiersin.org/articles/10.3389/frsc.2020.00036/full) en Frontiers in Sustainable Cities.
 
 ![boids](/showcase/social-cycling-boids.gif)
 
@@ -26,6 +26,10 @@ tiempo.
 
 
 Corrimos simulaciones que muestran que la app funcionará si tiene suficiente adopción.
+
+Corrimos simulaciones que muestran que la app funcionará si tiene suficiente adopción.
+
+Esta animación es en Ciudad Neza, 50 ciclistas por kilómetro cuadrado por hora. Circulitos azules representan ciclistas pedaleando solos, verdes van buscando una caravana, y rojos van pedaleando en grupo.
 
 <img src="https://archive.org/download/ride_050bikes_cdneza/ride_050bikes_cdneza.gif" />
 
