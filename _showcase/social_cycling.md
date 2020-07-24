@@ -10,7 +10,6 @@ fomenta la [masa crítica](https://es.wikipedia.org/wiki/Masa_Cr%C3%ADtica_(even
 
 [Leer el artículo](https://www.frontiersin.org/articles/10.3389/frsc.2020.00036/full)
 
-![pedaleas con hitler?](/showcase/social-cycling-hitler.jpg)
 ![boids](/showcase/social-cycling-boids.gif)
 
 Pedalear en grupo es más seguro y más divertido.
@@ -25,16 +24,10 @@ Social Cycling es una aplicación que automatiza la coordinación de
 ciclistas para dar lugar a grupos o caravanas en todos lados, todo el
 tiempo.
 
-# Simulaciones
 
 Corrimos simulaciones que muestran que la app funcionará si tiene suficiente adopción.
 
-Esta animación es en Ciudad Neza, 50 ciclistas por kilómetro cuadrado por hora.
-Circulitos azules representan ciclistas pedaleando solos, verdes van buscando una caravana, y rojos van pedaleando en grupo.
-
-<iframe src="https://archive.org/embed/ride_050bikes_cdneza" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-Acá otras animaciones:
+<img src="https://archive.org/download/ride_050bikes_cdneza/ride_050bikes_cdneza.gif" />
 
 <https://archive.org/details/ride_050bikes_cdneza>
 
