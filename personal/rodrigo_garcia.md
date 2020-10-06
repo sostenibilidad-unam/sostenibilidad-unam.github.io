@@ -21,7 +21,7 @@ Tengo amplia experiencia en el diseño, implementación y operación de
 tecnologías de la información, con aplicaciones industriales en las
 áreas de inteligencia de negocios e infraestructura de internet, así
 como aplicaciones de cómputo científico en las áreas de genómica
-computacional, bioinformática y ciencias de la sostenibilidad.
+computacional, bioinformática y Ciencias de la Sostenibilidad.
 
 He publicado bibliotecas de software en el Python Package Index, soy
 miembro de la Free Software Foundation y autor en diversas
