@@ -6,7 +6,7 @@ permalink: /personal/fidel_serrano
 
 # M. en G. Fidel Serrano Candela
 
-- Técnico Académico en Análisis Espacial y Geovisualizacion.
+- Técnico Académico en Análisis Espacial y Geovisualización.
 - Estudiante de Doctorado (Posgrado en Ciencias de la Sostenibilidad)
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
