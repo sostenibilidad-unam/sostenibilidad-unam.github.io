@@ -14,7 +14,7 @@ permalink: /personal/fidel_serrano
 
 ## Cómputo científico
 
-- Desarrollo de Software: Python, Java, R, Netlogo, Qt
+- Desarrollo de Software: Basic
 - Bases de datos: MySQL, sqlite, HTSQL, Postgres
 - Supercómputo: Condor
 - Control de versiones: Git
