@@ -15,9 +15,11 @@ Universidad Nacional Autónoma de México
 ## Líneas de investigación
 
 ## Perfiles de internet
-- [Google Scholar] (https://scholar.google.com/citations?user=BunIRaAAAAAJ)
+- [Google Scholar](https://scholar.google.com/citations?user=BunIRaAAAAAJ)
 - [ORCiD](http://orcid.org/0000-0001-5741-8027)
 - [ResearchGate](https://www.researchgate.net/profile/Julieta_Rosell)
+
+
 
 ## Publicaciones
 
