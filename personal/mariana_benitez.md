@@ -18,8 +18,7 @@ Mariana estudió Biología en la UNAM, la maestría en Dinámica No Lineal y Sis
 
 ## Publicaciones
 
-Google Scholar
-https://scholar.google.com.mx/citations?user=jTE55-IAAAAJ&hl=en
+[Google Scholar](https://scholar.google.com.mx/citations?user=jTE55-IAAAAJ&hl=en)
 
 ORCID
 0000-0002-4901-2833
