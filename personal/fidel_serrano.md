@@ -26,6 +26,8 @@ permalink: /personal/fidel_serrano
 - Desarrollo de aplicaciones geográficas en web: OpenLayers, Leaflet
 - Desarrollo de modulos y extensiones para: QGIS, GRASS, ArcMap
 
+<img src="/assets/gvf_qgis2.PNG" width="350px"> 
+
 ## Titulo de investigación
 
 "Configuración geoespacial del uso de suelo y la transición a la sostenibilidad en la Cuenca del Valle de México”
