@@ -26,7 +26,7 @@ permalink: /personal/fidel_serrano
 - Desarrollo de aplicaciones geográficas en web: OpenLayers, Leaflet
 - Desarrollo de modulos y extensiones para: QGIS, GRASS, ArcMap
 
-<img src="/assets/gvf_qgis2.PNG" width="350px"> 
+<img src="/assets/gvf_qgis2.PNG" width="600px"> 
 
 ## Titulo de investigación
 
