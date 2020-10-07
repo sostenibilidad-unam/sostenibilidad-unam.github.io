@@ -5,7 +5,7 @@ permalink: /personal/
 ---
 
 # Investigadores
-- [Dra. Mariana Benítez Keinrad](#)
+- [Dra. Mariana Benítez Keinrad](/personal/mariana_benitez)
 - [Dr. Luis Bojórquez Tapia](/personal/luis_bojorquez)
 - [Dra. Ana Elena Escalante](/personal/ana_escalante)
 - [Dra. Amy M. Lerner](/personal/amy_lerner)
