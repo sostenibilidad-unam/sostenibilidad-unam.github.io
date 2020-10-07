@@ -4,9 +4,6 @@ title: ""
 permalink: /personal/rodrigo_garcia
 ---
 
-<img src="/assets/beto.jpg" width="350px">
-
-
 # Ing. Rodrigo García Herrera
 
 - Técnico Académico Asociado "C"
