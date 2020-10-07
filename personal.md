@@ -10,7 +10,7 @@ permalink: /personal/
 - [Dra. Ana Elena Escalante](/personal/ana_escalante)
 - [Dra. Amy M. Lerner](/personal/amy_lerner)
 - [Dra. Marisa Mazari Hiriart](/personal/marisa_mazari)
-- [Dra. Julieta A. Rosell García](#)
+- [Dra. Julieta A. Rosell García](/personal/julieta_rosell)
 - [Dra. Yosune Miquelajauregui Graf](/personal/yosune)
 - [Dra. Paola Massyel García Meneses](/personal/paola_garcia)
 
