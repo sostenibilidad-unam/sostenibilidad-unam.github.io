@@ -3,20 +3,22 @@ layout: page
 title: ""
 permalink: /personal/fidel_serrano
 ---
-<img src="/assets/fotos_fidel/izta.jpg" width="300px"> 
+
 
 # M. en G. Fidel Serrano Candela
 
-- Técnico Académico en Análisis Espacial y Geovisualización.
-- Estudiante de Doctorado (Posgrado en Ciencias de la Sostenibilidad)
-- Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
-- Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
-- Email: serranoycandela@iecologia.unam.mx
+<img src="/assets/fotos_fidel/izta.jpg" width="300px"> 
+
+- Técnico Académico en Análisis Espacial y Geovisualización; Laboratorio Nacional de Ciencias de la Sostenibiliad (LANCIS); Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM). email: serranoycandela@iecologia.unam.mx
+
+
+- Candidato a Doctor, Posgrado en Ciencias de la Sostenibilidad, UNAM
+
 
 ## Cómputo científico
 
 - Desarrollo de Software: Python, Java, R, Netlogo, Qt
-- Bases de datos: MySQL, sqlite, HTSQL, Postgres
+- Bases de datos: MySQL, sqlite, Postgres
 - Supercómputo: Condor
 - Control de versiones: Git
 
@@ -28,14 +30,20 @@ permalink: /personal/fidel_serrano
 - Desarrollo de modulos y extensiones para: QGIS, GRASS, ArcMap
 
 
-https://github.com/serranoycandela
+## Artefactos computacionales
+
+### Geo Value Function in QGIS
+
+Este es un plugin de QGIS que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implicito de expertos en un tema. Es util en el contexto de la creación de indeces compuestos de varios criterios (por ejemplo indeces de vulnerabilidad), así como en la combinación del analisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
 
 
-<img src="/assets/gvf_qgis2.PNG" width="600px"> 
+<img src="/assets/gvf_qgis2.PNG" width="400px"> <img src="/assets/gvf_qgis2.PNG" width="400px">
 
-## Titulo de investigación
+## Interes Académicos
 
-"Configuración geoespacial del uso de suelo y la transición a la sostenibilidad en la Cuenca del Valle de México”
+
+
+Titulo de investigación: "Configuración geoespacial del uso de suelo y la transición a la sostenibilidad en la Cuenca del Valle de México”
 
 
 ## En la red
