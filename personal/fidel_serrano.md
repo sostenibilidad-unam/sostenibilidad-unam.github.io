@@ -39,8 +39,9 @@ Este es un plugin de QGIS que permite transformar datos geográficos en capas co
 
 <img src="/assets/fotos_fidel/gvf_qgis4.PNG" width="400px"> <img src="/assets/fotos_fidel/gvf_qgis3.PNG" width="400px">
 
-Repocitorio en GitHub: https://plugins.qgis.org/plugins/geo_value_functions/
-Página de plugins de QGIS: https://github.com/serranoycandela/geo_value_functions
+[Repocitorio en GitHub](https://plugins.qgis.org/plugins/geo_value_functions/)
+
+[En la página de plugins de QGIS](https://github.com/serranoycandela/geo_value_functions)
 
 
 ### Parallel Coordinates Maps
