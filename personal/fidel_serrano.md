@@ -3,6 +3,7 @@ layout: page
 title: ""
 permalink: /personal/fidel_serrano
 ---
+<img src="/assets/fotos_fidel/izta.jpg" width="300px"> 
 
 # M. en G. Fidel Serrano Candela
 
