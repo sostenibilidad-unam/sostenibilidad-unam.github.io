@@ -133,3 +133,13 @@ Posgrado en Ciencias de la Sostenibilidad María Beatriz Ruizpalacios
 Remus)
 
 7.	Erika Luna Pérez. 2019. El efecto del crecimiento urbano sobre el clima local de la ZMCM y sus implicaciones socio-ambientales. Tesis para obtener el título de Licenciada en Ciencias de la Tierra. TUTORA: Dra. Yosune Miquelajauregui Graf
+
+## Participación en proyectos
+
+1.	“The Dynamics of Multi-Scalar Adaptation in Megacities: Autonomus action, institutional change and social-hydrological risk in Mexico city (Adaptación Dinámica Multi-Escalar en Megalopolis: Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la Ciudad de México) MEGADAPT”.
+
+2.	Análisis integrado de sistemas socioambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera.
+
+3.	Sistema de conocimiento para la gestión del Ordenamiento Ecológico del Territorio del estado de Yucatán
+
+4.	Diagnóstico Ambiental y propuesta de Remediación-Reparación-Compensación en la Cuenca del Río Sonora afectada por el derrame del represo "Tinajas 1" de la Mina Buenavista del Cobre, Cananea, Sonora.
