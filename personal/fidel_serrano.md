@@ -47,7 +47,7 @@ Página de plugins de QGIS: https://github.com/serranoycandela/geo_value_functio
 
 Esta es una aplicación web que permite filtrar en multiples dimenciones datos vectoriales interactivamante. Lo anterior se logra a traves del uso de la biblioteca de d3 para gráficas de coordenadas paralelas [d3.parcoords.js](https://www.d3-graph-gallery.com/parallel), en conjunción con OpenLayers para desplegar dinamicamente la imformación geográfica. Se puede subir un shapefile para genrar nuevos mapas intercativos, pero el shapefile debe estar en coordenadas geográficas y tener un campo "id" de tipo texto con valores enteros consecutivos.
 
-<img src="/assets/palallelcoordinates.PNG" width="600px">
+<img src="/assets/fotos_fidel/palallelcoordinates.PNG" width="600px">
 
 [Sitio web](http://pc.magrat.mine.nu/parallel_coordinates_maps/5c4e14c30a705b3386bbe6318846ed53)
 
