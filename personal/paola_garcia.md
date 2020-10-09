@@ -38,7 +38,6 @@ Acreditada en el Posgrado de Ciencias de la Sostenibilidad (PCS): Nivel Maestrí
 # Publicaciones más destacadas en temas relacionados con las Ciencias de la Sostenibilidad
 
 # Publicaciones
-- [Para tener acceso a mis publicaciones]
 
 <https://www.researchgate.net/profile/Paola_Garcia_Meneses>
 
@@ -85,7 +84,7 @@ tradicional con miras a crear resiliencia y propiciar la adaptación frente al c
 
 - Monitoreo y evaluación de sistemas socioambientales
 
-- Campos de Conocimiento
+# Campos de Conocimiento
 
 - Política, gobernanza e instituciones
 
