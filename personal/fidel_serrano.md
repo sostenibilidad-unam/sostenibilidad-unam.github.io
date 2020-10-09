@@ -15,6 +15,12 @@ permalink: /personal/fidel_serrano
 - Candidato a Doctor, Posgrado en Ciencias de la Sostenibilidad, UNAM
 
 
+## Semblanza
+
+Físico por la Facultad de ciencias, UNAM, Maestro en Geomática por el Centro de Investigación en Ciencias de Información Geoespacial y candidato a doctor en Ciencias de la Sostenibilidad por la UNAM.
+
+Especialista en sistemas de información geográfica y cómputo científico. Ha desarrollado diversas herramientas computacionales en Java, Python, Python-QGIS, R, GRASS y Netlogo. En la actualidad se enfoca en la creación de objetos de frontera que sirvan de puente entre científicos, sociedad civil y entidades de la administración pública. En particular, en temas asociados instrumentos de la política ambiental, como el ordenamiento ecológico, bitácora ambiental, al análisis de vulnerabilidad y riesgo, y la evaluación del impacto ambiental. Así como en el modelaje de sistemas sociambientales acoplados mediante modelos basados en agentes, autómatas celulares y modelos de decisión multicriterio. Enfocando estos esfuerzos de modelación en sistemas sociambientales claves para la sostenibilidad como la gestión del agua en el Valle de México.
+
 ## Cómputo científico
 
 - Desarrollo de Software: Python, Java, R, Netlogo, Qt
@@ -28,12 +34,6 @@ permalink: /personal/fidel_serrano
   QGIS, GRASS, ArcMap, GeoServer, Postgres-PostGIS
 - Desarrollo de aplicaciones geográficas en web: OpenLayers, Leaflet
 - Desarrollo de modulos y extensiones para: QGIS, GRASS, ArcMap
-
-## Semblanza
-
-Físico por la Facultad de ciencias, UNAM, Maestro en Geomática por el Centro de Investigación en Ciencias de Información Geoespacial y candidato a doctor en Ciencias de la Sostenibilidad por la UNAM.
-
-Especialista en sistemas de información geográfica y cómputo científico. Ha desarrollado diversas herramientas computacionales en Java, Python, Python-QGIS, R, GRASS y Netlogo. En la actualidad se enfoca en la creación de objetos de frontera que sirvan de puente entre científicos, sociedad civil y entidades de la administración pública. En particular, en temas asociados instrumentos de la política ambiental, como el ordenamiento ecológico, bitácora ambiental, al análisis de vulnerabilidad y riesgo, y la evaluación del impacto ambiental. Así como en el modelaje de sistemas sociambientales acoplados mediante modelos basados en agentes, autómatas celulares y modelos de decisión multicriterio. Enfocando estos esfuerzos de modelación en sistemas sociambientales claves para la sostenibilidad como la gestión del agua en el Valle de México.
 
 
 ## Artefactos computacionales
