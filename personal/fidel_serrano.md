@@ -42,5 +42,7 @@ https://github.com/serranoycandela
 ## En la red
 
 [Perfil de GitHub](https://github.com/serranoycandela)
+
 [Perfil de ResearchGate](https://www.researchgate.net/profile/Fidel_Serrano-Candela)
+
 [Perfil de linkedin](https://www.linkedin.com/in/fidel-serrano-candela-b26450183/)
