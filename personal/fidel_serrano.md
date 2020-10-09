@@ -27,6 +27,11 @@ permalink: /personal/fidel_serrano
 - Desarrollo de aplicaciones geográficas en web: OpenLayers, Leaflet
 - Desarrollo de modulos y extensiones para: QGIS, GRASS, ArcMap
 
+## En la red
+
+https://github.com/serranoycandela
+
+
 <img src="/assets/gvf_qgis2.PNG" width="600px"> 
 
 ## Titulo de investigación
@@ -37,3 +42,5 @@ permalink: /personal/fidel_serrano
 ## En la red
 
 [Perfil de GitHub](https://github.com/serranoycandela)
+[Perfil de ResearchGate](https://www.researchgate.net/profile/Fidel_Serrano-Candela)
+[Perfil de linkedin](https://www.linkedin.com/in/fidel-serrano-candela-b26450183/)
