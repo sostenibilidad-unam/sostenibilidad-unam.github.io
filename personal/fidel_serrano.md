@@ -7,7 +7,7 @@ permalink: /personal/fidel_serrano
 
 # M. en G. Fidel Serrano Candela
 
-<img src="/assets/fotos_fidel/izta.jpg" width="300px"> 
+<img src="/assets/fotos_fidel/izta.jpg" width="300px">
 
 - Técnico Académico en Análisis Espacial y Geovisualización; Laboratorio Nacional de Ciencias de la Sostenibiliad (LANCIS); Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM). email: serranoycandela@iecologia.unam.mx
 
@@ -37,7 +37,19 @@ permalink: /personal/fidel_serrano
 Este es un plugin de QGIS que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implicito de expertos en un tema. Es util en el contexto de la creación de indeces compuestos de varios criterios (por ejemplo indeces de vulnerabilidad), así como en la combinación del analisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
 
 
-<img src="/assets/gvf_qgis2.PNG" width="400px"> <img src="/assets/gvf_qgis2.PNG" width="400px">
+<img src="/assets/gvf_qgis4.PNG" width="400px"> <img src="/assets/gvf_qgis3.PNG" width="400px">
+
+Repocitorio en GitHub: https://plugins.qgis.org/plugins/geo_value_functions/
+Página de plugins de QGIS: https://github.com/serranoycandela/geo_value_functions
+
+
+### Parallel Coordinates Maps
+
+Esta es una aplicación web que permite filtrar en multiples dimenciones datos vectoriales interactivamante. Lo anterior se logra a traves del uso de la biblioteca de d3 para gráficas de coordenadas paralelas [d3.parcoords.js](https://www.d3-graph-gallery.com/parallel), en conjunción con OpenLayers para desplegar dinamicamente la imformación geográfica. Se puede subir un shapefile para genrar nuevos mapas intercativos, pero el shapefile debe estar en coordenadas geográficas y tener un campo "id" de tipo texto con valores enteros consecutivos.
+
+<img src="/assets/palallelcoordinates.PNG" width="600px">
+
+[Sitio web](http://pc.magrat.mine.nu/parallel_coordinates_maps/5c4e14c30a705b3386bbe6318846ed53)
 
 ## Interes Académicos
 
