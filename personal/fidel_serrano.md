@@ -27,7 +27,6 @@ permalink: /personal/fidel_serrano
 - Desarrollo de aplicaciones geográficas en web: OpenLayers, Leaflet
 - Desarrollo de modulos y extensiones para: QGIS, GRASS, ArcMap
 
-## En la red
 
 https://github.com/serranoycandela
 
