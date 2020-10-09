@@ -77,7 +77,10 @@ Esta es una aplicación web que permite transformar datos geográficos en capas 
 
 ## Interes Académicos
 
-
+- Modelación de sistemas socio-eclógicos acoplados.
+- Transición hacia la movilidad no carbonizada.
+- Objetos de frontera para potenciar el cambio social.
+- El vínculo entre la forma de las ciudades y la sostenibilidad urbana.
 
 Titulo de investigación: "Configuración geoespacial del uso de suelo y la transición a la sostenibilidad en la Cuenca del Valle de México”
 
