@@ -32,7 +32,7 @@ permalink: /personal/fidel_serrano
 
 ## Artefactos computacionales
 
-### Geo Value Function in QGIS
+### Geo Value Functions in QGIS
 
 Este es un plugin de QGIS que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implicito de expertos en un tema. Es util en el contexto de la creación de indeces compuestos de varios criterios (por ejemplo indeces de vulnerabilidad), así como en la combinación del analisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
 
@@ -49,7 +49,30 @@ Esta es una aplicación web que permite filtrar en multiples dimenciones datos v
 
 <img src="/assets/fotos_fidel/palallelcoordinates.PNG" width="600px">
 
+[Repositorio en GitHub](github.com/sostenibilidad-unam/parallel_coordinates_maps)
+
 [Sitio web](http://pc.magrat.mine.nu/parallel_coordinates_maps/5c4e14c30a705b3386bbe6318846ed53)
+
+### Hieroglyph + Parallel Coordinates
+
+Esta es una aplicación web que despliega indeces jerárquicos con expresion territorial mediante la combinación de glifos circulares y concentricos con mapa y gráfica de coordenadas paralelas.
+
+<img src="/assets/fotos_fidel/pc_hieroglyph.png" width="600px">
+
+[Repositorio en GitHub](https://github.com/sostenibilidad-unam/pc_hieroglyph)
+
+[Sitio web](https://github.com/sostenibilidad-unam/pc_hieroglyph)
+
+### Geo Value Functions en la web
+
+Esta es una aplicación web que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implicito de expertos en un tema. Es util en el contexto de la creación de indeces compuestos de varios criterios (por ejemplo indeces de vulnerabilidad), así como en la combinación del analisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
+
+<img src="/assets/fotos_fidel/geo_value_functions_web_1.PNG" width="400px"> <img src="/assets/fotos_fidel/geo_value_functions_web_2.PNG" width="400px">
+
+[Repositorio en GitHub](https://github.com/sostenibilidad-unam/geo-value-function)
+
+[Sitio web](http://gvf.magrat.mine.nu/setup/)
+
 
 ## Interes Académicos
 
