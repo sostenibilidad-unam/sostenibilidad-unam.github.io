@@ -37,7 +37,7 @@ permalink: /personal/fidel_serrano
 Este es un plugin de QGIS que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implicito de expertos en un tema. Es util en el contexto de la creación de indeces compuestos de varios criterios (por ejemplo indeces de vulnerabilidad), así como en la combinación del analisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
 
 
-<img src="/assets/fotos_fidel/gvf_qgis4.PNG" width="360px"> <img src="/assets/fotos_fidel/gvf_qgis3.PNG" width="360px">
+<img src="/assets/fotos_fidel/gvf_qgis4.PNG" width="370px"> <img src="/assets/fotos_fidel/gvf_qgis3.PNG" width="370px">
 
 [Repocitorio en GitHub](https://plugins.qgis.org/plugins/geo_value_functions/)
 
