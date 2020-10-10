@@ -11,7 +11,6 @@ permalink: /personal/fidel_serrano
 
 - Técnico Académico en Análisis Espacial y Geovisualización; Laboratorio Nacional de Ciencias de la Sostenibiliad (LANCIS); Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM). email: serranoycandela@iecologia.unam.mx
 
-
 - Candidato a Doctor, Posgrado en Ciencias de la Sostenibilidad, UNAM
 
 
@@ -21,12 +20,14 @@ Físico por la Facultad de ciencias, UNAM, Maestro en Geomática por el Centro d
 
 Especialista en sistemas de información geográfica y cómputo científico. Ha desarrollado diversas herramientas computacionales en Java, Python, Python-QGIS, R, GRASS y Netlogo. En la actualidad se enfoca en la creación de objetos de frontera que sirvan de puente entre científicos, sociedad civil y entidades de la administración pública. En particular, en temas asociados instrumentos de la política ambiental, como el ordenamiento ecológico, bitácora ambiental, al análisis de vulnerabilidad y riesgo, y la evaluación del impacto ambiental. Así como en el modelaje de sistemas sociambientales acoplados mediante modelos basados en agentes, autómatas celulares y modelos de decisión multicriterio. Enfocando estos esfuerzos de modelación en sistemas sociambientales claves para la sostenibilidad como la gestión del agua en el Valle de México.
 
+
 ## Cómputo científico
 
 - Desarrollo de Software: Python, Java, R, Netlogo, Qt
 - Bases de datos: MySQL, sqlite, Postgres
 - Supercómputo: Condor
 - Control de versiones: Git
+
 
 ## Análisis espacial y Geovisualización
 
@@ -38,31 +39,30 @@ Especialista en sistemas de información geográfica y cómputo científico. Ha 
 
 ## Artefactos computacionales
 
+Todos los artefactos computacionales están en un repositorio público con control de versiones, para asegurar su resguardo y promover el trabajo colaborativo.
+
 ### Geo Value Functions in QGIS
 
-Este es un plugin de QGIS que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implicito de expertos en un tema. Es util en el contexto de la creación de indeces compuestos de varios criterios (por ejemplo indeces de vulnerabilidad), así como en la combinación del analisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
-
+Este es un plugin de QGIS que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implícito de expertos en un tema. Es util en el contexto de la creación de indeces compuestos de varios criterios (por ejemplo indeces de vulnerabilidad), así como en la combinación del análisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
 
 <img src="/assets/fotos_fidel/gvf_qgis4.PNG" width="370px"> <img src="/assets/fotos_fidel/gvf_qgis3.PNG" width="370px">
 
-[Repocitorio en GitHub](https://plugins.qgis.org/plugins/geo_value_functions/)
-
-[En la página de plugins de QGIS](https://github.com/serranoycandela/geo_value_functions)
-
+Repocitorio en GitHub: https://plugins.qgis.org/plugins/geo_value_functions/
+En la página de plugins de QGIS: https://github.com/serranoycandela/geo_value_functions
 
 ### Parallel Coordinates Maps
 
-Esta es una aplicación web que permite filtrar en multiples dimenciones datos vectoriales interactivamante. Lo anterior se logra a traves del uso de la biblioteca de d3 para gráficas de coordenadas paralelas [d3.parcoords.js](https://www.d3-graph-gallery.com/parallel), en conjunción con OpenLayers para desplegar dinamicamente la imformación geográfica. Se puede subir un shapefile para genrar nuevos mapas intercativos, pero el shapefile debe estar en coordenadas geográficas y tener un campo "id" de tipo texto con valores enteros consecutivos.
+Esta es una aplicación web que permite filtrar interactivamante datos vectoriales con multiples dimenciones. Lo anterior se logra a traves del uso de la biblioteca de d3 para gráficas de coordenadas paralelas [d3.parcoords.js](https://www.d3-graph-gallery.com/parallel), en conjunción con OpenLayers para desplegar dinamicamente la imformación geográfica. Se puede subir un shapefile para generar nuevos mapas intercativos, pero el shapefile debe estar en coordenadas geográficas y tener un campo "id" de tipo texto con valores enteros consecutivos.
 
 <img src="/assets/fotos_fidel/palallelcoordinates.PNG" width="600px">
 
-[Repositorio en GitHub](github.com/sostenibilidad-unam/parallel_coordinates_maps)
+Repositorio en GitHub https://github.com/sostenibilidad-unam/parallel_coordinates_maps
+Sitio web: http://pc.magrat.mine.nu/parallel_coordinates_maps/5c4e14c30a705b3386bbe6318846ed53
 
-[Sitio web](http://pc.magrat.mine.nu/parallel_coordinates_maps/5c4e14c30a705b3386bbe6318846ed53)
 
 ### Hieroglyph + Parallel Coordinates
 
-Esta es una aplicación web que despliega indeces jerárquicos con expresion territorial mediante la combinación de glifos circulares y concentricos con mapa y gráfica de coordenadas paralelas.
+Esta es una aplicación web que despliega indeces jerárquicos con expresión territorial mediante la combinación de glifos circulares y concéntricos con mapa y gráfica de coordenadas paralelas.
 
 <img src="/assets/fotos_fidel/pc_hieroglyph.png" width="600px">
 
@@ -72,7 +72,7 @@ Esta es una aplicación web que despliega indeces jerárquicos con expresion ter
 
 ### Geo Value Functions en la web
 
-Esta es una aplicación web que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implicito de expertos en un tema. Es util en el contexto de la creación de indeces compuestos de varios criterios (por ejemplo indeces de vulnerabilidad), así como en la combinación del analisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
+Esta es una aplicación web que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implícito de expertos en un tema. Es util en el contexto de la creación de indeces compuestos de varios criterios (por ejemplo indeces de vulnerabilidad), así como en la combinación del analisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
 
 <img src="/assets/fotos_fidel/geo_value_functions_web_1.PNG" width="370px"> <img src="/assets/fotos_fidel/geo_value_functions_web_2.PNG" width="370px">
 
