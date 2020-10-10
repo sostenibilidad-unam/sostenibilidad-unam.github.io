@@ -47,8 +47,9 @@ Este es un plugin de QGIS que permite transformar datos geográficos en capas co
 
 <img src="/assets/fotos_fidel/gvf_qgis4.PNG" width="370px"> <img src="/assets/fotos_fidel/gvf_qgis3.PNG" width="370px">
 
-Repocitorio en GitHub: https://plugins.qgis.org/plugins/geo_value_functions/
-En la página de plugins de QGIS: https://github.com/serranoycandela/geo_value_functions
+[Repocitorio en GitHub](https://plugins.qgis.org/plugins/geo_value_functions/)
+
+[En la página de plugins de QGIS](https://github.com/serranoycandela/geo_value_functions)
 
 ### Parallel Coordinates Maps
 
@@ -56,8 +57,9 @@ Esta es una aplicación web que permite filtrar interactivamante datos vectorial
 
 <img src="/assets/fotos_fidel/palallelcoordinates.PNG" width="600px">
 
-Repositorio en GitHub (https://github.com/sostenibilidad-unam/parallel_coordinates_maps)
-Sitio web: http://pc.magrat.mine.nu/parallel_coordinates_maps/5c4e14c30a705b3386bbe6318846ed53
+[Repositorio en GitHub](https://github.com/sostenibilidad-unam/parallel_coordinates_maps)
+
+[Sitio web](http://pc.magrat.mine.nu/parallel_coordinates_maps/5c4e14c30a705b3386bbe6318846ed53)
 
 
 ### Hieroglyph + Parallel Coordinates
