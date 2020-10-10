@@ -56,7 +56,7 @@ Esta es una aplicación web que permite filtrar interactivamante datos vectorial
 
 <img src="/assets/fotos_fidel/palallelcoordinates.PNG" width="600px">
 
-Repositorio en GitHub https://github.com/sostenibilidad-unam/parallel_coordinates_maps
+Repositorio en GitHub (https://github.com/sostenibilidad-unam/parallel_coordinates_maps)
 Sitio web: http://pc.magrat.mine.nu/parallel_coordinates_maps/5c4e14c30a705b3386bbe6318846ed53
 
 
