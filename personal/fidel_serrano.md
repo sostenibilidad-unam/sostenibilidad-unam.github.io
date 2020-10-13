@@ -47,13 +47,13 @@ Este es un plugin de QGIS que permite transformar datos geográficos en capas co
 
 <img src="/assets/serranoycandela/gvf_qgis4.PNG" width="370px"> <img src="/assets/serranoycandela/gvf_qgis3.PNG" width="370px">
 
-[Repocitorio en GitHub](https://plugins.qgis.org/plugins/geo_value_functions/)
+[Repositorio en GitHub](https://plugins.qgis.org/plugins/geo_value_functions/)
 
 [En la página de plugins de QGIS](https://github.com/serranoycandela/geo_value_functions)
 
 ### Parallel Coordinates Maps
 
-Esta es una aplicación web que permite filtrar interactivamante datos vectoriales con multiples dimenciones. Lo anterior se logra a traves del uso de la biblioteca de d3 para gráficas de coordenadas paralelas [d3.parcoords.js](https://www.d3-graph-gallery.com/parallel), en conjunción con OpenLayers para desplegar dinamicamente la imformación geográfica. Se puede subir un shapefile para generar nuevos mapas intercativos, pero el shapefile debe estar en coordenadas geográficas y tener un campo "id" de tipo texto con valores enteros consecutivos.
+Esta es una aplicación web que permite filtrar interactivamante datos vectoriales con multiples dimenciones. Lo anterior se logra a traves del uso de la biblioteca de d3 para gráficas de coordenadas paralelas [d3.parcoords.js](https://www.d3-graph-gallery.com/parallel), en conjunción con OpenLayers para desplegar dinamicamente la imformación geográfica. Se puede subir un shapefile para generar nuevos mapas intercativos, pero el shapefile debe estar en coordenadas geográficas y tener un campo "id" de tipo texto con valores enteros consecutivos. Esta aplicación web es producto de la colaboración con Rodrigo García Herrera.
 
 <img src="/assets/serranoycandela/palallelcoordinates.PNG" width="600px">
 
@@ -74,7 +74,7 @@ Esta es una aplicación web que despliega indeces jerárquicos con expresión te
 
 ### Geo Value Functions en la web
 
-Esta es una aplicación web que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implícito de expertos en un tema. Es util en el contexto de la creación de indeces compuestos de varios criterios (por ejemplo indeces de vulnerabilidad), así como en la combinación del analisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
+Esta es una aplicación web que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implícito de expertos en un tema. Es util en el contexto de la creación de indeces compuestos de varios criterios (por ejemplo indeces de vulnerabilidad), así como en la combinación del analisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA). Esta aplicación web es producto de la colaboración con Rodrigo García Herrera.
 
 <img src="/assets/serranoycandela/geo_value_functions_web_1.PNG" width="370px"> <img src="/assets/serranoycandela/geo_value_functions_web_2.PNG" width="370px">
 
