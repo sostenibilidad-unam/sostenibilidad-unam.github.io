@@ -45,7 +45,7 @@ Todos los artefactos computacionales están en un repositorio público con contr
 
 Este es un plugin de QGIS que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implícito de expertos en un tema. Es util en el contexto de la creación de indeces compuestos de varios criterios (por ejemplo indeces de vulnerabilidad), así como en la combinación del análisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
 
-<img src="/assets/serranoycandela/gvf_qgis4.PNG" width="370px"> <img src="/assets/fotos_fidel/gvf_qgis3.PNG" width="370px">
+<img src="/assets/serranoycandela/gvf_qgis4.PNG" width="370px"> <img src="/assets/serranoycandela/gvf_qgis3.PNG" width="370px">
 
 [Repocitorio en GitHub](https://plugins.qgis.org/plugins/geo_value_functions/)
 
@@ -76,7 +76,7 @@ Esta es una aplicación web que despliega indeces jerárquicos con expresión te
 
 Esta es una aplicación web que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implícito de expertos en un tema. Es util en el contexto de la creación de indeces compuestos de varios criterios (por ejemplo indeces de vulnerabilidad), así como en la combinación del analisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
 
-<img src="/assets/serranoycandela/geo_value_functions_web_1.PNG" width="370px"> <img src="/assets/fotos_fidel/geo_value_functions_web_2.PNG" width="370px">
+<img src="/assets/serranoycandela/geo_value_functions_web_1.PNG" width="370px"> <img src="/assets/serranoycandela/geo_value_functions_web_2.PNG" width="370px">
 
 [Repositorio en GitHub](https://github.com/sostenibilidad-unam/geo-value-function)
 
