@@ -31,7 +31,7 @@ Acreditada en el Posgrado de Ciencias de la Sostenibilidad (PCS): Nivel Maestrí
 
 - Cambios de uso de suelo. Análisis de las Ecorregiones Áridas y Semiáridas de México para la identificación de los principales factores de degradación y la sinergia con los eventos climáticos extremos.
 
-- Sistemas urbanos sostenibles. Por el momento me encuentro desarrollando un proyecto de identificación de los atributos de resiliencias para la ciudad de México. Los sistemas urbanos y el desarrollo sostenible es un tema de gran interés el cuál estoy tratando de abordar de manera más profunda.
+- Sistemas urbanos sostenibles. Por el momento me encuentro desarrollando un proyecto de identificación de los atributos de resiliencia para la Ciudad de México. Los sistemas urbanos y el desarrollo sostenible es un tema de gran interés en el cual estoy tratando de abordar de manera más profunda.
 
 - Sistemas alimentarios sostenibles. He colaborado en proyectos donde se evalúa la biología reproductiva de las plantas para que el manejo y explotación de estos recursos sea mejor.
 
