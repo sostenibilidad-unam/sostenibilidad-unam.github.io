@@ -132,7 +132,7 @@ Pumpkin; Frontiers in Plant Science
 
 
 4.	Mapping and Modeling Illicit and Clandestine Drivers of Land Use Change:
-Urban Expansion in Mexico City and Deforestation in Central America by Elizabeth Tellman; Tesis Doctoral Arizona State University 2019
+Urban Expansion in Mexico City and Deforestation in Central America by Elizabeth Tellman; Tesis Doctoral Arizona State University 2019; https://repository.asu.edu/items/53734
 
 5.	An integrated model of stand dynamics, soil carbon and fire regime:
 Applications to boreal ecosystem response to climate change. Yosune Miquelajauregui Graf
@@ -144,6 +144,8 @@ Posgrado en Ciencias de la Sostenibilidad María Beatriz Ruizpalacios
 Remus)
 
 7.	Erika Luna Pérez. 2019. El efecto del crecimiento urbano sobre el clima local de la ZMCM y sus implicaciones socio-ambientales. Tesis para obtener el título de Licenciada en Ciencias de la Tierra. TUTORA: Dra. Yosune Miquelajauregui Graf
+
+8.  Tesis de Maestría en Ciencias de la Sostenibilidad de Karla Adriana Peña Sanabria: “CATEGORIZACIÓN DE ESTRATEGIAS DE PRODUCTIVIDAD AGRÍCOLA: EL CASO DEL CAFÉ EN MÉXICO”; Posgrado en Sostenibilidad, UNAM; Tutora principal Dra. Ana Elena Escalante Hernández; http://132.248.9.195/ptd2020/enero/0799366/Index.html
 
 ## Participación en proyectos
 
