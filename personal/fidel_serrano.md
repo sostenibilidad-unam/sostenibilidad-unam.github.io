@@ -82,6 +82,24 @@ Esta es una aplicación web que permite transformar datos geográficos en capas 
 
 [Sitio web](http://gvf.magrat.mine.nu/setup/)
 
+### Captación de agua de lluvia
+
+"El presente estudio, es una propuesta única a nivel metodológico y analítico porque discute el
+potencial de implementación de los SCALL, visualizados como un conjunto de prácticas que
+tienden a construir un manejo sustentable del agua a través de tecnología descentralizada.
+La principal fortaleza de éste es la escala y variabilidad espacial de los parámetros climatológicos,
+hidrológicos y sociales integrados. Así, se consideraron los niveles de desarrollo social y
+se visualizaron los efectos de los SCALL sobre la disminución de la precariedad hídrica, en una
+escala de trabajo que incluye toda la variabilidad ambiental y social de la CDMX. Las variables
+asociadas a la precariedad hídrica retomadas en este estudio y su integración a nivel espacial,
+hacen del presente ejercicio metodológico un trabajo que puede sentar las bases para futuros
+estudios relacionados con la captación de agua de lluvia."
+
+<img src="/assets/serranoycandela/islaurbana.png" width="370px"> <img src="/assets/serranoycandela/islaurbana2.png" width="370px">
+
+[Documento](https://islaurbana.org/wp-content/uploads/2020/10/Captacion-de-agua-en-la-CDMX_09082020_final_web.pdf)
+
+
 
 ## Interes Académicos
 
