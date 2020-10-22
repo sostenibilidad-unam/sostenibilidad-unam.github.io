@@ -177,4 +177,4 @@ Remus)
 
 5.  "Desarrollo de una línea base de resiliencia para la Ciudad de México y diseño de los estándares de generación de indicadores de resiliencia por medio de la implementación de prototipos que servirán de modelo para el resto de las dependencias del Gobierno de la Ciudad de México", con la Dirección General de Resiliencia que forma parte de la Secretaría de Gestión Integral de Riesgos y Protección Civil de la CDMX (Responsable Dr. Luis A. Bojórquez Tapia).
 
-6.  "Captación de lluvia en la CDMX: Un análisis de las desigualdades espaciales"; Isla Urbana, OXFAM, LANCIS, CESOP, ASU, Nodo Metropolitano; (Responsable Beth Tellman).
+6.  "Captación de lluvia en la CDMX: Un análisis de las desigualdades espaciales"; Isla Urbana, OXFAM, LANCIS, CESOP, ASU, Nodo Metropolitano; (Responsable Dra. Beth Tellman).
