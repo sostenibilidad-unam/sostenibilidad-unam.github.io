@@ -45,7 +45,7 @@ Todos los artefactos computacionales están en un repositorio público con contr
 
 Este es un plugin de QGIS que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implícito de expertos en un tema. Es útil en el contexto de la creación de índices compuestos de varios criterios (por ejemplo, índices de vulnerabilidad), así como en la combinación del análisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
 
-<img src="/assets/serranoycandela/gvf_qgis4.PNG" width="370px"> <img src="/assets/serranoycandela/gvf_qgis3.PNG" width="370px">
+[<img src="/assets/serranoycandela/gvf_qgis4.PNG" width="370px">](https://github.com/serranoycandela/geo_value_functions) [<img src="/assets/serranoycandela/gvf_qgis3.PNG" width="370px">](https://github.com/serranoycandela/geo_value_functions)
 
 [Repositorio en GitHub](https://plugins.qgis.org/plugins/geo_value_functions/)
 
@@ -55,7 +55,7 @@ Este es un plugin de QGIS que permite transformar datos geográficos en capas co
 
 Esta es una aplicación web que permite filtrar interactivamante datos vectoriales con multiples dimenciones. Lo anterior se logra a traves del uso de la biblioteca de d3 para gráficas de coordenadas paralelas [d3.parcoords.js](https://www.d3-graph-gallery.com/parallel), en conjunción con OpenLayers para desplegar dinamicamente la imformación geográfica. Se puede subir un shapefile para generar nuevos mapas intercativos, pero el shapefile debe estar en coordenadas geográficas y tener un campo "id" de tipo texto con valores enteros consecutivos. Esta aplicación web es producto de la colaboración con Rodrigo García Herrera.
 
-<img src="/assets/serranoycandela/palallelcoordinates.PNG" width="600px">
+[<img src="/assets/serranoycandela/palallelcoordinates.PNG" width="600px">](http://pc.magrat.mine.nu/parallel_coordinates_maps/5c4e14c30a705b3386bbe6318846ed53)
 
 [Repositorio en GitHub](https://github.com/sostenibilidad-unam/parallel_coordinates_maps)
 
@@ -66,7 +66,7 @@ Esta es una aplicación web que permite filtrar interactivamante datos vectorial
 
 Esta es una aplicación web que despliega indeces jerárquicos con expresión territorial mediante la combinación de glifos circulares y concéntricos con mapa y gráfica de coordenadas paralelas.
 
-<img src="/assets/serranoycandela/pc_hieroglyph.png" width="600px">
+[<img src="/assets/serranoycandela/pc_hieroglyph.png" width="600px">](https://github.com/sostenibilidad-unam/pc_hieroglyph)
 
 [Repositorio en GitHub](https://github.com/sostenibilidad-unam/pc_hieroglyph)
 
@@ -76,7 +76,7 @@ Esta es una aplicación web que despliega indeces jerárquicos con expresión te
 
 Esta es una aplicación web que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implícito de expertos en un tema. Es útil en el contexto de la creación de índices compuestos de varios criterios (por ejemplo, índices de vulnerabilidad), así como en la combinación del analisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA). Esta aplicación web es producto de la colaboración con Rodrigo García Herrera.
 
-<img src="/assets/serranoycandela/geo_value_functions_web_1.PNG" width="370px"> <img src="/assets/serranoycandela/geo_value_functions_web_2.PNG" width="370px">
+[<img src="/assets/serranoycandela/geo_value_functions_web_1.PNG" width="370px">](http://gvf.magrat.mine.nu/setup/) [<img src="/assets/serranoycandela/geo_value_functions_web_2.PNG" width="370px">](http://gvf.magrat.mine.nu/setup/)
 
 [Repositorio en GitHub](https://github.com/sostenibilidad-unam/geo-value-function)
 
