@@ -45,11 +45,11 @@ Todos los artefactos computacionales están en un repositorio público con contr
 
 Este es un plugin de QGIS que permite transformar datos geográficos en capas con un significado, es una herramienta para extraer conocimiento espacial implícito de expertos en un tema. Es útil en el contexto de la creación de índices compuestos de varios criterios (por ejemplo, índices de vulnerabilidad), así como en la combinación del análisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
 
-[<img src="/assets/serranoycandela/gvf_qgis4.PNG" width="370px">](https://github.com/serranoycandela/geo_value_functions) [<img src="/assets/serranoycandela/gvf_qgis3.PNG" width="370px">](https://github.com/serranoycandela/geo_value_functions)
+[<img src="/assets/serranoycandela/gvf_qgis4.PNG" width="370px">](https://plugins.qgis.org/plugins/geo_value_functions/) [<img src="/assets/serranoycandela/gvf_qgis3.PNG" width="370px">](https://plugins.qgis.org/plugins/geo_value_functions/)
 
-[Repositorio en GitHub](https://plugins.qgis.org/plugins/geo_value_functions/)
+[Repositorio en GitHub](https://github.com/serranoycandela/geo_value_functions)
 
-[En la página de plugins de QGIS](https://github.com/serranoycandela/geo_value_functions)
+[En la página de plugins de QGIS](https://plugins.qgis.org/plugins/geo_value_functions/)
 
 ### Parallel Coordinates Maps
 
