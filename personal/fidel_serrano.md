@@ -97,7 +97,7 @@ estudios relacionados con la captación de agua de lluvia."
 
 [<img src="/assets/serranoycandela/islaurbana.png" width="370px">](https://islaurbana.org/wp-content/uploads/2020/10/Captacion-de-agua-en-la-CDMX_09082020_final_web.pdf) [<img src="/assets/serranoycandela/islaurbana2.png" width="370px">](https://islaurbana.org/wp-content/uploads/2020/10/Captacion-de-agua-en-la-CDMX_09082020_final_web.pdf)
 
-https://islaurbana.org/wp-content/uploads/2020/10/Captacion-de-agua-en-la-CDMX_09082020_final_web.pdf
+[Pdf](https://islaurbana.org/wp-content/uploads/2020/10/Captacion-de-agua-en-la-CDMX_09082020_final_web.pdf)
 
 
 
