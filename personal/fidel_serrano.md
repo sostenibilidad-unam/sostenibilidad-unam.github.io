@@ -167,10 +167,14 @@ Remus)
 
 ## Participación en proyectos
 
-1.	“The Dynamics of Multi-Scalar Adaptation in Megacities: Autonomus action, institutional change and social-hydrological risk in Mexico city (Adaptación Dinámica Multi-Escalar en Megalopolis: Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la Ciudad de México) MEGADAPT”.
+1.	“The Dynamics of Multi-Scalar Adaptation in Megacities: Autonomus action, institutional change and social-hydrological risk in Mexico city (Adaptación Dinámica Multi-Escalar en Megalopolis: Acción Autónoma, Cambio Institucional y Riesgo Socio-Hidrológico en la Ciudad de México) MEGADAPT” (Responsable Dra. Hallie Eakin, ASU).
 
-2.	Análisis integrado de sistemas socioambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera.
+2.	"Análisis integrado de sistemas socioambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera" (Responsable Dr. Luis A. Bojórquez Tapia).
 
-3.	Sistema de conocimiento para la gestión del Ordenamiento Ecológico del Territorio del estado de Yucatán
+3.	"Sistema de conocimiento para la gestión del Ordenamiento Ecológico del Territorio del estado de Yucatán" (Responsable Dr. Luis A. Bojórquez Tapia).
 
-4.	Diagnóstico Ambiental y propuesta de Remediación-Reparación-Compensación en la Cuenca del Río Sonora afectada por el derrame del represo "Tinajas 1" de la Mina Buenavista del Cobre, Cananea, Sonora.
+4.	"Diagnóstico Ambiental y propuesta de Remediación-Reparación-Compensación en la Cuenca del Río Sonora afectada por el derrame del represo 'Tinajas 1' de la Mina Buenavista del Cobre, Cananea, Sonora." (Responsable Dr. Luis A. Bojórquez Tapia).
+
+5.  "Desarrollo de una línea base de resiliencia para la Ciudad de México y diseño de los estándares de generación de indicadores de resiliencia por medio de la implementación de prototipos que servirán de modelo para el resto de las dependencias del Gobierno de la Ciudad de México", con la Dirección General de Resiliencia que forma parte de la Secretaría de Gestión Integral de Riesgos y Protección Civil de la CDMX (Responsable Dr. Luis A. Bojórquez Tapia).
+
+6.  "Captación de lluvia en la CDMX: Un análisis de las desigualdades espaciales"; Isla Urbana, OXFAM, LANCIS, CESOP, ASU, Nodo Metropolitano; (Responsable Beth Tellman).
