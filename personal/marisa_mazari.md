@@ -9,9 +9,10 @@ permalink: /personal/marisa_mazari
 - Investigadora Titular C
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 - Instituto de Ecología, Universidad Nacional Autónoma de México (IEUNAM)
-- Teléfono 55 5623 7715
+- Teléfono: 55 5623 7715
 - Email: mazari@unam.mx
 
+<img src="/assets/Marisa.png" width="350px">
 
 ## Monitoreo y evaluación de socioecosistemas
 
@@ -30,7 +31,7 @@ Bióloga por la Facultad de Ciencias de la UNAM, con Maestría en Hidrobiología
 
 ## Proyectos
 
-### Lista de proyectos actuales 
+### Proyectos actuales 
 - Fortalecimiento de capacidades para el manejo sostenible del agua en comunidades de la Cuenca del Río Grande de Comitán-Lagos de Montebello, Chiapas. Proyecto financiado por Fundación Gonzalo Río Arronte. 2020-2023. 
 - Proyecto Crisis Ambiental en México y Desigualdad. PAPIITe-DGAPA-UNAM. IV300120. En colaboración con Instituto de Investigaciones Sociales, Facultad de Ciencias Políticas y Sociales, Instituto de Ecología, UNAM. 2020-2023.
 - Audacity for Partnerships: Foregrounding Partnership Development in the Generation of Sustainability Solutions. 2019-2020. Financiado por el Global Consortium for Sustainability Outcomes (GCSO) en conjunto con la Dirección General de Resiliencia de la Secretaría de Gestión Integral de Riesgos y Protección Civil, Ciudad de México- LANCIS-IEUNAM. 
