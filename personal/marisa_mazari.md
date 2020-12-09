@@ -12,7 +12,7 @@ permalink: /personal/marisa_mazari
 - Teléfono: 55 5623 7715
 - Email: mazari@unam.mx
 
-      <img src="/assets/Marisa.png" width="350px">
+<img src="/assets/Marisa.png" width="350px">
 
 ## Monitoreo y evaluación de socioecosistemas
 
