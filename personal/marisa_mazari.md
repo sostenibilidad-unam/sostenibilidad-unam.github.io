@@ -44,9 +44,11 @@ Bióloga por la Facultad de Ciencias de la UNAM, con Maestría en Hidrobiología
 
 ### Colaboración en proyectos con financiamiento
 - SECTEI-CDMX. La etiqueta chinampera como promotora del fortalecimiento económico, alimenticio y la restauración integral de la zona lacustre de Xochimilco a través del modelo chinampa-refugio. 2020-2021. Responsable: Dr. Luis Zambrano González. Instituto de Biología, UNAM.
-<img src="/assets/Marisa_Foto3png.png" width="350px">
+
+<img src="/assets/Marisa_Foto3png.png" width="400px">
 
 - SECTEI-CDMX. Evaluación y propuestas para la recuperación y conservación de sitios de interés geopatrimonial en la cuenca del río Magdalena y pedregales del Xitle con importancia hidrólogica. 2019-2021. Responsable: Dra. Ana Lillian Martín del Pozo, Instituto de Geofísica, UNAM.
+
 <img src="/assets/Marisa_Foto4.png" width="200px">    <img src="/assets/Marisa_Foto5.png" width="300px">
 
 - SECTEI-CDMX. Mejoramiento de los procesos de potabilización y tratamiento de agua residual y uso de tecnologías descentralizadas en los 21 proyecto de regularización como estrategia auxiliar para el aseguramiento hídrico de río Magdalena. 2020- 2021. Responsable: Dra. Alma Chávez Mejía, IIUNAM. 
