@@ -14,12 +14,12 @@ permalink: /personal/marisa_mazari
 
 <img src="/assets/Marisa.png" width="250px">
 
-- [Líneas de investigación](##Líneas-de-investigación)
-- [Semblanza](##Semblanza)
-- [Proyectos](##Proyectos)
-- [Publicaciones](##Publicaciones-relevantes)
-- [Docencia](##Docencia) 
-- [Estudiantes](###Estudiantes-en-proceso)
+- [Líneas de investigación](#Líneas-de-investigación)
+- [Semblanza](#Semblanza)
+- [Proyectos](#Proyectos)
+- [Publicaciones](#Publicaciones-relevantes)
+- [Docencia](#Docencia) 
+- [Estudiantes](#Estudiantes-en-proceso)
 
 ## Monitoreo y evaluación de socioecosistemas
 
