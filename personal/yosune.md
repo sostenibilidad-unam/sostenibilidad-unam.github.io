@@ -5,7 +5,8 @@ permalink: /personal/yosune
 ---
 
 # Dra. Yosune Miquelajauregui Graf
-## Laboratorio de modelación de sistemas socioecológicos/ Social-Ecological Systems Modelling Lab
+## Laboratorio de modelación de sistemas socioecológicos/ 
+## Socio-Ecological Systems Modelling Lab
 
 - Investigadora Asociada "C", Candidata a Investigadora Nacional (CONACYT), PRIDE Nivel "B"
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
