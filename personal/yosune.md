@@ -54,7 +54,7 @@ En particular, mi línea de investigación se enfoca en estudiar:
 
 # Repositorio de software digital
 
- - [Scripts](http://lancis.ecologia.unam.mx/R_Scripts_Catalogue/)
+ - [Scripts R y Python](http://lancis.ecologia.unam.mx/R_Scripts_Catalogue/)
  - [Modelos GitHub](https://github.com/yosunemiquela)
  - [Modelos Comses](https://www.comses.net/codebases/c9c25814-775d-435f-a8c8-017404a2130f/releases/1.0.0/)  
  
