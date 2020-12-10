@@ -16,7 +16,7 @@ permalink: /personal/yosune
 
 ## Línea de Investigación/Research
 
-En el Laboratorio de modelación de sistemas socioecológicos del LANCIS trabajamos en el diseño e implementación de marcos de investigación participativos que involucran la modelación de sistemas socioecológicos acoplados, la modelación basada en agentes y la modelación exploratoria dirigidos a apoyar los procesos de toma de decisiones bajo contextos de incertidumbre profunda ([DMDU](www.deepuncertainty.org) por sus siglas en inglés). 
+En el Laboratorio de modelación de sistemas socioecológicos del LANCIS trabajamos en el diseño e implementación de marcos de investigación participativos que involucran la modelación de sistemas socioecológicos acoplados, la modelación basada en agentes y la modelación exploratoria dirigidos a apoyar los procesos de toma de decisiones bajo contextos de incertidumbre profunda ([DMDU](https://www.deepuncertainty.org) por sus siglas en inglés). 
 Asimismo nos interesa el desarrollo de herramientas analíticas y de visualilzación (minería de datos, scenario discovery, geovisualización, tecnología espacial) aplicadas al estudio de los sistemas socioecológicos.
 
 En particular, mi línea de investigación se enfoca en estudiar:
