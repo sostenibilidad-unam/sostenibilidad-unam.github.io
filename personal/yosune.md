@@ -64,6 +64,6 @@ En particular, mi línea de investigación se enfoca en estudiar:
  - [Estadística y Modelación de sistemas socioecológicos en R](http://lancis.ecologia.unam.mx/R_Scripts_Catalogue/)
  - "Diseño y Escritura de Propuestas de Investigación en Temas de Sostenibilidad"
  - "Herramientas Analíticas en las Ciencias de la Sostenibilidad"
- - "Herramientas para la Investigaciòn Transdisciplinaria"
+ - "Herramientas para la Investigación Transdisciplinaria"
   
 ![me gusta el bosque](http://lasdoscastillas.net/wp-content/uploads/2014/02/Bosque.jpg)
