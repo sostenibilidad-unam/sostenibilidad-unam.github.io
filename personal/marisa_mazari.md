@@ -14,6 +14,13 @@ permalink: /personal/marisa_mazari
 
 <img src="/assets/Marisa.png" width="250px">
 
+- [Líneas de investigación](##Líneas-de-investigación)
+- [Semblanza](##Semblanza)
+- [Proyectos](##Proyectos)
+- [Publicaciones](##Publicaciones-relevantes)
+- [Docencia](##Docencia) 
+- [Estudiantes](###Estudiantes-en-proceso)
+
 ## Monitoreo y evaluación de socioecosistemas
 
 Grupo cuyo trabajo se enfoca en la detección y monitoreo de perturbaciones de origen antropogénico, con énfasis en microorganismos y compuestos químicos con efectos sobre la salud humana, que influyen en la provisión de servicios ecosistémicos en relación con sistemas acuáticos, tanto superficiales como subterráneos, suelos, y alimentos. Recientemente poniendo en contexto el trabajo de investigación con los Objetivos de Desarrollo Sostenible.
