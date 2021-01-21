@@ -6,8 +6,33 @@ permalink: /cluster/
 ---
 
 El Laboratorio Nacional de Ciencias de la Sostenibilidad cuenta con
-una supercomputadora de cerca de 900 cores y varios terabytes de memoria RAM
-distribuidos de manera heterogénea en 20 *hosts*.
+una supercomputadora de cerca de 900 cores y varios terabytes de
+memoria RAM distribuidos de manera heterogénea en 20 *hosts*.
+
+Es un recurso compartido por investigadoras del Instituto de Ecología
+y del LANCIS. Pero también por investigadoras externas, de
+organizaciones como el Instituto de Fisiología Celular, la Facultad de
+Ciencias, Cibnor, el Centro de Ciencias de la Atmósfera, el IBT y el
+INMEGEN.
+
+# Reglamento
+
+La supercomputadora del LANCIS tiene la capacidad atender a decenas de
+personas al mismo tiempo, por lo que es necesario observar algunas
+reglas para la convivencia armoniosa.
+
+Consulte el [reglamento](/cluster/reglamento/).
+
+
+
+# Solicitud de Cuentas de Usuario
+
+Para solicitar acceso a este recurso, por favor llene el
+[formulario de Solicitud de Acceso](https://docs.google.com/forms/d/e/1FAIpQLSejlatzdBac-zD-9VHwLkZdgq16119IAptH6DhyFibZr-YGOA/viewform?usp=sf_link).
+
+Su solicitud será evaluada por las autoridades del laboratorio y del instituto.
+
+
 
 # Algunos productos
 
@@ -28,12 +53,4 @@ distribuidos de manera heterogénea en 20 *hosts*.
  - Saldaña-Meyer, R. et al. (2019) RNA interactions with CTCF are essential for its proper function. preprint. Molecular Biology. doi: <https://doi.org/10.1101/530014>.
 
  - Tellman, B. et al. (2021) ‘The role of institutional entrepreneurs and informal land transactions in Mexico City’s urban expansion’, World Development, 140, p. 105374. doi: <https://doi.org/10.1016/j.worlddev.2020.105374>.
-
-
-# Solicitud de Cuentas de Usuario
-
-Para solicitar acceso a este recurso, por favor llene el
-[formulario de Solicitud de Acceso](https://docs.google.com/forms/d/e/1FAIpQLSejlatzdBac-zD-9VHwLkZdgq16119IAptH6DhyFibZr-YGOA/viewform?usp=sf_link).
-
-Su solicitud será evaluada por las autoridades del laboratorio y del instituto.
 
