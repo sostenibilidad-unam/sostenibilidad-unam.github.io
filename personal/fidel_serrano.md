@@ -70,7 +70,7 @@ Esta es una aplicación web que despliega indeces jerárquicos con expresión te
 
 [Repositorio en GitHub](https://github.com/sostenibilidad-unam/pc_hieroglyph)
 
-[Sitio web](https://github.com/sostenibilidad-unam/pc_hieroglyph)
+[Sitio web](http://pch.apps.lancis.ecologia.unam.mx/pc_glyph/example1)
 
 ### Geo Value Functions en la web
 
