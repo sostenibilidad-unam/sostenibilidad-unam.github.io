@@ -23,9 +23,9 @@ El Laboratorio Nacional de Ciencias de la Sostenibilidad (del [Instituto de Ecol
 <!-- tres columnas de showcase -->
 <div class="container-fluid">
 <div class="row aligned-row">
-{% assign items = site.showcase | sample: 6 %}
+{% assign items = site.showcase %}
 {% for item in items %}
-<div class="col-sm-4 col-lg-4">
+<div class="col-sm-12 col-lg-12">
 	<div class="panel panel-default">
 		<div class="panel-heading">{{ item.title }}</div>
 		<img src="{{ item.smallimg }}" width="100%" />
