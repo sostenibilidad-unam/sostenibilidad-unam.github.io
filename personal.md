@@ -8,7 +8,6 @@ permalink: /personal/
 - [Dra. Mariana Benítez Keinrad](/personal/mariana_benitez)
 - [Dr. Luis Bojórquez Tapia](/personal/luis_bojorquez)
 - [Dra. Ana Elena Escalante](/personal/ana_escalante)
-- [Dra. Amy M. Lerner](/personal/amy_lerner)
 - [Dra. Marisa Mazari Hiriart](/personal/marisa_mazari)
 - [Dra. Julieta A. Rosell García](/personal/julieta_rosell)
 - [Dra. Yosune Miquelajauregui Graf](/personal/yosune)
