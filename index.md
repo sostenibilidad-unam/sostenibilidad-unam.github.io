@@ -24,7 +24,7 @@ El Laboratorio Nacional de Ciencias de la Sostenibilidad (del [Instituto de Ecol
 <div class="container-fluid">
 <div class="row aligned-row">
 {% assign items = site.showcase %}
-{% for item in items %}
+{% for item in items reversed %}
 <div class="col-sm-12 col-lg-12">
 	<div class="panel panel-default">
 		<div class="panel-heading">{{ item.title }}</div>
