@@ -9,7 +9,7 @@ date: 2019-09-30
 
 ![portada](/showcase/oikos_22_portada.png)
 
-Este [número especial dedicado a las Ciencias de la Sostenibilidad](http://web.ecologia.unam.mx/oikos3.0/index.php)
+Este [número especial dedicado a las Ciencias de la Sostenibilidad](http://web.ecologia.unam.mx/oikos3.0/index.php/oikos-22)
 incluye artículos de divulgación que tocan temas dentro de categorías como:
 
  - Sostenibilidad desde la UNAM
@@ -18,4 +18,4 @@ incluye artículos de divulgación que tocan temas dentro de categorías como:
  - Teoría de la Sostenibilidad
 
 
-[Visitar número especial en **Oikos**](http://web.ecologia.unam.mx/oikos3.0/index.php).
+[Visitar número especial en **Oikos**](http://web.ecologia.unam.mx/oikos3.0/index.php/oikos-22).
