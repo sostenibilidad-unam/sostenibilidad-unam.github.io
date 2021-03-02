@@ -16,6 +16,8 @@ desafiar estas presiones 2. abrirse a otras perspectivas y formas de
 participar en la investigación; y 3. permitir transitar por caminos
 más plurales hacia la sostenibilidad?
 
+![](/assets/STEPS_methods.gif)
+
 Durante el año 2021, el Centro STEPS de la Universidad de Sussex se
 centrará en explorar el tema de métodos a través de una [serie de encuentros virtuales](https://steps-centre.org/methods/).
 
