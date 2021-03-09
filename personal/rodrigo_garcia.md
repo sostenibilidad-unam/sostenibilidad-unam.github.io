@@ -14,20 +14,20 @@ permalink: /personal/rodrigo_garcia
 
 # Semblanza
 
-Estudié Ingeniería en Cibernética y Sistemas Computacionales en la Universidad La Salle y
+Estudió Ingeniería en Cibernética y Sistemas Computacionales en la Universidad La Salle y
 la Maestría en Ciencias de la Complejidad en la Universidad Autónoma de la Ciudad de México.
 
-Tengo amplia experiencia en el diseño, implementación y operación de
-tecnologías de la información, con aplicaciones industriales en las
-áreas de inteligencia de negocios e infraestructura de internet, así
-como aplicaciones de cómputo científico en las áreas de genómica
+Experimentado en diseño, implementación y operación de tecnologías de
+la información, con aplicaciones industriales en las áreas de
+inteligencia de negocios e infraestructura de internet, así como
+aplicaciones de cómputo científico en las áreas de genómica
 computacional, bioinformática y Ciencias de la Sostenibilidad.
 
-He publicado bibliotecas de software en el Python Package Index, soy
-miembro de la Free Software Foundation y autor en diversas
-publicaciones de revistas internacionales como Science, Nature
-Communications, PLoS, Systems Biomedicine, Social Informatics y
-Computational Biology and Chemistry.
+Desarrollador de bibliotecas de software en el Python Package Index,
+miembro de la Free Software Foundation y co-autor en publicaciones de
+revistas internacionales como Science, Nature Communications, PLoS,
+Systems Biomedicine, Social Informatics y Computational Biology and
+Chemistry.
 
 ![FSF member](https://static.fsf.org/nosvn/associate/crm/6274.png)
 
@@ -46,4 +46,4 @@ Computational Biology and Chemistry.
 
  - [Sleuth Automation](https://pypi.org/project/sleuth-automation/). Interfaz orientada a objetos para expresar experimentos de crecimiento urbano. En uso por el proyecto [MEGADAPT](http://megadapt.weebly.com/).
 
- - [Rug Plot](https://pypi.org/project/rugplot/). Mejor que la proyección a dos dimensiones de una gráfica tridimensional es un rugplot. Inspirado en [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi).
+
