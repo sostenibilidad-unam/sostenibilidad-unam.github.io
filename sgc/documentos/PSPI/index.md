@@ -4,7 +4,7 @@ title: "SGC - Procedimiento de Satisfacción de las Partes Interesadas"
 permalink: /SGC/PSPI/
 ---
 
- - [Procedimiento de Satisfacción de las Partes Interesadas](PSPI-v0.pdf)
+ - [Procedimiento de Satisfacción de las Partes Interesadas](PSPI-v1.pdf)
 
  - [Cuestionario de satisfacción de los colaboradores FCSC-SGC (formulario Web)](https://docs.google.com/a/iecologia.unam.mx/forms/d/1avLmI7MqEBl_SFlQM31I69_orwEahX10pXjTn9nYRYU/)
  - [Cuestionario de Satisfacción de los Colaboradores (PDF)](FCSC-v0.pdf)
