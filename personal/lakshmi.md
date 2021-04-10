@@ -12,7 +12,7 @@ permalink: /personal/lakshmi
 - Candidata a Doctora, Posgrado en Ciencias de la Sostenibilidad, UNAM
 - Email: lakshmi.charli@iecologia.unam.mx
 
-## En la red
+### En la red
 * [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph)
 * [LinkedIn](https://www.linkedin.com/in/lakshmi-charli-joseph-60209712/)
 * [Transformations to Sustainability Programme](https://transformationstosustainability.org/people/lakshmi-charli-joseph/)
@@ -20,9 +20,9 @@ permalink: /personal/lakshmi
 * [Consejo Asesor Científico - REDES A.C.](https://www.redesmx.org/nosotros.html)
 * [Asesora Científica - UMBELA A.C.](https://umbela.org/)
 
-## Proyectos en curso
-- [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/methods/); [Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/lanzamiento/)
-- [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/); [Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/); [T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)
+### Proyectos en curso
+- [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/methods/);  _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/lanzamiento/)_
+- [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
 
 ### Co-coordinación de cursos
 - Herramientas para la investigación transdiciplinaria (1er semestre, Posgrado en Ciencias de la Sostenibilidad, sede C.U.)
