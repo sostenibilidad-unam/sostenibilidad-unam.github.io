@@ -25,7 +25,7 @@ permalink: /personal/lakshmi
 - [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
 
 ### Co-coordinación de cursos
-- Herramientas para la investigación transdiciplinaria (1er semestre, Posgrado en Ciencias de la Sostenibilidad, sede C.U.)
+- Herramientas para la investigación transdisciplinaria (1er semestre, Posgrado en Ciencias de la Sostenibilidad, sede C.U.)
 - Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos (intersemestral, Posgrado en Ciencias de la Sostenibilidad, sede C.U.)
 - Wetlands for livelihoods and conservation (anual, IHE Delft)
 
