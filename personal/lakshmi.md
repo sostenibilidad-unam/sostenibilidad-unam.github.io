@@ -21,9 +21,13 @@ permalink: /personal/lakshmi
 * [Asesora Científica - UMBELA A.C.](https://umbela.org/)
 
 ## Proyectos en curso
+- [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/methods/); [Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/lanzamiento/)
 - [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/); [Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/); [T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)
-- Global Consortium for Sustainability Outcomes (GCSO) - [Audacity for Partnerships: Foregrounding Partnership Development in the Generation of Sustainability Solutions](https://sustainabilityoutcomes.org/audacious-partnerships-program/)
-- Global Consortium for Sustainability Outcomes (GCSO) - [Sharing learning to implement an open and collaborative seed innovation system](https://sustainabilityoutcomes.org/sharing-learning-to-implement-an-open-and-collaborative-seed-innovation-system/)
+
+### Co-coordinación de cursos
+- Herramientas para la investigación transdiciplinaria (1er semestre, Posgrado en Ciencias de la Sostenibilidad, sede C.U.)
+- Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos (intersemestral, Posgrado en Ciencias de la Sostenibilidad, sede C.U.)
+- Wetlands for livelihoods and conservation (anual, IHE Delft)
 
 ### Intereses académicos
 - Gobernanza del agua y ciencias de la sostenibilidad
