@@ -20,9 +20,11 @@ permalink: /personal/lakshmi
 * [Consejo Asesor Científico - REDES A.C.](https://www.redesmx.org/nosotros.html)
 * [Asesora Científica - UMBELA A.C.](https://umbela.org/)
 
+
 ### Proyectos actuales
 - [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/methods/);  _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/lanzamiento/)_
 - [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
+
 
 ### Intereses académicos
 - Gobernanza del agua y ciencias de la sostenibilidad
@@ -30,10 +32,12 @@ permalink: /personal/lakshmi
 
 Título de la investigación: _"Promoviendo Vías de Transformación hacia la Sostenibilidad a través de la agencia colectiva: el Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco"_
 
+
 ### Co-coordinación de cursos
 - Herramientas para la investigación transdisciplinaria (1er semestre, [Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/), sede C.U.)
 - Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos (intersemestral, [Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/), sede C.U.)
 - Wetlands for livelihoods and conservation (anual, [IHE Delft](http://www.un-ihe.org/))
+
 
 ### Semblanza
 - Licenciatura en Biología (UNAM); Maestría en Derecho, Gestión y Política Ambientales (UAX); Maestría en Planeación y Gestión Ambiental (IHE Delft, Holanda); Candidata a doctora, Posgrado en Ciencias de la Sostenibilidad (UNAM).
