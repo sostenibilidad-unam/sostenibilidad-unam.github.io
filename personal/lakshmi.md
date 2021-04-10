@@ -48,7 +48,7 @@ Título de la investigación: _"Promoviendo Vías de Transformación hacia la So
 ### Bio
 Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning and management (UAX; IHE-Delft). For the past eleven years she has been involved in educational and capacity building projects related to wetland management, water governance, and sustainability science. She co-coordinated the design of the Graduate Program in Sustainability Sciences at UNAM, and is currently working at the National Laboratory for Sustainability Sciences (LANCIS-IE-UNAM) in research projects related to stakeholders' engagement, governance and transformation to sustainability in Mexico. She is part of the Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network), where she co-coordinates the North America Hub (one of the six hubs that conform the Pathways to Sustainability Global Consortium). She is a PhD candidate at the Graduate Program in Sustainability Sciences (UNAM) and her research title is: _“Promoting transformative pathways to sustainability through collective agency: The Transformation-Lab in the Xochimilco social-ecological system”._
 
-              <img src="/assets/Xochi2.jpeg" width="350px">          <img src="/assets/LCJenXochi.jpg" width="320px">
+<img src="/assets/Xochi2.jpeg" width="350px">          <img src="/assets/LCJenXochi.jpg" width="320px">
 
 ## Publicaciones
 * Manuel-Navarrete D, Charli-Joseph L, Eakin H, & Siqueiros-Garcia JM. 2021. **Applying Technologies of the Self in Transformation Labs to Mobilize Collective Agency**. _Social Innovations Journal_, 5. [link](https://socialinnovationsjournal.com/index.php/sij/article/view/696)
