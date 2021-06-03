@@ -22,4 +22,4 @@ Durante el año 2021, el Centro STEPS de la Universidad de Sussex se
 centrará en explorar el tema de métodos a través de una [serie de encuentros virtuales](https://steps-centre.org/methods/).
 
 El LANCIS-IE contribuirá a esta iniciativa co-coordinando el proyecto
-“Cultivando formas de conocer para fomentar transformaciones”.
+[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/cultivando-saberes/).
