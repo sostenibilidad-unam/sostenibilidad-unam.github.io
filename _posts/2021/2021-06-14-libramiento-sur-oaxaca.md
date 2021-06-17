@@ -7,11 +7,12 @@ layout: post
 
 El proyecto del Libramiento Sur de Oaxaca ha sido impulsado desde hace
 más de diez años, asociado, entre otras cosas a la expansión minera
-que se dio en los Valles Centrales de Oaxaca (VCO) a partir del
-2006. Debido a que el trazo propuesto atravesaba algunas de las
-tierras más fértiles de los VCO, en el 2010 los pueblos afectados se
-organizaron y formaron el Consejo de Pueblos en Defensa de la Tierra y
-el Territorio, el cual, junto con algunos aliados, ejerció presión
+que se dio en los Valles Centrales de Oaxaca (VCO) a partir del 2006.
+
+Debido a que el trazo propuesto atravesaba algunas de las tierras más
+fértiles de los VCO, en el 2010 los pueblos afectados se organizaron y
+formaron el Consejo de Pueblos en Defensa de la Tierra y el
+Territorio, el cual, junto con algunos aliados, ejerció presión
 suficiente para que el proyecto se cancelara.
 
 En el 2020, en medio del contexto de desarticulación y emergencia
