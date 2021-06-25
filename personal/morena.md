@@ -28,12 +28,12 @@ Ha sido profesora de asignatura en la Facultad de Ciencias de la UNAM (2008-2013
 <h2 id="proyectos">Proyectos</h2>
 <h4>PAPIIT - UNAM</h4>
 Relación diversidad-función en suelos de bosque y desierto
-<h4>Plasticidad y adaptación</h4>
-Myxococcus xanthus
+
 <h2 id="publicaciones">Publicaciones</h2>
 &nbsp;
 <a href="https://academic.oup.com/femsle/article-abstract/368/4/fnab012/6129800" target="_blank" rel="noopener">Soil microbial composition and carbon mineralization are associated with vegetation type and temperature regime in mesocosms of a semiarid ecosystem</a>
 &nbsp;
+
 <a href="https://peerj.com/articles/696/" target="_blank" rel="noopener">Population expansions shared among coexisting bacterial lineages are revealed by genetic evidence</a>
 
 
