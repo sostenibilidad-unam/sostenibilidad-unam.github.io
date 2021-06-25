@@ -32,8 +32,10 @@ Relación diversidad-función en suelos de bosque y desierto
 Myxococcus xanthus
 <h2 id="publicaciones">Publicaciones</h2>
 &nbsp;
-<a href="https://peerj.com/articles/696/" target="_blank" rel="noopener">Population expansions shared among coexisting bacterial lineages are revealed by genetic evidence</a>
 <a href="https://academic.oup.com/femsle/article-abstract/368/4/fnab012/6129800" target="_blank" rel="noopener">Soil microbial composition and carbon mineralization are associated with vegetation type and temperature regime in mesocosms of a semiarid ecosystem</a>
+&nbsp;
+<a href="https://peerj.com/articles/696/" target="_blank" rel="noopener">Population expansions shared among coexisting bacterial lineages are revealed by genetic evidence</a>
+
 
 <h2 id="cursos">Cursos</h2>
 Ecología microbiana
