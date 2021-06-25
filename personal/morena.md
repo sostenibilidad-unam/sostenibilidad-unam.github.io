@@ -12,7 +12,6 @@ Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 &nbsp;
 E-mail: <a href="mailto:morena.avitia@iecologia.unam.mx">morena.avitia@iecologia.unam.mx</a>
 
-&nbsp;
 - <a href="#semblanza">Semblanza</a>
 - <a href="#noticias">Noticias</a>
 - <a href="#proyectos">Proyectos</a>
