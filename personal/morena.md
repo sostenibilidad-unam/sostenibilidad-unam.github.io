@@ -18,11 +18,11 @@ E-mail: <a href="mailto:morena.avitia@iecologia.unam.mx">morena.avitia@iecologia
 - <a href="#publicaciones">Publicaciones</a>
 - <a href="#cursos">Cursos</a>
 <h2 id="semblanza">Semblanza</h2>
-Morena Avitia es Bióloga por la Facultad de Ciencias de la UNAM y obtuvo un doctorado en Ciencias Biomédicas también en la UNAM. Su trabajo se ha desarrollado en el ámbito de la microbiología, la genética de poblaciones y la ecología microbiana utilizando herramientas genómicas en distintos ecosistemas como aguas continentales, suelos áridos y de uso agrícola, bio-reactores y muestras industriales de panificación. 
+Estudié Biología en la Facultad de Ciencias de la UNAM y un doctorado en Ciencias Biomédicas también en la UNAM. Mi trabajo de los últimos años se ha desarrollado en el ámbito de la microbiología, la genética de poblaciones y la ecología microbiana utilizando herramientas genómicas en distintos ecosistemas como aguas continentales, suelos áridos y de uso agrícola, bio-reactores y muestras industriales de panificación. 
 
-Ha participado en distintos proyectos de investigación en el Laboratorio Nacional de Ciencias de la Sostenibilidad del IE, UNAM, como investigadora posdoctoral y técnica académica responsable del área de Ecogenómica (desde 2018). Morena tiene amplia experiencia en técnicas de extracción y purificación de ácidos nucleicos a partir de muestras ambientales, preparación de ADN y ARN para su caracterización con estrategias de secuenciación masiva, generación de bibliotecas de amplicones, así como en el análisis bioinformático de datos metagenómicos. 
+He participado en distintos proyectos de investigación en el Laboratorio Nacional de Ciencias de la Sostenibilidad del IE, UNAM, como investigadora posdoctoral y técnica académica responsable del área de Ecogenómica (desde 2018). En el laboratorio mi experiencia es en técnicas de extracción y purificación de ácidos nucleicos a partir de muestras ambientales, preparación de ADN y ARN para su caracterización con estrategias de secuenciación masiva, generación de bibliotecas de amplicones, así como en el análisis bioinformático de datos metagenómicos. 
 
-Ha sido profesora de asignatura en la Facultad de Ciencias de la UNAM (2008-2013) y desde 2018 ha participado como profesora del curso de Ecología Microbiana impartido por el Posgrado en Ciencias Biológicas y por el Doctorado en Ciencias Biomédicas de la UNAM.
+También he sido profesora de asignatura en la Facultad de Ciencias de la UNAM (2008-2013) y desde 2018 he participado como profesora del curso de Ecología Microbiana impartido por el Posgrado en Ciencias Biológicas y por el Doctorado en Ciencias Biomédicas de la UNAM.
 <h2 id="noticias">Noticias</h2>
 &nbsp;
 <h2 id="proyectos">Proyectos</h2>
