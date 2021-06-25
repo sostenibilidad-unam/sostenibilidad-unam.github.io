@@ -41,6 +41,5 @@ Myxococcus xanthus
 Ecología microbiana
 Click [<a href="/assets/morena files/EcologiaMicrobiana_temario_2020.pdf" target="_blank" rel="noopener">aquí</a>]  para ver el programa para el semestre agosto-diciembre 2020
 
-&nbsp;
 <h2>En la red</h2>
 <a href="https://scholar.google.com.mx/citations?hl=en&amp;user=uijRTzgAAAAJ" target="_blank" rel="noopener">Google scholar Morena Avitia</a>
