@@ -13,12 +13,12 @@ Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 E-mail: <a href="mailto:morena.avitia@iecologia.unam.mx">morena.avitia@iecologia.unam.mx</a>
 
 &nbsp;
-- <a href="..#semblanza">Semblanza</a>
-- <a href="..#noticias">Noticias</a>
+- <a href="#semblanza">Semblanza</a>
+- <a href="#noticias">Noticias</a>
 - <a href="#proyectos">Proyectos</a>
-- <a href="../?p=2781#publicaciones">Publicaciones</a>
-- <a href="../?p=2781#colaboradores">Colaboradores</a>
-- <a href="../?p=2781#cursos">Cursos</a>
+- <a href="#publicaciones">Publicaciones</a>
+- <a href="#colaboradores">Colaboradores</a>
+- <a href="#cursos">Cursos</a>
 <h2 id="semblanza">Semblanza</h2>
 Morena Avitia es Bióloga por la Facultad de Ciencias de la UNAM y obtuvo un doctorado en Ciencias Biomédicas también en la UNAM. Su trabajo se ha desarrollado en el ámbito de la microbiología, la genética de poblaciones y la ecología microbiana utilizando herramientas genómicas en distintos ecosistemas como aguas continentales, suelos áridos y de uso agrícola, bio-reactores y muestras industriales de panificación. 
 
