@@ -26,8 +26,9 @@ También he sido profesora de asignatura en la Facultad de Ciencias de la UNAM (
 <h2 id="noticias">Noticias</h2>
 &nbsp;
 <h2 id="proyectos">Proyectos</h2>
-<h4>PAPIIT - UNAM</h4>
-Relación diversidad-función en suelos de bosque y desierto
+<h4>PAPIIT - UNAM: La relevancia funcional de la diversidad microbiana en suelos, suelos forestales y áridos como modelos de estudio
+</h4>
+
 
 <h2 id="publicaciones">Publicaciones</h2>
 <a href="https://academic.oup.com/femsle/article-abstract/368/4/fnab012/6129800" target="_blank" rel="noopener">Soil microbial composition and carbon mineralization are associated with vegetation type and temperature regime in mesocosms of a semiarid ecosystem</a>
@@ -46,3 +47,4 @@ Click [<a href="/assets/morena files/EcologiaMicrobiana_temario_2020.pdf" target
 
 <h2>En la red</h2>
 <a href="https://scholar.google.com.mx/citations?hl=en&amp;user=uijRTzgAAAAJ" target="_blank" rel="noopener">Google scholar Morena Avitia</a>
+
