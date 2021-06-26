@@ -47,7 +47,7 @@ Click [<a href="/assets/morena files/EcologiaMicrobiana_temario_2020.pdf" target
 
 <h2>En la red</h2>
 <a href="https://scholar.google.com.mx/citations?hl=en&amp;user=uijRTzgAAAAJ" target="_blank" rel="noopener">Google scholar Morena Avitia</a>
-  <img src="/assets/morena files/instagram 60x60.png" width="60px"><a href="https://www.instagram.com/microbiomas/" target="_blank" rel="noopener">Instagram: Lab de Ecología Microbiana</a>
+  <img src="/assets/morena files/instagram-60x60.png" width="60px"><a href="https://www.instagram.com/microbiomas/" target="_blank" rel="noopener">Instagram: Lab de Ecología Microbiana</a>
 
 
 
