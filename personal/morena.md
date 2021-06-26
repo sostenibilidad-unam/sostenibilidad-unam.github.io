@@ -26,7 +26,8 @@ También he sido profesora de asignatura en la Facultad de Ciencias de la UNAM (
 <h2 id="noticias">Noticias</h2>
 &nbsp;
 <h2 id="proyectos">Proyectos</h2>
-<h4>PAPIIT - UNAM: La relevancia funcional de la diversidad microbiana en suelos, suelos forestales y áridos como modelos de estudio</h4>
+<h4>
+PAPIIT - UNAM: La relevancia funcional de la diversidad microbiana en suelos, suelos forestales y áridos como modelos de estudio</h4>
 En este proyecto investigamos la contribución de la diversidad microbiana en procesos ecosistémicos específicos (fijación de N y C), usando como modelo de estudio dos ecosistemas contrastantes pero representativos de un gran porcentaje del territorio y de la biodiversidad nacional: costras biológicas de suelos áridos (CBS) y suelos de bosques templados (SBT). Trabajamos con muestras de CBS de dos ecosistemas áridos de México (Cuatro Ciénegas, Coahuila y Valle de Guadalupe, Baja California) y con muestras de SBT de suelos alpinos del Nevado de Toluca (en un gradiente altitudinal y contrastante en uso de suelo: conservación Vs. forestal/agrícola).
 
 <h2 id="publicaciones">Publicaciones</h2>
