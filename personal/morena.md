@@ -26,6 +26,7 @@ También he sido profesora de asignatura en la Facultad de Ciencias de la UNAM (
 <h2 id="noticias">Noticias</h2>
 &nbsp;
 <h2 id="proyectos">Proyectos</h2>
+&nbsp;
 <h4>PAPIIT - UNAM: La relevancia funcional de la diversidad microbiana en suelos, suelos forestales y áridos como modelos de estudio
 </h4>
 En este proyecto investigamos la contribución de la diversidad microbiana en procesos ecosistémicos específicos (fijación de N y C), usando como modelo de estudio dos ecosistemas contrastantes pero representativos de un gran porcentaje del territorio y de la biodiversidad nacional: costras biológicas de suelos áridos (CBS) y suelos de bosques templados (SBT). Trabajamos con muestras de CBS de dos ecosistemas áridos de México (Cuatro Ciénegas, Coahuila y Valle de Guadalupe, Baja California) y con muestras de SBT de suelos alpinos del Nevado de Toluca (en un gradiente altitudinal y contrastante en uso de suelo: conservación Vs. forestal/agrícola).
@@ -47,8 +48,8 @@ Click [<a href="/assets/morena files/EcologiaMicrobiana_temario_2020.pdf" target
 
 <h2>En la red</h2>
 <a href="https://scholar.google.com.mx/citations?hl=en&amp;user=uijRTzgAAAAJ" target="_blank" rel="noopener">Google scholar Morena Avitia</a>
-&nbsp;
-<img src="/assets/morena files/instagram-60x60.png" width="20px"><a href="https://www.instagram.com/microbiomas/" target="_blank" rel="noopener">  Lab de Ecología Microbiana</a>
+&nbsp;&nbsp;
+<img src="/assets/morena files/instagram-60x60.png" width="20px">&nbsp;<a href="https://www.instagram.com/microbiomas/" target="_blank" rel="noopener">  Lab de Ecología Microbiana</a>
 
 
 
