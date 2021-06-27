@@ -29,22 +29,8 @@ Entérate <a href="https://academic.oup.com/femsle/article-abstract/368/4/fnab01
 <h2 id="proyectos"><img class="alignnone size-medium wp-image-2768" src="/assets/morena files/GraphicalAbstractFinal.png" alt="" width="700"/></h2>
 Descarga <a href="/assets/morena files/Avitia_2021_FEMSMicLet.pdf" target="_blank" rel="noopener">aquí</a> el artículo.
 &nbsp;
-  <table border="0px"> 
-           <tr>
-              <td><img class="alignnone  wp-image-2794" src="/assets/morena files/DNA SIP.jpg" alt="" width="400" height="300" /></td>
-              <td>Abril Mayo 2019
-             Trabajo de campo para el proyecto PAPIIT
-             </td>
-          </tr>
-          <tr>
-              <td>NOTICIA 1</td>
-              <td>NOTICIA 2</td>
-          </tr>
-  <tr>
-              <td>FECHA 1</td>
-              <td>fECHA 2</td>
-          </tr>
-        </table>
+<h4>Abril-Mayo 2019</h4>
+Primera colecta de muestras para el proyecto PAPIIT <img class="alignnone size-medium wp-image-2768" src="/assets/morena files/papiit-colecta.png" alt="" width="700"/></h2>
 
 <h2 id="proyectos">Proyectos</h2>
 <h4>
