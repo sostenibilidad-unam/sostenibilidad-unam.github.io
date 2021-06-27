@@ -24,6 +24,9 @@ He participado en distintos proyectos de investigación en el Laboratorio Nacion
 
 También he sido profesora de asignatura en la Facultad de Ciencias de la UNAM (2008-2013) y desde 2018 he participado como profesora del curso de Ecología Microbiana impartido por el Posgrado en Ciencias Biológicas y por el Doctorado en Ciencias Biomédicas de la UNAM.
 <h2 id="noticias">Noticias</h2>
+<h4>Febrero 2021</h4>
+Entérate <a href="https://academic.oup.com/femsle/article-abstract/368/4/fnab012/6129800" target="_blank" rel="noopener">aquí</a> del trabajo que hicimos en<a href="https://biosphere2.org/research/projects/landscape-evolution-observatory" target="_blank" rel="noopener"> Biósfera 2.</a>
+<h2 id="proyectos"><img class="alignnone size-medium wp-image-2768" src="/assets/morena files/GraphicalAbstractFinal.png" alt="" width="700"/></h2>
 &nbsp;
 <h2 id="proyectos">Proyectos</h2>
 <h4>
