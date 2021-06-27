@@ -6,9 +6,11 @@ permalink: /personal/morena_avitia
 
 <img src="/assets/morena files/Morena-Avitia-Foto.png" width="350px">
 <h1>Dra. Morena Avitia Cao Romero</h1>
-Técnica Académica
+Técnica Académica,
+&nbsp;
 Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
+&nbsp;
 &nbsp;
 E-mail: <a href="mailto:morena.avitia@iecologia.unam.mx">morena.avitia@iecologia.unam.mx</a>
 
@@ -30,7 +32,7 @@ Entérate <a href="https://academic.oup.com/femsle/article-abstract/368/4/fnab01
 Descarga <a href="/assets/morena files/Avitia_2021_FEMSMicLet.pdf" target="_blank" rel="noopener">aquí</a> el artículo completo.
 &nbsp;
 <h4>Junio-Septiembre 2019</h4>
-Estandarización de la técnica de DNA-SIP<img class="alignnone size-medium wp-image-2768" src="/assets/morena files/Tecnica-DNA-SIPS.jpg" alt="" width="700"/>
+Estandarización de la técnica de <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3156007/" target="_blank" rel="noopener"> DNA-SIP</a><img class="alignnone size-medium wp-image-2768" src="/assets/morena files/Tecnica-DNA-SIPS.jpg" alt="" width="700"/>Aprende más sobre esta técnica <a href="https://www.nature.com/articles/nrmicro1162" target="_blank" rel="noopener">  aquí.</a>
 &nbsp;
 <h4>Abril-Mayo 2019</h4>
 Primera colecta de muestras para el proyecto PAPIIT <img class="alignnone size-medium wp-image-2768" src="/assets/morena files/papiit-colecta.png" alt="" width="700"/>
