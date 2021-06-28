@@ -59,7 +59,7 @@ Click [<a href="/assets/morena files/EcologiaMicrobiana_temario_2020.pdf" target
 
 &nbsp;
 <h2>En la red</h2>
-<img class="alignnone  wp-image-2794" src="/assets/morena files/GOOGLE SCHOLAR LOGO.png" alt="" width="31" height="31" /> <a href="https://scholar.google.com.mx/citations?hl=en&amp;user=uijRTzgAAAAJ" target="_blank" rel="noopener">Morena Avitia</a>
+<img class="alignnone  wp-image-2794" src="/assets/morena files/GOOGLE SCHOLAR LOGO.png" alt="" width="39" height="39" /> <a href="https://scholar.google.com.mx/citations?hl=en&amp;user=uijRTzgAAAAJ" target="_blank" rel="noopener">Morena Avitia</a>
 
 <img class="alignnone  wp-image-2794" src="/assets/morena files/instagram-60x60.png" alt="" width="31" height="31" /> <a href="https://www.instagram.com/microbiomas/" target="_blank" rel="noopener">Lab de Ecología Microbiana</a>
 
