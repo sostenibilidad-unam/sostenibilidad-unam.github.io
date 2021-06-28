@@ -7,11 +7,10 @@ permalink: /personal/morena_avitia
 <img src="/assets/morena files/Morena-Avitia-Foto.png" width="350px">
 <h1>Dra. Morena Avitia Cao Romero</h1>
 Técnica Académica,
-&nbsp;
+
 Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
-&nbsp;
-&nbsp;
+
 E-mail: <a href="mailto:morena.avitia@iecologia.unam.mx">morena.avitia@iecologia.unam.mx</a>
 
 - <a href="#semblanza">Semblanza</a>
