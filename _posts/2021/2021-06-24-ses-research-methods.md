@@ -15,9 +15,9 @@ Systems provides a synthetic guide to the range of methods that can be
 employed in social-ecological systems research. 
 This book is open access and was written by 97 authors in 16 countries.
 
-"The great strength of this handbook is that, for the first time, the
+_"The great strength of this handbook is that, for the first time, the
 wide range of approaches that are currently being tried is presented
-together in one volume" (Frances Westley in book's Foreword).
+together in one volume" (Frances Westley in book's Foreword)._
 
 
 [Click here to download the handbook - Link para descargar el libro](https://doi.org/10.4324/9781003021339)
