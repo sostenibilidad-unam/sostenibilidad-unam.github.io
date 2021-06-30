@@ -5,7 +5,7 @@ image: /assets/ses_handbook.jpg
 date: 2021-06-24
 ---
 
-El libro titulado _Routledge Handbook of Research Methods for Social-Ecological Systems_ proporciona una guía sintética de la gama de métodos que pueden emplearse en la investigación de sistemas socio-ecológicos. Este libro es de acceso abierto y fue escrito por 97 autores en 16 países. Colegas del LANCIS-IE-UNAM y del IIMAS-UNAM contribuyeron en el desarollo de un capítulo.
+El libro titulado _The Routledge Handbook of Research Methods for Social-Ecological Systems_ proporciona una guía sintética de la gama de métodos que pueden emplearse en la investigación de sistemas socio-ecológicos. Este libro es de acceso abierto y fue escrito por 97 autores en 16 países. Colegas del LANCIS-IE-UNAM y del IIMAS-UNAM contribuyeron en el desarollo de un capítulo.
 
 
 <img src="/assets/ses_handbook.jpg" width="40%" />
