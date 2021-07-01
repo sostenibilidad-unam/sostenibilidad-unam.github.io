@@ -47,7 +47,7 @@ Título de la investigación: _"Promoviendo Vías de Transformación hacia la So
 ### Semblanza
 - Licenciatura en Biología (UNAM); Maestría en Derecho, Gestión y Política Ambientales (UAX); Maestría en Planeación y Gestión Ambiental (IHE Delft, Holanda); Candidata a doctora, Posgrado en Ciencias de la Sostenibilidad (UNAM).
 
-- Involucrada en proyectos de educación y creación de capacidades relacionados a manejo de humedales, gobernanza del agua y ciencias de la sostenibilidad.
+- Proyectos de educación y creación de capacidades relacionados a manejo de humedales, gobernanza del agua y ciencias de la sostenibilidad.
 - Diseño y coordinación de proyectos de fortalecimiento y creación de capacidades bajo enfoques de aprendizaje formal y no formal. 
 - Diseño de esquemas de gobernanza colaborativa dentro del contexto de los procesos de decisión y gestión de sistemas socio-ecológicos.
 - Facilitación de procesos participativos con grupos transdisciplinarios, multiculturales o transfronterizos.
