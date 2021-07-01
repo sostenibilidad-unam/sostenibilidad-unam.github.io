@@ -23,14 +23,16 @@ permalink: /personal/lakshmi
 
 
 ### Proyectos actuales
-- [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/methods/);  _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/lanzamiento/)_
-- [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
+- [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/methods/);  _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/lanzamiento/)_ (STEPS Centre 2021)
 - Desarrollo de una plataforma para el análisis del impacto de proyectos de sostenibilidad en México (PAPIIT 2021)
+- Fortalecimiento de capacidades para el manejo sostenible del agua en comunidades de la Cuenca del Río Grande de Comitán-Lagos de Montebello, Chiapas (Fundación Gonzalo Río Arronte 2020-2023)
+- [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
 
 
 ### Intereses académicos
 - Gobernanza del agua y ciencias de la sostenibilidad
 - Transformaciones hacia la sostenibilidad
+- Agencia colectiva
 
 Título de la investigación: _"Promoviendo Vías de Transformación hacia la Sostenibilidad a través de la agencia colectiva: el Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco"_
 
@@ -39,6 +41,7 @@ Título de la investigación: _"Promoviendo Vías de Transformación hacia la So
 - Herramientas para la investigación transdisciplinaria (1er semestre, [Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/), sede C.U.)
 - Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos (intersemestral, [Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/), sede C.U.)
 - Wetlands for livelihoods and conservation (anual, [IHE Delft](http://www.un-ihe.org/))
+- Water Stewardship in Action for Water and Food Security (anual, [Wageningen Centre for Development Innovation](https://www.wur.nl/en/show/Water-Stewardship-in-Action-for-Water-and-Food-Security-1.htm))
 
 
 ### Semblanza
