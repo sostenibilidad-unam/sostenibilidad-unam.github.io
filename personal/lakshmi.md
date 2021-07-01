@@ -41,7 +41,7 @@ Título de la investigación: _"Promoviendo Vías de Transformación hacia la So
 - Herramientas para la investigación transdisciplinaria (1er semestre, [Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/), sede C.U.)
 - Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos (intersemestral, [Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/), sede C.U.)
 - Wetlands for livelihoods and conservation (anual, [IHE Delft](http://www.un-ihe.org/))
-- Water Stewardship in Action for Water and Food Security (anual, [Wageningen Centre for Development Innovation](https://www.wur.nl/en/show/Water-Stewardship-in-Action-for-Water-and-Food-Security-1.htm))
+- Water stewardship in action for water and food security (anual, [Wageningen Centre for Development Innovation](https://www.wur.nl/en/show/Water-Stewardship-in-Action-for-Water-and-Food-Security-1.htm))
 
 
 ### Semblanza
