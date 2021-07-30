@@ -14,6 +14,7 @@ permalink: /personal/lakshmi
 
 ### En la red
 * [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph)
+* [ORCiD](https://orcid.org/0000-0003-1524-3323)
 * [LinkedIn](https://www.linkedin.com/in/lakshmi-charli-joseph-60209712/)
 * [Transformations to Sustainability Programme](https://transformationstosustainability.org/people/lakshmi-charli-joseph/)
 * [STEPS Centre - North America Sustainability Hub](http://steps-centre.org/global/north-america/)
@@ -22,14 +23,16 @@ permalink: /personal/lakshmi
 
 
 ### Proyectos actuales
-- [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/methods/);  _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/lanzamiento/)_
-- [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
+- [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/methods/);  _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/lanzamiento/)_ (STEPS Centre 2021)
 - Desarrollo de una plataforma para el análisis del impacto de proyectos de sostenibilidad en México (PAPIIT 2021)
+- Fortalecimiento de capacidades para el manejo sostenible del agua en comunidades de la Cuenca del Río Grande de Comitán-Lagos de Montebello, Chiapas (Fundación Gonzalo Río Arronte 2020-2023)
+- [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
 
 
 ### Intereses académicos
 - Gobernanza del agua y ciencias de la sostenibilidad
 - Transformaciones hacia la sostenibilidad
+- Agencia colectiva
 
 Título de la investigación: _"Promoviendo Vías de Transformación hacia la Sostenibilidad a través de la agencia colectiva: el Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco"_
 
@@ -38,12 +41,13 @@ Título de la investigación: _"Promoviendo Vías de Transformación hacia la So
 - Herramientas para la investigación transdisciplinaria (1er semestre, [Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/), sede C.U.)
 - Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos (intersemestral, [Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/), sede C.U.)
 - Wetlands for livelihoods and conservation (anual, [IHE Delft](http://www.un-ihe.org/))
+- Water stewardship in action for water and food security (anual, [Wageningen Centre for Development Innovation](https://www.wur.nl/en/show/Water-Stewardship-in-Action-for-Water-and-Food-Security-1.htm))
 
 
 ### Semblanza
 - Licenciatura en Biología (UNAM); Maestría en Derecho, Gestión y Política Ambientales (UAX); Maestría en Planeación y Gestión Ambiental (IHE Delft, Holanda); Candidata a doctora, Posgrado en Ciencias de la Sostenibilidad (UNAM).
 
-- Involucrada en proyectos de educación y creación de capacidades relacionados a manejo de humedales, gobernanza del agua y ciencias de la sostenibilidad.
+- Proyectos de educación y creación de capacidades relacionados a manejo de humedales, gobernanza del agua y ciencias de la sostenibilidad.
 - Diseño y coordinación de proyectos de fortalecimiento y creación de capacidades bajo enfoques de aprendizaje formal y no formal. 
 - Diseño de esquemas de gobernanza colaborativa dentro del contexto de los procesos de decisión y gestión de sistemas socio-ecológicos.
 - Facilitación de procesos participativos con grupos transdisciplinarios, multiculturales o transfronterizos.
@@ -56,6 +60,7 @@ Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning an
 <img src="/assets/Xochi2.jpeg" width="350px">          <img src="/assets/LCJenXochi.jpg" width="320px">
 
 ## Publicaciones
+* Drimie S, Magner C, Pereira L, Charli-Joseph L, Moore ML, Olsson P, Siqueiros-Garcia, JM and Zgambo O. 2021. **Facilitated dialogues**. In _The Routledge Handbook of Research Methods for Social-Ecological Systems_ (Eds. Biggs R, de Vos A, Preiser R, Clements H, Maciejewski K and Schlüter M). (pp. 136-147) (2021):526, Routledge. [link](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003021339-12/facilitated-dialogues-scott-drimie-colleen-magner-laura-pereira-lakshmi-charli-joseph-michele-lee-moore-per-olsson-jes%C3%BAs-mario-siqueiros-garcia-olive-zgambo?context=ubx&refId=1a7e75d9-1972-4259-940b-aa8e2765f9f5)
 * Manuel-Navarrete D, Charli-Joseph L, Eakin H, & Siqueiros-Garcia JM. 2021. **Applying Technologies of the Self in Transformation Labs to Mobilize Collective Agency**. _Social Innovations Journal_, 5. [link](https://socialinnovationsjournal.com/index.php/sij/article/view/696)
 * Fazey I, Schäpke N, Caniglia G, Hodgson A, Kendrick I, Lyon C, Page G, Patterson J, .... Charli-Joseph L, .... & Young HR. 2020. **Transforming knowledge systems for life on Earth: Visions of future systems and how to get there**. _Energy Research & Social Science_, 70, 101724. [link](https://www.sciencedirect.com/science/article/pii/S2214629620302991)
 * Ely A, Marin A, Charli-Joseph L, Abrol D, Apgar M, Atela J, Ayre B, Byrne R, Choudhary BK, Chengo V, Cremaschi A, Davis R, Desai P, Eakin H, Kushwaha P, Marshall F, Mbeva K, Ndege N, Ochieng C, Ockwell D, Olsson P, Oxley N, Pereira L, Priya R, Tigabu A, Van Zwanenberg P, Yang L. 2020. **Structured Collaboration Across a Transformative Knowledge Network—Learning Across Disciplines, Cultures and Contexts?**. _Sustainability_ 12(6),2499. [link](https://www.mdpi.com/2071-1050/12/6/2499)
