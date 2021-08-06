@@ -5,7 +5,8 @@ image: /assets/Chambers-et-al-Co-prod-Graph.png
 date: 2021-08-06
 ---
 
-### Seis formas de vincular conocimientos y acciones para la sostenibilidad
+# Seis formas de vincular conocimientos y acciones para la sostenibilidad
+
 _Lakshmi Charli-Joseph_ 
 
 _Extractos traducidos a partir del blog [“The hitchhiker’s guide to co-production: Six ways to link knowledge and action for sustainability”](https://blogs.lse.ac.uk/impactofsocialsciences/2021/08/06/the-hitchhikers-guide-to-co-production-six-ways-to-link-knowledge-and-action-for-sustainability/) 
