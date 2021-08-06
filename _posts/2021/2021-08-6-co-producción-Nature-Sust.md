@@ -5,9 +5,7 @@ image: /assets/Chambers-et-al-Co-prod-Graph.png
 date: 2021-08-06
 ---
 
-Nueva publicación sobre modos de co-producción
-
-_Lakshmi Charli-Joseph_ 
+-Nueva publicación sobre modos de co-producción-
 
 _Extractos traducidos a partir del blog [“The hitchhiker’s guide to co-production: Six ways to link knowledge and action for sustainability”](https://blogs.lse.ac.uk/impactofsocialsciences/2021/08/06/the-hitchhikers-guide-to-co-production-six-ways-to-link-knowledge-and-action-for-sustainability/) 
 (Autores: Josephine Chambers, Henrik Österblom, Lakshmi Charli-Joseph, Jessica Cockburn, Ro Hill, Ruth Brennan)_
