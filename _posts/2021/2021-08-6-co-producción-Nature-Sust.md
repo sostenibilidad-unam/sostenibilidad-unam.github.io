@@ -26,8 +26,7 @@ En respuesta a esto, 42 académicos practicantes y profundamente involucrados en
 32 iniciativas de sostenibilidad que conectan diversos sectores, y que han sido implementadas en diferentes escalas y continentes. 
 A través de este proceso se preguntaron: ¿En qué se diferencian los enfoques? ¿Por qué? ¿Cuáles son las implicaciones?
 
-Uno de los resultados de esta colaboración se cristalizó en un nuevo estudio llamado ["Seis modos de co-producción para la sostenibilidad"](https://www.nature.com/articles/s41893-021-00755-x), 
-en el que se comparten aprendizajes a través de una herramienta heurística diseñada para apoyar a diversos agentes de cambio 
+Uno de los resultados de esta colaboración se cristalizó en un nuevo estudio que coordinó la [Dra. Josie Chambers](https://www.wur.nl/en/Persons/Josephine-JM-Josephine-Chambers-PhD.htm)) y se nombra ["Seis modos de co-producción para la sostenibilidad"](https://www.nature.com/articles/s41893-021-00755-x). En este estudio se comparten aprendizajes a través de una herramienta heurística diseñada para apoyar a diversos agentes de cambio 
 (investigadores, formuladores de políticas públicas, activistas, líderes comunitarios y directores ejecutivos) para reflexionar sobre cómo intentar vincular diversos 
 conocimientos y acciones para la sostenibilidad. Los seis modos que se identifican en este estudio varían en su propósito de utilizar la co-producción, 
 en su comprensión del poder, en su enfoque político y en las vías hacia el impacto. Estas diferencias influyen en los tipos de resultados posibles, así como en los riesgos 
