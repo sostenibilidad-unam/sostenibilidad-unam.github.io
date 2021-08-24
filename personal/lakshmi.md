@@ -83,14 +83,12 @@ Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning an
 *	Charli-Joseph L, Bojórquez-Tapia L, Gómez-Priego P, Pedroza-Páez D. 2012. **A capacity building programme for sustainability: key competencies through formal and non-formal approaches**. Published in the _Proceedings of INTED2012 Conference_ ISBN: 978-84-615-5563-5. 5th-7th March 2012, Valencia, Spain. [link](https://library.iated.org/view/CHARLIJOSEPH2012ACA)
 
 
-### [RESOURCES TO SUPPORT PARTICIPATORY RESEARCH IN SOCIAL-ECOLOGICAL SYSTEMS](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/)
+## [RESOURCES TO SUPPORT PARTICIPATORY RESEARCH IN SOCIAL-ECOLOGICAL SYSTEMS](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/)
 - VIDEO: [‘Del desarraigo al arraigo, y de las trampas a la transformación: Voces de Xochimilco’](https://steps-centre.org/publication/from-being-rooted-to-uprooted-and-from-trapped-to-transformed-voices-of-xochimilco/) / [‘From Being Rooted to Uprooted, and from Trapped to Transformed’](https://steps-centre.org/publication/from-being-rooted-to-uprooted-and-from-trapped-to-transformed-voices-of-xochimilco/)
-- GUÍA: [El Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco, CdMx: Narrativa del proceso y guía metodológica](https://steps-centre.org/wp-content/uploads/2019/09/Gui%CC%81a-T-Lab-Xochi-Descargable-versio%CC%81n-pantalla-Espan%CC%83ol-Hub-NA.pdf)
-- GUIDE: [The Transformation Laboratory of the social-ecological system of Xochimilco, Mexico City: Description of the process and methodological guide](https://steps-centre.org/wp-content/uploads/2019/09/Guide-T-Lab-Xochi-screen-version-English-NA-Hub.pdf)
+- GUÍA: [El Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco, CdMx: Narrativa del proceso y guía metodológica](https://steps-centre.org/wp-content/uploads/2019/09/Gui%CC%81a-T-Lab-Xochi-Descargable-versio%CC%81n-pantalla-Espan%CC%83ol-Hub-NA.pdf) / GUIDE: [The Transformation Laboratory of the social-ecological system of Xochimilco, Mexico City: Description of the process and methodological guide](https://steps-centre.org/wp-content/uploads/2019/09/Guide-T-Lab-Xochi-screen-version-English-NA-Hub.pdf)
+- GUIDE: [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
 
-### [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
-
-### STEPS Centre North America Hub - T-Lab Project blog posts
+## STEPS Centre North America Hub - T-Lab Project blog posts
 *	[How rethinking local people's agency could help navigate Xochimilco's troubled waters](https://steps-centre.org/blog/new-forms-agency-help-navigate-xochimilcos-troubled-waters/)
 *	[A day in the chinampas](https://steps-centre.org/blog/a-day-in-the-chinampas/)
 *	[What 'Agency' do researchers have in transformative research projects?](https://steps-centre.org/blog/agency-researchers-transformative-research-projects/)
