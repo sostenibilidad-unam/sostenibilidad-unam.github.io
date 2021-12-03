@@ -5,7 +5,7 @@ permalink: /personal/paola_garcia
 ---
 <img src="/assets/garcia_meneses_files/PMGM foto.jpeg" width="300px">
 
-Acreditada en el Posgrado de Ciencias de la Sostenibilidad (PCS): Nivel Maestría. Disponible como tutor principal (dirección de alumnos).
+Acreditada en el Posgrado de Ciencias de la Sostenibilidad (PCS): Nivel Maestría y doctorado. Disponible como tutor principal (dirección de alumnos).
 
 # Adscripción
 
@@ -17,6 +17,11 @@ Acreditada en el Posgrado de Ciencias de la Sostenibilidad (PCS): Nivel Maestrí
 
 - Bióloga egresada de la Facultad de Ciencias de la UNAM, cuenta con un Doctorado en Ciencias de la Universidad de Plymouth, Reino Unido. Su trabajo se ha centrado principalmente en el estudio de procesos socio-ecológicos a diferentes escalas temporales y espaciales, desde el estudio de procesos como la polinización hasta procesos de cambio global principalmente en sistemas Latinoamericanos. Dentro de su carrera profesional ha ocupado puestos en el sector público como Subdirectora de Conservación de las Comunidades Biológicas y Adaptación al Cambio Climático, así como en organizaciones como las Naciones Unidas y academia. Cuenta con artículos publicados en revistas internacionales, reportes técnicos y capítulos de libros. Actualmente es investigadora del Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS), Instituto de Ecología de la UNAM donde continúa trabajando en proyectos en las áreas de vulnerabilidad, adaptación y resiliencia a cambios globales, monitoreo y evaluación de sistemas socio-ecológicos, así como la investigación de impacto y vinculación de la ciencia promoviendo el involucramiento de otros sectores clave para la toma de decisiones. Ha impartido clases en el Reino Unido, Ecuador y México. Es representante dentro de los Comités de Trabajo de Cambio Climático y Ciudades Sostenibles de la Red de Soluciones de Desarrollo Sostenible (SDSN) de la ONU entre otros.
 
+# En la red
+* [ResearchGate](https://www.researchgate.net/profile/Paola-Garcia-Meneses)
+* [ORCiD](https://orcid.org/0000-0001-8065-399X)
+* [LinkedIn](https://www.linkedin.com/in/paola-m-garc%C3%ADa-meneses-95238b42/)
+* [Asesora Científica - UMBELA A.C.](https://umbela.org/)
 
 # Información de contacto
 
@@ -76,9 +81,10 @@ tradicional con miras a crear resiliencia y propiciar la adaptación frente al c
 
 - Proyecto: "Vulnerabilidad Socio-Ambiental de Río Grande-Lagos de Montebello, Chiapas".
 - Proyecto: "Estratégia de vinculación académia-gobierno-sociedad civil encaminados a la transdisciplina"
-- Proyecto: "Transición a la ganadería sostenible en Los Tuxtlas"
 
 # Líneas de Investigación
+
+- Vinculación y generación de impacto en proyectos de sostenibilidad
 
 - Cambio global, vulnerabilidad y resiliencia
 
