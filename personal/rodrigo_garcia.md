@@ -4,7 +4,7 @@ title: ""
 permalink: /personal/rodrigo_garcia
 ---
 
-# Ing. Rodrigo García Herrera
+# M.Sc. Rodrigo García Herrera
 
 - Técnico Académico Asociado "C"
 - Laboratorio Nacional de Ciencias de la Sostenibilidad
