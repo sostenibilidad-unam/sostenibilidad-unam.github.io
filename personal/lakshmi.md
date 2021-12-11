@@ -23,7 +23,7 @@ permalink: /personal/lakshmi
 
 
 ### Proyectos actuales
-- [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/methods/);  _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/lanzamiento/)_ (STEPS Centre 2021)
+- [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/blog/challenging-research/); _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/cultivando-saberes/)_ (STEPS Centre 2021)
 - Desarrollo de una plataforma para el análisis del impacto de proyectos de sostenibilidad en México (PAPIIT 2021)
 - Fortalecimiento de capacidades para el manejo sostenible del agua en comunidades de la Cuenca del Río Grande de Comitán-Lagos de Montebello, Chiapas (Fundación Gonzalo Río Arronte 2020-2023)
 - [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
