@@ -4,7 +4,7 @@ title: "SGC - Manual de Calidad"
 permalink: /SGC/MC/
 ---
 
- - [Manual de Calidad](MC-v3.pdf)
+ - [Manual de Calidad](MC-v4.pdf)
 
  - [Programa Anual](FPA-v0.docx)
  - [Plan de Integridad](FPI-v0.docx)
