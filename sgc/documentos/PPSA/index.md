@@ -4,7 +4,7 @@ title: "SGC - Procedimiento de Personal y Superación Académica"
 permalink: /SGC/PPSA/
 ---
 
- - [Procedimiento de Personal y Superación Académica](PPSA-v1.pdf)
+ - [Procedimiento de Personal y Superación Académica](PPSA-v2.pdf)
 
  - [Curso de Inducción al LANCIS](curso-induccion-LANCIS.pdf)
  - [Formato de Detección de Necesidades de Formación](FDNF-v2.docx)
