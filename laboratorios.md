@@ -43,3 +43,6 @@ laboratorios de investigación equipados para la preservación de
 muestras y su análisis a nivel genético y fisicoquímico. Cuenta con
 instalaciones de gas LP, vacio, agua destilada así como equipo
 especial de laboratorio y computo.
+
+
+[Formulario para acceso](https://docs.google.com/forms/d/1tjrhUDIc70Sc1_ItwX5vgzIKtFMGuc1Hj4O1qsVxyng/)
