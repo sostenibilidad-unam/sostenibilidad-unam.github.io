@@ -10,7 +10,7 @@ permalink: /SGC/MC/
  - [Plan de Integridad](FPI-v0.docx)
  
  
- - [Programa de Mantenimiento de Equipos](FPME-v1.xlsx)
+ - [Programa de Mantenimiento de Equipos](FPME-v2.xlsx)
  - [Formato de Control de  Equipos de Laboratorio](FCEL-v0.docx)
 
 
