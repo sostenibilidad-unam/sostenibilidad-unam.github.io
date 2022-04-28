@@ -8,6 +8,8 @@ layout: post
 Publicación sobre la Infraestructura ciclista virtual: fuerza en números para más seguridad al pedalear de Rodrigo García-Herrera y
 Paola Massyel García-Meneses.
 
+<iframe src="https://archive.org/embed/ride_100bikes_uacm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 Rodrigo García-Herrera y Paola Massyel García-Meneses, presentan en clave feminista 
 una aplicación móvil para grupos de ciclistas que, desafiando la ausencia o deficiencia 
 de infraestructura vial, apuesta por lo gregario y por los principios de autoorganización 
