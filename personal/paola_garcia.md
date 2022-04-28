@@ -23,6 +23,7 @@ Acreditada en el Posgrado de Ciencias de la Sostenibilidad (PCS): Nivel Maestrí
 * [LinkedIn](https://www.linkedin.com/in/paola-m-garc%C3%ADa-meneses-95238b42/)
 * [Asesora Científica - UMBELA A.C.](https://umbela.org/)
 * [Comité Asesor - SUSMAI](https://susmai.unam.mx/seminario/)
+* [Advisory Council - Interdisciplinary Environmental Association](https://www.ieaonline.org/advisory)
 
 # Información de contacto
 
