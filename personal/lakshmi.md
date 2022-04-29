@@ -18,6 +18,7 @@ permalink: /personal/lakshmi
 * [LinkedIn](https://www.linkedin.com/in/lakshmi-charli-joseph-60209712/)
 * [Transformations to Sustainability Programme](https://transformationstosustainability.org/people/lakshmi-charli-joseph/)
 * [STEPS Centre - North America Sustainability Hub](http://steps-centre.org/global/north-america/)
+* [Consejo Asesor - SUSMAI-UNAM](https://susmai.unam.mx/seminario/)
 * [Consejo Asesor Científico - REDES A.C.](https://www.redesmx.org/nosotros.html)
 * [Asesora Científica - UMBELA A.C.](https://umbela.org/)
 
