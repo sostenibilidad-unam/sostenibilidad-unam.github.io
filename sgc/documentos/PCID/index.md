@@ -4,7 +4,7 @@ title: "SGC - Procedimiento de Control de Información Documentada"
 permalink: /SGC/PCID/
 ---
 
- - [Procedimiento de Control de Información Documentada](PCID-21.pdf)
+ - [Procedimiento de Control de Información Documentada](PCID-v3.pdf)
 
  - [Formato: Bitácora de Copias de Documentos Controlados](FBCD-v0.docx)
  - [Formato: Manual de Calidad](FMC-v0.doc)

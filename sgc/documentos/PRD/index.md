@@ -4,7 +4,7 @@ title: "SGC - Procedimiento de Revisión por la Dirección"
 permalink: /SGC/PRD/
 ---
 
- - [Procedimiento de Revisión por la Dirección](PRD-v1.pdf)
+ - [Procedimiento de Revisión por la Dirección](PRD-v2.pdf)
  - [Formato de Revisión por la Dirección](FRD-v0.pdf)
 
 
