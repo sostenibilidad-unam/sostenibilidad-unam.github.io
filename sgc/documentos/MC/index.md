@@ -11,7 +11,7 @@ permalink: /SGC/MC/
  
  
  - [Programa de Mantenimiento de Equipos](FPME-v2.xlsx)
- - [Formato de Control de  Equipos de Laboratorio](FCEL-v0.docx)
+
 
 
  - [Plan de Calidad, creación de capacidades](PC.01-v2.pdf)
