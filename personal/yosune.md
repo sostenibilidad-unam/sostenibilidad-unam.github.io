@@ -11,7 +11,7 @@ permalink: /personal/yosune
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 - Email: yosune@iecologia.unam.mx
-- Perfil Reserachgate: [Yosune Miquelajauregui](https://www.researchgate.net/profile/Yosune_Miquelajauregui/publications)
+- Perfil Researchgate: [Yosune Miquelajauregui](https://www.researchgate.net/profile/Yosune_Miquelajauregui/publications)
 - Otros perfiles: [Centre d'étude de la fôret-CEF](http://www.cef-cfr.ca/index.php?n=MEmbres.YosuneMiquelajauregui)
 
 ## Línea de Investigación/Research
