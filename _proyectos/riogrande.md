@@ -6,10 +6,12 @@ coverimg: /assets/riogrande/rio_grande_cover.png
 description: Fortalecimiento de capacidades para el manejo sostenible del agua en comunidades de la cuenca del Río Grande de Comitán-Lagos de Montebello, Chiapas
 ---
 
+Fortalecimiento de capacidades para el manejo sostenible del agua en comunidades de la cuenca del Río Grande de Comitán-Lagos de Montebello, Chiapas número A-408 apoyado por la Fundación Gonzalo Río Arronte y administrado a través de Fundación UNAM.
+
 Consulte [mapa interactivo](http://chiapas.k.vu/lizmap/index.php/view/map/?repository=chiapas2&project=MapaWeb).
 
     
-# Descarga de capas del proyecto: 
+## Descarga de capas del proyecto: 
  
     
 <table>
