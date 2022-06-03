@@ -147,5 +147,12 @@ uso_suelo_2019.zip
 vias_comunicacion.zip
 </a></td>
 </tr>
+<tr>
+<td>Simbología sugerida</td>
+<td>--</td>
+<td><a href="/assets/riogrande/simbolos.zip" download>
+simbolos.zip
+</a></td>
+</tr>
 </table> 
 
