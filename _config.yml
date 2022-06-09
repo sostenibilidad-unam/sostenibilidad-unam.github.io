@@ -168,6 +168,4 @@ collections:
     output: true
 
 
-gems: 
-  - jekyll-paginate
-  - jekyll-redirect-from
+gems: [jekyll-paginate, jekyll-redirect-from]
