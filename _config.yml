@@ -169,3 +169,6 @@ collections:
 
 
 gems: [jekyll-paginate]
+
+plugins:
+  - jekyll-redirect-from
