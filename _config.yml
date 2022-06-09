@@ -168,7 +168,6 @@ collections:
     output: true
 
 
-gems: [jekyll-paginate]
-
-plugins:
+gems: 
+  - jekyll-paginate
   - jekyll-redirect-from
