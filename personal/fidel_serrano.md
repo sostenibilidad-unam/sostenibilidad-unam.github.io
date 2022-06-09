@@ -41,6 +41,18 @@ Especialista en sistemas de información geográfica y cómputo científico. Ha 
 
 Todos los artefactos computacionales están en un repositorio público con control de versiones, para asegurar su resguardo y promover el trabajo colaborativo.
 
+
+### Prototipo para el monitoreo de la gestión del Programa de Ordenamiento Ecológico Territorial del Estado de Yucatán.
+
+Es una interfaz de geovisualización que despliega los datos que serán recopilados de forma dinámica de la plataforma de trámites del gobierno de Yucatán donde se albergan los datos de los proyectos que requieren autorización en materia ambiental.
+
+[<img src="/assets/serranoycandela/monitoreo_yucatan.png" width="600px">](https://gitlab.com/serranoycandela/monitoreo_yucatan)
+
+
+[Repositorio en GitHub](https://gitlab.com/serranoycandela/monitoreo_yucatan)
+
+[Sitio web](http://monitoreo.lee.mx)
+
 ### Geo Value Functions in QGIS
 
 Este es un plugin de QGIS que permite transformar datos geográficos vectoriales o raster en capas con un significado, es una herramienta para extraer conocimiento espacial implícito de expertos en un tema. Es útil en el contexto de la creación de índices compuestos de varios criterios (por ejemplo, índices de vulnerabilidad), así como en la combinación del análisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
