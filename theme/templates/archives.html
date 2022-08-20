@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }} - Archives{% endblock %}
+
+{% block content %}
+
+  <nav class="bg-stone-400">
+    <div class="flex flex-row text-stone-700">
+      {% for title, link in MENUITEMS %}
+      <div>
+	<a class="mainmenu" href="{{ link }}">{{ title }}</a>
+      </div>
+      {% endfor %}
+      
+      {% if DISPLAY_PAGES_ON_MENU %}
+      {% for p in pages %}
+      <div class="hover:bg-slate-600 hover:text-slate-50 py-2 px-4 {% if p == page %} bg-yellow-800 text-yellow-100{% endif %}">
+	<a class="mainmenu" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+      </div>
+      {% endfor %}
+      {% endif %}
+
+      
+      {% if DISPLAY_CATEGORIES_ON_MENU %}
+      {% for cat, null in categories %}
+      <div{% if cat == category %} class="bg-red-400"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></div>
+      {% endfor %}
+      {% endif %}
+    </div>
+  </nav>
+
+<h1>Archives for {{ SITENAME }}</h1>
+
+<dl>
+{% for article in dates %}
+    <dt>{{ article.locale_date }}</dt>
+    <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+{% endfor %}
+</dl>
+{% endblock %}

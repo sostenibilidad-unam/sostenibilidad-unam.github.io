@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block content %}
+<div>
+{% block content_title %}
+
+{% endblock %}
+
+
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+{% for article in articles_page.object_list %}
+<div class="shadow-lg rounded-md overflow-hidden">
+  <img
+    src="{{ article.image }}"
+    alt="image"
+    class="w-full"
+    />
+  <div class="px-4">
+    <h2 class="">
+      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+    </h2>
+
+    <div class="text-right py-4">
+      <time class="text-black text-sm text-green-900"
+	    datetime="{{ article.date.isoformat() }}">
+	{{ article.date.year }}-{{ article.date.month }}-{{ article.date.day }}
+      </time>
+    </div>
+  
+    <div class="text-justify"> {{ article.summary }} </div>
+  </div>
+</div>
+{% endfor %}
+</div>
+
+
+{% if articles_page.has_other_pages() %}
+    {% include 'pagination.html' %}
+{% endif %}
+</div>
+{% endblock content %}

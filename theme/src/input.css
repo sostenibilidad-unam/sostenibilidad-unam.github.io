@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  h1 {
+    @apply text-slate-700  text-2xl mb-4 mt-2 font-sans;
+  }
+  h2 {
+    @apply text-slate-700  text-xl mt-6 mb-2 font-sans;
+  }
+  h3 {
+    @apply text-slate-600  text-xl mt-6 mb-2 font-sans;
+  }
+  h4 {
+    @apply text-slate-500  text-lg my-3;
+  }
+
+  a {
+      @apply text-sky-800 hover:text-sky-400;
+  }
+
+  ul {
+      @apply list-disc list-inside;
+  }
+
+  p {
+      @apply mb-6;
+  }
+
+  
+}
+
+@layer components {
+
+    
+  .mainmenu {
+    @apply hover:text-white text-white p-4;
+  }
+}
