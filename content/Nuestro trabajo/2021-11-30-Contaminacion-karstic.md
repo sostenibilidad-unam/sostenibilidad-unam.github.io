@@ -1,7 +1,7 @@
 ---
 title: Spatially explicit vulnerability analysis of contaminant sources in a karstic watershed in southeastern Mexico
 date: 2021-11-30
-image: /images/2021-11-30-ContaminacionKarst.png
+image: /images/portadas/2021-11-30-ContaminacionKarst.png
 url: /2021-11-30-Contaminacion-karstic/
 save_as: 2021-11-30-Contaminacion-karstic/index.html
 ---

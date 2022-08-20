@@ -1,6 +1,6 @@
 ---
 title: Memorias de los Diálogos sobre instituciones, derechos y patrimonios bioculturales
-image: /images/memorias_dialogos.jpg
+image: /images/portadas/memorias_dialogos.jpg
 date: 2019-01-10
 url: /2019-01-10-memorias-dialogos/
 save_as: 2019-01-10-memorias-dialogos/index.html

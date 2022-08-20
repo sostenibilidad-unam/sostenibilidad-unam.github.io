@@ -1,6 +1,6 @@
 ---
 title: The Routledge Handbook of Research Methods for Social-Ecological Systems
-image: /images/ses_handbook.jpg
+image: /images/portadas/ses_handbook.jpg
 date: 2021-06-24
 url: /2021-06-24-ses-research-methods/
 save_as: 2021-06-24-ses-research-methods/index.html

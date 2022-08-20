@@ -1,6 +1,6 @@
 ---
 title: Social Cycling
-image: /images/social-cycling.jpg
+image: /images/portadas/social-cycling.jpg
 date: 2020-07-24
 url: /2020-07-24-social-cycling/
 save_as: 2020-07-24-social-cycling/index.html

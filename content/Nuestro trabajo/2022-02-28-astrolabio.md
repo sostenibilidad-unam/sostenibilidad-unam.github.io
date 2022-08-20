@@ -1,7 +1,7 @@
 ---
 title: Infraestructura ciclista virtual: fuerza en números para más seguridad al pedalear
 date: 2022-02-28
-image: /images/garcia_meneses_files/astrolabio.png
+image: /images/portadas/astrolabio.png
 url: /2022-02-28-astrolabio/
 save_as: 2022-02-28-astrolabio/index.html
 ---

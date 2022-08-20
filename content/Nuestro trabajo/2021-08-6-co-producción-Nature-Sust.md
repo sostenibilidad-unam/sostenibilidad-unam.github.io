@@ -1,6 +1,6 @@
 ---
 title: Seis formas de vincular conocimientos y acciones para la sostenibilidad
-image: /images/Chambers-et-al-Co-prod-Graph.png
+image: /images/portadas/Chambers-et-al-Co-prod-Graph.png
 date: 2021-08-06
 url: /2021-08-6-co-producción-Nature-Sust/
 save_as: 2021-08-6-co-producción-Nature-Sust/index.html

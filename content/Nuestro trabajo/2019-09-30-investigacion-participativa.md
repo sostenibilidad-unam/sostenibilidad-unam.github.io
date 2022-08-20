@@ -1,7 +1,7 @@
 ---
 title: Nuevos recursos que apoyan la investigación participativa en sistemas socio-ecológicos
 date: 2019-09-30
-image: /images/investigacion_participativa.png
+image: /images/portadas/investigacion_participativa.png
 url: /2019-09-30-investigacion-participativa/
 save_as: 2019-09-30-investigacion-participativa/index.html
 ---

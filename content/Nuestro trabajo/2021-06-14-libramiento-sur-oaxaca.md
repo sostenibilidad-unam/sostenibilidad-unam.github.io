@@ -1,7 +1,7 @@
 ---
 title: Sobre el Libramiento Sur de Oaxaca
 date: 2021-06-14
-image: /images/libramiento_sur_oaxaca.png
+image: /images/portadas/libramiento_sur_oaxaca.png
 url: /2021-06-14-libramiento-sur-oaxaca/
 save_as: 2021-06-14-libramiento-sur-oaxaca/index.html
 ---

@@ -1,6 +1,6 @@
 ---
 title: Geo-Value Function
-image: /images/geovalue.png
+image: /images/portadas/geovalue.png
 date: 2019-04-04
 ---
 

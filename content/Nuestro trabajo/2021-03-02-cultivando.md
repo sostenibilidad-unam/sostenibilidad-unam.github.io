@@ -1,6 +1,6 @@
 ---
 title: Cultivando formas de conocer para fomentar transformaciones
-image: /images/STEPS_methods.gif
+image: /images/portadas/STEPS_methods.gif
 date: 2021-03-02
 url: /2021-03-02-cultivando/
 save_as: 2021-03-02-cultivando/index.html

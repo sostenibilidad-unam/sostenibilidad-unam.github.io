@@ -1,7 +1,7 @@
 ---
 title: "Otro México es posible: diálogos para la construcción del Estado pluricultural"
 date: 2021-02-08
-image: /images/otro-mexico-cemda.png
+image: /images/portadas/otro-mexico-cemda.png
 url: /2021-02-08-otro-mexico/
 save_as: 2021-02-08-otro-mexico/index.html
 ---

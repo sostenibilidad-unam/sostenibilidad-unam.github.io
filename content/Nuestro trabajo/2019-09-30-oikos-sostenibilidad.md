@@ -1,6 +1,6 @@
 ---
 title: Ciencias de la Sostenibilidad en la revista Oikos=
-image: /images/oikos_22_portada.png
+image: /images/portadas/oikos_22_portada.png
 date: 2019-09-30
 url: /2019-09-30-oikos-sostenibilidad/
 save_as: 2019-09-30-oikos-sostenibilidad/index.html
