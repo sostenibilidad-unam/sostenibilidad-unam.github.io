@@ -4,39 +4,40 @@
 {% block title %}{{ SITENAME }} - {{ article.title }}{% endblock %}
 
 {% block head %}
-  {{ super() }}
+{{ super() }}
 
-  {% import 'translations.html' as translations with context %}
-  {% if translations.entry_hreflang(article) %}
-    {{ translations.entry_hreflang(article) }}
-  {% endif %}
+{% import 'translations.html' as translations with context %}
+{% if translations.entry_hreflang(article) %}
+{{ translations.entry_hreflang(article) }}
+{% endif %}
 
-  {% if article.description %}
-    <meta name="description" content="{{article.description}}" />
-  {% endif %}
+{% if article.description %}
+<meta name="description" content="{{article.description}}" />
+{% endif %}
 
-  {% for tag in article.tags %}
-    <meta name="tags" content="{{tag}}" />
-  {% endfor %}
+{% for tag in article.tags %}
+<meta name="tags" content="{{tag}}" />
+{% endfor %}
 
 {% endblock %}
 
 {% block content %}
-    <section id="content">
-
-      <div class="bg-local bg-cover bg-center p-8 w-full grayscale text-center" style="background-image: url({{ article.image }})">
-	<h2 class="font-bold text-white bg-sky-900 p-2">
-	  {{ article.title }}
-	</h2>
-      </div>
-
-      {% import 'translations.html' as translations with context %}
-      {{ translations.translations_for(article) }}
+<section id="content">
 
 
-     
-      <center>	
-	<div class="pt-4 w-2/3 text-justify">
+  <div class="bg-local bg-cover bg-center p-8 w-full grayscale text-center" style="background-image: url({{ article.image }})">
+    <h2 class="font-bold text-white bg-sky-900 p-2">
+      {{ article.title }}
+    </h2>
+  </div>
+
+  {% import 'translations.html' as translations with context %}
+  {{ translations.translations_for(article) }}
+
+  <center>
+
+
+    <div class="pt-4 w-2/3 text-justify">
       <div class="text-left py-4">
 	<time class="text-black text-sm text-green-900"
 	      datetime="{{ article.date.isoformat() }}">
@@ -52,9 +53,11 @@
 	{% endfor %}
       </div>
       {% endif %}
-	  
-	{{ article.content }}
-      </div>
-      </center>
-    </section>
+      {{ article.content }}
+
+    </div>
+
+
+  </center>
+</section>
 {% endblock %}

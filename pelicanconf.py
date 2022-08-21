@@ -27,3 +27,4 @@ THEME = 'theme'
 
 STATIC_PATHS = ['images', 'docs']
 
+SUMMARY_MAX_LENGTH = 50
