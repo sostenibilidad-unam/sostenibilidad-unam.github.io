@@ -52,7 +52,7 @@
   <footer class="bg-slate-500">
     <center>
       
-      <div class="w-1/2 flex flex-wrap">
+      <div class="w-1/2 flex flex-wrap pt-8">
 	{% for tag, articles in tags|sort %}
 	<div class="bg-emerald-700 hover:bg-emerald-800 text-slate-400 rounded px-2 m-2">
 	  <a href="{{ SITEURL }}/{{ tag.url }}" class="text-white text-xs">
@@ -60,9 +60,13 @@
 	</div>
 	{% endfor %}
       </div>
+
+      <div class="w-1/2 grid grid-cols-3 gap-8 place-items-center py-24">
+	<a href="https://www.unam.mx"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo_unam.png"></a>
+	<a href="https://www.ecologia.unam.mx/"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo_ie.png"></a>
+	<a href="https://www.ecologia.unam.mx/web2/index.php/investigacion/lancis"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo_lancis_white.png"></a>
+      </div>
       
-      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logos_white.png"
-	   class="py-16">
     </center>
   </footer>
   
