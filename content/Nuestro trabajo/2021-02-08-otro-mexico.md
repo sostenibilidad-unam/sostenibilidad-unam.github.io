@@ -4,6 +4,7 @@ date: 2021-02-08
 image: /images/portadas/otro-mexico-cemda.png
 url: /2021-02-08-otro-mexico/
 save_as: 2021-02-08-otro-mexico/index.html
+tags: publicación, libro, CEMDA, Pueblos Originarios
 ---
 
 Este libro resultó de varios años de diálogos con diferentes pueblos y

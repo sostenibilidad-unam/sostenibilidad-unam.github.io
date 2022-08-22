@@ -4,6 +4,7 @@ image: /images/portadas/STEPS_methods.gif
 date: 2021-03-02
 url: /2021-03-02-cultivando/
 save_as: 2021-03-02-cultivando/index.html
+tags: publicación
 ---
 
 Diversos métodos ofrecen formas de vincular conocimientos y saberes

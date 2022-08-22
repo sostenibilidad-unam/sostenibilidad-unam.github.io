@@ -4,6 +4,7 @@ image: /images/portadas/semillas_interior.png
 date: 2021-03-01
 url: /2021-03-01-semillas-para-el-bien-comun/
 save_as: 2021-03-01-semillas-para-el-bien-comun/index.html
+tags: publicación, libro, semillas, copyleft
 ---
 
 Queremos compartirles con mucho gusto la versión digital y final del

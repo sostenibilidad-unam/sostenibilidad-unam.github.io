@@ -4,15 +4,18 @@ image: /images/portadas/Chambers-et-al-Co-prod-Graph.png
 date: 2021-08-06
 url: /2021-08-6-co-producción-Nature-Sust/
 save_as: 2021-08-6-co-producción-Nature-Sust/index.html
+tags: publicación, coproducción
 ---
 
--Nueva publicación sobre modos de co-producción-
 
-_Extractos traducidos a partir del blog [“The hitchhiker’s guide to co-production: Six ways to link knowledge and action for sustainability”](https://blogs.lse.ac.uk/impactofsocialsciences/2021/08/06/the-hitchhikers-guide-to-co-production-six-ways-to-link-knowledge-and-action-for-sustainability/) 
+
+Extractos traducidos a partir del blog [“The hitchhiker’s guide to co-production: Six ways to link knowledge and action for sustainability”](https://blogs.lse.ac.uk/impactofsocialsciences/2021/08/06/the-hitchhikers-guide-to-co-production-six-ways-to-link-knowledge-and-action-for-sustainability/) 
 (Autores: Josephine Chambers, Henrik Österblom, Lakshmi Charli-Joseph, Jessica Cockburn, Ro Hill, Ruth Brennan)_
 
-¿Cómo podemos abordar los enormes desafíos de sostenibilidad a los que se enfrenta la humanidad? 
-Si algo es evidente es que en la actualidad no hay falta de conocimientos y recomendaciones. Sin embargo, ¿cómo esto contribuye realmente para la sociedad?
+¿Cómo podemos abordar los enormes desafíos de sostenibilidad a los que
+se enfrenta la humanidad?  Si algo es evidente es que en la actualidad
+no hay falta de conocimientos y recomendaciones. Sin embargo, ¿cómo
+esto contribuye realmente para la sociedad?
 
 Diversos procesos de investigación producen recomendaciones, pero a menudo con poca conexión con el mundo real, donde el progreso es, en el mejor de los casos, incremental. 
 Una respuesta a esto es la “co-producción”, es decir, aquellos procesos que conectan a académicos y a diversos actores sociales para desarrollar conocimientos críticos de 

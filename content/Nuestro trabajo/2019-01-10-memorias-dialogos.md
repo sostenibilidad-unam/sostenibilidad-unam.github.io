@@ -4,6 +4,7 @@ image: /images/portadas/memorias_dialogos.jpg
 date: 2019-01-10
 url: /2019-01-10-memorias-dialogos/
 save_as: 2019-01-10-memorias-dialogos/index.html
+tags: publicación, CEMDA, ley agrícola, Tlaxcala, Puebla, Veracruz
 ---
 
 El camino hacia una Ley agrícola bioculturalmente pertinente. Reflexiones y aprendizajes.

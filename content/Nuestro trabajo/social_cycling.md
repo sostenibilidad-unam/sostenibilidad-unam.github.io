@@ -2,7 +2,8 @@
 layout: page
 title: "Social Cycling"
 smallimg: /showcase/social-cycling.jpg
-description: "Una app que ayuda a consolidar nuestra fuerza en números para pedalear seguros en ciudades con poca infraestructura para ciclistas."
+summary: "Una app que ayuda a consolidar nuestra fuerza en números para pedalear seguros en ciudades con poca infraestructura para ciclistas."
+tags: app, ciclismo, movilidad, autogestión, publicación, artículo
 ---
 
 Social Cycling es una aplicación móvil inspirada en [algoritmos de "flocking"](https://en.wikipedia.org/wiki/Boids) que

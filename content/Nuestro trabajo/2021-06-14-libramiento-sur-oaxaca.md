@@ -4,6 +4,7 @@ date: 2021-06-14
 image: /images/portadas/libramiento_sur_oaxaca.png
 url: /2021-06-14-libramiento-sur-oaxaca/
 save_as: 2021-06-14-libramiento-sur-oaxaca/index.html
+tags: Oaxaca, plataforma, publicación
 ---
 
 El proyecto del Libramiento Sur de Oaxaca ha sido impulsado desde hace

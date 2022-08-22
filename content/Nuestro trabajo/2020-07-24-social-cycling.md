@@ -4,6 +4,7 @@ image: /images/portadas/social-cycling.jpg
 date: 2020-07-24
 url: /2020-07-24-social-cycling/
 save_as: 2020-07-24-social-cycling/index.html
+tags: publicación, artículo, ciclismo, modelación basada en agentes, movilidad
 ---
 
 Social Cycling es una aplicación móvil inspirada en [algoritmos de "flocking"](https://en.wikipedia.org/wiki/Boids) que

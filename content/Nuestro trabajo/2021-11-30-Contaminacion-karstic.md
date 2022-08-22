@@ -4,6 +4,7 @@ date: 2021-11-30
 image: /images/portadas/2021-11-30-ContaminacionKarst.png
 url: /2021-11-30-Contaminacion-karstic/
 save_as: 2021-11-30-Contaminacion-karstic/index.html
+tags: publicación, artículo, agua, Chiapas
 ---
 
 

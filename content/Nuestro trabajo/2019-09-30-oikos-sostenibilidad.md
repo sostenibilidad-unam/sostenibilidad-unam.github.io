@@ -4,6 +4,7 @@ image: /images/portadas/oikos_22_portada.png
 date: 2019-09-30
 url: /2019-09-30-oikos-sostenibilidad/
 save_as: 2019-09-30-oikos-sostenibilidad/index.html
+tags: publicación, Oikos=, agua
 ---
 
 **Oikos** es una revista de divulgación científica publicada por el Instituto de Ecología de la UNAM.
