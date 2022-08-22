@@ -49,10 +49,21 @@
     {% endblock %}
   </div>
   
-  <footer class="py-16 bg-slate-500 text-center lg:text-left">
+  <footer class="bg-slate-500">
     <center>
-      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logos_white.png">
-      </center>
+      
+      <div class="w-1/2 flex flex-wrap">
+	{% for tag, articles in tags|sort %}
+	<div class="bg-emerald-700 hover:bg-emerald-800 text-slate-400 rounded px-2 m-2">
+	  <a href="{{ SITEURL }}/{{ tag.url }}" class="text-white text-xs">
+	    {{ tag }}</a> ({{ articles|count }})
+	</div>
+	{% endfor %}
+      </div>
+      
+      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logos_white.png"
+	   class="py-16">
+    </center>
   </footer>
   
 </body>

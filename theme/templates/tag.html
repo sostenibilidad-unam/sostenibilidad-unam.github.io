@@ -3,5 +3,9 @@
 {% block title %}{{ SITENAME }} - {{ tag }} tag{% endblock %}
 
 {% block content_title %}
-<h2>Articles tagged with {{ tag }}</h2>
+<div class="flex">
+<div class="bg-emerald-700 text-white p-2 rounded-lg m-4 text-2xl clear-right">
+  {{ tag }}
+</div>
+</div>
 {% endblock %}

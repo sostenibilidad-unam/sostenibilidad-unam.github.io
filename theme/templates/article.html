@@ -37,7 +37,7 @@
   <center>
 
 
-    <div class="pt-4 w-2/3 text-justify">
+    <div class="pt-4 max-w-prose text-justify">
       <div class="text-left py-4">
 	<time class="text-black text-sm text-green-900"
 	      datetime="{{ article.date.isoformat() }}">
@@ -46,10 +46,14 @@
       </div>
 
       {% if article.tags %}
-      <div class="">
-	Tags:
+      <div class="flex mb-4">
 	{% for tag in article.tags %}
-	<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+	<div class="bg-emerald-700 hover:bg-emerald-800 text-slate-400 px-2 rounded mx-2">
+	  <a href="{{ SITEURL }}/{{ tag.url }}"
+	     class="text-xs text-white">
+	    {{ tag }}
+	  </a>
+	</div>
 	{% endfor %}
       </div>
       {% endif %}
