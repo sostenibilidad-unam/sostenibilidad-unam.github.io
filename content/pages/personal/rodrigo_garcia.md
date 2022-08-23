@@ -43,6 +43,5 @@ Chemistry.
 
  - [PyvePlot](https://pypi.org/project/pyveplot/). Biblioteca para la creación de [hiveplots](http://hiveplot.com/) como [Scalable Vector Graphics](https://www.w3.org/Graphics/SVG/). Útil para revelar características estructurales de redes complejas, ejemplos: [red de agencia en el proyecto T-Labs](https://github.com/sostenibilidad-unam/tlabs/tree/master/hiveplot).
 
- - [Sleuth Automation](https://pypi.org/project/sleuth-automation/). Interfaz orientada a objetos para expresar experimentos de crecimiento urbano. En uso por el proyecto [MEGADAPT](http://megadapt.weebly.com/).
-
+ - [Sleuth Automation](https://pypi.org/project/sleuth-automation/). Interfaz orientada a objetos para expresar experimentos de crecimiento urbano.
 
