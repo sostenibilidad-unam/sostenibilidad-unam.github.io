@@ -1,4 +1,4 @@
-# Página Web del Laboratorio Nacional de Ciencias de la sostenibilidad-unam
+# Página Web con perfiles personales y viñetas del trabajo que ocurre en el Laboratorio Nacional de Ciencias de la Sostenibilidad, UNAM
 
 http://lancis.ecologia.unam.mx
 
