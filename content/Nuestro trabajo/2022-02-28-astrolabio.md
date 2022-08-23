@@ -4,6 +4,7 @@ date: 2022-02-28
 image: /images/portadas/astrolabio.png
 url: /2022-02-28-astrolabio/
 save_as: 2022-02-28-astrolabio/index.html
+tags: ciclismo, movilidad, publicación, artículo, modelación basada en agentes
 ---
 
 Rodrigo García-Herrera y Paola Massyel García-Meneses, presentan en clave feminista 
