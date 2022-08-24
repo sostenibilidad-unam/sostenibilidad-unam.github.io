@@ -4,7 +4,7 @@ date: 2019-09-30
 image: /images/portadas/investigacion_participativa.png
 url: /2019-09-30-investigacion-participativa/
 save_as: 2019-09-30-investigacion-participativa/index.html
-tags: publicación
+tags: publicación, blog, Xochimilco, sistema socio-ecológico, STEPS
 ---
 
 Conozca los nuevos recursos para la investigación participativa en
