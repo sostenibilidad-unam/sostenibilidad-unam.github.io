@@ -10,3 +10,7 @@ _site
 Thumbs.db
 ehthumbs.db
 personal/.Rhistory
+
+node_modules
+public
+*.pyc
