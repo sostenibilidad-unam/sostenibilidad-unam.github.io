@@ -12,7 +12,7 @@ save_as: personal/marisa_mazari/index.html
 - Teléfono: 55 5623 7715
 - Email: mazari@unam.mx
 
-<img src="/assets/Marisa.png" width="250px">
+<img src="/images/Marisa.png" width="250px">
 
 - [Líneas de investigación](#Líneas-de-investigación)
 - [Semblanza](#Semblanza)
@@ -40,10 +40,10 @@ Bióloga por la Facultad de Ciencias de la UNAM, con Maestría en Hidrobiología
 
 ### Proyectos actuales
 - Fortalecimiento de capacidades para el manejo sostenible del agua en comunidades de la Cuenca del Río Grande de Comitán-Lagos de Montebello, Chiapas. Proyecto financiado por Fundación Gonzalo Río Arronte. 2020-2023.
-<img src="/assets/Marisa_Foto1.png" width="300px">
+<img src="/images/Marisa_Foto1.png" width="300px">
 
 - Proyecto Crisis Ambiental en México y Desigualdad. PAPIITe-DGAPA-UNAM. IV300120. En colaboración con Instituto de Investigaciones Sociales, Facultad de Ciencias Políticas y Sociales, Instituto de Ecología, UNAM. 2020-2023.
-<img src="/assets/Marisa_Foto2.png" width="200px">
+<img src="/images/Marisa_Foto2.png" width="200px">
 
 - Audacity for Partnerships: Foregrounding Partnership Development in the Generation of Sustainability Solutions. 2019-2020. Financiado por el Global Consortium for Sustainability Outcomes (GCSO) en conjunto con la Dirección General de Resiliencia de la Secretaría de Gestión Integral de Riesgos y Protección Civil, Ciudad de México- LANCIS-IEUNAM. 
 
@@ -52,11 +52,11 @@ Bióloga por la Facultad de Ciencias de la UNAM, con Maestría en Hidrobiología
 ### Colaboración en proyectos con financiamiento
 - SECTEI-CDMX. La etiqueta chinampera como promotora del fortalecimiento económico, alimenticio y la restauración integral de la zona lacustre de Xochimilco a través del modelo chinampa-refugio. 2020-2021. Responsable: Dr. Luis Zambrano González. Instituto de Biología, UNAM.
 
-<img src="/assets/Marisa_Foto3png.png" width="400px">
+<img src="/images/Marisa_Foto3png.png" width="400px">
 
 - SECTEI-CDMX. Evaluación y propuestas para la recuperación y conservación de sitios de interés geopatrimonial en la cuenca del río Magdalena y pedregales del Xitle con importancia hidrólogica. 2019-2021. Responsable: Dra. Ana Lillian Martín del Pozo, Instituto de Geofísica, UNAM.
 
-<img src="/assets/Marisa_Foto4.png" width="200px">    <img src="/assets/Marisa_Foto5.png" width="300px">
+<img src="/images/Marisa_Foto4.png" width="200px">    <img src="/images/Marisa_Foto5.png" width="300px">
 
 - SECTEI-CDMX. Mejoramiento de los procesos de potabilización y tratamiento de agua residual y uso de tecnologías descentralizadas en los 21 proyecto de regularización como estrategia auxiliar para el aseguramiento hídrico de río Magdalena. 2020- 2021. Responsable: Dra. Alma Chávez Mejía, IIUNAM. 
 
@@ -86,7 +86,7 @@ Bióloga por la Facultad de Ciencias de la UNAM, con Maestría en Hidrobiología
 #### Doctorado
 
 ##### Jannice Alvardo Velázquez
-<img src="/assets/Marisa_Jannice.png" width="150px">
+<img src="/images/Marisa_Jannice.png" width="150px">
 
 - Doctorado en Ciencias de la Sostenibilidad, UNAM. 2018- .
 - Trayectorias sostenibles sobre el manejo comunitario del agua: la Cuenca del Río Grande-Lagos de Montebello, Chiapas
@@ -100,17 +100,17 @@ Bióloga por la Facultad de Ciencias de la UNAM, con Maestría en Hidrobiología
 
 
 ##### Shiara Kirana González Padrón
-<img src="/assets/Marisa_Shiara.png" width="150px">
+<img src="/images/Marisa_Shiara.png" width="150px">
 
 - Doctorado en Ciencias de la Sostenibilidad, UNAM. 2015- .
 - Procesos de cambio hacia la sostenibilidad: cosecha de lluvia en comunidades indígenas de la Sierra Wixárika, Jalisco, México
 - _Licenciada en Medicina Veterinaria por la Universidad Centroccidental Lisandro Alvarado (UCLA), Venezuela, de donde es originaria. Vino a México por primera vez en 2010, donde realizó prácticas profesionales en la Dirección General de Vida Silvestre de la SEMARNAT, y regresó en 2011 para iniciar la Maestría en Ciencias dentro del Departamento de Fauna Silvestre de la Facultad de Medicina Veterinaria de la UNAM. Actualmente es Candidata a Doctora del programa de Posgrado en Ciencias de la Sostenibilidad de la UNAM, en la Ciudad de México. Su investigación se centra en los cambios ocurridos a partir de la introducción de sistemas de captación de agua de lluvia en dos comunidades indígenas (wixáritari) en Jalisco, México. Desde hace diez años colabora con diferentes organizaciones de la sociedad civil (Isla Urbana, Proyecto ConcentrArte, Desarrollo Rural Sustentable Lu’um e IRRI México) para atender diversas necesidades en comunidades indígenas marginadas. Su principal área de interés son los procesos de transformación que requieren los sistemas socio-ecológicos para transitar hacia una sostenibilidad ambiental, bienestar humano y justicia social en México y países del Sur Global._ Contacto: sk.gonzalezpadron@gmail.com
 
-<img src="/assets/Marisa_Shiara2.png" width="250px">                        <img src="/assets/Marisa_Shiara3.png" width="250px">
+<img src="/images/Marisa_Shiara2.png" width="250px">                        <img src="/images/Marisa_Shiara3.png" width="250px">
 
 
 ##### Gemma Abisay Ortiz Haro
-<img src="/assets/Marisa_Aby.png" width="150px">
+<img src="/images/Marisa_Aby.png" width="150px">
 
 - Doctorado en Ciencias de la Sostenibilidad, UNAM. 2018- .
 - Análisis de procesos de decisión de agricultores de pequeña escala ante presiones socio-ecológicas: punto de partida para posibles vías de adaptación al cambio climático
@@ -118,7 +118,7 @@ Bióloga por la Facultad de Ciencias de la UNAM, con Maestría en Hidrobiología
 
 
 ##### Patricia Pérez Belmont
-<img src="/assets/Marisa_Paty.png" width="150px">
+<img src="/images/Marisa_Paty.png" width="150px">
 
 - Doctorado en Ciencias de la Sostenibilidad, UNAM. 2016- .
 - Decisiones sobre el cambio de uso de suelo en el Sistema Socio-Ecológico de Chinampas para la identificación de escenarios futuros de sostenibilidad
@@ -126,7 +126,7 @@ Bióloga por la Facultad de Ciencias de la UNAM, con Maestría en Hidrobiología
 
 
 ##### Marco Antonio Tapia Palacios  
-<img src="/assets/Marisa_Antonio.png" width="150px">
+<img src="/images/Marisa_Antonio.png" width="150px">
 
 - Doctorado en Ciencias Biológicas, UNAM. Agosto, 2019- .  
 - Análisis de riesgo en alimentos, agua y suelo de Xochimilco, Ciudad de México: una propuesta para evaluar la inocuidad alimentaria en México
@@ -134,7 +134,7 @@ Bióloga por la Facultad de Ciencias de la UNAM, con Maestría en Hidrobiología
 
 
 ##### Nallely Vázquez Salvador    
-<img src="/assets/Marisa_Nayelli.png" width="150px">
+<img src="/images/Marisa_Nayelli.png" width="150px">
 
 - Doctorado en Ciencias Biológicas, UNAM. 2016- .
 - Evaluación de indicadores fecales, resistencia a antibióticos y patógenos en agua del Valle del Mezquital, Hidalgo

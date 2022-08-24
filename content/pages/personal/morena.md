@@ -5,7 +5,7 @@ url: /personal/morena_avitia
 save_as: personal/morena_avitia/index.html
 ---
 
-<img src="/assets/morena files/Morena-Avitia-Foto.png" width="350px">
+<img src="/images/morena files/Morena-Avitia-Foto.png" width="350px">
 
 Técnica Académica,
 Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
@@ -27,14 +27,14 @@ También he sido profesora de asignatura en la Facultad de Ciencias de la UNAM (
 <h2 id="noticias">Noticias</h2>
 <h4>Febrero 2021</h4>
 Entérate <a href="https://academic.oup.com/femsle/article-abstract/368/4/fnab012/6129800" target="_blank" rel="noopener">aquí</a> de nuestro trabajo en<a href="https://biosphere2.org/research/projects/landscape-evolution-observatory" target="_blank" rel="noopener"> Biósfera 2.</a>
-<h2 id="proyectos"><img class="alignnone size-medium wp-image-2768" src="/assets/morena files/GraphicalAbstractFinal.png" alt="" width="700"/></h2>
-Descarga <a href="/assets/morena files/Avitia_2021_FEMSMicLet.pdf" target="_blank" rel="noopener">aquí</a> el artículo completo.
+<h2 id="proyectos"><img class="alignnone size-medium wp-image-2768" src="/images/morena files/GraphicalAbstractFinal.png" alt="" width="700"/></h2>
+Descarga <a href="/images/morena files/Avitia_2021_FEMSMicLet.pdf" target="_blank" rel="noopener">aquí</a> el artículo completo.
 &nbsp;
 <h4>Junio-Septiembre 2019</h4>
-Estandarización de la técnica de <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3156007/" target="_blank" rel="noopener"> DNA-SIP</a><img class="alignnone size-medium wp-image-2768" src="/assets/morena files/Tecnica-DNA-SIPS.jpg" alt="" width="700"/>Aprende más sobre esta técnica <a href="https://www.nature.com/articles/nrmicro1162" target="_blank" rel="noopener">  aquí.</a>
+Estandarización de la técnica de <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3156007/" target="_blank" rel="noopener"> DNA-SIP</a><img class="alignnone size-medium wp-image-2768" src="/images/morena files/Tecnica-DNA-SIPS.jpg" alt="" width="700"/>Aprende más sobre esta técnica <a href="https://www.nature.com/articles/nrmicro1162" target="_blank" rel="noopener">  aquí.</a>
 &nbsp;
 <h4>Abril-Mayo 2019</h4>
-Primera colecta de muestras para el proyecto PAPIIT <img class="alignnone size-medium wp-image-2768" src="/assets/morena files/papiit-colecta.png" alt="" width="700"/>
+Primera colecta de muestras para el proyecto PAPIIT <img class="alignnone size-medium wp-image-2768" src="/images/morena files/papiit-colecta.png" alt="" width="700"/>
 
 <h2 id="proyectos">Proyectos</h2>
 <h4>
@@ -54,14 +54,14 @@ En este proyecto investigamos la contribución de la diversidad microbiana en pr
 
 <h2 id="cursos">Cursos</h2>
 Ecología microbiana
-Click [<a href="/assets/morena files/EcologiaMicrobiana_temario_2020.pdf" target="_blank" rel="noopener">aquí</a>]  para ver el programa para el semestre agosto-diciembre 2020
+Click [<a href="/images/morena files/EcologiaMicrobiana_temario_2020.pdf" target="_blank" rel="noopener">aquí</a>]  para ver el programa para el semestre agosto-diciembre 2020
 
 
 &nbsp;
 <h2>En la red</h2>
-<img class="alignnone  wp-image-2794" src="/assets/morena files/GOOGLE SCHOLAR LOGO.png" alt="" width="39" height="39" /> <a href="https://scholar.google.com.mx/citations?hl=en&amp;user=uijRTzgAAAAJ" target="_blank" rel="noopener">Morena Avitia</a>
+<img class="alignnone  wp-image-2794" src="/images/morena files/GOOGLE SCHOLAR LOGO.png" alt="" width="39" height="39" /> <a href="https://scholar.google.com.mx/citations?hl=en&amp;user=uijRTzgAAAAJ" target="_blank" rel="noopener">Morena Avitia</a>
 
-<img class="alignnone  wp-image-2794" src="/assets/morena files/instagram-60x60.png" alt="" width="31" height="31" /> <a href="https://www.instagram.com/microbiomas/" target="_blank" rel="noopener">Lab de Ecología Microbiana</a>
+<img class="alignnone  wp-image-2794" src="/images/morena files/instagram-60x60.png" alt="" width="31" height="31" /> <a href="https://www.instagram.com/microbiomas/" target="_blank" rel="noopener">Lab de Ecología Microbiana</a>
 
 
 
