@@ -8,9 +8,8 @@ tags: publicación, Oikos=, futurismo
 ---
 
 *Algunas ideas se comunican más eficazmente a través de la
-ficción. Este cuentito por Fritjof Capra imagina algunas vías desde la
-pandemia hacia trayectorias civilizatorias más sostenibles.*
+ficción. Fritjof Capra imagina algunas vías desde la pandemia hacia
+trayectorias civilizatorias más sostenibles, en un cuento que publicó
+en su blog. Acá lo publicamos traducido al español.*
 
-
-
-
+<https://www.jardinlac.org/post/lecciones-en-retrospectiva-desde-el-2050>
