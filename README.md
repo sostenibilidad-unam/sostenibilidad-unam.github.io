@@ -30,6 +30,15 @@ Para correr un servidor local y probar las modificaciones sin tener que esperar 
 7. corre el servidor de desarrollo
     ```make devserver```
 
+Para ediciones posteriores, yo con todo instalado:
+
+1. activa el entoro virtual
+    ```source venv3/bin/activate```
+2. corre el servidor de tailwind
+    ```make twserver```
+3. corre el servidor de desarrollo
+    ```make devserver```  
+
 
 ## Viñetas
 
