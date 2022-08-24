@@ -12,21 +12,23 @@ Se puede agregar y editar contenidos acá:
 Todos los contenidos deben usar [Markdown](https://duckduckgo.com/?q=gu%C3%ADa+de+markdown&ia=web) o [reStructuredText](https://guia-de-restructuredtext.readthedocs.io/es/latest/ch_primeros_pasos.html). Esto implica que se puede mezclar HTML de ser necesario, por ejemplo para empotrar un video.
 
 Para correr un servidor local y probar las modificaciones sin tener que esperar a que se actualice la página, sigue estás instrucciones.
-- 0 clona el repositorio
+0. clona el repositorio
+    ~~~
     git clone git@github.com:sostenibilidad-unam/sostenibilidad-unam.github.io.git
-- 1 haz un entorno virtual de python
+    ~~~
+1. haz un entorno virtual de python
     virtualenv -p python3 venv3
-- 2 activa el entoro virtual
+2. activa el entoro virtual
     source venv3/bin/activate
-- 3 instala los requerimientos 
+3. instala los requerimientos 
     pip install -r requirements.txt
-- 4 instala nodejs
+4. instala nodejs
     https://github.com/nodejs/help/wiki/Installation
-- 5 instala tailwind
+5. instala tailwind
     npm install tailwindcss
-- 6 corre el servidor de tailwind
+6. corre el servidor de tailwind
     make twserver
-- 7 corre el servidor de desarrollo
+7. corre el servidor de desarrollo
     make devserver
 
 
