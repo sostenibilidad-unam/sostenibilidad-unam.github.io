@@ -7,7 +7,8 @@ save_as: 2019-01-10-memorias-dialogos/index.html
 tags: publicación, CEMDA, ley agrícola, Tlaxcala, Puebla, Veracruz
 ---
 
-El camino hacia una Ley agrícola bioculturalmente pertinente. Reflexiones y aprendizajes.
+El camino hacia una Ley agrícola bioculturalmente
+pertinente. Reflexiones y aprendizajes.
 
 México es un Estado pluricultural. Para desentrañar los contenidos de
 este tipo de Estado, particularmente en el ámbito agrícola, durante

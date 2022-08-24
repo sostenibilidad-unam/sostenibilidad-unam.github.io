@@ -1,10 +1,14 @@
 ---
 title: "Meta-análisis ecogenómico"
-layout: page
-smallimg: /showcase/transgenicos.png
-description: "Diferencias inesperadas entre plantas domesticadas, sus parientes silvestres y sus versiones modificadas por ingeniería genética: un estudio en arroz, maíz, girasol, calabaza y canola."
+date: 2017-12-05
+image: /images/transgenicos.png
+tags: ecogenómica, publicación, artículo
+
 ---
 
+Diferencias inesperadas entre plantas domesticadas, sus parientes
+silvestres y sus versiones modificadas por ingeniería genética: un
+estudio en arroz, maíz, girasol, calabaza y canola.
 
 El manejo agronómico de plantas cultivadas es un potente motor
 evolutivo que actúa sobre las poblaciones vegetales. Dentro de las
@@ -65,5 +69,4 @@ tradicional.
 Este trabajo [se puede obtener gratuitamente](https://www.frontiersin.org/articles/10.3389/fpls.2017.02030/full) en la página de la revista
 científica Frontiers in Plant Sciencies.
 
-Referencia: Hernández-Terán A, Wegier A, Benítez M, Lira R and
-Escalante AE (2017) [Domesticated, Genetically Engineered, and Wild Plant Relatives Exhibit Unintended Phenotypic Differences: A Comparative Meta-Analysis Profiling Rice, Canola, Maize, Sunflower, and Pumpkin.](https://www.frontiersin.org/articles/10.3389/fpls.2017.02030/full) Front. Plant Sci. 8:2030. [doi: 10.3389/fpls.2017.02030](https://doi.org/10.3389/fpls.2017.02030)
+Referencia: Hernández-Terán A, Wegier A, Benítez M, Lira R and Escalante AE (2017) [Domesticated, Genetically Engineered, and Wild Plant Relatives Exhibit Unintended Phenotypic Differences: A Comparative Meta-Analysis Profiling Rice, Canola, Maize, Sunflower, and Pumpkin.](https://www.frontiersin.org/articles/10.3389/fpls.2017.02030/full) Front. Plant Sci. 8:2030. [doi: 10.3389/fpls.2017.02030](https://doi.org/10.3389/fpls.2017.02030)

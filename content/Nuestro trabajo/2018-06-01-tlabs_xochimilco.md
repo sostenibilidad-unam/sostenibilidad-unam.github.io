@@ -1,9 +1,12 @@
 ---
 layout: page
-title: "Promoting agency for social-ecological transformation"
-smallimg: /showcase/tlabs_practices.png
-description: "A transformation-lab in the Xochimilco social-ecological system"
+title: Promoting agency for social-ecological transformation
+image: /images/tlabs_practices.png
+date: 2018-06-01
+tags: transformación, sistema socio-ecológico, publicación, artículo, Xochimilco, T-labs
 ---
+
+A transformation-lab in the Xochimilco social-ecological system.
 
 Experiments to create spaces for social-ecological transformation are
 multiplying. These experiments aim at transcending traditional spaces

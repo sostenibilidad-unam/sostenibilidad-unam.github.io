@@ -1,13 +1,13 @@
 ---
-title: "Nuevos recursos que apoyan la investigación participativa en sistemas socio-ecológicos"
-description: "Conozca los nuevos recursos para la investigación participativa en sistemas socio-ecológicos que ha producido un grupo de académicos del Hub Norteamérica del STEPS Centre"
-layout: page
-smallimg: /images/investigacion_participativa.png
+title: Nuevos recursos que apoyan la investigación participativa en sistemas socio-ecológicos
+date: 2019-09-19
+image: /images/investigacion_participativa.png
+tags: publicación, blog, STEPS, Xochimilco, sistema socio-ecológico
 ---
 
-
-![](/images/investigacion_participativa.png)
-
+Conozca los nuevos recursos para la investigación participativa en
+sistemas socio-ecológicos que ha producido un grupo de académicos del
+Hub Norteamérica del STEPS Centre.
 
 Un grupo de académicos del Hub Norteamérica del STEPS Centre (formado
 por académicos del LANCIS-IE-UNAM y de SOS-ASU), ha producido nuevos
@@ -23,4 +23,4 @@ cualquier grupo que busque facilitar procesos similares en sus propios
 contextos.
 
 
-[Leer más](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/).
+[Leer artículo en el blog de STEPS](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/).
