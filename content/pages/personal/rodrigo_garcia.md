@@ -1,6 +1,5 @@
 ---
 title: M.Sc. Rodrigo García Herrera
-layout: page
 url: /personal/rodrigo_garcia
 save_as: personal/rodrigo_garcia/index.html
 ---
