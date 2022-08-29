@@ -45,9 +45,12 @@ Título de la investigación: _"Promoviendo Vías de Transformación hacia la So
 
 
 ### Semblanza
-- Licenciatura en Biología (UNAM); Maestría en Derecho, Gestión y Política Ambientales (UAX); Maestría en Planeación y Gestión Ambiental (IHE Delft, Holanda); Candidata a doctora, Posgrado en Ciencias de la Sostenibilidad (UNAM).
+- Licenciatura en Biología (UNAM); 
+Maestría en Derecho, Gestión y Política Ambientales (UAX); 
+Maestría en Planeación y Gestión Ambiental (IHE Delft, Holanda); 
+Candidata a doctora, Posgrado en Ciencias de la Sostenibilidad (UNAM).
 
-- Proyectos de educación y creación de capacidades relacionados a manejo de humedales, gobernanza del agua y ciencias de la sostenibilidad.
+- Proyectos de educación y creación de capacidades relacionados al manejo de humedales, gobernanza del agua y ciencias de la sostenibilidad.
 - Diseño y coordinación de proyectos de fortalecimiento y creación de capacidades bajo enfoques de aprendizaje formal y no formal. 
 - Diseño de esquemas de gobernanza colaborativa dentro del contexto de los procesos de decisión y gestión de sistemas socio-ecológicos.
 - Facilitación de procesos participativos con grupos transdisciplinarios, multiculturales o transfronterizos.
@@ -57,7 +60,7 @@ Título de la investigación: _"Promoviendo Vías de Transformación hacia la So
 ### Bio
 Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning and management (UAX; IHE-Delft). For the past eleven years she has been involved in educational and capacity building projects related to wetland management, water governance, and sustainability science. She co-coordinated the design of the Graduate Program in Sustainability Sciences at UNAM, and is currently working at the National Laboratory for Sustainability Sciences (LANCIS-IE-UNAM) in research projects related to stakeholders' engagement, governance and transformation to sustainability in Mexico. She is part of the Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network), where she co-coordinates the North America Hub (one of the six hubs that conform the Pathways to Sustainability Global Consortium). She is a PhD candidate at the Graduate Program in Sustainability Sciences (UNAM) and her research title is: _“Promoting transformative pathways to sustainability through collective agency: The Transformation-Lab in the Xochimilco social-ecological system”._
 
-<img src="/images/Xochi2.jpeg" width="310px">          <img src="/images/LCJenXochi.jpg" width="310px">
+<img src="/images/Xochi2.jpeg" width="300px">          <img src="/images/LCJenXochi.jpg" width="300px">
 
 ## Publicaciones
 * Siqueiros-García JM, Manuel-Navarrete D, Eakin H, Mojica L, Charli-Joseph L, Pérez-Belmont P, Ruizpalacios B. 2022. **Sense of Agency, Affectivity and Social-Ecological Degradation: An Enactive and Phenomenological Approach**. _Frontiers in Psychology_ 13. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9301310/)
