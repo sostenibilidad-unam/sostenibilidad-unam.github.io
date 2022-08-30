@@ -22,7 +22,7 @@
   }
 
   ul {
-      @apply list-disc list-inside;
+      @apply list-disc;
   }
 
   p {

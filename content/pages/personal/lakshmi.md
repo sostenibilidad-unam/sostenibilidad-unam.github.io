@@ -64,7 +64,12 @@ Candidata a doctora, Posgrado en Ciencias de la Sostenibilidad (UNAM).
 ### Bio
 Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning and management (UAX; IHE-Delft). For the past eleven years she has been involved in educational and capacity building projects related to wetland management, water governance, and sustainability science. She co-coordinated the design of the Graduate Program in Sustainability Sciences at UNAM, and is currently working at the National Laboratory for Sustainability Sciences (LANCIS-IE-UNAM) in research projects related to stakeholders' engagement, governance and transformation to sustainability in Mexico. She is part of the Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network), where she co-coordinates the North America Hub (one of the six hubs that conform the Pathways to Sustainability Global Consortium). She is a PhD candidate at the Graduate Program in Sustainability Sciences (UNAM) and her research title is: _“Promoting transformative pathways to sustainability through collective agency: The Transformation-Lab in the Xochimilco social-ecological system”._
 
-<img src="/images/Xochi2.jpeg" width="100%">          <img src="/images/LCJenXochi.jpg" width="100%">
+
+<div class="flex flex-row w-full">
+<img src="/images/Xochi2.jpeg" width="50%">
+<img src="/images/LCJenXochi.jpg" width="50%">
+</div>
+
 
 ## Publicaciones
 * Siqueiros-García JM, Manuel-Navarrete D, Eakin H, Mojica L, Charli-Joseph L, Pérez-Belmont P, Ruizpalacios B. 2022. **Sense of Agency, Affectivity and Social-Ecological Degradation: An Enactive and Phenomenological Approach**. _Frontiers in Psychology_ 13:911092. [link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.911092/full)
