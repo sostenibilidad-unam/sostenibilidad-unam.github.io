@@ -32,4 +32,4 @@ otros derechos de los pueblos campesinos e indígenas.
 
 Conozca los argumentos en contra a través de este [Mapa Dinámico](https://pages.uoregon.edu/adrianau/WebMapping/libramientosur/).
 
-O descargue el [Análisis Crítico del proyecto de Libramiento Sur de Oaxaca](/images/libramiento_sur_oaxaca.pdf).
+O descargue el [Análisis Crítico del proyecto de Libramiento Sur de Oaxaca](/docs/libramiento_sur_oaxaca.pdf).
