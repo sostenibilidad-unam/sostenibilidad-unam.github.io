@@ -70,6 +70,8 @@ Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning an
 <img src="/images/LCJenXochi.jpg" width="50%">
 </div>
 
+<img src="/images/LCJenXochi.png" width="100%">
+
 
 ## Publicaciones
 * Siqueiros-García JM, Manuel-Navarrete D, Eakin H, Mojica L, Charli-Joseph L, Pérez-Belmont P, Ruizpalacios B. 2022. **Sense of Agency, Affectivity and Social-Ecological Degradation: An Enactive and Phenomenological Approach**. _Frontiers in Psychology_ 13:911092. [link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.911092/full)
