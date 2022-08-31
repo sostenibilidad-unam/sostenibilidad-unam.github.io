@@ -184,6 +184,9 @@ Desarrollador de software para investigación científica. Hacker, data wrangler
 
 ## Divulgacion
 
+
+ - Paola Massyel García Meneses y Rodrigo García (2022) '¿En qué nos gastamos lo que queda?'. Punto Crítico No.2, <https://doi.org/10.5281/zenodo.6610656>
+
  - García Herrera, R (2014) Ver para pensar, Deveras, revista de ciencia para niños, 5(25), pp. 10-11. ISSN: 2007-6169
 
 
