@@ -53,15 +53,15 @@ Desarrollador de software para investigación científica. Hacker, data wrangler
 
 ## Python Package Index
 
- - Pyveplot, SVG Hiveplot Python API. < https://pypi.python.org/project/pyveplot/>
+ - Pyveplot, SVG Hiveplot Python API. <https://pypi.python.org/project/pyveplot/>
 
  - visibility_graph, Python implementation of the Visibility Graph   algorithm for the creation of networks from time series. <https://pypi.python.org/project/visibility_graph/>
 
  - sleuth-automation, an object-oriented API and wrapper scripts 
-  for the SLEUTH urban growth model.
- https://pypi.python.org/project/sleuth-automation/
+   for the SLEUTH urban growth model.
+   <https://pypi.python.org/project/sleuth-automation/>
 
- - road-agent, framework for agent-based modeling of urban mobility < https://pypi.python.org/project/road-agent/>
+ - road-agent, framework for agent-based modeling of urban mobility <https://pypi.python.org/project/road-agent/>
 
 ##  QGIS Python Plugins Repository
 
