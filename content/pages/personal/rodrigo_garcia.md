@@ -85,6 +85,11 @@ Desarrollador de software para investigación científica. Hacker, data wrangler
 
 ## Artículos
 
+ - Rodrigo García Herrera y Paola Massyel García Meneses (2022) 'Infraestructura ciclista virtual: fuerza en números para más seguridad al pedalear', Astrolabio, Vol. 1, no. 8, ISSN 2594-231X <https://uacm.edu.mx/portals/2/numeros/astror8.pdf>
+ 
+ - Rivera-Núñez, T. et al. (2022) Unravelling the Paradoxical Seasonal Food Scarcity in a Peasant Microregion of Mexico. Sustainability, 14(11), 6751. 
+   <https://doi.org/10.3390/su14116751>
+
  - Rivera-Núñez, T. et al. (2020) ‘Peasant micropower in an agrifood
   supply system of the Sierra Madre of Chiapas, Mexico’, Journal of
   Rural Studies, 78, pp. 185–198. <https://doi.org/10.1016/j.jrurstud.2020.06.027||10.1016/j.jrurstud.2020.06.027>
@@ -185,6 +190,8 @@ Desarrollador de software para investigación científica. Hacker, data wrangler
 
 ## Agradecimientos
 
+ - Rosell, J. A., Olson, M. E., Martínez-Garza, C., & Martínez-Méndez, N. (2022). Functional diversity in woody organs of tropical dry forests and implications for restoration. Sustainability, 14(14), 8362. <https://doi.org/10.3390/su14148362>
+
  - Tellman, B., Eakin, H., Janssen, M. A., de Alba, F., & Turner II,
    B. L. (2021). The role of institutional entrepreneurs and informal
    land transactions in Mexico City’s urban expansion.  World
@@ -272,6 +279,8 @@ Desarrollador de software para investigación científica. Hacker, data wrangler
    (2017) ‘Network analysis of EMT and MET micro-RNA regulation in
    breast cancer’, Scientific Reports, 7(1), p. 13534. 
    <https://doi.org/10.1038/s41598-017-13903-1||10.1038/s41598-017-13903-1>
+
+
 
 
 ##  Conference Presentations
