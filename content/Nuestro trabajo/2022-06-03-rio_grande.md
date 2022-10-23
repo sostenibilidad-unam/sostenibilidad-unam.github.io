@@ -2,6 +2,8 @@
 title: Rio grande - Montebello
 date: 2022-06-03
 image: /assets/riogrande/rio_grande_cover.png
+url: /proyectos/riogrande/
+save_as: proyectos/riogrande/index.html
 tags: Chiapas
 ---
 
