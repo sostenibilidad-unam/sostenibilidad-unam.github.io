@@ -25,6 +25,6 @@ RELATIVE_URLS = True
 
 THEME = 'theme'
 
-STATIC_PATHS = ['images', 'docs', 'assets']
+STATIC_PATHS = ['images', 'docs', 'assets', 'proyectos']
 
 SUMMARY_MAX_LENGTH = 50
