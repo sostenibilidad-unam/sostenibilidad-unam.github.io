@@ -20,6 +20,7 @@ save_as: personal/lakshmi/index.html
 * [Consejo Asesor - SUSMAI-UNAM](https://susmai.unam.mx/seminario/)
 * [Consejo Asesor Científico - REDES A.C.](https://www.redesmx.org/nosotros.html)
 * [Asesora Científica - UMBELA A.C.](https://umbela.org/)
+* [Twitter](https://twitter.com/LakshmiCJ)
 
 
 ### Proyectos actuales
@@ -49,11 +50,7 @@ Título de la investigación: _"Promoviendo Vías de Transformación hacia la So
 
 
 ### Semblanza
-- Licenciatura en Biología (UNAM); 
-Maestría en Derecho, Gestión y Política Ambientales (UAX); 
-Maestría en Planeación y Gestión Ambiental (IHE Delft, Holanda); 
-Candidata a doctora, Posgrado en Ciencias de la Sostenibilidad (UNAM).
-
+- Licenciatura en Biología (UNAM); Maestría en Derecho, Gestión y Política Ambientales (UAX); Maestría en Planeación y Gestión Ambiental (IHE Delft, Holanda); Candidata a doctora, Posgrado en Ciencias de la Sostenibilidad (UNAM).
 - Proyectos de educación y creación de capacidades relacionados al manejo de humedales, gobernanza del agua y ciencias de la sostenibilidad.
 - Diseño y coordinación de proyectos de fortalecimiento y creación de capacidades bajo enfoques de aprendizaje formal y no formal. 
 - Diseño de esquemas de gobernanza colaborativa dentro del contexto de los procesos de decisión y gestión de sistemas socio-ecológicos.
@@ -62,7 +59,7 @@ Candidata a doctora, Posgrado en Ciencias de la Sostenibilidad (UNAM).
 - Teoría y métodos de trayectorias y transformaciones hacia la sostenibilidad.
 
 ### Bio
-Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning and management (UAX; IHE-Delft). For the past eleven years she has been involved in educational and capacity building projects related to wetland management, water governance, and sustainability science. She co-coordinated the design of the Graduate Program in Sustainability Sciences at UNAM, and is currently working at the National Laboratory for Sustainability Sciences (LANCIS-IE-UNAM) in research projects related to stakeholders' engagement, governance and transformation to sustainability in Mexico. She is part of the Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network), where she co-coordinates the North America Hub (one of the six hubs that conform the Pathways to Sustainability Global Consortium). She is a PhD candidate at the Graduate Program in Sustainability Sciences (UNAM) and her research title is: _“Promoting transformative pathways to sustainability through collective agency: The Transformation-Lab in the Xochimilco social-ecological system”._
+Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning and management (UAX; IHE-Delft). For the past twelve years she has been involved in educational and capacity building projects related to wetland management, water governance, and sustainability science. She co-coordinated the design of the Graduate Program in Sustainability Sciences at UNAM, and is currently working at the National Laboratory for Sustainability Sciences (LANCIS-IE-UNAM) in research projects related to stakeholders' engagement, governance and transformation to sustainability in Mexico. She is part of the Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network), where she co-coordinated the North America Hub (one of the six hubs that conform the Pathways to Sustainability Global Consortium). She is a PhD candidate at the Graduate Program in Sustainability Sciences (UNAM) and her research title is: _“Promoting transformative pathways to sustainability through collective agency: The Transformation-Lab in the Xochimilco social-ecological system”._
 
 
 <img src="/images/LCJenXochi.png" width="100%">
@@ -99,7 +96,7 @@ Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning an
 *	Charli-Joseph L, Bojórquez-Tapia L, Gómez-Priego P, Pedroza-Páez D. 2012. **A capacity building programme for sustainability: key competencies through formal and non-formal approaches**. Published in the _Proceedings of INTED2012 Conference_ ISBN: 978-84-615-5563-5. 5th-7th March 2012, Valencia, Spain. [link](https://library.iated.org/view/CHARLIJOSEPH2012ACA)
 
 
-## [RESOURCES TO SUPPORT PARTICIPATORY RESEARCH IN SOCIAL-ECOLOGICAL SYSTEMS](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/)
+## [Resources to support participatory research in social-ecological systems](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/)
 - VIDEO: [‘Del desarraigo al arraigo, y de las trampas a la transformación: Voces de Xochimilco’](https://steps-centre.org/publication/from-being-rooted-to-uprooted-and-from-trapped-to-transformed-voices-of-xochimilco/) / [‘From Being Rooted to Uprooted, and from Trapped to Transformed’](https://steps-centre.org/publication/from-being-rooted-to-uprooted-and-from-trapped-to-transformed-voices-of-xochimilco/)
 - GUÍA: [El Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco, CdMx: Narrativa del proceso y guía metodológica](https://steps-centre.org/wp-content/uploads/2019/09/Gui%CC%81a-T-Lab-Xochi-Descargable-versio%CC%81n-pantalla-Espan%CC%83ol-Hub-NA.pdf) / GUIDE: [The Transformation Laboratory of the social-ecological system of Xochimilco, Mexico City: Description of the process and methodological guide](https://steps-centre.org/wp-content/uploads/2019/09/Guide-T-Lab-Xochi-screen-version-English-NA-Hub.pdf)
 - GUIDE: [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
