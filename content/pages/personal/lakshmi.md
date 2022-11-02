@@ -26,7 +26,7 @@ save_as: personal/lakshmi/index.html
 ### Proyectos actuales
 - Desarrollo de una plataforma para el análisis del impacto de proyectos de sostenibilidad en México (PAPIIT 2020-2022)
 - Fortalecimiento de capacidades para el manejo sostenible del agua en comunidades de la Cuenca del Río Grande de Comitán-Lagos de Montebello, Chiapas (Fundación Gonzalo Río Arronte 2020-2023)
-- Laboratorio transdisciplinario de innovación socio-ecológica para la ganadería sostenible en la región de los Tuxtlas, Veracruz (Pronaces -Conacyt 2022) 
+- Laboratorio transdisciplinario de innovación socio-ecológica para la ganadería sostenible en la región de los Tuxtlas, Veracruz (Pronaces-Conacyt 2022-2024) 
 
 
 ### Proyectos recientes
