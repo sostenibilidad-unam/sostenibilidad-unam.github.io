@@ -8,7 +8,6 @@ save_as: personal/lakshmi/index.html
 - Técnica Académica Titular A en Análisis de Sistemas Socioambientales
 - **Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)**
 - **Instituto de Ecología (IE), Universidad Nacional Autónoma de México (UNAM)**
-- Candidata a Doctora, Posgrado en Ciencias de la Sostenibilidad, UNAM
 - Email: lakshmi.charli@iecologia.unam.mx
 
 ### En la red
@@ -37,9 +36,8 @@ save_as: personal/lakshmi/index.html
 ### Intereses académicos
 - Transformaciones hacia la sostenibilidad
 - Agencia colectiva
-- Gobernanza del agua y ciencias de la sostenibilidad
+- Transdisciplina y ciencias de la sostenibilidad
 
-Título de la investigación: _"Promoviendo Vías de Transformación hacia la Sostenibilidad a través de la agencia colectiva: el Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco"_
 
 
 ### Co-coordinación de cursos
@@ -50,7 +48,7 @@ Título de la investigación: _"Promoviendo Vías de Transformación hacia la So
 
 
 ### Semblanza
-- Licenciatura en Biología (UNAM); Maestría en Derecho, Gestión y Política Ambientales (UAX); Maestría en Planeación y Gestión Ambiental (IHE Delft, Holanda); Candidata a doctora, Posgrado en Ciencias de la Sostenibilidad (UNAM).
+- Licenciatura en Biología (UNAM); Maestría en Derecho, Gestión y Política Ambientales (UAX); Maestría en Planeación y Gestión Ambiental (IHE Delft, Holanda); Doctorado en Ciencias de la Sostenibilidad (UNAM).
 - Proyectos de educación y creación de capacidades relacionados al manejo de humedales, gobernanza del agua y ciencias de la sostenibilidad.
 - Diseño y coordinación de proyectos de fortalecimiento y creación de capacidades bajo enfoques de aprendizaje formal y no formal. 
 - Diseño de esquemas de gobernanza colaborativa dentro del contexto de los procesos de decisión y gestión de sistemas socio-ecológicos.
@@ -59,7 +57,7 @@ Título de la investigación: _"Promoviendo Vías de Transformación hacia la So
 - Teoría y métodos de trayectorias y transformaciones hacia la sostenibilidad.
 
 ### Bio
-Lakshmi has a B.Sc. in biology (UNAM) and two M.Sc. in environmental planning and management (UAX; IHE-Delft). For the past twelve years she has been involved in educational and capacity building projects related to wetland management, water governance, and sustainability science. She co-coordinated the design of the Graduate Program in Sustainability Sciences at UNAM, and is currently working at the National Laboratory for Sustainability Sciences (LANCIS-IE-UNAM) in research projects related to stakeholders' engagement, governance and transformation to sustainability in Mexico. She is part of the Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network), where she co-coordinated the North America Hub (one of the six hubs that conform the Pathways to Sustainability Global Consortium). She is a PhD candidate at the Graduate Program in Sustainability Sciences (UNAM) and her research title is: _“Promoting transformative pathways to sustainability through collective agency: The Transformation-Lab in the Xochimilco social-ecological system”._
+Lakshmi has a B.Sc. in biology (UNAM), two M.Sc. in environmental planning and management (UAX; IHE-Delft), and a Ph.D. in Sustainability Sciences (UNAM). For the past twelve years she has been involved in educational and capacity building projects related to wetland management, water governance, and transdisciplinarity. She co-coordinated the design of the Graduate Program in Sustainability Sciences at UNAM, and is currently working at the National Laboratory for Sustainability Sciences (LANCIS-IE-UNAM) in research projects related to stakeholders' engagement, co-production and transformations to sustainability in Mexico. She is part of the Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network), where she co-coordinated the North America Hub (one of the six hubs that conform the Pathways to Sustainability Global Consortium).
 
 
 <img src="/images/LCJenXochi.png" width="100%">
