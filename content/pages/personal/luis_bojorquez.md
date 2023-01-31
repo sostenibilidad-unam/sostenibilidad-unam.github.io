@@ -32,11 +32,9 @@ Teoría de decisiones, planeación colaborativa, gobernanza y simulación dinám
 
 --------
 
-# Planeación Colaborativa, aprendizaje social y gobernanza
+# Investigación
 
-Este grupo de trabajo se enfoca en el desarrollo de herramientas
-analíticas y tecnológicas para apoyar el diseño de políticas públicas
-más robustas y legítimas.
+La obra académica y profesional del Dr. Luis Antonio Bojórquez Tapia ha tenido como eje central las ciencias de la sostenibilidad. 
 
 Desarrollamos proyectos de investigación transdisciplinaria que
 integran un esquema de involucramiento continuo de los actores
