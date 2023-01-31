@@ -6,9 +6,12 @@ save_as: personal/luis_bojorquez/index.html
 ---
 
 
-Responsable del Área de Planeación Colaborativa y Complejidad
-Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
-Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
+Responsable del Área de Planeación Colaborativa y Complejidad  
+
+Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)  
+
+Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)  
+
 Email: bojorquez@ecologia.unam.mx
 
 
