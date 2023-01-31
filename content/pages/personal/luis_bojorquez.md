@@ -5,7 +5,7 @@ url: /personal/luis_bojorquez
 save_as: personal/luis_bojorquez/index.html
 ---
 
-- Investigador Principal MEGADAPT
+
 - Investigador Titular "B"
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
