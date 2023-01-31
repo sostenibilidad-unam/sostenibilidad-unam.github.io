@@ -1,5 +1,5 @@
 ---
-title: Dr. Luis Bojorquez Tapia
+title: Dr. Luis Antonio Bojórquez Tapia
 layout: page
 url: /personal/luis_bojorquez
 save_as: personal/luis_bojorquez/index.html
