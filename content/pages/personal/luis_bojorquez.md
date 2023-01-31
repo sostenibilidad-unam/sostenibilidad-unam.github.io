@@ -7,19 +7,14 @@ save_as: personal/luis_bojorquez/index.html
 
 
 Responsable del Área de Planeación Colaborativa y Complejidad  
-
 Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)  
-
 Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)  
-
 Email: bojorquez@ecologia.unam.mx
 
 
 ## Campo de investigación
 
 Teoría de decisiones, planeación colaborativa, gobernanza y simulación dinámica
-
-## Especialidades
 
 - Análisis geoespacial multicriterio
 - Evaluación de riesgo ecológico
