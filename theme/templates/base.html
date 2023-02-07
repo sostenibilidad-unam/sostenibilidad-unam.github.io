@@ -1,91 +1,12 @@
 <!DOCTYPE html>
-<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock html_lang %}">
-<head>
-        {% block head %}
-        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
-        <meta charset="utf-8" />
-
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/theme.css"
-	      rel="stylesheet">
-	
-        {% if FEED_ALL_ATOM %}
-        <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
-        {% endif %}
-        {% if FEED_ALL_RSS %}
-        <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_RSS_URL %}{{ FEED_ALL_RSS_URL }}{% else %}{{ FEED_ALL_RSS }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
-        {% endif %}
-        {% if FEED_ATOM %}
-        <link href="{{ FEED_DOMAIN }}/{%if FEED_ATOM_URL %}{{ FEED_ATOM_URL }}{% else %}{{ FEED_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
-        {% endif %}
-        {% if FEED_RSS %}
-        <link href="{{ FEED_DOMAIN }}/{% if FEED_RSS_URL %}{{ FEED_RSS_URL }}{% else %}{{ FEED_RSS }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
-        {% endif %}
-        {% if CATEGORY_FEED_ATOM and category %}
-        <link href="{{ FEED_DOMAIN }}/{% if CATEGORY_FEED_ATOM_URL %}{{ CATEGORY_FEED_ATOM_URL.format(slug=category.slug) }}{% else %}{{ CATEGORY_FEED_ATOM.format(slug=category.slug) }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
-        {% endif %}
-        {% if CATEGORY_FEED_RSS and category %}
-        <link href="{{ FEED_DOMAIN }}/{% if CATEGORY_FEED_RSS_URL %}{{ CATEGORY_FEED_RSS_URL.format(slug=category.slug) }}{% else %}{{ CATEGORY_FEED_RSS.format(slug=category.slug) }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
-        {% endif %}
-        {% if TAG_FEED_ATOM and tag %}
-        <link href="{{ FEED_DOMAIN }}/{% if TAG_FEED_ATOM_URL %}{{ TAG_FEED_ATOM_URL.format(slug=tag.slug) }}{% else %}{{ TAG_FEED_ATOM.format(slug=tag.slug) }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
-        {% endif %}
-        {% if TAG_FEED_RSS and tag %}
-        <link href="{{ FEED_DOMAIN }}/{% if TAG_FEED_RSS_URL %}{{ TAG_FEED_RSS_URL.format(slug=tag.slug) }}{% else %}{{ TAG_FEED_RSS.format(slug=tag.slug) }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
-        {% endif %}
-        {% endblock head %}
-
-	<!-- Matomo -->
-	<script>
-	  var _paq = window._paq = window._paq || [];
-	  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-	  _paq.push(['trackPageView']);
-	  _paq.push(['enableLinkTracking']);
-	  (function() {
-	      var u="//metrics.k.vu/matomo/";
-	      _paq.push(['setTrackerUrl', u+'matomo.php']);
-	      _paq.push(['setSiteId', '1']);
-	      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-	      g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-	  })();
-	</script>
-	<!-- End Matomo Code -->
-	
-</head>
-
-<body class="text-stone-800 bg-slate-100">
-
-  <header class="flex bg-white pt-8 justify-center">
-    <a href="/">
-      <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/banner-md.png">
-    </a>
-  </header>
+<html>
   
-  <div class="py-4 bg-white">
-    {% block content %}
-    {% endblock %}
-  </div>
-  
-  <footer class="bg-slate-500">
-    <center>
-      
-      <div class="w-1/2 flex flex-wrap pt-8">
-	{% for tag, articles in tags|sort %}
-	<div class="bg-emerald-700 hover:bg-emerald-800 text-slate-400 rounded px-2 m-2">
-	  <a href="{{ SITEURL }}/{{ tag.url }}" class="text-white text-xs">
-	    {{ tag }}</a> ({{ articles|count }})
-	</div>
-	{% endfor %}
-      </div>
+  <head>
+    <script>
+      window.location = "https://www.ecologia.unam.mx/web2/index.php/investigacion/lancis";
+    </script>
+  </head>
 
-      <div class="w-1/2 grid grid-cols-3 gap-8 place-items-center py-24">
-	<a href="https://www.unam.mx"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo_unam.png"></a>
-	<a href="https://www.ecologia.unam.mx/"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo_ie.png"></a>
-	<a href="https://www.ecologia.unam.mx/web2/index.php/investigacion/lancis"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo_lancis_white.png"></a>
-      </div>
-      
-    </center>
-  </footer>
-  
-</body>
+  <body class="text-stone-800 bg-slate-100">  
+  </body>
 </html>
