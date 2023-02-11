@@ -108,7 +108,7 @@ estudios relacionados con la captación de agua de lluvia."
 
 [<img src="/images/serranoycandela/islaurbana.png" width="370px">](/images/serranoycandela/cosecha_lluvia.pdf) [<img src="/images/serranoycandela/islaurbana2.png" width="370px">](/images/serranoycandela/cosecha_lluvia.pdf)
 
-[Pdf](/images/serranoycandela/Captacion-de-agua-en-la-CDMX_09082020_final_web.pdf)
+[Pdf](/images/serranoycandela/cosecha_lluvia.pdf)
 
 
 
