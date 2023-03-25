@@ -1,5 +1,5 @@
 ---
-title: Lakshmi E. Charli-Joseph
+title: Dra. Lakshmi E. Charli-Joseph
 layout: page
 url: /personal/lakshmi
 save_as: personal/lakshmi/index.html
@@ -23,14 +23,15 @@ save_as: personal/lakshmi/index.html
 
 
 ### Proyectos actuales
-- Desarrollo de una plataforma para el análisis del impacto de proyectos de sostenibilidad en México (PAPIIT 2020-2022)
-- Fortalecimiento de capacidades para el manejo sostenible del agua en comunidades de la Cuenca del Río Grande de Comitán-Lagos de Montebello, Chiapas (Fundación Gonzalo Río Arronte 2020-2023)
+- Desarrollo de una plataforma para el análisis del impacto de proyectos de sostenibilidad en México (PAPIIT 2020-2023)
 - Laboratorio transdisciplinario de innovación socio-ecológica para la ganadería sostenible en la región de los Tuxtlas, Veracruz (Pronaces-Conacyt 2022-2024) 
+- Water Transformation Pathways Planning (Trans-Path-Plan) ([Water and Development Partnership Programme](https://www.un-ihe.org/news/water-and-development-partnership-programme-six-projects-selected-funding), NL 2022-2026)
 
 
 ### Proyectos recientes
 - [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/blog/challenging-research/); _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/cultivando-saberes/)_
 - [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
+- Fortalecimiento de capacidades para el manejo sostenible del agua en comunidades de la Cuenca del Río Grande de Comitán-Lagos de Montebello, Chiapas (Fundación Gonzalo Río Arronte 2020-2023)
 
 
 ### Intereses académicos
