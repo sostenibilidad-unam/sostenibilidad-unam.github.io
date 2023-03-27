@@ -31,14 +31,12 @@ save_as: personal/lakshmi/index.html
 ### Proyectos recientes
 - [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/blog/challenging-research/); _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/cultivando-saberes/)_
 - [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
-- Fortalecimiento de capacidades para el manejo sostenible del agua en comunidades de la Cuenca del Río Grande de Comitán-Lagos de Montebello, Chiapas (Fundación Gonzalo Río Arronte 2020-2023)
 
 
 ### Intereses académicos
 - Transformaciones hacia la sostenibilidad
 - Agencia colectiva
 - Transdisciplina y ciencias de la sostenibilidad
-
 
 
 ### Co-coordinación de cursos
