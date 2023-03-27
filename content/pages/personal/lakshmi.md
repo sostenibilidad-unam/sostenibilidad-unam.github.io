@@ -92,6 +92,7 @@ Lakshmi has a B.Sc. in biology (UNAM), two M.Sc. in environmental planning and m
 *	Escalante AE, Charli-Joseph L, Solares MJ. 2013. **El cambio climático, un gran reto de sostenibilidad**. _Oikos=_ No.7 Biodiversidad y cambio climático. Instituto de Ecología, UNAM. [link](http://web.ecologia.unam.mx/oikos3.0/index.php/oikos-historico/numeros-anteriores/50-cambio-climatico-y-sostenibilidad)
 *	Charli-Joseph L, Bojórquez-Tapia L, Gómez-Priego P, Pedroza-Páez D. 2012. **A capacity building programme for sustainability: key competencies through formal and non-formal approaches**. Published in the _Proceedings of INTED2012 Conference_ ISBN: 978-84-615-5563-5. 5th-7th March 2012, Valencia, Spain. [link](https://library.iated.org/view/CHARLIJOSEPH2012ACA)
 
+----
 [_Las Ciencias de la Sostenibilidad en la revista Oikos=_](https://ia801509.us.archive.org/21/items/oikos22/oikos22.pdf)
 
 ## [Resources to support participatory research in social-ecological systems](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/)
