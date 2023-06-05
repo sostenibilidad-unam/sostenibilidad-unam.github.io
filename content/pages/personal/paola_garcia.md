@@ -5,7 +5,7 @@ url: /personal/paola_garcia
 save_as: personal/paola_garcia/index.html
 ---
 
-<img src="/images/WhatsApp Image 2023-05-29 at 7.52.36 PM(1).jpg" width="300px">
+<img src="/images/garcia_meneses_files/WhatsApp Image 2023-05-29 at 7.52.36 PM(1).jpg" width="300px">
 
 Acreditada en el Posgrado de Ciencias de la Sostenibilidad (PCS): Nivel Maestría y doctorado. Disponible como tutor principal (dirección de alumnos).
 
