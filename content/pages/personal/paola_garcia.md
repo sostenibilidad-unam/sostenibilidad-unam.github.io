@@ -5,7 +5,7 @@ url: /personal/paola_garcia
 save_as: personal/paola_garcia/index.html
 ---
 
-<img src="/images/garcia_meneses_files/WhatsApp Image 2023-05-29 at 7.52.36 PM(1).jpg" width="300px">
+<img src="/images/garcia_meneses_files/profile.jpg" width="300px">
 
 Acreditada en el Posgrado de Ciencias de la Sostenibilidad (PCS): Nivel Maestría y doctorado. Disponible como tutor principal (dirección de alumnos).
 
@@ -52,32 +52,33 @@ Acreditada en el Posgrado de Ciencias de la Sostenibilidad (PCS): Nivel Maestrí
 
 # Publicaciones más destacadas en temas relacionados con las Ciencias de la Sostenibilidad
 
-# Publicaciones
+## Publicaciones
 
 <https://www.researchgate.net/profile/Paola_Garcia_Meneses>
 
 
 # Principales proyectos relacionados con Ciencias de la Sostenibilidad durante los últimos cinco años
 
-- Manejo de sistemas acuáticos.
+## Manejo de sistemas acuáticos.
 
 1. Uso conjunto de la función de los ecosistemas y el conocimiento ecológico
 tradicional con miras a crear resiliencia y propiciar la adaptación frente al cambio climático en sistemas riparios en América del Norte, donde el objetivo fue compartir herramientas disponibles para el uso encomunidades indígenas en los tres países así como evaluar la vulnerabilidad de los ecosistemas, y probar conceptos de gestión integrada de cuenca hidrográfica.
 
 2. Adaptación de los humedales costeros del Golfo de México a los impactos del cambio climático, colaborador. El objetivo de este proyecto fue desarrollar e implementar medidas piloto de adaptación al cambio climático en tres sitios con el fin de reducir la vulnerabilidad de las poblaciones que habitan y hacen uso de los servicios ambientales de los humedales.
 
-- Política, gobernanza e instituciones
+## Política, gobernanza e instituciones
 
 1. En este estudio, nos centramos en los patrones generales de uso de suelo y cambio de uso de suelo (USCUS) asociados con Manejo y Aprovechamiento de la Vida Silvestre (UMA) en el contexto del cambio climático. En particular se analizaron las diferencias en las áreas con UMA y cómo influyen en el USCUS y como pueden las UMA contribuir a reducir la vulnerabilidad, especialmente en los municipios con alta exposición al cambio climático identificado por el Instituto Nacional de Ecología y Cambio Climático. 
 
-- Vulnerabilidad y respuesta al cambio global
+## Vulnerabilidad y respuesta al cambio global
 
 1. Evaluación de servicios ecosistémicos y de riesgos por cambio climático en cuencas hidrográficas de Chile y México. El proyecto generó aprendizaje mutuo y esfuerzo de las instituciones involucradas debido al desarrollo de trabajos de investigación e innovación en estrategias para la adaptación al cambio climático. La evaluación de los impactos y vulnerabilidad a diversas amenazas asociadas a cambios globales. 
+
 2. Uso de la tierra / cambio de uso de la tierra (USCUS) y eventos climáticos extremos en las Ecorregiones Áridas y Semiáridas de México. En este estudio integramos la información sobre cambios en uso de suelo y cobertura vegetal en cinco ecorregiones áridas y semiáridas de México (Sonorense, Chihuahuense, Tamaulipeca, Altiplanicie mexicana y Valle de Tehuacán-Cuicatlán) entre los 2002 y 2011, así como su exposición actual a sequías, bajas temperaturas, inundaciones y ciclones tropicales.
 
-- Cambio global, vulnerabilidad y resiliencia
+## Cambio global, vulnerabilidad y resiliencia
 
-- Sistemas socioambientales, complejidad y adaptación
+## Sistemas socioambientales, complejidad y adaptación
 
 1. Actividades productivas sustentables en el contexto de cambio climático. Consensos en la zona lacustre de Xochimilco (ZLX). Dentro de este proyecto se realizó un diagnóstico de las percepciones de actores clave acerca del estado actual y futuro de la ZLX en el contexto del cambio climático y tratar de consensuar entre los actores opciones de actividades productivas y estrategias de acción que contribuyan a disminuir la vulnerabilidad actual y futura de la ZLX.
 
