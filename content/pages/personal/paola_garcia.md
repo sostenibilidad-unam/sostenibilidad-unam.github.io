@@ -1,5 +1,5 @@
 ---
-title: Dra. Paola García Meneses
+title: Dra. Paola Massyel García Meneses
 layout: page
 url: /personal/paola_garcia
 save_as: personal/paola_garcia/index.html
