@@ -9,12 +9,12 @@ tags: Chiapas
 
 Fortalecimiento de capacidades para el manejo sostenible del agua en comunidades de la cuenca del Río Grande de Comitán-Lagos de Montebello, Chiapas número A-408 apoyado por la Fundación Gonzalo Río Arronte y administrado a través de Fundación UNAM.
 
-Consulte [mapa interactivo](http://chiapas.k.vu/lizmap/index.php/view/map/?repository=chiapas2&project=MapaWeb).
+Consulte [mapa interactivo](http://chiapas.apps.lancis.ecologia.unam.mx/lizmap/index.php/view/map/?repository=chiapas2&project=MapaWeb).
 
-    
-## Descarga de capas del proyecto: 
- 
-    
+
+## Descarga de capas del proyecto:
+
+
 <table>
 <tr>
 <th>Capa</th>
@@ -155,5 +155,4 @@ vias_comunicacion.zip
 simbolos.zip
 </a></td>
 </tr>
-</table> 
-
+</table>
