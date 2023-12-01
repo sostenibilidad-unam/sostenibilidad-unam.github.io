@@ -36,6 +36,7 @@ algoritmos estocásticos para la detección de escenarios.
 # Proyectos actuales
  - Evaluación de la regeneración post-incendio bajo regímenes de incendios variables en bosques templados de Jalisco, México: una 
    herramienta analítica para diseñar estrategias que fortalezcan la resiliencia socioambiental forestal ante el cambio climático 
+   (PAPIIT-2024-2027) 
  - Predicción de incendios forestales mediante el uso de técncias de aprendizaje automatizado: una herramienta de apoyo en la 
    construcción de sostenibilidad (HUAWEI-UNAM)
  - Modelación de la resiliencia de servicios ecosistémicos en el Suelo de Conservación de la Ciudad de México (PAPIIT 2021-2023)
