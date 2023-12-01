@@ -7,7 +7,7 @@ save_as: personal/yosune/index.html
 
 ## Laboratorio de modelación de sistemas socioecológicos/ Socio-Ecological Systems Modelling Lab
 
-- Investigadora Asociada "C", Candidata a Investigadora Nacional (CONACYT), PRIDE Nivel "B"
+- Investigadora Asociada "C", SNI 1 (CONACYT), PRIDE Nivel "C" /Jefa del Laboratorio Nacional de Ciencias de la Sostenibilidiad
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 - Email: yosune@iecologia.unam.mx
@@ -16,21 +16,28 @@ save_as: personal/yosune/index.html
 
 ## Línea de Investigación/Research
 
-En el Laboratorio de modelación de sistemas socioecológicos del LANCIS trabajamos en el diseño e implementación de marcos de investigación participativos que involucran la modelación de sistemas socioecológicos acoplados, la modelación basada en agentes y la modelación exploratoria dirigidos a apoyar los procesos de toma de decisiones bajo contextos de incertidumbre profunda ([DMDU](http://www.deepuncertainty.org) por sus siglas en inglés). 
-Asimismo nos interesa el desarrollo de herramientas analíticas y de visualilzación (minería de datos, scenario discovery, geovisualización, tecnología espacial) para la sostenibilidad.
+En el Laboratorio de modelación de sistemas socioecológicos del LANCIS trabajamos en el diseño e implementación de marcos de investigación transdisciplinarios que involucran la modelación de sistemas socioecológicos acoplados, la modelación exploratoria y la modelación participativa dirigidos a apoyar los procesos de toma de decisiones bajo contextos de incertidumbre profunda ([DMDU](http://www.deepuncertainty.org) por sus siglas en inglés). Asimismo nos interesa el desarrollo de herramientas analíticas y de visualilzación (minería de datos, scenario discovery, geovisualización, tecnología espacial) para la sostenibilidad.
+Mi línea de investigación se centra en:
 
-En particular, mi línea de investigación se enfoca en estudiar:
-
- 1. Sistemas sociecológicos acoplados: umbrales, trayectorias, patrones de vulnerabilidad y adaptación
- 2. Resiliencia de servicios ecosistémicos
- 3. Territorialización de los objectivos de desarrollo sostenible mediante el uso de tecnología espacial
- 4. Creación de capacidades para la sostenibilidad
+• Ciencia de datos para la toma de decisiones.
+• Desarrollo de instrumentos de gestión colaborativa para la sostenibilidad.
+• Desarrollo de esquemas de modelación exploratoria dirigidos al análisis de vulnerabilidad
+y la identificación de trayectorias sostenibles.
+• Desarrollo de técnicas DMDU espacialmente explícitas (Decision-making under deep
+uncertainty) dirigidos al análisis de incertidumbre de juicios de expertos y el desarrollo de
+algoritmos estocásticos para la detección de escenarios.
+• Construcción de indicadores de gobernanza colaborativa.
+• Fortalecimeinto y creación de capacidades adaptativas para la sostenibilidad.
 
 
 # Publicaciones
  - [Para tener acceso a mis publicaciones](https://www.researchgate.net/profile/Yosune_Miquelajauregui/publications)
 
 # Proyectos actuales
+ - Evaluación de la regeneración post-incendio bajo regímenes de incendios variables en bosques templados de Jalisco, México: una 
+   herramienta analítica para diseñar estrategias que fortalezcan la resiliencia socioambiental forestal ante el cambio climático 
+ - Predicción de incendios forestales mediante el uso de técncias de aprendizaje automatizado: una herramienta de apoyo en la 
+   construcción de sostenibilidad (HUAWEI-UNAM)
  - Modelación de la resiliencia de servicios ecosistémicos en el Suelo de Conservación de la Ciudad de México (PAPIIT 2021-2023)
  - Líder del proyecto “Efecto del crecimiento urbano sobre el clima local de la ZMVM”. Colaboración LANCIS-CCA,
    UNAM.Proyecto multi-disciplinario que evalúa el efecto de la urbanización sobre el clima local de la CDMX.
