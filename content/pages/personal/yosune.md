@@ -39,6 +39,10 @@ algoritmos estocásticos para la detección de escenarios.
    (PAPIIT-2024-2027) 
  - Predicción de incendios forestales mediante el uso de técncias de aprendizaje automatizado: una herramienta de apoyo en la 
    construcción de sostenibilidad (HUAWEI-UNAM)
+ 
+   
+# Proyectos concluidos
+ - [MEGADAPT]( http://megadapt.weebly.com/)
  - Modelación de la resiliencia de servicios ecosistémicos en el Suelo de Conservación de la Ciudad de México (PAPIIT 2021-2023)
  - Líder del proyecto “Efecto del crecimiento urbano sobre el clima local de la ZMVM”. Colaboración LANCIS-CCA,
    UNAM.Proyecto multi-disciplinario que evalúa el efecto de la urbanización sobre el clima local de la CDMX.
@@ -50,11 +54,7 @@ algoritmos estocásticos para la detección de escenarios.
    atiende la problemática de la calidad del aire en la Ciudad de México.
  - Colaboración en el proyecto PAPIIT “Análisis integrado de sistemas socioambientales acoplados: desarrollo de
    capacidades para evaluar la vulnerabilidad costera”, liderado por el Dr. Luis Bojórquez Tapia del LANCIS.
- - Participación en el Laboratorio Binacional de Sostenibilidad, Vulnerabilidad y Adaptación al Cambio Climático LANCIS-GIOS-SOS.
-   
-# Proyectos concluidos
- - [MEGADAPT]( http://megadapt.weebly.com/) 
- - Colaboración en proyecto de cátedra de la Dra. Nadia Santini “Reservas de carbono en suelos de bosques
+ - Participación en el Laboratorio Binacional de Sostenibilidad, Vulnerabilidad y Adaptación al Cambio Climático LANCIS-GIOS-SOS. - Colaboración en proyecto de cátedra de la Dra. Nadia Santini “Reservas de carbono en suelos de bosques
    templados y pastizales subalpinos”. (Finalizado)
  - Colaboración en proyecto con la Dra. Marisa Mazari “Quantitative Microbial Risk Assessment for Giardia
    lamblia and E.coli from floods in Mexico City”. (Finalizado)
