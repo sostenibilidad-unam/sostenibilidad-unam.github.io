@@ -5,9 +5,10 @@ url: /personal/yosune
 save_as: personal/yosune/index.html
 ---
 
-## Laboratorio de modelación de sistemas socioecológicos/ Socio-Ecological Systems Modelling Lab
+## Laboratorio de modelación de sistemas socioecológicos y Ciencia de Datos para la Sostenibilidad
+# Jefa del Laboratorio Nacional de Ciencias de la Sostenibilidiad
 
-- Investigadora Asociada "C", SNI 1 (CONACYT), PRIDE Nivel "C" /Jefa del Laboratorio Nacional de Ciencias de la Sostenibilidiad
+- Investigadora Titular A, SNI 1 (CONACYT), PRIDE Nivel "C" 
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 - Email: yosune@iecologia.unam.mx
