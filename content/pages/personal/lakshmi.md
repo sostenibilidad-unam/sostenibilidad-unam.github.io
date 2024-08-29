@@ -5,7 +5,7 @@ url: /personal/lakshmi
 save_as: personal/lakshmi/index.html
 ---
 
-- Técnica Académica Titular A en Análisis de Sistemas Socioambientales
+- Técn. Académica Tit.B - Análisis de Sistemas Socioambientales
 - **Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)**
 - **Instituto de Ecología (IE), Universidad Nacional Autónoma de México (UNAM)**
 - Email: lakshmi.charli@iecologia.unam.mx
@@ -17,26 +17,24 @@ save_as: personal/lakshmi/index.html
 * [Transformations to Sustainability Programme](https://transformationstosustainability.org/people/lakshmi-charli-joseph/)
 * [STEPS Centre - North America Sustainability Hub](http://steps-centre.org/global/north-america/)
 * [Consejo Asesor - SUSMAI-UNAM](https://susmai.unam.mx/seminario/)
-* [Consejo Asesor Científico - REDES A.C.](https://www.redesmx.org/nosotros.html)
 * [Asesora Científica - UMBELA A.C.](https://umbela.org/)
 * [Twitter](https://twitter.com/LakshmiCJ)
 
 
 ### Proyectos actuales
-- Desarrollo de una plataforma para el análisis del impacto de proyectos de sostenibilidad en México (PAPIIT 2020-2023)
+- Water Transformation Pathways Planning [Trans-Path-Plan](https://trans-path-plan.com/) ([Water and Development Partnership Programme - IHE Delt](https://www.un-ihe.org/news/water-and-development-partnership-programme-six-projects-selected-funding), NL 2022-2026)
 - Laboratorio transdisciplinario de innovación socio-ecológica para la ganadería sostenible en la región de los Tuxtlas, Veracruz (Pronaces-Conacyt 2022-2024) 
-- Water Transformation Pathways Planning (Trans-Path-Plan) ([Water and Development Partnership Programme](https://www.un-ihe.org/news/water-and-development-partnership-programme-six-projects-selected-funding), NL 2022-2026)
 
 
 ### Proyectos recientes
 - [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/blog/challenging-research/); _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/cultivando-saberes/)_
 - [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
-
+- Desarrollo de una plataforma para el análisis del impacto de proyectos de sostenibilidad en México (PAPIIT 2020-2023)
 
 ### Intereses académicos
 - Transformaciones hacia la sostenibilidad
 - Agencia colectiva
-- Transdisciplina y ciencias de la sostenibilidad
+- Metodologías transdisciplinarias
 
 
 ### Co-coordinación de cursos
@@ -56,14 +54,17 @@ save_as: personal/lakshmi/index.html
 - Teoría y métodos de trayectorias y transformaciones hacia la sostenibilidad.
 
 ### Bio
-Lakshmi has a B.Sc. in biology (UNAM), two M.Sc. in environmental planning and management (UAX; IHE-Delft), and a Ph.D. in Sustainability Sciences (UNAM). For the past twelve years she has been involved in educational and capacity building projects related to wetland management, water governance, and transdisciplinarity. She co-coordinated the design of the Graduate Program in Sustainability Sciences at UNAM, and is currently working at the National Laboratory for Sustainability Sciences (LANCIS-IE-UNAM) in research projects related to stakeholders' engagement, co-production and transformations to sustainability in Mexico. She is part of the Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network), where she co-coordinated the North America Hub (one of the six hubs that conform the Pathways to Sustainability Global Consortium).
+Lakshmi has a B.Sc. in biology (UNAM), two M.Sc. in environmental planning and management (UAX; IHE-Delft), and a Ph.D. in Sustainability Sciences (UNAM). For the past 15 years she has been involved in educational and capacity strengthening projects of wetland management, water governance, and transdisciplinarity. She co-coordinated the design of the Graduate Program in Sustainability Sciences at UNAM, and was part of the Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network) where she co-coordinated the North America Hub. She currently works at the National Laboratory for Sustainability Sciences, hosted at Institue of Ecology-UNAM in research projects related to collaborative processes of co-production and the articulation of methodological approaches aimed at enabling an increased sense of agency for transfomative change towards sustainability in Mexico. 
 
 
 <img src="/images/LCJenXochi.png" width="100%">
 
 
 ## Publicaciones
-* Charli-Joseph L, Siqueiros-García JM, Eakin H, Manuel-Navarrete D, Mazari-Hiriart M, Shelton R, Pérez-Belmont P, & Ruizpalacios B. 2022. **Enabling collective agency for sustainability transformations through reframing in the Xochimilco social–ecological system**. _Sustainability Science_, pp.1-19. [link](https://link.springer.com/article/10.1007/s11625-022-01224-w)
+* García-Meneses PM, García-Herrera R, Serrano-Candela F, Charli-Joseph L, Mota-Nieto J, Mejía Ciro JD, Garcilita-Arguello S, Fernández-Reyes JA, Toriz Cruz A, Platas Valle E, Corona-Jiménez A. 2024. **Mapping causal networks from theories of change in sustainability projects: a software co-design process**. _Frontiers in Sustainability_, 5:1405501.[link](https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2024.1405501/full)
+* Augenstein K, Lam DP, Horcea-Milcu AI, Bernert P, Charli-Joseph L, Cockburn J, Kampfmann T, Pereira LM & Sellberg MM. 2024. **Five priorities to advance transformative transdisciplinary research**. _Current Opinion in Environmental Sustainability_, 68, p.101438. [link](https://www.sciencedirect.com/science/article/pii/S1877343524000253)
+* Charli-Joseph L & Siqueiros-García JM. 2024. **Transformations to sustainability**. In _The Companion to Development Studies_ (pp. 258-264). Routledge. [link](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429282348-53/transformations-sustainability-lakshmi-charli-joseph-jes%C3%BAs-mario-siqueiros-garc%C3%ADa)
+* Charli-Joseph L, Siqueiros-García JM, Eakin H, Manuel-Navarrete D, Mazari-Hiriart M, Shelton R, Pérez-Belmont P, & Ruizpalacios B. 2023. **Enabling collective agency for sustainability transformations through reframing in the Xochimilco social–ecological system**. _Sustainability Science_, pp.1-19. [link](https://link.springer.com/article/10.1007/s11625-022-01224-w)
 * Siqueiros-García JM, Manuel-Navarrete D, Eakin H, Mojica L, Charli-Joseph L, Pérez-Belmont P, & Ruizpalacios B. 2022. **Sense of agency, affectivity and social-ecological degradation: an enactive and phenomenological approach**. _Frontiers in Psychology_ 13:911092. [link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.911092/full)
 * Chambers JM, Wyborn C, Klenk NL, Ryan ME, Serban A, Bennett NJ, Brennan R, Charli-Joseph L, Fernandez-Gimenez ME, Galvin KA, Goldstein BE, Haller T, Hill R, Munera C, Nel JL, Österblom H, Reid RS, Riechers M, Spierenburg M, Tengö M, Bennett E, Brandeis A, Chatterton P, Cockburn JJ, Cvitanovic C, Dumrongrojwatthana P, Durán AP, Gerber JD, Green JMH, Gruby R, Guerrero AM, Horcea-Milcu A-I, Montana J, Steyaert P, Zaehringer JG, Bednarek AT, Curran K, Fada SJ, Hutton J, Leimona B, Pickering T, & Rondeau R. 2022. **Co-productive agility and four collaborative pathways to sustainability transformations**. _Global Environmental Change_ 72. [link](https://www.sciencedirect.com/science/article/pii/S0959378021002016?via%3Dihub)
 * Pereira L, Olsson P, Charli-Joseph L, Zgambo O, Oxley N, Van Zwanenberg P, Siqueiros-García JM & Ely A. 2021. **Transdisciplinary methods and T-Labs as transformative spaces for innovation in social-ecological systems**. In _Transformative Pathways to Sustainability_ (pp. 53-64). Routledge. [link](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429331930-6/transdisciplinary-methods-labs-transformative-spaces-innovation-social-ecological-systems-laura-pereira-per-olsson-lakshmi-charli-joseph-olive-zgambo-nathan-oxley-patrick-van-zwanenberg-mario-siqueiros-garc%C3%ADa-adrian-ely?context=ubx&refId=5d9f357b-6933-4e94-8cb2-f9bb3c8b429e)
