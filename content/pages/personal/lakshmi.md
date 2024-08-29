@@ -8,17 +8,17 @@ save_as: personal/lakshmi/index.html
 - Técn. Académica Tit.B - Análisis de Sistemas Socioambientales
 - **Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)**
 - **Instituto de Ecología (IE), Universidad Nacional Autónoma de México (UNAM)**
-- lakshmi.charli@iecologia.unam.mx
-
+- [Email](lakshmi.charli@iecologia.unam.mx)
+  
+### ---------------------------
 * [Tutora - Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/tutores/522/)
 * [Consejo Asesor - SUSMAI-UNAM](https://susmai.unam.mx/seminario/)
-* [Asesora Científica - UMBELA A.C.](https://umbela.org/)
-  
+
 * [ORCiD](https://orcid.org/0000-0003-1524-3323)
 * [GoogleSch](https://scholar.google.com/citations?user=gM-oVPwAAAAJ)
 * [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph)
 * [LinkedIn](https://www.linkedin.com/in/lakshmi-charli-joseph-60209712/)
-* [Twitter](https://twitter.com/LakshmiCJ)
+* [Asesora Científica - UMBELA A.C.](https://umbela.org/)
 
 
 ### Proyectos actuales
@@ -26,12 +26,12 @@ save_as: personal/lakshmi/index.html
 - Laboratorio transdisciplinario de innovación socio-ecológica para la ganadería sostenible en la región de los Tuxtlas, Veracruz (Pronaces-Conacyt 2022-2024) 
 
 
-### Proyectos recientes
+### Proyectos recientes destacados
 - [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/blog/challenging-research/); _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/cultivando-saberes/)_
 - [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
 - Desarrollo de una plataforma para el análisis del impacto de proyectos de sostenibilidad en México (PAPIIT 2020-2023)
 
-### Intereses académicos
+### Líneas de investigación
 - Transformaciones hacia la sostenibilidad
 - Agencia colectiva
 - Metodologías transdisciplinarias
