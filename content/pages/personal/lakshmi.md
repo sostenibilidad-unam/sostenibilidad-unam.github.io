@@ -8,17 +8,17 @@ save_as: personal/lakshmi/index.html
 - Técn. Académica Tit.B - Análisis de Sistemas Socioambientales
 - **Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)**
 - **Instituto de Ecología (IE), Universidad Nacional Autónoma de México (UNAM)**
-- [Email](lakshmi.charli@iecologia.unam.mx)
+- lakshmi.charli@iecologia.unam.mx
   
 ### ---------------------------
 * [Tutora - Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/tutores/522/)
 * [Consejo Asesor - SUSMAI-UNAM](https://susmai.unam.mx/seminario/)
-
+  
 * [ORCiD](https://orcid.org/0000-0003-1524-3323)
 * [GoogleSch](https://scholar.google.com/citations?user=gM-oVPwAAAAJ)
 * [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph)
 * [LinkedIn](https://www.linkedin.com/in/lakshmi-charli-joseph-60209712/)
-* [Asesora Científica - UMBELA A.C.](https://umbela.org/)
+* [Asesora Científica - Umbela A.C.](https://umbela.org/)
 
 
 ### Proyectos actuales
