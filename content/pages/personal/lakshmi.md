@@ -8,16 +8,16 @@ save_as: personal/lakshmi/index.html
 - Técn. Académica Tit.B - Análisis de Sistemas Socioambientales
 - **Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)**
 - **Instituto de Ecología (IE), Universidad Nacional Autónoma de México (UNAM)**
-- Email: lakshmi.charli@iecologia.unam.mx
+- lakshmi.charli@iecologia.unam.mx
 
-### En la red
-* [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph)
-* [ORCiD](https://orcid.org/0000-0003-1524-3323)
-* [LinkedIn](https://www.linkedin.com/in/lakshmi-charli-joseph-60209712/)
-* [Transformations to Sustainability Programme](https://transformationstosustainability.org/people/lakshmi-charli-joseph/)
-* [STEPS Centre - North America Sustainability Hub](http://steps-centre.org/global/north-america/)
+* [Tutora - Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/tutores/522/)
 * [Consejo Asesor - SUSMAI-UNAM](https://susmai.unam.mx/seminario/)
 * [Asesora Científica - UMBELA A.C.](https://umbela.org/)
+  
+* [ORCiD](https://orcid.org/0000-0003-1524-3323)
+* [GoogleSch](https://scholar.google.com/citations?user=gM-oVPwAAAAJ)
+* [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph)
+* [LinkedIn](https://www.linkedin.com/in/lakshmi-charli-joseph-60209712/)
 * [Twitter](https://twitter.com/LakshmiCJ)
 
 
@@ -35,7 +35,7 @@ save_as: personal/lakshmi/index.html
 - Transformaciones hacia la sostenibilidad
 - Agencia colectiva
 - Metodologías transdisciplinarias
-
+  
 
 ### Co-coordinación de cursos
 - Herramientas para la investigación transdisciplinaria (1er semestre, [Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/), sede C.U.)
