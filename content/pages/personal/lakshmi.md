@@ -1,5 +1,5 @@
 ---
-title: Dra. Lakshmi E. Charli Joseph
+title: Dra. Lakshmi E. Charli-Joseph
 layout: page
 url: /personal/lakshmi
 save_as: personal/lakshmi/index.html
@@ -12,7 +12,7 @@ save_as: personal/lakshmi/index.html
   
 ### ---------------------------
 * [Perfil tutora Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/tutores/522/)
-* [Integrante Consejo Asesor SUSMAI-UNAM](https://susmai.unam.mx/seminario/)
+* [Integrante Consejo Asesor SUSMAI](https://susmai.unam.mx/seminario/)
 
 * [ORCiD](https://orcid.org/0000-0003-1524-3323)
 * [GoogleSch](https://scholar.google.com/citations?user=gM-oVPwAAAAJ)
@@ -33,7 +33,6 @@ save_as: personal/lakshmi/index.html
 - [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/blog/challenging-research/); _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/cultivando-saberes/)_
 - [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
 
-
 ### Co-coordinación de cursos
 - Herramientas para la investigación transdisciplinaria (1er semestre, [Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/), sede C.U.)
 - Metodologías para el estudio de humedales urbanos como sistemas socio-ecológicos (intersemestral, [Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/), sede C.U.)
@@ -42,9 +41,7 @@ save_as: personal/lakshmi/index.html
 
 
 ### Semblanza
-Bióloga por la UNAM, con una maestría en Derecho, Gestión y Política Ambientales (Universidad Anáhuac de Xalapa), y una en Planeación y Gestión Ambiental (IHE-Delft, Países Bajos), posee un doctorado en Ciencias de la Sostenibilidad (UNAM) con mención honorífica por la investigación: "Promoviendo vías de transformación hacia la sostenibilidad a través de la agencia colectiva: el Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco".
-Desde 2015, forma parte del Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS) del Instituto de Ecología de la UNAM, centrando parte de su labor académica en el diseño de estrategias metodológicas y en la facilitación de procesos de colaboración transdisciplinaria dentro de diversos proyectos de sostenibilidad. Su principal línea de investigación es examinar condiciones que habilitan el cambio transformativo, enfocándose en cómo diversas articulaciones metodológicas de coproducción pueden catalizar un mayor sentido de agencia colectiva para enactuar trayectorias de sostenibilidad más plurales y situadas. 
-El otro aspecto fundamental de su quehacer, y con más de 15 años de experiencia, es el diseño y facilitación de procesos de aprendizaje en sostenibilidad centradas en experimentar diversas formas de colaboración transdisciplinaria que incluyen: el diseño de currícula y programas de enseñanza formal y no formal; la coordinación e impartición de cursos de posgrado en diferentes universidades; y la facilitación de programas internacionales de capacitación a grupos multiculturales.
+Bióloga por la UNAM, con una maestría en Derecho, Gestión y Política Ambientales (Universidad Anáhuac de Xalapa), y una en Planeación y Gestión Ambiental (IHE-Delft, Países Bajos), posee un doctorado en Ciencias de la Sostenibilidad (UNAM) con mención honorífica por la investigación: "Promoviendo vías de transformación hacia la sostenibilidad a través de la agencia colectiva: el Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco". Desde 2015, forma parte del Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS) del Instituto de Ecología de la UNAM, centrando parte de su labor académica en el diseño de estrategias metodológicas y en la facilitación de procesos de colaboración transdisciplinaria dentro de diversos proyectos de sostenibilidad. Su principal línea de investigación es examinar condiciones que habilitan el cambio transformativo, enfocándose en cómo diversas articulaciones metodológicas de coproducción pueden catalizar un mayor sentido de agencia colectiva para enactuar trayectorias de sostenibilidad más plurales y situadas. El otro aspecto fundamental de su quehacer, y con más de 15 años de experiencia, es el diseño y facilitación de procesos de aprendizaje en sostenibilidad centradas en experimentar diversas formas de colaboración transdisciplinaria que incluyen: el diseño de currícula y programas de enseñanza formal y no formal; la coordinación e impartición de cursos de posgrado en diferentes universidades; y la facilitación de programas internacionales de capacitación a grupos multiculturales.
 
 ### Bio
 Lakshmi has a BSc in biology, two MSc in environmental planning and management, and a PhD in sustainability sciences. Since 2015, she works at the National Laboratory for Sustainability Sciences (Institute of Ecology -UNAM, Mexico) in designing methodological strategies and facilitating collaborative processes within sustainability transdisciplinary projects. Her main research interest centres in examining how different methodological articulations might enable an enhanced sense of agency for enacting transformative change. For the past 15 years, she has been involved in diverse educational endeavours such as designing sustainability-related learning programmes, facilitating capacity development training courses with multi-cultural international groups, and teaching postgraduate courses about transformative change and collaborative methods inspired by participatory action-research and transdisciplinary approaches.
@@ -52,7 +49,6 @@ Lakshmi has a BSc in biology, two MSc in environmental planning and management, 
 <img src="/images/LCJenXochi.png" width="100%">
 
 
-## Publicaciones
 * García-Meneses PM, García-Herrera R, Serrano-Candela F, Charli-Joseph L, Mota-Nieto J, Mejía Ciro JD, Garcilita-Arguello S, Fernández-Reyes JA, Toriz Cruz A, Platas Valle E, Corona-Jiménez A. 2024. **Mapping causal networks from theories of change in sustainability projects: a software co-design process**. _Frontiers in Sustainability_, 5:1405501.[link](https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2024.1405501/full)
 * Augenstein K, Lam DP, Horcea-Milcu AI, Bernert P, Charli-Joseph L, Cockburn J, Kampfmann T, Pereira LM & Sellberg MM. 2024. **Five priorities to advance transformative transdisciplinary research**. _Current Opinion in Environmental Sustainability_, 68, p.101438. [link](https://www.sciencedirect.com/science/article/pii/S1877343524000253)
 * Charli-Joseph L & Siqueiros-García JM. 2024. **Transformations to sustainability**. In _The Companion to Development Studies_ (pp. 258-264). Routledge. [link](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429282348-53/transformations-sustainability-lakshmi-charli-joseph-jes%C3%BAs-mario-siqueiros-garc%C3%ADa)
@@ -94,7 +90,6 @@ Lakshmi has a BSc in biology, two MSc in environmental planning and management, 
 - GUÍA: [El Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco, CdMx: Narrativa del proceso y guía metodológica](https://steps-centre.org/wp-content/uploads/2019/09/Gui%CC%81a-T-Lab-Xochi-Descargable-versio%CC%81n-pantalla-Espan%CC%83ol-Hub-NA.pdf) / GUIDE: [The Transformation Laboratory of the social-ecological system of Xochimilco, Mexico City: Description of the process and methodological guide](https://steps-centre.org/wp-content/uploads/2019/09/Guide-T-Lab-Xochi-screen-version-English-NA-Hub.pdf)
 - GUIDE: [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
 
-## STEPS Centre T-Lab project blog posts 
 *	[How rethinking local people's agency could help navigate Xochimilco's troubled waters](https://steps-centre.org/blog/new-forms-agency-help-navigate-xochimilcos-troubled-waters/)
 *	[A day in the chinampas](https://steps-centre.org/blog/a-day-in-the-chinampas/)
 *	[What 'Agency' do researchers have in transformative research projects?](https://steps-centre.org/blog/agency-researchers-transformative-research-projects/)
