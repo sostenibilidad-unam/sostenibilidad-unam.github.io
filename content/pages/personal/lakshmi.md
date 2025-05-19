@@ -18,7 +18,6 @@ save_as: personal/lakshmi/index.html
 * [GoogleSch](https://scholar.google.com/citations?user=gM-oVPwAAAAJ)
 * [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph)
 * [LinkedIn](https://www.linkedin.com/in/lakshmi-charli-joseph-60209712/)
-* [Asesora Científica - Umbela A.C.](https://umbela.org/)
 
 ### Temas de investigación
 - Cambio transformativo
@@ -47,7 +46,6 @@ Bióloga por la UNAM, con una maestría en Derecho, Gestión y Política Ambient
 Lakshmi has a BSc in biology, two MSc in environmental planning and management, and a PhD in sustainability sciences. Since 2015, she works at the National Laboratory for Sustainability Sciences (Institute of Ecology -UNAM, Mexico) in designing methodological strategies and facilitating collaborative processes within sustainability transdisciplinary projects. Her main research interest centres in examining how different methodological articulations might enable an enhanced sense of agency for enacting transformative change. For the past 15 years, she has been involved in diverse educational endeavours such as designing sustainability-related learning programmes, facilitating capacity development training courses with multi-cultural international groups, and teaching postgraduate courses about transformative change and collaborative methods inspired by participatory action-research and transdisciplinary approaches.
 
 <img src="/images/LCJenXochi.png" width="100%">
-
 
 * García-Meneses PM, García-Herrera R, Serrano-Candela F, Charli-Joseph L, Mota-Nieto J, Mejía Ciro JD, Garcilita-Arguello S, Fernández-Reyes JA, Toriz Cruz A, Platas Valle E, Corona-Jiménez A. 2024. **Mapping causal networks from theories of change in sustainability projects: a software co-design process**. _Frontiers in Sustainability_, 5:1405501.[link](https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2024.1405501/full)
 * Augenstein K, Lam DP, Horcea-Milcu AI, Bernert P, Charli-Joseph L, Cockburn J, Kampfmann T, Pereira LM & Sellberg MM. 2024. **Five priorities to advance transformative transdisciplinary research**. _Current Opinion in Environmental Sustainability_, 68, p.101438. [link](https://www.sciencedirect.com/science/article/pii/S1877343524000253)
