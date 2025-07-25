@@ -1,5 +1,5 @@
 ---
-title: Dra. Lakshmi E. Charli-Joseph
+title: Dra. Lakshmi E. Charli Joseph
 layout: page
 url: /personal/lakshmi
 save_as: personal/lakshmi/index.html
