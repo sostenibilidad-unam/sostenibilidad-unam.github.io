@@ -29,9 +29,8 @@ jobs:
 
       - name: Install and build TailwindCSS
         run: |
-          npm install
-          npx tailwindcss -i ./src/input.css -o ./dist/output.css --minify
-
+          npm install -D tailwindcss@3 postcss autoprefixer
+          npx tailwindcss -i ./theme/src/input.css -o ./theme/static/theme.css
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
