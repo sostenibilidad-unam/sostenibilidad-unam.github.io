@@ -27,10 +27,11 @@ jobs:
           node-version: '18'
           cache: 'npm'
 
-      - name: Install and build TailwindCSS
-        run: |
-          npm install -D tailwindcss
-          npx tailwindcss -i ./theme/src/input.css -o ./theme/static/theme.css
+      - name: Install TailwindCSS globally
+        run: npm install -g tailwindcss
+
+      - name: Build TailwindCSS
+        run: tailwindcss -i ./theme/src/input.css -o ./theme/static/theme.css
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -44,13 +45,10 @@ jobs:
           pip install -r requirements.txt
 
       - name: Build site with Pelican
-        run: |
-          make publish
+        run: make publish
 
       - name: Verify build output
-        run: |
-          ls -la public/
-          echo "Build completed successfully"
+        run: ls -la public/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
