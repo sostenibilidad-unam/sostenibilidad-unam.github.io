@@ -30,6 +30,15 @@ jobs:
       - name: Install TailwindCSS globally
         run: npm install -g tailwindcss
 
+      - name: Debug Node environment
+        run: |
+          echo "Node version: $(node --version)"
+          echo "NPM version: $(npm --version)"
+          echo "NPX version: $(npx --version)"
+          echo "Current directory: $(pwd)"
+          echo "Files in theme directory:"
+          ls -la theme/ || echo "No theme directory"
+
       - name: Install and build TailwindCSS
         run: |
           npm install -D tailwindcss
@@ -57,14 +66,7 @@ jobs:
         with:
           path: './public'
 
-      - name: Debug Node environment
-        run: |
-          echo "Node version: $(node --version)"
-          echo "NPM version: $(npm --version)"
-          echo "NPX version: $(npx --version)"
-          echo "Current directory: $(pwd)"
-          echo "Files in theme directory:"
-          ls -la theme/ || echo "No theme directory"
+
 
   deploy:
     needs: build
