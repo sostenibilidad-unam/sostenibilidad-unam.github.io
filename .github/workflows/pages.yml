@@ -30,11 +30,10 @@ jobs:
       - name: Install TailwindCSS globally
         run: npm install -g tailwindcss
 
-      - name: Build TailwindCSS
+      - name: Install and build TailwindCSS
         run: |
-          echo "Verifying files..."
-          ls -la theme/src/input.css || echo "Input CSS not found"
-          npx tailwindcss -i ./theme/src/input.css -o ./theme/static/theme.css
+          npm install -D tailwindcss
+          ./node_modules/.bin/tailwindcss -i ./theme/src/input.css -o ./theme/static/theme.css
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -57,6 +56,15 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: './public'
+
+      - name: Debug Node environment
+        run: |
+          echo "Node version: $(node --version)"
+          echo "NPM version: $(npm --version)"
+          echo "NPX version: $(npx --version)"
+          echo "Current directory: $(pwd)"
+          echo "Files in theme directory:"
+          ls -la theme/ || echo "No theme directory"
 
   deploy:
     needs: build
