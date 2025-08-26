@@ -10,7 +10,7 @@ save_as: personal/fidel_serrano/index.html
 
 - Técnico Académico en Análisis Espacial y Geovisualización; Laboratorio Nacional de Ciencias de la Sostenibiliad (LANCIS); Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM). email: serranoycandela@iecologia.unam.mx
 
-- Candidato a Doctor, Posgrado en Ciencias de la Sostenibilidad, UNAM
+- Doctor en sostenibilidad por el Posgrado en Ciencias de la Sostenibilidad, UNAM
 
 
 ## Semblanza
@@ -54,7 +54,7 @@ Es una interfaz de geovisualización que despliega los datos que serán recopila
 
 ### Geo Value Functions in QGIS
 
-Este es un plugin de QGIS que permite transformar datos geográficos vectoriales o raster en capas con un significado, es una herramienta para extraer conocimiento espacial implícito de expertos en un tema. Es útil en el contexto de la creación de índices compuestos de varios criterios (por ejemplo, índices de vulnerabilidad), así como en la combinación del análisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).  
+Este es un plugin de QGIS que permite transformar datos geográficos vectoriales o raster en capas con un significado, es una herramienta para extraer conocimiento espacial implícito de expertos en un tema. Es útil en el contexto de la creación de índices compuestos de varios criterios (por ejemplo, índices de vulnerabilidad), así como en la combinación del análisis multicriterio de decisiones con sistemas de información geográfica (GIS-MCDA).
 
 [<img src="/images/serranoycandela/gvf_qgis4.PNG" width="100%">](https://plugins.qgis.org/plugins/geo_value_functions/) [<img src="/images/serranoycandela/gvf_qgis3.PNG" width="100%">](https://plugins.qgis.org/plugins/geo_value_functions/)
 
