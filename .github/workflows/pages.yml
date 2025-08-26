@@ -31,7 +31,10 @@ jobs:
         run: npm install -g tailwindcss
 
       - name: Build TailwindCSS
-        run: tailwindcss -i ./theme/src/input.css -o ./theme/static/theme.css
+        run: |
+          echo "Verifying files..."
+          ls -la theme/src/input.css || echo "Input CSS not found"
+          npx tailwindcss -i ./theme/src/input.css -o ./theme/static/theme.css
 
       - name: Setup Python
         uses: actions/setup-python@v4
