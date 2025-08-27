@@ -10,7 +10,7 @@ save_as: personal/fidel_serrano/index.html
 
 - Técnico Académico en Análisis Espacial y Geovisualización; Laboratorio Nacional de Ciencias de la Sostenibiliad (LANCIS); Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM). email: serranoycandela@iecologia.unam.mx
 
-- Doctor en sostenibilidad por el Posgrado en Ciencias de la Sostenibilidad, UNAM
+- Doctor en Sostenibilidad por el Posgrado en Ciencias de la Sostenibilidad, UNAM
 
 
 ## Semblanza
