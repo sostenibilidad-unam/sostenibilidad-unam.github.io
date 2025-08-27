@@ -142,6 +142,11 @@ Titulo de investigación: "Configuración geoespacial del uso de suelo y la tran
 
 ## Publicaciones
 
+- Serrano-Candela, F., Estrada, F., Raga, G., & González Salazar, C. (2024). Data-driven complementary indices and metrics for assessing national progress on climate risk and adaptation. PLOS Climate,
+3(11), 1-35.
+
+- García-Meneses, P. M., García-Herrera, R., Serrano-Candela, F., Charli-Joseph, L., Mota-Nieto, J., Mejía Ciro, J. D., Platas-Valle, E., Garcilita-Arguello, S., Fernández-Reyes, A., Toriz Cruz, A., & Corona-Jiménez, J. A. (2024). Mapping causal networks from theories of change in sustainability projects: a software co-design process. Frontiers in Sustainability, 5.
+
 -	Bojórquez-Tapia, L.A., Janssen, M.A., Eakin, H., Baeza, A., Serrano-Candela, F., Gómez-Priego, P. & Miquelajauregui, Y. Spatially explicit simulation of two-way coupling of complex socio-environmental systems: Sociohydrological
 risk and decision making in Mexico City. Socio-Environmental Systems Modelling, vol. 1, 16129, 2019, doi:10.18174/sesmo.2019a16129
 
@@ -159,32 +164,45 @@ risk and decision making in Mexico City. Socio-Environmental Systems Modelling, 
 
 ## Agradecimientos
 
-1.	Alejandra Hernández-Terán, Ana Wegier, Mariana Benítez, Rafael Lira
+- Eakin, H., Bojórquez-Tapia, L. A., Miquelajauregui, Y., Grave, I., Aguilar, B. H., & Janssen, M. A.(2024). Using exploratory modeling to challenge narratives of risk governance in Mexico City.
+Proceedings of the National Academy of Sciences, 121(36), e2313191121.
+
+- Miquelajauregui, Y., López-Espinoza, E. D., Luna Pérez, E., Gómez-Priego, P., & Bojórquez-Tapia, L. A.
+(2024). Impacts of projected urban growth on simulated near-surface temperature in Mexico City Metropolitan Area: Implications for urban vulnerability. PLOS Climate.
+
+- Ruggerio, C. A., Lindig-Cisneros, R., & Méndez-Lemus, Y. (2024). A complex transdisciplinary approach to achieve water sustainability: lessons from a case study in Morelia, Mexico. Sustainability
+Science.
+
+- Ugalde, F., Santos-Gally, R., Pérez-Ishiwara, R., Gálvez-Reyes, N., Wegier, A., & Boege, K. (2024). Plant phylogenetic diversity influences arthropod communities in tropical forest restoration plots
+[e13313 BITR-23-163.R3]. Biotropica.
+
+
+- Alejandra Hernández-Terán, Ana Wegier, Mariana Benítez, Rafael Lira
 and Ana E. Escalante; Domesticated, Genetically Engineered, and Wild
 Plant Relatives Exhibit Unintended Phenotypic Differences: A
 Comparative Meta-Analysis Profiling Rice, Canola Maize, Sunflower,
 Pumpkin; Frontiers in Plant Science
 
-2.	Tellman, B., Bausch, J. C., Eakin, H., Anderies, J. M., Mazari-Hiriart, M., Manuel-Navarrete, D., & Redman, C. L. (2018). Adaptive pathways and coupled infrastructure: seven centuries of adaptation to water risk and the production of vulnerability in Mexico City. Ecology and Society, 23(1), art1. https://doi.org/10.5751/ES-09712-230101
+- Tellman, B., Bausch, J. C., Eakin, H., Anderies, J. M., Mazari-Hiriart, M., Manuel-Navarrete, D., & Redman, C. L. (2018). Adaptive pathways and coupled infrastructure: seven centuries of adaptation to water risk and the production of vulnerability in Mexico City. Ecology and Society, 23(1), art1. https://doi.org/10.5751/ES-09712-230101
 
-3.	Eakin, H., R. Shelton, J. Siqueiros-Garcia, L. Charli-Joseph, and D. Manuel-Navarrete. 2019. Loss and social-ecological transformation: pathways of change in Xochimilco, Mexico. Ecology and Society 24(3):15. https://doi.org/10.5751/ES-11030-240315
+- Eakin, H., R. Shelton, J. Siqueiros-Garcia, L. Charli-Joseph, and D. Manuel-Navarrete. 2019. Loss and social-ecological transformation: pathways of change in Xochimilco, Mexico. Ecology and Society 24(3):15. https://doi.org/10.5751/ES-11030-240315
 
 
-4.	Mapping and Modeling Illicit and Clandestine Drivers of Land Use Change:
+- Mapping and Modeling Illicit and Clandestine Drivers of Land Use Change:
 Urban Expansion in Mexico City and Deforestation in Central America by Elizabeth Tellman; Tesis Doctoral Arizona State University 2019; https://repository.asu.edu/items/53734
 
-5.	An integrated model of stand dynamics, soil carbon and fire regime:
+- An integrated model of stand dynamics, soil carbon and fire regime:
 Applications to boreal ecosystem response to climate change. Yosune Miquelajauregui Graf
 Universidad de Laval, Canada; Tesis Doctoral
 
-6.	El manejo de residuos en un humedal en la frontera urbana:
+- El manejo de residuos en un humedal en la frontera urbana:
 El caso de San Gregorio Atlapulco, Xochimilco (Primer graduada en el
 Posgrado en Ciencias de la Sostenibilidad María Beatriz Ruizpalacios
 Remus)
 
-7.	Erika Luna Pérez. 2019. El efecto del crecimiento urbano sobre el clima local de la ZMCM y sus implicaciones socio-ambientales. Tesis para obtener el título de Licenciada en Ciencias de la Tierra. TUTORA: Dra. Yosune Miquelajauregui Graf
+- Erika Luna Pérez. 2019. El efecto del crecimiento urbano sobre el clima local de la ZMCM y sus implicaciones socio-ambientales. Tesis para obtener el título de Licenciada en Ciencias de la Tierra. TUTORA: Dra. Yosune Miquelajauregui Graf
 
-8.  Tesis de Maestría en Ciencias de la Sostenibilidad de Karla Adriana Peña Sanabria: “CATEGORIZACIÓN DE ESTRATEGIAS DE PRODUCTIVIDAD AGRÍCOLA: EL CASO DEL CAFÉ EN MÉXICO”; Posgrado en Sostenibilidad, UNAM; Tutora principal Dra. Ana Elena Escalante Hernández; http://132.248.9.195/ptd2020/enero/0799366/Index.html
+- Tesis de Maestría en Ciencias de la Sostenibilidad de Karla Adriana Peña Sanabria: “CATEGORIZACIÓN DE ESTRATEGIAS DE PRODUCTIVIDAD AGRÍCOLA: EL CASO DEL CAFÉ EN MÉXICO”; Posgrado en Sostenibilidad, UNAM; Tutora principal Dra. Ana Elena Escalante Hernández; http://132.248.9.195/ptd2020/enero/0799366/Index.html
 
 ## Participación en proyectos
 
