@@ -46,7 +46,7 @@ Lakshmi has a BSc in biology, two MSc in environmental planning and management, 
 
 <img src="/images/LCJenXochi.png" width="100%">
 
-## Contribuciones en reportes internacionales para tomadores de decisiones como co-autora invitada
+## Contribuciones en reportes internacionales para tomadores de decisiones
 * Convention on Wetlands and FAO. 2025. **Agriculture and wetlands: maintaining and restoring wetlands for sustainable food production and ecosystem health. Technical Report 13**. Gland, Convention on Wetlands. DOI: 10.69556/strp.tr13.25.eng. [link](https://www.ramsar.org/sites/default/files/2025-07/STRP_TR13_Eng_v2.pdf) 
 * Convention on Wetlands. 2025. **Agriculture and Wetlands: Maintaining and restoring wetlands for sustainable food production and ecosystem health. Supplementary Materials: Case study descriptions**. Gland, Switzerland: Secretariat of the Convention on Wetlands. DOI: 10.69556/strp.tr13.25.supp.
 [link](https://www.ramsar.org/sites/default/files/2025-07/STRP_task3.3_supp.pdf)
