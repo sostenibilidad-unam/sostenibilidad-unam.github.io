@@ -10,14 +10,15 @@ save_as: personal/lakshmi/index.html
 - **Instituto de Ecología (IE), Universidad Nacional Autónoma de México (UNAM)**
 - lakshmi.charli@iecologia.unam.mx
 ### ---------------------------
-* [Perfil tutora Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/tutores/522/)
-* [Integrante Consejo Asesor SUSMAI](https://susmai.unam.mx/seminario/)
 
 * [GoogleSch](https://scholar.google.com/citations?user=gM-oVPwAAAAJ)
 * [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph)
 * [ORCiD](https://orcid.org/0000-0003-1524-3323)
 * [LinkedIn](https://www.linkedin.com/in/lakshmi-charli-joseph-60209712/)
-
+  
+* [Perfil tutora Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/tutores/522/)
+* [Integrante Consejo Asesor SUSMAI](https://susmai.unam.mx/seminario/)
+  
 ### Temas de investigación
 - Cambio transformativo
 - Agencia colectiva
@@ -76,7 +77,7 @@ Lakshmi has a BSc in biology, two MSc in environmental planning and management, 
 * Ely A, Marin A, Marshall F, Apgar M, Eakin H, Pereira L, Charli-Joseph L, Siqueiros-García JM, Yang L, Chengo V and Abrol D. **Emerging insights and lessons for the future**. In _Transformative Pathways to Sustainability_ (pp. 206-232). Routledge. [link](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9780429331930-16/emerging-insights-lessons-future-adrian-ely-anabel-marin-fiona-marshall-marina-apgar-hallie-eakin-laura-pereira-lakshmi-charli-joseph-mario-siqueiros-garc%C3%ADa-lichao-yang-victoria-chengo-dinesh-abrol-pravin-kushwaha-edward-hackett-david-manuel-navarrete-ritu-priya-mehrotra-joanes-atela-kennedy-mbeva-joel-onyango-per-olsson?context=ubx&refId=1e16434d-9bb9-44b0-8cd4-b4e2c016e684)
 * Drimie S, Magner C, Pereira L, Charli-Joseph L, Moore ML, Olsson P, Siqueiros-Garcia, JM & Zgambo O. 2021. **Facilitated dialogues**. In _The Routledge Handbook of Research Methods for Social-Ecological Systems_ (Eds. Biggs R, de Vos A, Preiser R, Clements H, Maciejewski K and Schlüter M). (pp. 136-147) (2021):526, Routledge. [link](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003021339-12/facilitated-dialogues-scott-drimie-colleen-magner-laura-pereira-lakshmi-charli-joseph-michele-lee-moore-per-olsson-jes%C3%BAs-mario-siqueiros-garcia-olive-zgambo?context=ubx&refId=1a7e75d9-1972-4259-940b-aa8e2765f9f5)
 * Lerner AM, Charli-Joseph L. 2018. **Marcos teóricos para el estudio de los sistemas socio-ecológicos y las ciencias de la sostenibilidad**. En VS Ávila-Foucat & M Perevotchikova (Ed.) _“Sistemas socio-ecológicos: marcos analíticos y estudios de caso en Oaxaca, México”._ Cd.Mx, México: Instituto de Investigaciones Económicas, Universidad Nacional Autónoma de México.
-* Pfeiffer E, Wehn U, Charli-Joseph L, Lerner AM, Irvine K. 2017. **Training sustainability change agents: Lessons from international water education**, in _Handbook of Theory and Practice of Sustainable Development in Higher Education_, Vol. 4, pp 31-48 (Leal Filho, W., Azeiteiro, U.M., Alves, F., Molthan-Hill, P., ed). Springer International Publishing. (doi: 10.1007/978-3-319-47877-7_3; ISSN: 978-3-319-47876-0). [link](https://link.springer.com/chapter/10.1007/978-3-319-47877-7_3)
+* Pfeiffer E, Wehn U, Charli-Joseph L, Lerner AM, Irvine K. 2017. **Training sustainability change agents: Lessons from international water education**, in _Handbook of Theory and Practice of Sustainable Development in Higher Education_, Vol. 4, pp 31-48 (Leal Filho, W., Azeiteiro, U.M., Alves, F., Molthan-Hill, P., ed). Springer International Publishing. DOI: 10.1007/978-3-319-47877-7_3; ISSN: 978-3-319-47876-0. [link](https://link.springer.com/chapter/10.1007/978-3-319-47877-7_3)
 
 ## Otras publicaciones
 * Chambers J, Wyborn C, Österblom H, Charli-Joseph L, Cockburn J, Hill R, Brennan R & Cvitanovic C. 2021. The hitchhiker’s guide to co-production: six ways to link knowledge and action for sustainability. Impact of Social Sciences Blog (06 Aug 2021). [link](https://blogs.lse.ac.uk/impactofsocialsciences/2021/08/06/the-hitchhikers-guide-to-co-production-six-ways-to-link-knowledge-and-action-for-sustainability/) 
@@ -91,12 +92,13 @@ Lakshmi has a BSc in biology, two MSc in environmental planning and management, 
 *	Charli-Joseph L, Bojórquez-Tapia L, Gómez-Priego P, Pedroza-Páez D. 2012. **A capacity building programme for sustainability: key competencies through formal and non-formal approaches**. Published in the _Proceedings of INTED2012 Conference_ ISBN: 978-84-615-5563-5. 5th-7th March 2012, Valencia, Spain. [link](https://library.iated.org/view/CHARLIJOSEPH2012ACA)
 
 ---
+
 *	[_Las Ciencias de la Sostenibilidad en la revista Oikos=_](https://ia801509.us.archive.org/21/items/oikos22/oikos22.pdf)
 
 *	[Resources to support participatory research in social-ecological systems](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/)
-  - VIDEO: [‘Del desarraigo al arraigo, y de las trampas a la transformación: Voces de Xochimilco’](https://steps-centre.org/publication/from-being-rooted-to-uprooted-and-from-trapped-to-transformed-voices-of-xochimilco/) / [‘From Being Rooted to Uprooted, and from Trapped to Transformed’](https://steps-centre.org/publication/from-being-rooted-to-uprooted-and-from-trapped-to-transformed-voices-of-xochimilco/)
-  - GUÍA: [El Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco, CdMx: Narrativa del proceso y guía metodológica](https://steps-centre.org/wp-content/uploads/2019/09/Gui%CC%81a-T-Lab-Xochi-Descargable-versio%CC%81n-pantalla-Espan%CC%83ol-Hub-NA.pdf) / GUIDE: [The Transformation Laboratory of the social-ecological system of Xochimilco, Mexico City: Description of the process and methodological guide](https://steps-centre.org/wp-content/uploads/2019/09/Guide-T-Lab-Xochi-screen-version-English-NA-Hub.pdf)
-  - GUIDE: [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
+-VIDEO: [‘Del desarraigo al arraigo, y de las trampas a la transformación: Voces de Xochimilco’](https://steps-centre.org/publication/from-being-rooted-to-uprooted-and-from-trapped-to-transformed-voices-of-xochimilco/) / [‘From Being Rooted to Uprooted, and from Trapped to Transformed’](https://steps-centre.org/publication/from-being-rooted-to-uprooted-and-from-trapped-to-transformed-voices-of-xochimilco/)
+-GUÍA: [El Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco, CdMx: Narrativa del proceso y guía metodológica](https://steps-centre.org/wp-content/uploads/2019/09/Gui%CC%81a-T-Lab-Xochi-Descargable-versio%CC%81n-pantalla-Espan%CC%83ol-Hub-NA.pdf) / GUIDE: [The Transformation Laboratory of the social-ecological system of Xochimilco, Mexico City: Description of the process and methodological guide](https://steps-centre.org/wp-content/uploads/2019/09/Guide-T-Lab-Xochi-screen-version-English-NA-Hub.pdf)
+-GUIDE: [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
 
 *	[How rethinking local people's agency could help navigate Xochimilco's troubled waters](https://steps-centre.org/blog/new-forms-agency-help-navigate-xochimilcos-troubled-waters/)
 *	[A day in the chinampas](https://steps-centre.org/blog/a-day-in-the-chinampas/)
