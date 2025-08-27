@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/theme.css"
 	      rel="stylesheet">
-	
+
         {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
         {% endif %}
@@ -50,7 +50,7 @@
 	  })();
 	</script>
 	<!-- End Matomo Code -->
-	
+
 </head>
 
 <body class="text-stone-800 bg-slate-100">
@@ -60,15 +60,15 @@
       <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/banner-md.png">
     </a>
   </header>
-  
+
   <div class="py-4 bg-white">
     {% block content %}
     {% endblock %}
   </div>
-  
+
   <footer class="bg-slate-500">
     <center>
-      
+
       <div class="w-1/2 flex flex-wrap pt-8">
 	{% for tag, articles in tags|sort %}
 	<div class="bg-emerald-700 hover:bg-emerald-800 text-slate-400 rounded px-2 m-2">
@@ -81,11 +81,11 @@
       <div class="w-1/2 grid grid-cols-3 gap-8 place-items-center py-24">
 	<a href="https://www.unam.mx"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo_unam.png"></a>
 	<a href="https://www.ecologia.unam.mx/"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo_ie.png"></a>
-	<a href="https://www.ecologia.unam.mx/web2/index.php/investigacion/lancis"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo_lancis_white.png"></a>
+	<a href="https://www.ecologia.unam.mx/web2/index.php/investigacion/lab-lancis"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo_lancis_white.png"></a>
       </div>
-      
+
     </center>
   </footer>
-  
+
 </body>
 </html>
