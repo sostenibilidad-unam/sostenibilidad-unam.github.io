@@ -1,5 +1,5 @@
 ---
-title: M. en G. Fidel Serrano Candela
+title: Dr. Fidel Serrano Candela
 layout: page
 url: /personal/fidel_serrano
 save_as: personal/fidel_serrano/index.html
