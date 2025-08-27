@@ -10,12 +10,12 @@ save_as: personal/fidel_serrano/index.html
 
 - Técnico Académico en Análisis Espacial y Geovisualización; Laboratorio Nacional de Ciencias de la Sostenibiliad (LANCIS); Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM). email: serranoycandela@iecologia.unam.mx
 
-- Doctor en Sostenibilidad por el Posgrado en Ciencias de la Sostenibilidad, UNAM
+- Doctor en Ciencias de la Sostenibilidad, UNAM
 
 
 ## Semblanza
 
-Físico por la Facultad de ciencias, UNAM, Maestro en Geomática por el Centro de Investigación en Ciencias de Información Geoespacial y candidato a doctor en Ciencias de la Sostenibilidad por la UNAM.
+Físico por la Facultad de ciencias, UNAM, Maestro en Geomática por el Centro de Investigación en Ciencias de Información Geoespacial y Doctor en Ciencias de la Sostenibilidad por la UNAM.
 
 Especialista en sistemas de información geográfica y cómputo científico. Ha desarrollado diversas herramientas computacionales en Java, Python, Python-QGIS, R, GRASS y Netlogo. En la actualidad se enfoca en la creación de objetos de frontera que sirvan de puente entre científicos, sociedad civil y entidades de la administración pública. En particular, en temas asociados instrumentos de la política ambiental, como el ordenamiento ecológico, bitácora ambiental, al análisis de vulnerabilidad y riesgo, y la evaluación del impacto ambiental. Así como en el modelaje de sistemas sociambientales acoplados mediante modelos basados en agentes, autómatas celulares y modelos de decisión multicriterio. Enfocando estos esfuerzos de modelación en sistemas sociambientales claves para la sostenibilidad como la gestión del agua en el Valle de México.
 
@@ -40,6 +40,18 @@ Especialista en sistemas de información geográfica y cómputo científico. Ha 
 
 Todos los artefactos computacionales están en un repositorio público con control de versiones, para asegurar su resguardo y promover el trabajo colaborativo.
 
+### Aplicación web basada en la analítica geovisual para interactuar con conjuntos de datos multidimencionales con componente temporal y espacial: Aplicado al cambio climático.
+
+Es una aplicación web que permite visualizar y analizar datos concernientes al cambio climático por país. Contiene dos tipos de visualización, una multidimensional, y una bivariada. La multidimensional, permite analizar todas las variables simultáneamente. Mientras que la bivariada, permite analizar la relación numérica y geográfica de dos variables a la vez.
+
+[<img src="/images/serranoycandela/multidash.png" width="600px">](http://multidash.apps.lancis.ecologia.unam.mx/paper_cc/)
+
+[<img src="/images/serranoycandela/multidash_bi.png" width="600px">](http://multidash.apps.lancis.ecologia.unam.mx/paper_cc/)
+
+
+[Repositorio](https://codeberg.org/serranoycandela/multidimensional-dashboard)
+
+[Sitio web](http://multidash.apps.lancis.ecologia.unam.mx/paper_cc/)
 
 ### Prototipo para el monitoreo de la gestión del Programa de Ordenamiento Ecológico Territorial del Estado de Yucatán.
 
