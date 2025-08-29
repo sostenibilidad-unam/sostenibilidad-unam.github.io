@@ -5,19 +5,23 @@ url: /personal/lakshmi
 save_as: personal/lakshmi/index.html
 ---
 
-- Técn. Académica Tit.B - Análisis de Sistemas Socioambientales
 - **Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)**
-- **Instituto de Ecología (IE), Universidad Nacional Autónoma de México (UNAM)**
+- [**Instituto de Ecología (IE), Universidad Nacional Autónoma de México (UNAM)**](https://www.ecologia.unam.mx/web2/index.php/es/)
 - lakshmi.charli@iecologia.unam.mx
-### ---------------------------
+- Técn. Académica Titular B|SNI 1|PRIDE D
+
+- ### ---------------------------
 
 * [GoogleSch](https://scholar.google.com/citations?user=gM-oVPwAAAAJ)
 * [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph)
 * [ORCiD](https://orcid.org/0000-0003-1524-3323)
 * [LinkedIn](https://www.linkedin.com/in/lakshmi-charli-joseph-60209712/)
   
-* [Perfil tutora Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/tutores/522/)
-* [Integrante Consejo Asesor SUSMAI](https://susmai.unam.mx/seminario/)
+* [Docente y tutora en el Posgrado en Ciencias de la Sostenibilidad-UNAM](https://sostenibilidad.posgrado.unam.mx/tutores/522/)
+* [Integrante del Consejo Asesor del SUSMAI-UNAM](https://susmai.unam.mx/seminario/)
+* [Integrante de la ITD-Alliance](https://itd-alliance.org/)
+* [Colaboradora del Responsive Research Collective](https://responsiveresearch.org/)
+* [Asesora científica de Umbela Transformaciones Sostenibles](https://www.umbela.org/)
   
 ### Temas de investigación
 - Cambio transformativo
@@ -27,10 +31,10 @@ save_as: personal/lakshmi/index.html
 - Narrativas e imaginarios de sosteninibilidades
   
 ### Proyectos destacados
-- Water Transformation Pathways Planning [Trans-Path-Plan](https://trans-path-plan.com/) ([Water and Development Partnership Programme - IHE Delt](https://www.un-ihe.org/news/water-and-development-partnership-programme-six-projects-selected-funding), NL 2022-2026)
-- Laboratorio transdisciplinario de innovación socio-ecológica para la ganadería sostenible en la región de los Tuxtlas, Veracruz (Pronaces-Conacyt 2022-2024) 
-- [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/blog/challenging-research/); _[Cultivando formas de conocer para fomentar transformaciones](https://umbela.org/cultivando-saberes/)_
-- [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_;  _[T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs)_
+- Water Transformation Pathways Planning [Trans-Path-Plan](https://trans-path-plan.com/) ([Water and Development Partnership Programme - IHE Delt](https://www.un-ihe.org/news/water-and-development-partnership-programme-six-projects-selected-funding) (2022-2026)
+- Laboratorio transdisciplinario de innovación socio-ecológica para la ganadería sostenible en la región de los Tuxtlas, Veracruz (2022-2024) 
+- [Challenging research for sustainability - transdisciplinary methods, relationships, politics and praxis](https://steps-centre.org/blog/challenging-research/); [Cultivando formas de conocer para fomentar transformaciones]([https://umbela.org/cultivando-saberes/) (2023)
+- [Transformative pathways to sustainability: learning across disciplines, contexts and cultures (PATHWAYS Network)](http://steps-centre.org/project/tkn/);  _[Promoting transformative pathways to sustainability: The Transformation-lab in the Xochimilco social-ecological system](https://steps-centre.org/global/north-america/)_; [T-lab Xochimilco](https://github.com/sostenibilidad-unam/tlabs) (2016-2019)
 
 ### Co-coordinación de cursos
 - Herramientas para la investigación transdisciplinaria (1er semestre, [Posgrado en Ciencias de la Sostenibilidad](https://sostenibilidad.posgrado.unam.mx/), sede C.U.)
@@ -46,6 +50,8 @@ Bióloga por la UNAM, con una maestría en Derecho, Gestión y Política Ambient
 Lakshmi has a BSc in biology, two MSc in environmental planning and management, and a PhD in sustainability sciences. Since 2015, she works at the National Laboratory for Sustainability Sciences (Institute of Ecology -UNAM, Mexico) in designing methodological strategies and facilitating collaborative processes within sustainability transdisciplinary projects. Her main research interest centres in examining how different methodological articulations might enable an enhanced sense of agency for enacting transformative change. For the past 15 years, she has been involved in diverse educational endeavours such as designing sustainability-related learning programmes, facilitating capacity development training courses with multi-cultural international groups, and teaching postgraduate courses about transformative change and collaborative methods inspired by participatory action-research and transdisciplinary approaches.
 
 <img src="/images/LCJenXochi.png" width="100%">
+
+### Publicaciones
 
 ## Contribuciones en reportes internacionales para tomadores de decisiones
 * Convention on Wetlands and FAO. 2025. **Agriculture and wetlands: maintaining and restoring wetlands for sustainable food production and ecosystem health. Technical Report 13**. Gland, Convention on Wetlands. DOI: 10.69556/strp.tr13.25.eng. [link](https://www.ramsar.org/sites/default/files/2025-07/STRP_TR13_Eng_v2.pdf) 
@@ -94,13 +100,14 @@ Lakshmi has a BSc in biology, two MSc in environmental planning and management, 
 *	Escalante AE, Charli-Joseph L, Solares MJ. 2013. **El cambio climático, un gran reto de sostenibilidad**. _Oikos=_ No.7 Biodiversidad y cambio climático. Instituto de Ecología, UNAM. [link](http://web.ecologia.unam.mx/oikos3.0/index.php/oikos-historico/numeros-anteriores/50-cambio-climatico-y-sostenibilidad)
 *	Charli-Joseph L, Bojórquez-Tapia L, Gómez-Priego P, Pedroza-Páez D. 2012. **A capacity building programme for sustainability: key competencies through formal and non-formal approaches**. Published in the _Proceedings of INTED2012 Conference_ ISBN: 978-84-615-5563-5. 5th-7th March 2012, Valencia, Spain. [link](https://library.iated.org/view/CHARLIJOSEPH2012ACA)
 
-----
+### ---------------------------
 
-*	Las Ciencias de la Sostenibilidad. Número especial. _Oikos=_ Año 2, No. 22, Diciembre 2018. Instituto de Ecología, UNAM. [link](https://ia801509.us.archive.org/21/items/oikos22/oikos22.pdf)
+*	**Las Ciencias de la Sostenibilidad**. Número especial. _Oikos=_ Año 2, No. 22, Diciembre 2018. Instituto de Ecología, UNAM. [link](https://ia801509.us.archive.org/21/items/oikos22/oikos22.pdf)
 
-*	Videos y blogs del proyecto Transformative Pathways to Sustainability - [Resources to support participatory research in social-ecological systems](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/):
+*	Videos y blogs del proyecto **Transformative Pathways to Sustainability** - [Resources to support participatory research in social-ecological systems](https://steps-centre.org/news/new-resources-support-participatory-research-in-socio-ecological-systems/):
   - VIDEO: [‘Del desarraigo al arraigo, y de las trampas a la transformación: Voces de Xochimilco’](https://steps-centre.org/publication/from-being-rooted-to-uprooted-and-from-trapped-to-transformed-voices-of-xochimilco/) / [‘From Being Rooted to Uprooted, and from Trapped to Transformed’](https://steps-centre.org/publication/from-being-rooted-to-uprooted-and-from-trapped-to-transformed-voices-of-xochimilco/)
-  - GUÍA: [El Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco, CdMx: Narrativa del proceso y guía metodológica](https://steps-centre.org/wp-content/uploads/2019/09/Gui%CC%81a-T-Lab-Xochi-Descargable-versio%CC%81n-pantalla-Espan%CC%83ol-Hub-NA.pdf) / GUIDE: [The Transformation Laboratory of the social-ecological system of Xochimilco, Mexico City: Description of the process and methodological guide](https://steps-centre.org/wp-content/uploads/2019/09/Guide-T-Lab-Xochi-screen-version-English-NA-Hub.pdf)
--GUIDE: [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
+  - GUÍA: [El Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco, CdMx: Narrativa del proceso y guía metodológica](https://steps-centre.org/wp-content/uploads/2019/09/Gui%CC%81a-T-Lab-Xochi-Descargable-versio%CC%81n-pantalla-Espan%CC%83ol-Hub-NA.pdf) 
+  - GUIDE: [The Transformation Laboratory of the social-ecological system of Xochimilco, Mexico City: Description of the process and methodological guide](https://steps-centre.org/wp-content/uploads/2019/09/Guide-T-Lab-Xochi-screen-version-English-NA-Hub.pdf)
+  - GUIDE: [Pathways Network (2018) T-Labs: A Practical Guide - Using Transformation Labs (T-Labs) for innovation in social-ecological systems](https://steps-centre.org/news/new-publication-t-labs-a-practical-guide/)
 
 *	Videos y blogs del proyecto [Cultivando formas de conocer para fomentar transformaciones](https://www.umbela.org/post/cultivando-saberes)
