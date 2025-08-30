@@ -125,9 +125,9 @@ estudios relacionados con la captación de agua de lluvia."
 ## Interes Académicos
 
 - Modelación de sistemas socio-eclógicos acoplados.
-- Transición hacia la movilidad no carbonizada.
 - Objetos de frontera para potenciar el cambio social.
-- El vínculo entre la forma de las ciudades y la sostenibilidad urbana.
+- La geovisualización como herramienta de análisis y toma de desiciones.
+- Monitoreo de calidad del agua y sus representaciones visuales.
 
 
 ## En la red
