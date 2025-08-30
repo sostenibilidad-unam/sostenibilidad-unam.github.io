@@ -129,16 +129,17 @@ estudios relacionados con la captación de agua de lluvia."
 - Objetos de frontera para potenciar el cambio social.
 - El vínculo entre la forma de las ciudades y la sostenibilidad urbana.
 
-Titulo de investigación: "Configuración geoespacial del uso de suelo y la transición a la sostenibilidad en la Cuenca del Valle de México”
-
 
 ## En la red
 
-[Perfil de GitHub](https://github.com/serranoycandela)
-
 [Perfil de ResearchGate](https://www.researchgate.net/profile/Fidel_Serrano-Candela)
 
-[Perfil de linkedin](https://www.linkedin.com/in/fidel-serrano-candela-b26450183/)
+[Perfil de GitLab](https://gitlab.com/serranoycandela/)
+
+[Perfil de GitHub](https://github.com/serranoycandela)
+
+[Perfil de codeberg](https://codeberg.org/serranoycandela)
+
 
 ## Publicaciones
 
