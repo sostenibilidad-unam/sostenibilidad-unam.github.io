@@ -5,7 +5,7 @@ url: /personal/gabriela_mendoza_gonzalez
 save_as: personal/gabriela_mendoza_gonzalez/index.html
 ---
 
-<img src="/images/gabi/profile.jpg" width="300px">
+<img src="/images/gabrielamdza/gabi.jpg" width="300px">
 
 Acreditada en el Posgrado de Ciencias de la Sostenibilidad (PCS): Nivel Maestría y doctorado. Disponible como tutor principal (dirección de alumnos). SNII Nivel 2.
 
