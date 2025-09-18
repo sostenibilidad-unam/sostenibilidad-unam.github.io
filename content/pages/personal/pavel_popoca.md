@@ -17,4 +17,5 @@ Soy promotor del uso de software libre y de código abierto por sus ventajas en 
 
 ## Otros perfiles en linea
 * [Google Scholar](https://scholar.google.com/citations?user=ifdWO1YAAAAJ&hl=es&oi=ao)
-* [Research Gate](https://www.researchgate.net/profile/Pavel-Popoca-Cruz?ev=hdr_xprf)
+* [ResearchGate](https://www.researchgate.net/profile/Pavel-Popoca-Cruz?ev=hdr_xprf)
+* [LinkedIn](https://mx.linkedin.com/in/ppopoca)
