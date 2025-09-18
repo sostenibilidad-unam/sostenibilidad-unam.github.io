@@ -5,6 +5,8 @@ url: /personal/ppopoca
 save_as: personal/ppopoca/index.html
 ---
 
+<img src="/images/popoca/engrane.jpg" width="300px">
+
 ## Semblanza
 
 Soy Ingeniero Ambiental por la Benemérita Universidad Autónoma de Puebla (BUAP), Especialista y Maestro en Geomática por el Centro de Investigación en Ciencias de Información Geoespacial (CentroGeo).
@@ -12,7 +14,6 @@ Mi actividad gira en torno a la aplicación de la información geoespacial como 
 
 Soy promotor del uso de software libre y de código abierto por sus ventajas en accesibilidad, adaptabilidad y expansión, y he desarrollado scripts en lenguajes SQL, Python, Bash y Javascript.
 
-Dentro de mi trayectoria cuento con la Actualización del Programa de Ordenamiento Ecológico Regional del Estado de Tabasco, y fui miembro durante 3 años del Grupo Monitoreo, Reporte y Verificación (MRV) del grupo de trabajo GCF Task-Force Tabasco, participando en el grupo de trabajo para la elaboración de la Estrategia Estatal de Reducción de las emisiones debidas a la deforestación y la degradación de los bosques (REDD+) Tabasco, y coordiné la Actualización de la Línea Base del sector Forestal, Agrícola y otros usos (AFOLU) para la misma Estrategia REDD+ Tabasco. También participé en el grupo técnico a cargo del Ordenamiento ecológico comunitario del Ejido El Cuyo en Tizimín, Yucatán elaborado para la Dirección de la Reserva de la Biósfera Río Lagartos.
 
 ## Otros perfiles en linea
 [Google Scholar] (https://scholar.google.com/citations?user=ifdWO1YAAAAJ&hl=es&oi=ao)
