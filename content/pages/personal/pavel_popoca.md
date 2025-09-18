@@ -5,7 +5,7 @@ url: /personal/ppopoca
 save_as: personal/ppopoca/index.html
 ---
 
-<img src="/images/popoca/engrane.jpg" width="300px">
+<img src="/images/popoca/ppopoca_2024.jpg" width="300px" style="display: block; margin-left: auto; margin-right: auto;">
 
 ## Semblanza
 
