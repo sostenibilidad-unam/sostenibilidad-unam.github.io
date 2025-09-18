@@ -42,7 +42,7 @@ A través del trabajo multi, inter y transdisciplinario, ha participado como ase
 - [Catálogo de vegetación de la duna costera de la península de Yucatán] (https://doi.org/10.5281/zenodo.15756437)
 - [Restauración de dunas costeras de la Península de Yucatán] (https://doi.org/10.5281/zenodo.8023678)
 - [Adaptación basada en ecosistemas: la importancia de la biodiversidad para la resiliencia del sistema costero ante el cambio climático] (https://www.pincc.unam.mx/wp-content/uploads/2024/02/biodiversidad-y-cambio-climatico-mexico-pincc-unam.pdf)
-- - [The coasts and their costs] (https://link.springer.com/chapter/10.1007/978-3-642-33445-0_18)
+- [The coasts and their costs] (https://link.springer.com/chapter/10.1007/978-3-642-33445-0_18)
 
   
 # Proyectos y actividades de investigación (selectos)
