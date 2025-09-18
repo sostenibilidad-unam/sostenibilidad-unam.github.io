@@ -29,11 +29,20 @@ A través del trabajo multi, inter y transdisciplinario, ha participado como ase
 - Maestría en Ciencias: Instituto de Ecología A. C. Xalapa, Veracruz, 2009. Análisis de cambio de uso de suelo y sus implicaciones en la prestación de servicios ecosistémicos en la costa de Veracruz. Beca CONACYT
 - Licenciatura: Escuela de Biología. Benemérita Universidad Autónoma de Puebla (BUAP). 2004. Puebla, Puebla.
 
+
 # En la red
 
-- Google académico: https://scholar.google.com/citations?user=Fh8q4AsAAAAJ&hl=es
-- Posgrado en Ciencias de la Sostenibilidad: https://sostenibilidad.posgrado.unam.mx/tutores/529/
-- ResearchGate: https://www.researchgate.net/profile/Gabriela-Mendoza-Gonzalez
+- [mi Google académico] (https://scholar.google.com/citations?user=Fh8q4AsAAAAJ&hl=es)
+- [Posgrado en Ciencias de la Sostenibilidad] (https://sostenibilidad.posgrado.unam.mx/tutores/529/)
+- [mi ResearchGate] (https://www.researchgate.net/profile/Gabriela-Mendoza-Gonzalez)
+
+
+
+# Libros y capítulos (selectos)
+- [Catálogo de vegetación de la duna costera de la península de Yucatán] (https://doi.org/10.5281/zenodo.15756437)
+- [Restauración de dunas costeras de la Península de Yucatán] (https://doi.org/10.5281/zenodo.8023678)
+- [Adaptación basada en ecosistemas: la importancia de la biodiversidad para la resiliencia del sistema costero ante el cambio climático] (https://www.pincc.unam.mx/wp-content/uploads/2024/02/biodiversidad-y-cambio-climatico-mexico-pincc-unam.pdf)
+- - [The coasts and their costs] (https://link.springer.com/chapter/10.1007/978-3-642-33445-0_18)
 
   
 # Proyectos y actividades de investigación (selectos)
@@ -48,4 +57,40 @@ A través del trabajo multi, inter y transdisciplinario, ha participado como ase
 *	Consultoría para restauración de duna costera, Puerto Morelos, Quintana Roo. Iniciativa de Resiliencia Costera de The Nature Conservancy. 
 
 
+# Estudiantes y Colaboradores
+
+<img src="/images/gabrielamdza/IE_5321.jpg" width="300px">
+
+## TESISTAS TITULADOS
+
+### Licenciatura
+- Jessica Saraí Esparza Miss. Título de tesis: “Vegetación de dunas costeras embrionarias para mitigar la energía del oleaje y sus impactos en la erosión de playas arenosas”. Manejo Sustentable de Zonas Costeras, UNAM, Yucatán. Defensa de tesis Agosto 2024. 
+- Juan Carlos Aguirre Fierro. Título de la tesis: "Caracterización ambiental y geomorfológica de playas y dunas costeras de Yucatán". Licenciatura en biología, FES-Iztacala, UNAM. Defensa de tesis Agosto 2021. 
+-	Luis Octavio Ávalos Morales. “Análisis de la distribución potencial de las aves costeras del Atlántico Mexicano para determinar zonas prioritarias de conservación”. Licenciatura en Manejo Sustentable de Zonas Costeras, FC-UMDI Sisal, UNAM, Campus Yucatán. Defensa de tesis Septiembre 2020.
+-	Daniela Rojas Cano. Título de la tesis: “Áreas prioritarias de conservación de duna costera en el marco de obtención de energía marina en el Atlántico Mexicano”.  Licenciatura en Biología Marina, UADY. Defensa de tesis Junio 2018.
+-	Frida Rebeca Castillo Infante. Título de la tesis: “Modelado de nicho ecológico y distribución geográfica para determinar el potencial de invasión de Oenothera drummondii”. Licenciatura en Ciencias Ambientales, ENES-Morelia. UNAM. Defensa de tesis Junio 2018. Mención honorífica. 
+
+
+### Maestría
+-	M en CS. Yari Tatiana Meza Osorio. Título de la tesis: “Perspectivas locales sobre el turismo en Sisal, Yucatán y sus implicaciones en la conservación de los ecosistemas de playas y dunas costeras en el contexto de la designación de Pueblo Mágico”. Maestría en Ciencias de la Sostenibilidad, UNAM. Defensa de grado Enero 2023. Mención honorífica y Candidata a la Medalla Alfonso Caso. 
+-	M en C. Juan Carlos Aguirre Fierro. Título de la tesis: "Análisis espacial y diversidad genética de *Scaevola taccada* (Goodeniaceae), arbusto exótico-invasor de las dunas costeras de la península de Yucatán". Maestría en el Posgrado de Ciencias del mar y Limnología. Defensa de grado Mayo 2025.
+
+
+## TESISTAS EN PROCESO
+
+### Licenciatura
+-	Sarah Margarita Gruintal Gutiérrez. Título de tesis “Conectividad estructural y conservación del sistema de dunas costeras en la región norte del Caribe mexicano”. Licenciatura en Biología, Universidad Autónoma de Yucatán. En proceso. Ingreso Semestre 2024-1. Co-dirección.
+
+### Maestría
+-	Biól. Paulina Vázquez Martínez. Título de tesis: “Modelado de trayectorias de crecimiento turístico y sus implicaciones sobre las contribuciones ecosistémicas en la costa de la Península de Yucatán”. Maestría en el Posgrado de Ciencias del mar y Limnología. En proceso. Ingreso Semestre 2025-1.
+-	Biól. Vera Laura Spindler Díaz. Título de la tesis: "Fortalecimiento de capacidades de mujeres para la restauración colaborativa de dunas costeras en Sisal, Yucatán". Maestría en Ciencias de la Sostenibilidad. En proceso. Ingreso Semestre 2023-1.
+-	Biól. Andrea Sofía Orozco Miranda. Título de la tesis: “Sistematización de las experiencias de restauración de dunas costeras de una Alianza comunitaria liderada por mujeres de tres localidades de la costa norte de Yucatán”. Maestría en Ciencias de la Sostenibilidad. En proceso. Ingreso Semestre 2023-1.
+
+### Doctorado
+-	Candidata a Dra. Karen Haydee Hernández Mendoza. Título de tesis “Distribución potencial y síndromes de dispersión de *Scaevola taccada* como arbusto exótico-invasor de las dunas costeras de la Península de Yucatán”. Doctorado en el Posgrado de Ciencias del mar y Limnología. En proceso. Ingreso Semestre 2024-1. Co-dirección. Candidatura aprobada en Julio 2025.
+
+
+# Comunidad Instituto de Ecología, Unidad Mérida
+
+<img src="/images/gabrielamdza/IE_5146.jpg" width="300px">
 
