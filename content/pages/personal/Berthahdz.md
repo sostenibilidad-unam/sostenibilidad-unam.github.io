@@ -14,3 +14,5 @@ save_as: personal/bertha_hdzaguilar/index.html
 ## Campo de investigación
 
 Gobernanza y Sostenibilidad 
+
+<img src="/images/berthahdz/bertha.jpg" width="300px">
