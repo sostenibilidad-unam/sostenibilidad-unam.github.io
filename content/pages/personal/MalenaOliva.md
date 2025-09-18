@@ -5,7 +5,7 @@ url: /personal/malenaoliva
 save_as: personal/malenaoliva/index.html
 ---
 
-<img src="/images/malenaoliva/malena.JPG" width="350px">
+<img src="/images/malenaoliva/malena.jpg" width="350px">
 
 - Investigadora Asociada C de TC
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
@@ -19,4 +19,3 @@ save_as: personal/malenaoliva/index.html
 - Manejo de conflictos socioecológicos
 - Impacto local de la política internacional de conservación
 - Territorios de vida
-
