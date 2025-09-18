@@ -5,6 +5,8 @@ url: /personal/malenaoliva
 save_as: personal/malenaoliva/index.html
 ---
 
+<img src="/images/malenaoliva/malena.JPG" width="350px">
+
 - Investigadora Asociada C de TC
 - Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
