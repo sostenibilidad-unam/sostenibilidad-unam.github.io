@@ -14,7 +14,7 @@ save_as: personal/malenaoliva/index.html
 ## Gestión ambiental y gobernanza de recursos naturales
 
 # Líneas de investigación
-- Manejo de conflcitos socioecológicos
+- Manejo de conflictos socioecológicos
 - Impacto local de la política internacional de conservación
 - Territorios de vida
 
