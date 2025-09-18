@@ -10,6 +10,11 @@ save_as: personal/malenaoliva/index.html
 - Instituto de Ecología, Universidad Nacional Autónoma de México (UNAM)
 - Email: malenaoliva@iecologia.unam.mx
 
-# Sección estelar
-bla bla
-## Subsección semisestelar
+# Campo de investigación
+## Gestión ambiental y gobernanza de recursos naturales
+
+# Líneas de investigación
+- Manejo de conflcitos socioecológicos
+- Impacto local de la política internacional de conservación
+- Territorios de vida
+
