@@ -19,7 +19,8 @@ save_as: personal/lakshmi/index.html
   
 * [Docente y tutora en el Posgrado en Ciencias de la Sostenibilidad-UNAM](https://sostenibilidad.posgrado.unam.mx/tutores/522/)
 * [Integrante del Consejo Asesor del SUSMAI-UNAM](https://susmai.unam.mx/seminario/)
-* [Integrante de la ITD-Alliance](https://itd-alliance.org/)
+  
+* [Integrante del Cosejo Directivo (Leadership Board) de la ITD-Alliance](https://itd-alliance.org/)
 * [Colaboradora del Responsive Research Collective](https://responsiveresearch.org/)
 * [Asesora científica de Umbela Transformaciones Sostenibles](https://www.umbela.org/)
   
@@ -28,7 +29,7 @@ save_as: personal/lakshmi/index.html
 - Agencia colectiva
 - Investigación transdisciplinaria
 - Métodos colaborativos 
-- Narrativas e imaginarios de sosteninibilidades
+- Narrativas e imaginarios de sostenibilidades
   
 ### Proyectos destacados
 - Water Transformation Pathways Planning [Trans-Path-Plan](https://trans-path-plan.com/) ([Water and Development Partnership Programme - IHE Delt](https://www.un-ihe.org/news/water-and-development-partnership-programme-six-projects-selected-funding) (2022-2026)
@@ -44,10 +45,10 @@ save_as: personal/lakshmi/index.html
 
 
 ### Semblanza
-Bióloga por la UNAM, con una maestría en Derecho, Gestión y Política Ambientales (UAX), una en Planeación y Gestión Ambiental (IHE-Delft), y un doctorado en Ciencias de la Sostenibilidad (UNAM) con mención honorífica por la investigación: "Promoviendo vías de transformación hacia la sostenibilidad a través de la agencia colectiva: el Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco". Desde 2015, forma parte del Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS) del Instituto de Ecología de la UNAM, enfocando su trabajo en el diseño de estrategias metodológicas y en la facilitación de procesos de colaboración transdisciplinaria dentro de diversos proyectos sobre sostenibilidad. Su principal línea de investigación es examinar condiciones que habilitan el cambio transformativo, desde diversas articulaciones metodológicas de coproducción encaminadas en catalizar un mayor sentido de agencia colectiva para enactuar trayectorias de sostenibilidad más plurales y situadas. Cuenta con más de 15 años de experiencia en el diseño y facilitación de procesos de aprendizaje en sostenibilidad centrados en experimentar diversas formas de colaboración transdisciplinaria que incluyen: el diseño de currícula y programas de enseñanza formal y no formal; la coordinación e impartición de cursos de posgrado en diferentes universidades; y la facilitación de programas internacionales de capacitación a grupos multiculturales.
+Bióloga por la UNAM, con una maestría en Derecho, Gestión y Política Ambientales (UAX), una en Planeación y Gestión Ambiental (IHE-Delft), y un doctorado en Ciencias de la Sostenibilidad (UNAM) con mención honorífica por la investigación: "Promoviendo vías de transformación hacia la sostenibilidad a través de la agencia colectiva: el Laboratorio de Transformación en el sistema socio-ecológico de Xochimilco". Desde 2015, forma parte del Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS) del Instituto de Ecología de la UNAM, enfocando su trabajo en el diseño de estrategias metodológicas y en la facilitación de procesos de colaboración transdisciplinaria dentro de diversos proyectos sobre sostenibilidad. Su principal línea de investigación es examinar condiciones que habilitan el cambio transformativo, desde diversas articulaciones metodológicas de coproducción encaminadas en catalizar un mayor sentido de agencia colectiva para enactuar trayectorias de sostenibilidad más plurales y situadas. Cuenta con más de 16 años de experiencia en el diseño y facilitación de procesos de aprendizaje en sostenibilidad centrados en experimentar diversas formas de colaboración transdisciplinaria que incluyen: el diseño de currícula y programas de enseñanza formal y no formal; la coordinación e impartición de cursos de posgrado en diferentes universidades; y la facilitación de programas internacionales de capacitación a grupos multiculturales.
 
 ### Bio
-Lakshmi has a BSc in biology, two MSc in environmental planning and management, and a PhD in sustainability sciences. Since 2015, she works at the National Laboratory for Sustainability Sciences (Institute of Ecology -UNAM, Mexico) in designing methodological strategies and facilitating collaborative processes within sustainability transdisciplinary projects. Her main research interest centres in examining how different methodological articulations might enable an enhanced sense of agency for enacting transformative change. For the past 15 years, she has been involved in diverse educational endeavours such as designing sustainability-related learning programmes, facilitating capacity development training courses with multi-cultural international groups, and teaching postgraduate courses about transformative change and collaborative methods inspired by participatory action-research and transdisciplinary approaches.
+Lakshmi has a BSc in biology, two MSc in environmental planning and management, and a PhD in sustainability sciences. Since 2015, she works at the National Laboratory for Sustainability Sciences (Institute of Ecology -UNAM, Mexico) in designing methodological strategies and facilitating collaborative processes within sustainability transdisciplinary projects. Her main research interest centres in examining how different methodological articulations might enable an enhanced sense of agency for enacting transformative change. For the past 16 years, she has been involved in diverse educational endeavours such as designing sustainability-related learning programmes, facilitating capacity development training courses with multi-cultural international groups, and teaching postgraduate courses about transformative change and collaborative methods inspired by participatory action-research and transdisciplinary approaches.
 
 <img src="/images/LCJenXochi.png" width="100%">
 
