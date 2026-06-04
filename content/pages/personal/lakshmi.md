@@ -10,14 +10,11 @@ save_as: personal/lakshmi/index.html
 - lakshmi.charli@iecologia.unam.mx
 - Técn. Académica Titular B|SNI 1|PRIDE D
 
-- ### ---------------------------
+### ---------------------------
 
-* [GoogleSch](https://scholar.google.com/citations?user=gM-oVPwAAAAJ)
-* [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph)
-* [ORCiD](https://orcid.org/0000-0003-1524-3323)
-* [LinkedIn](https://www.linkedin.com/in/lakshmi-charli-joseph-60209712/)
+* [GoogleSch](https://scholar.google.com/citations?user=gM-oVPwAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph) |[ORCiD](https://orcid.org/0000-0003-1524-3323) | [LinkedIn](https://www.linkedin.com/in/lakshmi-charli-joseph-60209712/)
   
-* [Docente y tutora en el Posgrado en Ciencias de la Sostenibilidad-UNAM](https://sostenibilidad.posgrado.unam.mx/tutores/522/)
+* [Docente, tutora (y representante de personas tutoras del IE) en el Posgrado en Ciencias de la Sostenibilidad-UNAM](https://sostenibilidad.posgrado.unam.mx/tutores/522/)
 * [Integrante del Consejo Asesor del SUSMAI-UNAM](https://susmai.unam.mx/seminario/)
   
 * [Integrante del Cosejo Directivo (Leadership Board) de la ITD-Alliance](https://itd-alliance.org/)
