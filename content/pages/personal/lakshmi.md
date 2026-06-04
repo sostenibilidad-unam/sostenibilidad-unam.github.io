@@ -8,7 +8,7 @@ save_as: personal/lakshmi/index.html
 - **Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS)**
 - [**Instituto de Ecología (IE), Universidad Nacional Autónoma de México (UNAM)**](https://www.ecologia.unam.mx/web2/index.php/es/)
 - lakshmi.charli@iecologia.unam.mx
-- Técn. Académica Titular B|SNI 1|PRIDE D
+- Técn. Académica Titular B | SNI 1 | PRIDE D
 * [GoogleSch](https://scholar.google.com/citations?user=gM-oVPwAAAAJ) | [ResearchGate](https://www.researchgate.net/profile/Lakshmi_Charli-Joseph) | [ORCiD](https://orcid.org/0000-0003-1524-3323) | [LinkedIn](https://www.linkedin.com/in/lakshmi-charli-joseph-60209712/)
 
 ### ---------------------------
@@ -16,7 +16,7 @@ save_as: personal/lakshmi/index.html
 * [Docente, tutora (y representante de personas tutoras del IE) en el Posgrado en Ciencias de la Sostenibilidad-UNAM](https://sostenibilidad.posgrado.unam.mx/tutores/522/)
 * [Integrante del Consejo Asesor del SUSMAI-UNAM](https://susmai.unam.mx/seminario/)
   
-* [Integrante del Cosejo Directivo (Leadership Board) de la ITD-Alliance](https://itd-alliance.org/)
+* [Integrante del Consejo Directivo (Leadership Board) de la ITD-Alliance](https://itd-alliance.org/)
 * [Colaboradora del Responsive Research Collective](https://responsiveresearch.org/)
 * [Asesora científica de Umbela Transformaciones Sostenibles](https://www.umbela.org/)
   
